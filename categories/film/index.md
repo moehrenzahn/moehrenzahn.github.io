@@ -1,4 +1,5 @@
 ---
 layout: category_index
-category: sample
+title: Film
+category: film
 ---
