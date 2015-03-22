@@ -1,0 +1,163 @@
+//Fonts
+
+$sans: Source Sans Pro, Helvetica, sans-serif !default;
+
+$mono: Ubuntu mono, "Lucida Console", Monaco, monospace !default;
+$heading-font-family: $sans !default;
+$header-title-font-family: Vollkorn, Charter, Georgia, serif !default;
+$header-subtitle-font-family: $sans !default;
+
+//Font sizes
+
+$bodytext: 20px;
+$metatext: 90%;
+$footnotetext: 97%;
+
+//Font colors
+
+$text-color-light: #6B6B6B;
+$text-color: #383838;
+
+body {
+	-webkit-font-smoothing: subpixel-antialiased;
+	font-smoothing: subpixel-antialiased;
+	font-size: $bodytext;
+	font-family: $sans;
+	color: $text-color !important;
+	line-height: 1.6;
+	word-wrap:break-word;
+	text-rendering: geometricPrecision;
+	@media only screen and (max-width: 480px){
+		font-size: $bodytext * 0.7;
+		line-height: 1.5;
+	}
+	@media only screen and (max-width: 1280px){
+		font-size: $bodytext * 0.9;}
+}
+
+/* Heading of Pages */
+
+#top-header {}
+
+/* Heading of articles */
+
+h1.entry-title {
+		font-family: $heading-font-family;
+		font-size: 110%;
+		font-weight: 600;
+		padding-top: 0;
+		font-weight: 600;
+	}
+h1.entry-title:first-letter {
+	text-transform: capitalize;
+}
+
+/* Article content */
+
+strong, dfn { font-weight: 600; }
+del, s { text-decoration: line-through; }
+em { font-style: italic; }
+hr { margin: 3em 15%; border: none; background-color:#D9D9D9; height: 2px; }
+sup, sub { font-size: 0.75em; position: relative;  display: inline-block; padding: 0 .2em; line-height: .8em;}
+sup {
+	top: -.5em;
+	a {border: none; transition: color $transition-time;}
+	a:hover {color: $color; border: none;}
+}
+sub { bottom: -.5em; }
+a[rev='footnote']{
+	font-size: .75em;
+	padding: 0 .3em;
+	border: none;
+	transition: color $transition-time;
+}
+a[rev='footnote']:hover {border: none; color: $color;}
+
+h1, h2, h3, h4 {font-family: $heading-font-family;
+	font-weight: 600; line-height: 1.5;}
+
+article h1, article h2, article h3, article h4
+	{
+		font-size: 105%;
+	}
+
+article p, article blockquote, article ul, article ol
+	{
+		//text-align: justify;
+		-webkit-hyphens: auto;
+		-moz-hyphens: auto;
+		-ms-hyphens: auto;
+		hyphens: auto;
+	}
+
+article blockquote
+	{
+		padding: 0 1em;
+		border-left: 3px solid $color;
+		font-style: italic;
+			cite {
+			font-style: italic;
+				a { color: $text-color-light !important; word-wrap: break-word; }
+			&:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
+				}
+	}
+
+/* Footnotes */
+
+div.footnotes {
+	ol, li, p {font-size: $footnotetext; margin-bottom: .5em;}
+}
+
+/* Date above post (single- and multiview) */
+
+footer {
+	font-size: $metatext;
+	font-family: $sans;
+	line-height: 1.5;
+}
+
+.blog-index time, .entry-time, .comment_header {
+	color: $text-color-light;
+}
+
+time {padding-top: 3px;}
+
+footer.read-on a {
+	color: white;	
+}
+
+.meta {color: $text-color-light;}
+
+
+
+div.pagination
+{
+    font-size: $metatext;
+    line-height: 1.2;
+}	
+
+/* Language Selector */
+.language-selector {
+	white-space: nowrap;
+	font-size: $metatext;
+}
+
+.comment_name {font-weight: normal; color: $text-color;}
+.comment_date {font-weight: normal; color: $text-color-light;}
+.comment_p {font-size: $footnotetext;}
+
+figcaption {
+	//background-color: #EBEBEB;
+	font-size: 95%;
+	line-height: 1.5; 
+	font-style: italic;
+	color: $text-color-light;
+	text-align: right;
+	margin-bottom: 1em;
+	padding: 3px; 
+}
+
+.dot {color: #aaa !important; margin: 0 7px !important;}
+
+
+.sharing .dot {margin-left: 7px !important; margin-right: 4px !important;}

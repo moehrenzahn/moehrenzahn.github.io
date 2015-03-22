@@ -1,0 +1,15 @@
+{% case page.lang %}
+  {% when "en" %}
+    <p>
+	  &copy; 2012–{{ site.time | date: "%Y" }} <a href="/en/about">Max Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Legal</a></span><span class="dot">•</span>Subscribe:
+  {% when else %}
+    <p>
+	  &copy; 2012–{{ site.time | date: "%Y" }} <a href="/ueber">Max Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span><span class="dot">•</span>Folgen:
+{% endcase %}
+	<span class="subscription" data-subscription="rss{% if site.subscribe_email %} email{% endif %}">
+	<span class="rss"><a href="{% case page.lang %}{% when "en" %}/en/feed.xml{% when else %}/feed.xml{% endcase %}" rel="subscribe-rss">RSS</a></span> 
+	{% if site.subscribe_email %}
+ 		<span class="email"> <a href="{{ site.subscribe_email }}" rel="subscribe-email" title="Email abbonieren">Email</a></span> 
+	{% endif %}
+	<span class="twitter"> <a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span>{% case page.lang %}{% when "en" %}<span class="dot">•</span>Wechseln zu <a href="{{ root_url }}/">Deutsch</a>{% when else %}<span class="dot">•</span>Switch to <a href="{{ root_url }}/en">English</a>{% endcase %}
+</p>

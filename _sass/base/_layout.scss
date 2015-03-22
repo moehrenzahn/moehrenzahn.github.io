@@ -1,0 +1,231 @@
+/* Variables */
+
+$max-width: 560px;
+$color: #FF670F; 
+$background-color: white;
+$footer-color: #404040;
+$button-color: #F0F0F0;
+$transition-time: .4s;
+
+body {
+	background-color: $background-color;
+	padding: 0;
+	margin: 0;
+}
+
+/* Padding and line between "article"-elements */
+
+article {
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+/* Post styling */
+
+/* Heading of articles */
+
+
+
+article {
+	h1.entry-title {
+		padding-bottom: 1em;
+		text-align: center;
+		font-size: 120%;
+	}
+	h1, h2, h3, h4
+		{}
+
+	p, blockquote, ul, ol
+		{margin-bottom: 1em;}
+
+	figure, img, iframe, video, object {margin-left: auto; margin-right: auto; display: block; width: 100% !important;}
+	}
+
+/* Heading of pages */
+
+.entry-title.page {
+	text-align: center;
+}
+
+/* Footnotes */
+
+div.footnotes {
+	padding-bottom: .5em;
+	padding-left: 10%;
+}
+
+/* Pagination on homepage */
+
+div.pagination
+{
+    text-align: center;
+    padding: 1.5em 0;
+	a.prev {
+    		float: left;
+	}
+	a.next {
+		float: right;
+	}
+}	
+
+/* List styling */
+
+article {
+ul, ol {margin-bottom: 1em; li {margin-bottom: 0;}
+	@media only screen and (max-width: 650px) {margin-left: 1.3em;}
+}
+
+ul { list-style-type: disc;
+  ul { list-style-type: circle; margin-bottom: 0;
+    ul { list-style-type: square; margin-bottom: 0; }}}
+
+ol { list-style-type: decimal;
+  ol { list-style-type: lower-alpha; margin-bottom: 0;
+    ol { list-style-type: lower-roman; margin-bottom: 0; }}}
+
+
+ul, ol { ul, ol { margin-bottom: 0em; }}
+}
+
+
+/* Site Padding */
+
+#content {
+	position:relative;
+	margin: 0 auto;
+	padding: 1.5em 18px;
+	background-color: $background-color;
+	max-width: $max-width;
+	@media only screen and (min-width: 1300px) {
+		max-width: $max-width * 1.1;}
+}
+
+/* Profile picture */
+
+.profile-outer {
+    width: 200px;
+    margin: 0 auto;
+    height: 200px;
+    overflow: hidden;
+    padding-bottom: 40px;
+}
+.profile-image {
+    background: url("/images/me.jpeg") no-repeat center top;  
+   	background-size: 100%;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transition: background $transition-time;
+    }
+
+
+/* Language Selector */
+
+.language-selector {
+	display: inline-block;
+	float: right;
+	margin-top: -100px;
+	margin-bottom: 5px;
+	margin-left: 100%;
+}
+
+/* Projects */
+
+.projects {
+	display: inline;
+	margin: auto 0;
+	width: 100%;
+	 a {
+	 	border: none;
+	 }
+	 a:hover {
+	 	border: none;
+	 }
+	 a:hover img {
+	 	opacity: .9;
+	 }
+	 img {
+	 	display: inline;
+	 	width: 32%; height: auto;
+	 	margin: 0px;
+	 	transition: opacity .5s;
+	 	opacity: 1;
+	 }
+}
+
+/*Index View*/
+
+h1.entry-title, .entry-ellipse {transition: border $transition-time;}
+
+h1.entry-title.index {
+	padding-bottom: 0;
+	display: inline;
+	border-bottom: 3px solid transparent;
+	font-size: 100%;
+}
+
+.index-post {
+	display: inline-block;
+	margin-left: 35px;
+	padding-bottom: 1.2em;
+}
+
+// :before headings
+
+.entry-title:before, .entry-title.index:before {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background: url("/images/moehre.png") no-repeat center top;
+	background-size: 100%;
+	position: absolute;
+	margin-left: -35px;
+	margin-top: 4px;
+	content: "";
+	transition: background $transition-time;
+}
+
+.entry-title.index:before {
+	background-image: url("/images/moehre_black.png")
+}
+
+.entry-title.linklog:before {
+	content: "→";
+	display: inline-block;
+	background: none;
+	color: #E0E0E0;
+	position: absolute;
+	margin-left: -35px;
+	margin-top: 0;
+	transition: color $transition-time;
+}
+
+.entry-title.page:before {
+	content: "";
+	display: none;
+	background: none;
+}
+
+a.index-link {
+	display: block;
+	border: none;
+}
+a.index-link:hover {
+	border: none;
+	.entry-title {border-color: $color;}
+	.entry-title.index:before {
+		background: url("/images/moehre.png") no-repeat center top;
+		background-size: 100%;
+	}
+	.entry-title.linklog:before {
+		color: $color;
+		background: none;
+	} 
+}
+
+span.entry-content-excerpt {
+	display: block;
+	padding-top: .5em;
+	//font-size: $footnotetext;
+}

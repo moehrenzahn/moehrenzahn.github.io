@@ -1,0 +1,15 @@
+<div class="banner">
+   <a class="bannertext" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en{% endcase %}
+    ">moehrenzahn.de</a>
+
+  {% if site.subtitle %}
+    <h2 class="bannertext">
+    	{% case page.lang %}
+          {% when "en" %}
+            {{ site.subtitle_en }}
+          {% when else %}
+            {{ site.subtitle }}
+        {% endcase %}
+	</h2>
+  {% endif %}
+</div>

@@ -1,0 +1,39 @@
+$facebook-color: #3b5a94;
+$twitter-color: #00aeea;
+$gplus-color: #e0483e;
+
+/* Link styling and animation */
+
+/* Hover effect without underline */
+
+h1, nav
+{
+	a, a:visited, a:hover {border-bottom: 3px solid transparent;}
+	a:hover {border-color: $color}
+	a {
+	    transition: border-color .3s}
+} 
+
+p.sharing {
+	a:hover {color: $text-color;}
+	a.fb-like:hover {border-color: $facebook-color !important;}
+	a.gp-like:hover {border-color: $gplus-color !important;}
+	a.twitter-like:hover {border-color: $twitter-color !important;}
+	a.mail-share:hover {border-color: gray !important;}
+}
+
+a, a:visited, .sharing a
+	{
+		text-decoration: none;
+		color: $text-color;
+		border-bottom: 2px solid #D9D9D9;
+		transition: border-color .3s;
+		&:hover {
+			text-decoration: none;
+			border-color: $color;
+		}
+		&:focus {
+			text-decoration: none;
+			outline: none;
+		}
+	}

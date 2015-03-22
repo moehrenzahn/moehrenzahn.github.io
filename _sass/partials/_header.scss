@@ -1,0 +1,35 @@
+#banner {
+	background-color: $background-color;
+	border-top: solid 6px $color;
+	margin-bottom: 0px;
+	@media only screen and (max-width: 480px) {margin-bottom: 0px;}
+}
+
+a.bannertext {
+	font-family: Vollkorn, Georgia, serif;
+	font-size: 360%;
+	display: block;
+	color: $text-color;
+	line-height: 1.8;
+	padding-top: 10px;
+	text-align: center;
+	border: none;
+	@media only screen and (max-width: 768px) {font-size: 275%;}
+	@media only screen and (max-width: 480px) {font-size: 220%;}
+	@media only screen and (max-width: 320px) {font-size: 150%;}
+	transition: color .3s;
+}
+a.bannertext:hover {color: $color;}
+
+a.bannertext, a.bannertext:visited, a.bannertext:hover {border: none;}
+
+h2.bannertext {
+	font-family: $header-subtitle-font-family;
+	font-size: $metatext * 1.05;
+	font-weight: normal;
+	text-align: center;
+	line-height: 1.4;
+	color: $text-color-light;
+	padding: 10px 10px;
+
+	}

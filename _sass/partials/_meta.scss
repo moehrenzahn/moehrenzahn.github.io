@@ -1,0 +1,41 @@
+
+/* Meta under posts (in single article view) */
+
+article.hentry
+{
+footer // contains pagination links, metadata and sharing
+	{
+	font-size: $metatext;
+	color: $text-color-light;
+	margin-top: 30px;
+	padding-top: 30px;
+	time {color: $text-color;}
+	#comments {font-size: $bodytext;
+		@media only screen and (max-width: 480px) {font-size: $bodytext * .8;}
+		}
+	
+p.meta 
+	{
+	display: inline-block;
+	width: 100%;
+	}
+
+div.meta {display: inline-block; width: 100%;}
+
+#nextpost {
+	position: relative;
+	top: 0;
+	right: 0;
+	float: right;
+	text-align: right;
+	max-width: 260px;
+	}
+
+#previouspost {
+	display: inline-block;
+	text-align: left;
+	max-width: 260px;
+	margin-bottom: 10px;
+	}
+}
+}
