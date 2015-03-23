@@ -174,7 +174,7 @@ h1.entry-title.index {
 // :before headings
 
 .entry-title {
-	padding-left: 35px;
+	padding-left: 10px;
 }
 
 .entry-title:before, .entry-title.index:before {
@@ -199,7 +199,7 @@ h1.entry-title.index {
 	background: none;
 	color: #E0E0E0;
 	position: absolute;
-	margin-left: -10px;
+	margin-left: -35px;
 	margin-top: 0;
 	transition: color $transition-time;
 }
