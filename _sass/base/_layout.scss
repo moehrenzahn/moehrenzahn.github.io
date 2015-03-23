@@ -197,6 +197,7 @@ h1.entry-title.index {
 }
 .entry-title.linklog:before {
 	content: "→";
+	font-weight: bolder;
 	display: inline-block;
 	background: none;
 	color: #E0E0E0;
