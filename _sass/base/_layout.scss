@@ -173,6 +173,10 @@ h1.entry-title.index {
 
 // :before headings
 
+.entry-title {
+	padding-left: 35px;
+}
+
 .entry-title:before, .entry-title.index:before {
 	display: inline-block;
 	width: 25px;
@@ -189,7 +193,6 @@ h1.entry-title.index {
 .entry-title.index:before {
 	background-image: url("/images/moehre_black.png")
 }
-
 .entry-title.linklog:before {
 	content: "→";
 	display: inline-block;
