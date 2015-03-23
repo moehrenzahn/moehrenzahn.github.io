@@ -5,7 +5,7 @@ categories: [Theologie, Politik]
 slug: 
 lang: 
 comments: true
-published: false 
+published: false
 ---
 
 Wie wahrscheinlich für viele Leser sind die „Pegida“-Demonstrationen der letzten Wochen für mich ein wichtiges Thema gewesen. Das liegt vor allem auch daran, dass sich in meinem Familien- und Bekanntenkreis viele Menschen finden, die mit „dem grundsätzlichen Anliegen“ von Pegida sympathisieren. Diesen Eindruck unterstützen auch [Umfragewerte von Forsa](http://www.stern.de/politik/deutschland/fuer-pegida-auf-die-strasse-13-prozent-der-deutschen-wuerden-mitmarschieren-2163092.html), nach denen 29 % der Deutschen die Pegida-Demos für „gerechtfertigt“ halten.

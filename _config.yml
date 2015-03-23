@@ -1,8 +1,8 @@
 # Site settings
 title: moehrenzahn.de
 email: moehrenzahn@icloud.com
-description: Blog von Max Melzer
-subtitle: Blog von <a href="/ueber">Max Melzer</a><span class="dot">•</span>über <a href="/categories/theologie/">Theologie</a> und <a href="/categories/technologie/">Technologie</a> 
+description: Weblog von Max Melzer
+subtitle: Weblog von <a href="/ueber">Max Melzer</a><span class="dot">•</span>über <a href="/categories/theologie/">Theologie</a> und <a href="/categories/technologie/">Technologie</a> 
 subtitle_en: Blog of <a href="/en/about/">Max Melzer</a><span class="dot">•</span>on tech and theology
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://moehrenzahn.de" # the base hostname & protocol for your site

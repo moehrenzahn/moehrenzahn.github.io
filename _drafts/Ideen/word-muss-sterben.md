@@ -2,7 +2,6 @@
 layout: post
 title: Word muss sterben
 categories: [Technologie]
-comments:true
 published: false
 ---
 
