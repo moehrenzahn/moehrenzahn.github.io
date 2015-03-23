@@ -204,6 +204,10 @@ h1.entry-title.index {
 	transition: color $transition-time;
 }
 
+.entry-title.page, .entry-title.index {
+	padding-left: 0;
+}
+
 .entry-title.page:before {
 	content: "";
 	display: none;
