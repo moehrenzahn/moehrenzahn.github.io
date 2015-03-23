@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tipps für digitale Lernstrategien | MedienKult'
+title: 'Tipps für digitale Lernstrategien'
 link: http://medienkult.org/tipps-fuer-digitale-lernstrategien/
 categories: [Technologie]
 comments: true
