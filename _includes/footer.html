@@ -11,5 +11,41 @@
 	{% if site.subscribe_email %}
  		<span class="email"> <a href="{{ site.subscribe_email }}" rel="subscribe-email" title="Email abbonieren">Email</a></span> 
 	{% endif %}
-	<span class="twitter"> <a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span>{% case page.lang %}{% when "en" %}<span class="dot">•</span>Wechseln zu <a href="{{ root_url }}/">Deutsch</a>{% when else %}<span class="dot">•</span>Switch to <a href="{{ root_url }}/en">English</a>{% endcase %}
+	<span class="twitter"> <a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span>
+	{% case page.lang %}{% when "en" %}<span class="dot">•</span><a id="nightmodetoggle">Dark mode</a>{% when else %}<span class="dot">•</span><a href="javascript:;" id="nightmodetoggle">Nachtmodus</a>{% endcase %}
+	{% case page.lang %}{% when "en" %}<span class="dot">•</span>Wechseln zu <a href="{{ root_url }}/">Deutsch</a>{% when else %}<span class="dot">•</span>Switch to <a href="{{ root_url }}/en">English</a>{% endcase %}
+
 </p>
+
+<script>
+$(document).ready(function() {
+	if (getCookie("nightmode") == "on") {
+		$('body').toggleClass('dark-mode');
+	};
+});
+
+$('#nightmodetoggle').click(function(){
+	if (getCookie("nightmode") == "on") {
+		$('body').toggleClass('dark-mode');
+		document.cookie = "nightmode=on; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+	}
+	else {
+		document.cookie = "nightmode=on; path=/";
+	    $('body').toggleClass('dark-mode');
+	};
+});
+
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+
+
+</script>

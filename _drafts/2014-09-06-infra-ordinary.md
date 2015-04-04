@@ -2,7 +2,7 @@
 layout: post
 title: infra-ordinary
 categories: [Technologie, Bla]
-published: false
+draft: true
 ---
 
 infra-ordinary

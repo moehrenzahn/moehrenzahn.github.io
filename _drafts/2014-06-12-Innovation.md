@@ -4,7 +4,7 @@ title: 'Innovation'
 categories: [Technologie]
 slug: 
 comments: true
-published: false
+draft: true
 ---
 
 Ein häufiger Vorweurf gegenüber Apple ist der, dass sie nicht mehr innovativ sind. Manche sagen das sei so seit Steve Jobs nicht mehr dabei ist, andere seit der Vorstellung des iPhones oder des iPod. 

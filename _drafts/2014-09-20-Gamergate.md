@@ -2,7 +2,7 @@
 layout: post
 title: Gamergate
 categories: [Technologie, Bla]
-published: false
+draft: true
 ---
 
 Gamergate

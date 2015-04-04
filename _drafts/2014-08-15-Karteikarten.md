@@ -4,7 +4,7 @@ title: 'Karteikarten'
 categories: [Technologie, Theologie]
 slug: 
 comments: true
-published: false
+draft: true
 ---
 - Bohre deine Karteikarten auf mit Hilfe von Apps und Online-Diensten
     - Flexibel (kann man immer dabei haben, wird (fast) nie unhandlich)

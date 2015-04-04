@@ -3,7 +3,7 @@ layout: post
 title: 'Dr. Schlumpfbeere oder wie ich lernte die In-App-Käufe zu lieben'
 categories: [Technologie]
 comments: true
-published: false
+draft: true
 ---
 
 <!--more-->

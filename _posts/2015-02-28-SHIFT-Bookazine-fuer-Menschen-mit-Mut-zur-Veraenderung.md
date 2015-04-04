@@ -10,4 +10,4 @@ Hi. Könnt ihr bitte mal alle auf [den Link klicken](https://www.startnext.com/s
 
 Mal ernsthaft: SHIFT ist wirklich ein bemerkenswertes Projekt. Nicht nur ist es ein wirklich schickes <s>Heft</s> Büchlein, es ist auch noch voll von unabhängig finanziertem, kritischem Journalismus. Und so etwas unterstütze ich gerne.
 
-Daniel hat schon bewiesen, dass er es kann (die erste Ausgabe von SHIFT ist schon erschienen). Also geht auf [startnext.com/shift-next](https://www.startnext.com/shift-next) und helft im dabei, das ganze noch einmal zu schaffen!
+Daniel hat schon bewiesen, dass er es kann (die erste Ausgabe von SHIFT ist schon erschienen). Also geht auf [startnext.com/shift-next](https://www.startnext.com/shift-next) und helft ihm dabei, das ganze noch einmal zu schaffen!

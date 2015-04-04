@@ -19,7 +19,6 @@ body {
 	position:relative;
 	margin: 0 auto;
 	padding: 1.5em 5px;
-	background-color: $background-color;
 	max-width: $max-width;
 	@media only screen and (min-width: 1300px) {
 		max-width: $max-width * 1.1;}
@@ -63,7 +62,8 @@ article {
 
 div.footnotes {
 	padding-bottom: .5em;
-	padding-left: 10%;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 /* Pagination on homepage */
@@ -273,4 +273,17 @@ span.entry-content-excerpt {
 	display: block;
 	padding-top: .5em;
 	//font-size: $footnotetext;
+}
+
+// dark mode
+
+body.dark-mode {
+	background: #222;
+}
+
+.dark-mode h1, .dark-mode h2, .dark-mode p, .dark-mode a {
+	color: #bbb !important;
+}
+.dark-mode time, .dark-mode div, .dark-mode span, .dark-mode figcaption, .dark-mode .meta, .dark-mode footer p, .dark-mode code {
+	color: #777 !important;
 }

@@ -4,7 +4,7 @@ title: 'Potentialanalyse EKHN'
 categories: [Theologie]
 slug: 
 comments: true
-published: false
+draft: true
 ---
 
 http://www.ekhn-studierende.de/potentialanalyse.html

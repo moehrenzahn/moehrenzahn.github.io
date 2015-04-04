@@ -10,12 +10,12 @@
   text-align: right;
   font-family: $mono;
   line-height: 1em;
-  @if $solarized == light {
-    background: lighten($base03, 1) !important;
-  } @else {
-    background: $base02 !important;
-    text-shadow: darken($base02, 10) 0 -1px;
-  }
+  // @if $solarized == light {
+  //   background: lighten($base03, 1) !important;
+  // } @else {
+  //   background: $base02 !important;
+  //   text-shadow: darken($base02, 10) 0 -1px;
+  // }
   span { color: $base01 !important; }
   padding: .8em !important;
   padding-left: 0 !important; 
@@ -35,7 +35,7 @@ html .gist .gist-file {
     border-bottom: 0 !important;
     background: none !important;
     .gist-highlight {
-      background: $base03 !important;
+      // background: $base03 !important;
     }
     .highlight pre {
       @extend .pre-code;
@@ -46,13 +46,13 @@ html .gist .gist-file {
    padding: .6em 0.8em;
    color: $base01;
    font-size: .8em !important;
-   @if $solarized == light {
-     background: lighten($base03, 2);
-     border: 1px solid $pre-border !important;
-     border-top: 1px solid lighten($base03, 2) !important;
-   } @else {
-     background: $base02;
-   }
+   // @if $solarized == light {
+   //   background: lighten($base03, 2);
+   //   border: 1px solid $pre-border !important;
+   //   border-top: 1px solid lighten($base03, 2) !important;
+   // } @else {
+   //   background: $base02;
+   // }
    line-height: 1em;
     a {
       color: mix($base1, $base01) !important;
@@ -80,7 +80,7 @@ html .gist .gist-file {
   @media only screen and (max-width: 480px) {font-size: 70%;}}
 
 pre {
-  background: $pre-bg;
+  // background: $pre-bg;
   line-height: 1em;
   margin-bottom: 2.1em;
   padding: .8em 1em;
@@ -119,7 +119,7 @@ p, li {
   margin: 0;
   overflow-x: auto;
   line-height: 1em;
-  background: $base03 !important;
+  // background: $base03 !important;
   color: $base1 !important;
   span { color: $base1 !important; }
   span { font-style: normal !important; font-weight: normal !important; }
@@ -193,7 +193,7 @@ p, li {
 .highlight, .gist-highlight {
   pre { background: none; border: none; padding: 0; margin-bottom: 0; }
   margin-bottom: 1.8em;
-  background: $base03;
+  // background: $base03;
   overflow-y: hidden;
   overflow-x: auto;
 }
@@ -213,7 +213,7 @@ pre, .highlight, .gist-highlight {
 }
 
 .highlight code { 
-  @extend .pre-code; background: #000;
+  @extend .pre-code;
   border: none;
 }
 figure.code {

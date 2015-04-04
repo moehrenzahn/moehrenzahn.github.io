@@ -4,7 +4,7 @@ title: 'Kritische Bibelkritik'
 categories: [Theologie]
 slug: 
 comments: true
-published: false
+draft: true
 ---
 
 
