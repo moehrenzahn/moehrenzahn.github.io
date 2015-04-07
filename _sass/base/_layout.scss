@@ -102,11 +102,11 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 /* Site animation */
 
 #content {
-	 -webkit-animation: fadein $transition-time; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein $transition-time; /* Firefox < 16 */
-        -ms-animation: fadein $transition-time; /* Internet Explorer */
-         -o-animation: fadein $transition-time; /* Opera < 12.1 */
-            animation: fadein $transition-time;
+	-webkit-animation: fadein $transition-time; /* Safari, Chrome and Opera > 12.1 */
+	-moz-animation: fadein $transition-time; /* Firefox < 16 */
+	-ms-animation: fadein $transition-time; /* Internet Explorer */
+	-o-animation: fadein $transition-time; /* Opera < 12.1 */
+	animation: fadein $transition-time;
 }
 
 @keyframes fadein {
@@ -281,6 +281,19 @@ body.dark-mode {
 	background: #222;
 }
 
+.dark-mode a.bannertext:hover {
+	color: $color !important;
+}
+
+.dark-mode a {
+	border-bottom-color: #777 !important;
+}
+.dark-mode a:hover {
+	border-bottom-color: $color !important;
+}
+.dark-mode h1 a {
+	border-bottom-color: #222 !important;
+}
 .dark-mode h1, .dark-mode h2, .dark-mode p, .dark-mode a {
 	color: #bbb !important;
 }
