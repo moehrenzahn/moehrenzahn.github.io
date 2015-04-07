@@ -9,13 +9,13 @@ lang: en
 
 On this week's event Apple – as anticipated – announced its upcoming wearable: the Apple Watch. But it did not solve the problems smart watches are facing.
 
-<img src='https://www.dropbox.com/s/4xutfekzvegpkui/Apple%20Watch.png?dl=1' />
+<img src='/images/Applewatch/Apple-Watch.png' />
 
 It turns out that [I was wrong](http://moehrenzahn.de/iWatch/) in hoping that Apple would actually solve smart watches. They simply announced another one. It appears to be a very well well done specimen, but it still suffers from the same two basic problems as all the other smart watches already on the market.
 
 ## 1. Battery Life
 
-<figure><img src='https://www.dropbox.com/s/g8pt7rifa06zcr7/Apple%20Watch%20Charger.png?dl=1' /><figcaption>The Apple Watch's inductive charger.</figcaption></figure>
+<figure><img src='/images/Applewatch/Apple-Watch-Charger.png' /><figcaption>The Apple Watch's inductive charger.</figcaption></figure>
 
 In Tuesdays presentation, Tim Cook carefully tip-toed around the battery problem, saying only that they expect "usage throughout the day to be incredible", therefore users would have to "charge it at night". It seems safe to assume that battery life of the Apple Watch will be no better than competing watches with an LCD screen. And those don't always last a full day. If the Apple Watch would fare significantly better, Cook would have surely made a point of it during the keynote.
 
@@ -25,7 +25,7 @@ Not getting a full day of battery life out of a wearable is a non-starter. You c
 
 ## 2. Thickness
 
-<img src='https://www.dropbox.com/s/lxm986o7zxbnmdg/Apple%20Watch%20Thickness.png?dl=1'/>
+<img src='/images/Applewatch/Apple-Watch-Thickness.png'/>
 
 Admittedly this is hard to judge without seeing it in person, but the Watch looks quite massive. This might not be much of an issue when actually wearing the thing, but making fun of the size of the [Moto 360](https://moto360.motorola.com/) seems out of the question now.[^size]
 

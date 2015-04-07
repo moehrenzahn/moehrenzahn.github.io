@@ -22,7 +22,7 @@ Heutzutage kann jeder Mensch völlig kostenlos auf einem eigenen Blog ins Intern
 
 So sieht mein Soziales Blog-Netzwerk aus:
 
-<figure><img src='https://www.dropbox.com/s/4ak3z0kk97wrh07/reeder.jpg?dl=1' /><figcaption><a href="http://reederapp.com/">Reeder</a> ist mein Lieblings-RSS-Programm auf dem Mac. Es gibt aber auch viele andere Möglichkeiten, RSS-Artikel anzusehen und zu verwalten.</figcaption></figure>
+<figure><img src='/images/reeder.jpg' /><figcaption><a href="http://reederapp.com/">Reeder</a> ist mein Lieblings-RSS-Programm auf dem Mac. Es gibt aber auch viele andere Möglichkeiten, RSS-Artikel anzusehen und zu verwalten.</figcaption></figure>
 
 Ein eigener Blog ist in vielerlei hinsicht einer Profilseite überlegen. Meine Beobachtung ist außerdem, das die meisten Blog-Artikel besser durchdacht sind als irgendwelche Facebook-Statusupdates. Mehr Blogs würden wohl auch für ein besseres Internetklima sorgen.
 
