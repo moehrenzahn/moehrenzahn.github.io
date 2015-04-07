@@ -26,7 +26,7 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 
 **moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Octopress](http://octopress.org) und gehostet auf [Heroku](https://heroku.com). Mehr dazu habe ich [hier](/Bloghosting-mit-Heroku/) aufgeschrieben.
 
-[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Portal, das ich ehrenamtlich leite. [Viele Artikel von mir](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Außerdem ist das Design von mir.
+[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich ehrenamtlich leite und designt habe. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort.
 
 [**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist unser Podcast. Darüber habe ich [hier](/podcasts/) etwas geschrieben.
 
