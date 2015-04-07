@@ -6,11 +6,9 @@ sharing: false
 
 <div class="profile-outer"><div class="profile-image"></div></div>
 
-Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Portalleiter von [theologiestudierende.de](http://www.theologiestudierende.de).
+Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredaktuer von [theologiestudierende.de](http://www.theologiestudierende.de).
 
 Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal  auch [auf Englisch](/en/).
-
-Ich schreibe hier nur zum Vergnügen. Trotzdem freue ich mich über [Feedback](mailto:moehrenzahn@icloud.com) und weitergeteilte Artikel!
 
 ## Projekte
 
@@ -28,7 +26,7 @@ Ich schreibe hier nur zum Vergnügen. Trotzdem freue ich mich über [Feedback](m
 
 **moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Octopress](http://octopress.org) und gehostet auf [Heroku](https://heroku.com). Mehr dazu habe ich [hier](/Bloghosting-mit-Heroku/) aufgeschrieben.
 
-[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Portal, für das ich als Portalleiter verantwortlich bin. [Viele Artikel von mir](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Außerdem ist das Design von mir.
+[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Portal, das ich ehrenamtlich leite. [Viele Artikel von mir](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Außerdem ist das Design von mir.
 
 [**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist unser Podcast. Darüber habe ich [hier](/podcasts/) etwas geschrieben.
 
