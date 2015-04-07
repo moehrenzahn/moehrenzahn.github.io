@@ -26,7 +26,7 @@ Here I write about things I am interested in, mostly tech and theology – [most
     </a>
 </div>
 
-**moehrenzahn.de** is this site. It is built with the excellent [Octopress](http://octopress.org) and hosted on [Heroku](https://heroku.com). I wrote more about these two [here](/Bloghosting-with-Heroku/).
+**moehrenzahn.de** is this site. It is built with the excellent [Jekyll](http://jekyllrb.com) and hosted on [GitHub](https://github.com).
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist a german theological website that I designed and help run. [Many of my articles](http://www.theologiestudierende.de/author/portalleitung/) get posted there first.
 
@@ -34,8 +34,8 @@ Here I write about things I am interested in, mostly tech and theology – [most
 
 ## Elsewhere
 
-If you like what I write you might want to [subscribe to the RSS feed](/en/atom.xml) or [follow this site's feed on Twitter (@moehrenzahn)](https://twitter.com/moehrenzahn).
+If you like what I write you might want to [subscribe to the RSS feed](/en/feed.xml) or [follow this site's feed on Twitter (@moehrenzahn)](https://twitter.com/moehrenzahn).
 
-In addition [I tweet](http://www.twitter.com/_maxmelzer) interesting links and short observations on all sorts of topics.
+I also occasionally publish small snippets of code on GitHub: [My Repositories on GitHub](https://github.com/moehrenzahn).
 
-I also occasionally publish small snippets of code on GitHub: [My Repositories on GitHub](https://github.com/moehrenzahn)
+You can contact me via [@_maxmelzer](http://www.twitter.com/_maxmelzer) on Twitter.

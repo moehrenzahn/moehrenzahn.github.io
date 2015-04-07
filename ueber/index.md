@@ -24,7 +24,7 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
     </a>
 </div>
 
-**moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Octopress](http://octopress.org) und gehostet auf [Heroku](https://heroku.com). Mehr dazu habe ich [hier](/Bloghosting-mit-Heroku/) aufgeschrieben.
+**moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Jekyll](http://jekyllrb.com) und gehostet auf [GitHub](https://github.com).
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich ehrenamtlich leite und designt habe. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort.
 
@@ -32,8 +32,8 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 
 ## Anderswo
 
-Wem gefällt, was ich hier schreibe, kann den [RSS-Feed abonnieren](/atom.xml) oder auf Twitter [dem Feed des Blogs (@moehrenzahn) folgen](https://twitter.com/moehrenzahn).
+Wem gefällt, was ich hier schreibe, kann den [RSS-Feed abonnieren](/feed.xml) oder auf Twitter [dem Feed des Blogs (@moehrenzahn) folgen](https://twitter.com/moehrenzahn).
 
-Dazu [twittere ich](http://www.twitter.com/_maxmelzer) interessante Links und kurze Beobachtungen zu allen möglichen Themen.
+Dazu [twittere ich unter @_maxmelzer](http://www.twitter.com/_maxmelzer) interessante Links und kurze Beobachtungen zu allen möglichen Themen.
 
 Außerdem veröffentliche ich ganz sporadisch kleine Code-Schnipsel von mir auf GitHub: [Meine Repositories auf GitHub](https://github.com/moehrenzahn)
