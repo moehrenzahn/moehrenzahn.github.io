@@ -22,7 +22,7 @@ Here I write about things I am interested in, mostly tech and theology – [most
         <img src="/images/Projekte/theologiestudierende.jpg" />
     </a>
     <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank">
-        <img src="/images/Projekte/sagmal.jpg" />
+        <img src="/images/Projekte/Sagmal.jpg" />
     </a>
 </div>
 
