@@ -10,9 +10,7 @@ sharing: false
 
 My name is Max Melzer. I am a german student of theology at the University of Leipzig and project manager of [theologiestudierende.de](http://www.theologiestudierende.de). 
 
-Here I write about things I am interested in, mostly [tech](/categories/technologie/) and [theology](/categories/theologie/) – [most of it in german](/).
-
-I write exclusively for my own enjoyment. However, I am always happy about [feedback](mailto:moehrenzahn@icloud.com) and people sharing my work.
+Here I write about things I am interested in, mostly tech and theology – [most of it in german](/).
 
 ## Projects
 
