@@ -20,7 +20,7 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
         <img src="/images/Projekte/theologiestudierende.jpg" />
     </a>
     <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank">
-        <img src="/images/Projekte/Sagmal.jpg" />
+        <img src="/images/Projekte/sagmal.jpg" />
     </a>
 </div>
 
