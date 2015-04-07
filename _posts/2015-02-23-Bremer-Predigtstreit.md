@@ -14,13 +14,13 @@ Alles ging damit los, dass die wichtigsten kirchlichen Medien ende Januar über 
 
 [^2]: Mit idea habe ich in der Vergangenheit schon Hünchen gerupft, und zwar hier: [„idea ist keine Nachrichtenagentur“](http://www.moehrenzahn.de/Wissenschaft-vs.-Ideologie).
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/latzel-idea.png' /><figcaption></figcaption></figure>
+<figure><img src='/images/latzel-idea.png' /><figcaption></figcaption></figure>
 
 idea titelte [„Heftige Kontroverse um evangelikalen Pastor in Bremen“](http://www.idea.de/nachrichten/detail/thema-des-tages/artikel/heftige-kontroverse-um-evangelikalen-pastor-in-bremen-83115.html) und zitierte die Predigt von Latzel folgendermaßen:
 
 > Er hatte sich in seiner Predigt am 18. Januar dagegen gewandt, die Unterschiede zwischen Christentum und Islam zu verwischen: „Es gibt nur einen wahren Gott. Wir können keine Gemeinsamkeit mit dem Islam haben. Das ist Sünde. Das darf nicht sein. Davon müssen wir uns reinigen. Der Islam gehört nicht zu Deutschland.“ Latzel rief Christen auch dazu auf, Buddha-Figuren aus ihren Wohnungen zu verbannen.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/latzel-epd.png' /><figcaption></figcaption></figure>
+<figure><img src='/images/latzel-epd.png' /><figcaption></figcaption></figure>
 
 Beim Lesen des Berichts des epd ([„Nach Religionsbeleidigung geht Bremer Kirche auf Distanz zu Pastor“](http://www.epd.de/zentralredaktion/epd-zentralredaktion/nach-religionsbeleidigung-geht-bremer-kirche-auf-distanz-zu-pa)) konnte man wiederum meinen, es ginge um eine völlig andere Predigt. Dort hieß es:
 

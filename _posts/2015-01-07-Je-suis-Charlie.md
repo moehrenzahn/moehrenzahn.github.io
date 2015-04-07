@@ -21,4 +21,4 @@ Jetzt ist die Zeit, die gestorbenen Redakteure von „Charlie Hebdo“ zu feiern
 
 Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Je-suis-Charlie.jpg' /></figure>
+<figure><img src='/images/Je-suis-Charlie.jpg' /></figure>

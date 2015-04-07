@@ -14,7 +14,7 @@ In einer alttestamentlichen Vorlesung las der Professor über die Herrlichkeit G
 
 Unser Prof deutete diese Vision als eine Art Streitwagen. Die Israeliter zu Zeiten Ezechiels verfügten nicht über Streitwagen und andere fortgeschrittene Kriegsmaschinerie, die verhassten Perser und Ägypter sehr wohl. Eine Schar Streitwagen, die in einer Reihe in rasender Geschwindigkeit in die Schlacht fuhr, bot einen ehrfurchterregenden Anblick. Daran soll die Thronwagenvision Ezechiels anknüpfen. Hier ist es Gott selbst, der im Wagen sitzt, der von den Cherubim gezogen und vom Geist Gottes gelenkt wird.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Thronwagen/Thronwagen_raffael.jpg' /><figcaption>
+<figure><img src='/images/Thronwagen/Thronwagen_raffael.jpg' /><figcaption>
 Vision des Ezechiel von Raffaello Sanzio.</figcaption></figure>
 
 Ein entscheidender Nachteil eines Streitwagens war sein großer Wendekreis: Durch die unbeweglichen Räder und das fest vorgespannte Pferd waren diese Wagen nicht besonders flexibel lenkbar. Der Thronwagen Gottes in Ezechiels Vision ist konventionellen Streitwagen in dieser Hinsicht klar überlegen:
@@ -25,7 +25,7 @@ Der Thronwagen ist also ein Streitwagen mit Rädern, die ohne weiteres die Richt
 
 Während meiner weiterführenden Internetrecherche stieß ich noch auf eine alternative Deutung der Thronwagenvision. Diese ist war deutlich weniger plausibel, dafür aber um so spannender:
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Thronwagen/Thronwagen_blumrich.jpg' /><figcaption>
+<figure><img src='/images/Thronwagen/Thronwagen_blumrich.jpg' /><figcaption>
 Illustration aus Blumrich, J.F: Da tat sich der Himmel auf. (Ezechiel Kapitel 1, Vers 1). Die Raumschiffe des Propheten Ezechiel und ihre Bestätigung durch modernste Technik. Econ-Verlag, Düsseldorf u. a. 1973.</figcaption></figure>
 
 In den 60er Jahren war der Ingenier Josef F. Blumrich damit beauftragt, für die NASA Mondraketen zu entwerfen. Als er über obigen Hesekieltext stolperte, sah er darin keine Vision des Thrones Gottes, sondern ein UFO, eine Art propellerbetriebenes Fluggerät – ein Quadrocopter, wenn man so will:

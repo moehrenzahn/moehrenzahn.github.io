@@ -9,7 +9,7 @@ comments: true
 
 *Wir sind Charlie! Wir sind nicht Charlie!*<!--more-->
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Papst Franziskus.jpg' /><figcaption></figcaption></figure>
+<figure><img src='/images/Papst Franziskus.jpg' /><figcaption></figcaption></figure>
 
 Die Medien und sozialen Netzwerke sind gespalten. Die eine Hälfte bekundet ihre bedingungslose Solidarität mit der freien Presse gegen terroristische Gewalt. Wir sind Charlie – wer Satiriker angreift, greift unsere Grundrechte und damit unsere gesamte Gesellschaft an!
 

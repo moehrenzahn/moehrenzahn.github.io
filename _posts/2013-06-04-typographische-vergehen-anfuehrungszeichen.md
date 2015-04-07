@@ -21,7 +21,7 @@ Trotzdem begegnen einem immer wieder Zitate, die ganz anders gekennzeichnet sind
 
 Wohl am häufigsten findet man im Internet Anführungszeichen, die so aussehen wie zum Beispiel auf [zeit.de](http://www.zeit.de) oder [spiegel.de](http://www.spiegel.de):
 
-![Schreibmaschinen-Anführungszeichen auf zeit.de](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Anf%C3%BChrungszeichen_zeit.de.png) 
+![Schreibmaschinen-Anführungszeichen auf zeit.de](/images/Anf%C3%BChrungszeichen_zeit.de.png) 
 
 Hier sind die „Kringel“ vereinfacht zu jeweils zwei horizontalen Strichen (`"`). Das könnte man ja als künstlerische(/typografische) Freiheit entschuldigen, aber aus Gründen befinden sich die Striche am Anfang des Zitates *oben* an der Zeile. Was soll das denn bedeuten?
 
@@ -47,7 +47,7 @@ Aber spätestens seit [Unicode](https://de.wikipedia.org/wiki/Unicode) sind Comp
 
 Noch fauler (oder ahnungsloser) sind die Publikationen, die aus Gründen weder deutsche noch Typografische Anführungszeichen verwenden. Seht euch das Elend an, hier zum Beispiel der bekannte Tech-Blog [basicthinking.de](http://www.basicthinking.de):
 
-![Englische Anführungszeichen auf basicthinking.de](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Anf%C3%BChrungszeichen_basicthinking.de.png)
+![Englische Anführungszeichen auf basicthinking.de](/images/Anf%C3%BChrungszeichen_basicthinking.de.png)
 
 Wie kommt das? Als die Computer über ihr Schreibmaschinenerbe hinaus waren, versuchten Softwarehersteller wieder die klassischen Anführungszeichen zu etablieren. Da aber jeder nur `Shift-2` drückte, erfand man die intelligenten Anführungszeichen. Die meisten modernen Textprogramme bieten diese Funktion, die versuchen alle Typografischen Anführungszeichen automatisch in richtige Kringel zu verwandeln. Allerdings kann das so manches Programm nur auf Englisch (so wahrscheinlich auch das CMS von Basicthinking).
 
@@ -55,7 +55,7 @@ Wie kommt das? Als die Computer über ihr Schreibmaschinenerbe hinaus waren, ver
 
 Richtig vor macht es uns als einsamer Vorreiter die [F.A.Z.](http://www.faz.net) vor die als einzige (mir bekannte) große deutschsprachige Publikation richtige deutsche Anführungszeichen verwendet, und nicht nur Schreibmaschinenersatzstriche.
 
-![Kringelige Anführungszeichen auf faz.de](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Anf%C3%BChrungszeichen_faz.net.png)
+![Kringelige Anführungszeichen auf faz.de](/images/Anf%C3%BChrungszeichen_faz.net.png)
 
 Es ist nicht schwer das Internet zu einem besseren Ort zu machen. Ein erster Schritt wäre, in deinen Textprogrammen und Betriebssystem die Intelligenten Anführungszeichen zu aktivieren oder noch besser Anführungszeichen nicht mit `Shift-2`, sondern mit `Alt-0132` und `Alt-0148` (Windows) oder `Alt-^` und `Alt-Shift-^` (Mac) einzugeben (Wenn ihr für Windows eine einfacherer Kombination kennt lasst es mich wissen).
 

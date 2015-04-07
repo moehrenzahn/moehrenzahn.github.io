@@ -49,6 +49,6 @@ This code checks if the input string is empty. If it is, it turns it into a sing
 
 It has a .5 second delay, but it works for me. If I enter `cal` into Alfred, it opens the normal Fantastical interface (like if I pressed `⌥ Space` before). If I enter `cal` with anything afterwards, Fantastical uses this text to parse a new entry.
 
-You can [download the finished plugin here](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Fantastical.alfredworkflow).
+You can [download the finished plugin here](/images/Fantastical.alfredworkflow).
 
 [^automate]: It would be much easier if Flexibits improved their Applescript implementation with an „invoke“ functionality. The default Applescript function `activate` doesn’t work because Fantastical on the Mac is not a proper window.

@@ -8,7 +8,7 @@ comments: true
 
 Seit sechs Monaten gibt es jetzt schon die offizielle Losungen-App der Herrnhuter Brüder-Unität für iOS und Android-Geräte.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Losungen%20und%20Lizenzen/Losungenapp.png' /><figcaption>
+<figure><img src='/images/Losungen%20und%20Lizenzen/Losungenapp.png' /><figcaption>
 Screenshot der offiziellen Losungen-App auf iOS</figcaption></figure>
 
 Kaum war sie erschienen, gab es [heftige Kritik](http://theopop.de/2014/01/app-test-warum-die-losungen/) von Seiten netzaffiner Losungsfreunde. Die neue App kostete nämlich Geld[^teuer] und hatte einen geringeren Funktionsumfang als andere Apps. 
@@ -33,7 +33,7 @@ Für so manchen App-Programmierer im kirchlichen Kontext war eine eigene Losungs
 
 Mit dem restriktiven Umgang mit den Lizenzen lassen sich sicherlich kurzfristig höhere Einnahmen aus der offiziellen App herausholen. Aber langfristig wird dieser Schritt den Herrnhutern schaden. Denn [die wenigsten Smartphone-Benutzer sind bereit, Geld für digitale Inhalte auszugeben](http://www.bitkom.org/files/documents/BITKOM-Presseinfo_Bezahl-Apps_04_02_2013.pdf). Da in den App Stores aber keine kostenlosen Losungen mehr Angeboten werden, werden viele auf andere Bibelvers-Auswahlen ausweichen, zum Beispiel den [Vers des Tages](http://www.verseoftheday.com/de/) oder [Das Wort](http://www.bible2.net/page/theword/). Dazu kommt noch, dass viele Entwickler, die zuvor eine eigene Losungs-App angeboten hatten auf solche Anbieter umgestiegen sind, wie zum Beispiel [Johnathan Arnolds toll designte App „Amen.“](https://itunes.apple.com/de/app/amen./id656198091?mt=8) oder [Joachim Reiß’ „Das Wort“](https://play.google.com/store/apps/details?id=de.reiss.bible2net.theword).
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Losungen%20und%20Lizenzen/Amenapp.png' /><figcaption>
+<figure><img src='/images/Losungen%20und%20Lizenzen/Amenapp.png' /><figcaption>
 Screenshot der iOS-App „Amen.“ von Jonathan Arnold</figcaption></figure>
 
 Die Benutzer solcher Apps werden nicht mehr die original Losungen lesen und werden es vermutlich nicht einmal bemerken. Denn am Ende sind die Losungen nichts anderes als eine Auswahl an (teilweise zufälligen) Bibelversen. Für die tägliche Andacht vieler Bibelfreunde wird es keinen großen Unterschied machen, wer genau die Auswahl der Verse getroffen hat.

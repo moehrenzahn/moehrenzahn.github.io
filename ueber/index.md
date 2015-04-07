@@ -13,14 +13,14 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 ## Projekte
 
 <div class="projects">
-    <a href="http://www.moehrenzahn.de" target="_blank">
-         <img src="https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Projekte/moehrenzahn.jpg" />
+    <a href="/" target="_blank">
+         <img src="/images/Projekte/moehrenzahn.jpg" />
     </a>
     <a href="http://www.theologiestudierende.de" target="_blank">
-        <img src="https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Projekte/theologiestudierende.jpg" />
+        <img src="/images/Projekte/theologiestudierende.jpg" />
     </a>
     <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank">
-        <img src="https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Projekte/sagmal.jpg" />
+        <img src="/images/Projekte/sagmal.jpg" />
     </a>
 </div>
 

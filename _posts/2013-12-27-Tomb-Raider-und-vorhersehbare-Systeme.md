@@ -11,13 +11,13 @@ In diesem Artikel möchte ich am Beispiel von *Tomb Raider* erklären, was Vorhe
 
 Als 1996 der erste „Tomb Raider“-Teil erschien, war ich noch ein Kind und hatte wahrscheinlich noch nie in meinem Leben ein Computerspiel gespielt, geschweige denn einen Computer bedient.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Tomb%20Raider/Tomb-Raider-Menu.png' /><figcaption>Der Menü-Bildschirm von Tomb Raider</figcaption></figure>
+<figure><img src='/images/Tomb%20Raider/Tomb-Raider-Menu.png' /><figcaption>Der Menü-Bildschirm von Tomb Raider</figcaption></figure>
 
 Trotzdem hat Lara Croft in meinem Herzen einen besonderen Platz, schließlich ist es das erste Spiel, an das ich mich erinnere, welches es schaffte mich ganz in eine andere Welt zu versetzen: Eine Welt, in der jeder Hebel irgendwo eine Tür öffnet, und wo es in verlorenen Tälern noch furchteinflößende Dinosaurier gibt.[^dino]
 
 [^dino]: Ja, für einen Elfjährigen war der T-Rex schon gruselig – Das einzige was noch angsteinflößender war: [der stöhnende Butler aus *Tomb Raider 2*](http://www.youtube.com/watch?v=OjqRYpIwnB8).
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Tomb%20Raider/Tomb-Raider-T-Rex.png' alt='Der T-Rex aus dem ersten Tomb Raider-Teil' /><figcaption>Tomb Raiders furchteinflößendster Gegner</figcaption></figure>
+<figure><img src='/images/Tomb%20Raider/Tomb-Raider-T-Rex.png' alt='Der T-Rex aus dem ersten Tomb Raider-Teil' /><figcaption>Tomb Raiders furchteinflößendster Gegner</figcaption></figure>
 
 ## Back to the Roots
 
@@ -31,7 +31,7 @@ Weniger die Handlung, die rückt ja auch sehr in den Hintergrund – besonders d
 
 [^dosbox]: [DOSBox](http://www.dosbox.com/information.php) sei dank!
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Tomb%20Raider/Tomb-Raider-Level.png' alt='Screenshot eines Tomb Raider-Levels' /><figcaption>Die Level in Tomb Raider sind aus einem System von Quadern zusammengesetzt</figcaption></figure>
+<figure><img src='/images/Tomb%20Raider/Tomb-Raider-Level.png' alt='Screenshot eines Tomb Raider-Levels' /><figcaption>Die Level in Tomb Raider sind aus einem System von Quadern zusammengesetzt</figcaption></figure>
 
 ## Am Anfang war der Block
 
@@ -41,7 +41,7 @@ Mit diesem begrenzten Reportoire mussten auch die Leveldesigner bei Core Design 
 
 Bei modernen Spielen, ganz besonders den aktuelleren *Tomb Raider*-Titeln, ist es genau anders herum: Die Designer erfinden atemberaubende Schauplätze, die dann als grafisch realistische und Überzeugende 3D-Welt gerendert werden. Danach wird das Level, das eigentliche Gameplay, hineingebaut und strategisch zum Beispiel kletterbare Bereiche definiert (man denke nur an die Kletterhaken-Flächen im *Tomb Raider*-Reboot von 2013). Der nervige Nebeneffekt ist, dass man nur dorthin Klettern kann, wo es ein Designer wollte. So werden hüfthohe Felsen schnell zur unüberwindlichen Barriere.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Tomb%20Raider/tomb-raider-kletterbereich.png' alt='Screenshot einer Klettersequenz aus Tomb Raider (2013)' /><figcaption>„Bitte nur im markierten Bereich klettern!“ (Tomb Raider 2013)</figcaption></figure>
+<figure><img src='/images/Tomb%20Raider/tomb-raider-kletterbereich.png' alt='Screenshot einer Klettersequenz aus Tomb Raider (2013)' /><figcaption>„Bitte nur im markierten Bereich klettern!“ (Tomb Raider 2013)</figcaption></figure>
 
 Diese Welten sind zwar sehr hübsch anzusehen und sehen viel realistischer aus als die altbackenen Blöcke von 1996, dafür verhalten sie sich viel weniger wie ein echter Ort. Sie opfern Nachvollziehbarkeit für Optik – ein Handel, den das originale *Tomb Raider* nicht eingeht. 
 

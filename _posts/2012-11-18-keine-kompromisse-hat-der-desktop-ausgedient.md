@@ -7,7 +7,7 @@ comments: true
 Microsoft hat mit der neuesten Version von Windows ein Zeichen gesetzt. Auf seiner Homepage bewirbt der Konzern sein Betriebssystem als [„ohne Kompromisse“](http://www.microsoft.com/de-at/windows/business/benefits/productivity.aspx). Ein Betriebssystem für Tablets *und* PCs.
  <!-- more -->
 
-![Der Windows 8 Startbildschirm (Bildquelle: Microsoft)](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Windows_8_Start_Screen.png)
+![Der Windows 8 Startbildschirm (Bildquelle: Microsoft)](/images/Windows_8_Start_Screen.png)
 *Der Windows 8 Startbildschirm (Bildquelle: AllthingsD)*
 
 Mit Windows 8 will man ein Betriebssystem sowohl für Tablets als auch für Laptops/Desktops einführen. Die Vorteile liegen auf der Hand: Geschwindigkeit und Benutzerfreundlichkeit des mobilen Systems verschmelzen mit der Flexibilität und Komplexität eines „klassischen“ Computers. Außerdem muss man beim Wechsel von PC zu Tablet keine neuen Mechanismen lernen und das Synchronisieren zwischen den Geräten wird vereinfacht.
@@ -18,7 +18,7 @@ Das Problem dabei ist, dass der Übergang zwischen den zwei Umgebungen sehr grob
 
 Für Metro-Apps gibt es schlaue „Charms“, die es beispielsweise ermöglichen, nahtlos und schnell Dateien und Text zwischen Applikationen zu teilen. Nur können bisherige Programme nicht auf diese API zugreifen. Dort heißt es weiterhin „Strg-C, Strg-V“.
 
-![Der neue Metro Appwechsler (Bildquelle: BGR)](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Windows%208%20Appwechsler.jpg)
+![Der neue Metro Appwechsler (Bildquelle: BGR)](/images/Windows%208%20Appwechsler.jpg)
 *Der neue Metro Appwechsler (Bildquelle: BGR)*
 
 Diese Probleme müssen den Entwicklern auch klar gewesen sein. Dass der Desktop so stiefmütterlich behandelt wird, hat sicher einen Grund: Microsoft will den traditionellen Desktop am liebsten los werden. Man kann aber natürlich den vielen Millionen vorhandenen Benutzern nicht einfach die vertraute Oberfläche nehmen — keiner würde sowas kaufen! 
@@ -31,10 +31,10 @@ Der Übergang vom Mac-Paradigma hin zu dem des iPads ist allerdings so elegant, 
 Für Programme, die mit Apples Standard-Framework Cocoa programmiert sind, lässt sich ein solcher Vollbild-Modus meist mit wenigen Zeilen Code einrichten.
 OS X mit ausschließlich Vollbild-Programmen und Launchpad ist im Grunde iOS.[^1]
 
-![Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her-”wischen” (Bildquelle: Apple)](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Wischgeste%20Systemeinstellungen.tiff)
+![Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her-”wischen” (Bildquelle: Apple)](/images/Wischgeste%20Systemeinstellungen.tiff)
 *Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her-”wischen” (Bildquelle: Apple)*
 
-![Für das iPad gibt es die gleiche Wischgeste mit vier Fingern (Bildquelle: Apple)](https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/ipad-wischgeste.jpg)
+![Für das iPad gibt es die gleiche Wischgeste mit vier Fingern (Bildquelle: Apple)](/images/ipad-wischgeste.jpg)
 *Für das iPad gibt es die gleiche Wischgeste mit vier Fingern (Bildquelle: Apple)*
 
 Microsoft wird sich in dieser Entwicklung vermutlich schwerer tun. Alte Desktop-Programme lassen sich nämlich nicht einfach in neue „Metro“-Apps verwandeln sondern müssen von Grund auf neu geschrieben werden. Ob aber Microsoft mit seiner neuen Plattform jetzt noch Entwickler locken kann, muss sich erst noch zeigen. Denn die „alten“ Desktop-Programme laufen ja alle noch unter Windows 8.

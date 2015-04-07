@@ -8,11 +8,11 @@ comments: true
 
 Die Kirche will sich digitaler, moderner geben. Das war der Grundtenor der EKD-Synode in Dresden. „Kirche hat sich immer der jeweils neuesten Medien in der Verkündigung und in der Kommunikation bedient.“, tönt die [Kundgebung der Synodalen](http://ekd.de/synode2014/schwerpunktthema/beschluss_kundgebung.html) stolz. Ja, die Kirche gebraucht alle Medien. Sie scheitert dabei aber häufig an den Details. Die Folge: Kirche wirkt in den neuen Medien oft ungelenk und altbacken.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/kirchenapp.png' /><figcaption>Die offizielle „Kirchen-App“ der EKD. Mmh, Mintgrün und Magenta!</figcaption></figure>
+<figure><img src='/images/kirchenapp.png' /><figcaption>Die offizielle „Kirchen-App“ der EKD. Mmh, Mintgrün und Magenta!</figcaption></figure>
 
 Oft scheitert es am technischen Know-How, aber bisweilen auch an Lieblosigkeit in der Umsetzung. Jüngstes Beispiel: Die [Kirchen-App der EKD](http://www.ekd.de/kirchenapp/). Diese brandneue App der EKD soll dazu dienen, „per Umkreissuche Kirchen aufzufinden“. Für diesen Zweck funktioniert die App auch, das will ich nicht bestreiten. Aber vom Design her ist die von einer [Bremer Agentur](http://www.neusta-ms.de) entwickelte App auf einem erbärmlichen Niveau. Die Lieblosigkeit der Entwickler zeigt sich auch auf der [dazugehörigen Internetseite mit Jahr-2000-Charme](http://www.ekd.de/kirchenapp/).
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/kirchenapp-de.png' /><figcaption>„Hey! Wie wärs, wenn die Internetseite für die App irgendwie aussehen würde wie ein Smartphone?“ – „Brillant! Mach das mal noch fertig bis zum Feierabend!“</figcaption></figure>
+<figure><img src='/images/kirchenapp-de.png' /><figcaption>„Hey! Wie wärs, wenn die Internetseite für die App irgendwie aussehen würde wie ein Smartphone?“ – „Brillant! Mach das mal noch fertig bis zum Feierabend!“</figcaption></figure>
 
 Ich hab auch schon [früher](http://moehrenzahn.de/bigs-online/) über die Qualität mancher kirchlicher Internetangebote gemeckert. Ich hab leider keinen Einblick in die Entscheidungsprozesse, die zu Dingen wie die „Kirchen-App“ führen. Aber ich vermute mal, dass da einfach die Agenturen oberflächlich ausgesucht werden. Als Kriterium scheint nicht primär die Qualität der Ergebnisse zu interessieren.[^3]
 

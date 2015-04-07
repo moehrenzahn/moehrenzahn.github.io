@@ -8,7 +8,7 @@ comments: true
 
 Wer auf meinem Blog unter einen Artikel schaut, wird dort unter „Teilen“ Links zu Faceboook, Twitter und Google+ finden. Das kennt man ja von überall aus dem Internet. Sie dienen als eine freundliche Erinnerung, gute Artikel weiterzuempfehlen. Außerdem machen sie Teilen und Liken sehr bequem – mit ein bis zwei Klicks landet ein Artikel in der eigenen Timeline.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Social%20Sharing/sharing.jpg' /><figcaption>Sharing-Buttons: Das ganze Internet ist voll von ihnen.</figcaption></figure>
+<figure><img src='/images/Social%20Sharing/sharing.jpg' /><figcaption>Sharing-Buttons: Das ganze Internet ist voll von ihnen.</figcaption></figure>
 
 Solche Links auf der eigenen Seite einzubinden ist einfach: Man sucht sich den jeweiligen Einbettungscode und fügt diesen an der gewüschten Stelle der Seite in den `HTML`-Code ein. Der Code für den bekannten Facebook-„gefällt mir“-Knopf sieht zum Beispiel in etwa so aus:
 
@@ -36,7 +36,7 @@ Viele Leute finden gerade diese Cookies und überhaupt das unbekannte JavaScript
 
 Deshalb hat [heise.de ein Zwei-Klick-System entwickelt](http://www.heise.demar/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html), bei dem der Nutzer erst durch einen Klick den Button aktiviert und dann mit einem zweiten Klick verwenden kann. Das externe Skript wird erst nach dem ersten Klick ausgeführt – wer keine Daten übermitteln will, ignoriert den Button einfach. Dieses System wurde bald in ein Wordpress-Plugin gepackt und weit über das deutschsprachige Internet verbreitet. Das Plugin schützt nicht nur die Privatsphäre der Nutzer, es ist auch hässlich wie die Nacht.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Social%20Sharing/sharing_2click_heise.jpg' /><figcaption>Zwei-Klick Sharing-Buttons auf Heise.de: Effektiv, aber unästhetisch.</figcaption></figure> 
+<figure><img src='/images/Social%20Sharing/sharing_2click_heise.jpg' /><figcaption>Zwei-Klick Sharing-Buttons auf Heise.de: Effektiv, aber unästhetisch.</figcaption></figure> 
 
 Es gab keine Chance, dass ich diese scheußlichen Knöpfe auf meiner Seite einbinde. Ich wollte aber auch nicht die ungefilterten Buttons installieren, dafür war mir die Privatsphäre meiner Besucher zu schade.
 
@@ -70,7 +70,7 @@ Der Vorteil dieser Social-Links sind, dass einfache Links null JavaScript enthal
 
 [^farben]: Das sind übrigens für Facebook `#3b5a94`, für Twitter `#00aeea`und für Google+ `#e0483e`.
 
-<figure><img src='https://dl.dropboxusercontent.com/u/11079930/Artikelbilder/Social%20Sharing/sharing_moehrenzahn.jpg' /><figcaption>Sharing-Buttons als einfache Links, schick gestylt mit etwas CSS.</figcaption></figure>
+<figure><img src='/images/Social%20Sharing/sharing_moehrenzahn.jpg' /><figcaption>Sharing-Buttons als einfache Links, schick gestylt mit etwas CSS.</figcaption></figure>
 
 Einen Nachteil haben meine Link-Buttons allerdings: Ich kann nicht sehen, wie viele Likes, Tweets etc. ein Artikel bekommen hat, weil meine Links keine dynamischen Zahlen anzeigen.[^2]Außerdem ist es keine richtige Ein-Klick-Lösung – man muss das Teilen und Tweeten in einem zweiten Schritt bestätigen.
 
