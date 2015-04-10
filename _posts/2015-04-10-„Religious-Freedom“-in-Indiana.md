@@ -3,7 +3,6 @@ layout: post
 title: 'Religion im Kreuzfeuer – „Religious Freedom Restoration“ in Indiana'
 categories: [Theologie]
 slug: Warum beim RFRA nicht so heiß gegessen wie gekocht wird.
-draft: true
 ---
 
 Im US-Bundesstaat Indiana ist im Moment ganz schön was los: Die republikanische Regierung unter Gouverneur Mike Pence hat ein umstrittenes Gesetz verabschiedet, den sogenannten „Religious Freedom Restoration Act“ (RFRA). Der RFRA hat in den USA für reichlich Wirbel gesorgt, da er Geschäfteinhabern in Indiana erlauben soll, etwa homosexuellen Kunden die Bedienung aus religiösen Gründen zu verweigern. 
