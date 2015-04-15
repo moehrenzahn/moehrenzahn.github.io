@@ -8,7 +8,7 @@ comments: true
 
 Vor einiger Zeit habe ich mir zum Tippen am Schreibtisch eine Tastatur gekauft. Mein Einstiegsmodell war ein voll mechanisches, laut klackerndes [Cherry MX-Board 3.0](http://www.tweaktown.com/reviews/6121/cherry-mx-board-3-0-mechanical-keyboard-review/).
 
-In letzter Zeit kam es mir mit dieser Tastatur zunehmend so vor, als wäre jeder Tastendruck Arbeit. Das Problem war wohl, dass mir die „Red“-Switches viel zu weich waren – der Druckpunkt war überhaupt nicht zu spüren. Ich erwischte mich dabei, wie ich mein MacBook vom externen Monitor abnahm, um mit der eingebauten Tastatur zu schreiben – obwohl die Cherry direkt vor mir lag. 
+In letzter Zeit kam es mir mit dieser Tastatur zunehmend so vor, als wäre jeder Tastendruck Arbeit. Das Problem war wohl, dass mir die "Red"-Switches viel zu weich waren – der Druckpunkt war überhaupt nicht zu spüren. Ich erwischte mich dabei, wie ich mein MacBook vom externen Monitor abnahm, um mit der eingebauten Tastatur zu schreiben – obwohl die Cherry direkt vor mir lag. 
 
 <figure><img src='/images/Clickykeyboards/IMG_4032.jpg' /><figcaption>Das Cherry MX-Board 3.0.</figcaption></figure>
 
@@ -26,11 +26,11 @@ Beide haben links und rechts einen USB-Port, was eigentlich die perfekte Positio
 
 [^usb]: Diese Ports haben allerdings nur wenig Spannung. Angeschlossen über meinen externen Monitor können sie zum Beispiel keinen Xbox 360-Controller versorgen (Die direkte Verbindung zum Mac habe ich nicht getestet).
 
-### Die „Kleine“
+### Die "Kleine"
 
 <figure><img src='/images/Clickykeyboards/IMG_4038.jpg' /><figcaption>Die kurze, kabelgebundene Apple-Tastatur ohne Ziffernblock.</figcaption></figure>
 
-Im Vorfeld dachte ich, ich würde die Tastatur ohne Nummernblock behalten. Die kurzen USB-Tastaturen sind gewissermaßen eine Rarität, weil sie nicht mehr direkt von Apple verkauft werden und nur noch „antiquarisch“ zu haben sind. Und ich möchte gerne Kabel, brauche aber wirklich keinen Nummernblock (Den meiner Cherry-Tastatur habe ich nur wenige Male verwendet – zu groß die Macht der Gewohnheit).
+Im Vorfeld dachte ich, ich würde die Tastatur ohne Nummernblock behalten. Die kurzen USB-Tastaturen sind gewissermaßen eine Rarität, weil sie nicht mehr direkt von Apple verkauft werden und nur noch "antiquarisch" zu haben sind. Und ich möchte gerne Kabel, brauche aber wirklich keinen Nummernblock (Den meiner Cherry-Tastatur habe ich nur wenige Male verwendet – zu groß die Macht der Gewohnheit).
 
 <figure><img src='/images/Clickykeyboards/IMG_4040.JPG' /><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Die Tastaur ist im Gegensatz zur Tastatur eines Macbooks wegen der Fußleiste et
 
 [^winkel]: Der Winkel ist minimal flacher als bei den kabellosen Modellen. Die Tastatur passt also zum Beispiel nicht ganz nahtlos neben ein Magic Trackpad.
 
-### Die „Große“
+### Die "Große"
 
 <figure><img src='/images/Clickykeyboards/IMG_4024.jpg' /><figcaption>Die kabelgebundene Apple-Tastatur mit Ziffernblock.</figcaption></figure>
 

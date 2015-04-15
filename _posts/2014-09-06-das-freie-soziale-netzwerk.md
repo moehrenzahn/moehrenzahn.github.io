@@ -2,7 +2,7 @@
 layout: post
 title: 'Das freie Soziale Netzwerk'
 categories: [Technologie]
-slug: '„Wie sich herausstellt, gibt es diese Plattform längst – Blogs.“'
+slug: '"Wie sich herausstellt, gibt es diese Plattform längst – Blogs."'
 comments: true
 ---
 

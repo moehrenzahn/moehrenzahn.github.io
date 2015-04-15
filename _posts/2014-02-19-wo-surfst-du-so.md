@@ -6,7 +6,7 @@ categories: [Technologie, Theologie]
 comments: true
 ---
 
-Vor einiger Zeit habe ich auf Twitter mit [Fabian Maysenhölder](http://www.twitter.com/f_mayse) und einigen anderen über [einen TheoPop-Artikel](http://theopop.de/2014/01/bringt-internet-ende-religion/) diskutiert. Dabei kamen wir darauf zu sprechen, welche Internetseiten wir regelmäßig lesen, nicht in erster Linie weil wir sie interessant finden, sondern um uns herauszufordern. Oder um, [wie Fabian es ausdrückte](http://theopop.de/2014/01/bringt-internet-ende-religion/), *„sich nicht nur in Kreisen und auf Webseiten, Blogs und in Foren[^foren] zu bewegen, die das eigene Weltbild stützen.“*
+Vor einiger Zeit habe ich auf Twitter mit [Fabian Maysenhölder](http://www.twitter.com/f_mayse) und einigen anderen über [einen TheoPop-Artikel](http://theopop.de/2014/01/bringt-internet-ende-religion/) diskutiert. Dabei kamen wir darauf zu sprechen, welche Internetseiten wir regelmäßig lesen, nicht in erster Linie weil wir sie interessant finden, sondern um uns herauszufordern. Oder um, [wie Fabian es ausdrückte](http://theopop.de/2014/01/bringt-internet-ende-religion/), *"sich nicht nur in Kreisen und auf Webseiten, Blogs und in Foren[^foren] zu bewegen, die das eigene Weltbild stützen."*
 
 [^foren]: Ha, erinnert ihr euch noch an [Internetforen](http://de.wikipedia.org/wiki/Internetforum)?
 
@@ -15,7 +15,7 @@ Vor einiger Zeit habe ich auf Twitter mit [Fabian Maysenhölder](http://www.twit
 <blockquote class="twitter-tweet" lang="de"><p><a href="https://twitter.com/max_7791">@max_7791</a> Ja, auf jeden Fall. Finde ich in der Regel sehr fruchtbar :-) manchmal macht es allerdings auch aggressiv...</p>&mdash; Fabian Maysenhölder (@f_mayse) <a href="https://twitter.com/f_mayse/statuses/422848693289881600">13. Januar 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Jetzt [sammelt Fabian auf theopop.de unter dem Titel „Und wo surfst du so“ Artikel zu genau dieser Problematik](http://theopop.de/2014/01/blogparade-und-wo-surfst-du-so/). Dies ist mein Beitrag zu dieser Diskussion.
+Jetzt [sammelt Fabian auf theopop.de unter dem Titel "Und wo surfst du so" Artikel zu genau dieser Problematik](http://theopop.de/2014/01/blogparade-und-wo-surfst-du-so/). Dies ist mein Beitrag zu dieser Diskussion.
 
 Es scheint auf den ersten Blick ein merkwürdiges Konzept, aktiv Meinungen zu lesen, die man nicht vertritt oder sogar falsch findet. Aber ich bin überzeugt, dass das eine vernünftige Angewohnheit ist. Hier ein paar Beispiele, wie ich das mache.
 
@@ -27,7 +27,7 @@ Ich orientiere mich beim Thema Internet-Lesestoff fast ausschließlich an RSS-Fe
 
 Meine abbonierten Feeds sind überschaubar. Da finden sich vor allem englischsprachige Technologie- und Apple-Blogger, ein paar Blogs von Theologen, einige journalistische Watchblogs – halt so Kram, der mich interessiert.
 
-Wenn ich jetzt schaue, welche Seiten ich nicht (nur) aus Interesse, sondern als „Horizonterweiterung“ abonniert habe, fallen sofort [idea.de](http://www.idea.de/), [kleinerdrei.org](http://kleinerdrei.org/) und [theologiestudierende.de](http://www.theologiestudierende.de/) auf.
+Wenn ich jetzt schaue, welche Seiten ich nicht (nur) aus Interesse, sondern als "Horizonterweiterung" abonniert habe, fallen sofort [idea.de](http://www.idea.de/), [kleinerdrei.org](http://kleinerdrei.org/) und [theologiestudierende.de](http://www.theologiestudierende.de/) auf.
 
 [idea.de](http://www.idea.de/) sollte vielen ein Begriff sein: die größte deutsche evangelikale Nachrichtenagentur. Die bringen oft [Meldungen, für die sich andere Medien zu fein sind](http://moehrenzahn.de/messianische-juden-auf-dem-kirchentag/), sind aber manchmal auch [furchtbar undifferenziert und ideologisch](http://www.idea.de/detail/thema-des-tages/artikel/ist-hitzlsperger-ein-held-1010.html). Aber in Zukunft werden wir uns in Deutschland immer mehr mit evangelikaler Theologie  beschäftigen müssen, insofern ist es hilfreich, sich in diese Leute hineinversetzen zu können.
 
@@ -41,7 +41,7 @@ Ansonsten gibt es natürlich eine Menge Blogger in meinem [Feed-Reader](http://r
 
 [Auf Twitter folge ich vielen Leuten](https://twitter.com/max_7791/following), mit den unterschiedlichsten theologischen und politischen Ansichten. In der Twitter-Timeline kann man sowieso nicht ganz so eng kontrollieren, was man sieht und was nicht.
 
-Allerdings verwende ich schon manchmal die „Mute Filter“-Funktion von [Tweetbot](http://tapbots.com/software/tweetbot/), mit der ich nervige Tweets aus meiner Timeline rausfiltern kann. In meiner Filterliste sind aber eigentlich nur Hashtags, die mit Sport zu tun haben (Sport interessiert mich einfach nicht) oder mit abscheulichem Reality-TV (da hört auch bei mir die Toleranz auf).
+Allerdings verwende ich schon manchmal die "Mute Filter"-Funktion von [Tweetbot](http://tapbots.com/software/tweetbot/), mit der ich nervige Tweets aus meiner Timeline rausfiltern kann. In meiner Filterliste sind aber eigentlich nur Hashtags, die mit Sport zu tun haben (Sport interessiert mich einfach nicht) oder mit abscheulichem Reality-TV (da hört auch bei mir die Toleranz auf).
 
 ## (Aus-)Blick über den Tellerrand
 

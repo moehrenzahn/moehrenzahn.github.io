@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Von uralten und „neuen“ alten Büchern
+title: Von uralten und "neuen" alten Büchern
 categories: [Theologie]
 comments: true
 ---
@@ -15,7 +15,7 @@ Damit ist diese Rolle die mit Abstand älteste vollständig erhaltene Version de
 
 Das erste Indiz für die Frühdatierung des Dokuments  waren wohl die zahlreichen Verstöße der Handschrift gegen die Transkiptionsregeln des [Maimonides](https://de.wikipedia.org/wiki/Maimonides#Mischne_Tora). Diese Abweichungen konnte sich Prof. Antonino nur damit erklären, dass der Text aus einer Zeit stammt, *bevor* Maimonides diese rabbinische Abschreibetradition begründete. Diese These wurde etwas später durch zwei [Radiokarbontests](http://de.wikipedia.org/wiki/Radiokarbonmethode) belegt.
 
-Bei darauf hin angestellten Nachforschungen der Bibliothek stellte sich heraus, dass einem jahrelangen Bibliothekar im 19. Jahrhundert die Rolle durchaus bekannt war. Sie war unter dem wenig beindruckenden Titel „Rolle 2“ archiviert. Dem Bibliothekar war, wie er in einem Inventar vermerkte, die ungewöhnliche Schreibart auch aufgefallen, was er aber auf eine „ungeschickt wirkende italienische Hand“ zurückführte.
+Bei darauf hin angestellten Nachforschungen der Bibliothek stellte sich heraus, dass einem jahrelangen Bibliothekar im 19. Jahrhundert die Rolle durchaus bekannt war. Sie war unter dem wenig beindruckenden Titel "Rolle 2" archiviert. Dem Bibliothekar war, wie er in einem Inventar vermerkte, die ungewöhnliche Schreibart auch aufgefallen, was er aber auf eine "ungeschickt wirkende italienische Hand" zurückführte.
 
 Wie lange die Schriftrolle in den Archiven der *Biblioteca Universitaria di Bologna* vor sich hin vegetierte, ist noch nicht bekannt. Die (Neu-)Entdeckung dieses Textes hat jedoch so viel Aufmerksamkeit in akademischen Kreisen erlangt, dass diese Frage und die nach dem Urheber hoffentlich in naher Zukunft geklärt werden können.
 

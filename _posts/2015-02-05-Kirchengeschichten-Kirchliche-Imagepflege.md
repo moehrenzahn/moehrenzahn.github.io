@@ -6,7 +6,7 @@ categories: [Theologie]
 comments: true
 ---
 
-Einer meiner kirchlichen Lieblings-Blogger, Holger Pyka, hat [auf Kirchengeschichten ein paar kluge Gedanken rund um „kirchliche Imagepflege](http://kirchengeschichten.blogspot.de/2015/01/kirchliche-imagepflege.html) formuliert. Was folgt ist eine Art Chronik kirchlicher Öffentlichkeitsarbeit(-sversuche):
+Einer meiner kirchlichen Lieblings-Blogger, Holger Pyka, hat [auf Kirchengeschichten ein paar kluge Gedanken rund um "kirchliche Imagepflege](http://kirchengeschichten.blogspot.de/2015/01/kirchliche-imagepflege.html) formuliert. Was folgt ist eine Art Chronik kirchlicher Öffentlichkeitsarbeit(-sversuche):
 
 > Öffentlichkeitskampagnen von Kirche und Diakonie werden oft gescholten, und das nicht selten auch zu Recht. Meist wird eine Harm- und Zahnlosigkeit bemängelt, die mittlerweile schon fast zum Markenkern zu gehören scheint. Erklären lässt sich das, glaube ich, zum Teil mit den schon oben angedeuteten langwierigen Entscheidungs- und Redaktionsprozessen, die wenig Raum für Kreativität lassen und vor allem auf Erwartbarkeit und Planbarkeit setzen. 
 

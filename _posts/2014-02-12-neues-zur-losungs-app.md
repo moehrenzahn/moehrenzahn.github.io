@@ -14,11 +14,11 @@ Die Mail ist auf [theolobias.de zitiert](http://www.theolobias.de/2014/02/11/her
 
 > Ihre Anregungen haben zu umfangreichen Beratungen und zu Entscheidungen geführt, die […] folgendes Ergebnis erzielten: Alttestamentliches Losungswort und neutestamentlicher Lehrtext sollen – als exklusives Angebot seitens der Herausgeber – nun wieder als Freeware angeboten werden.
 
-*„Von der offiziellen Losungs-App für Android und iOS gibt es erfreuliche Neuigkeiten zu vermelden.“*, [kommentiert Tobias Lampert die Mail](http://www.theolobias.de/2014/02/11/herrnhuter-losungen-neues-zur-losungs-app/?utm_source=rss&utm_medium=rss&utm_campaign=herrnhuter-losungen-neues-zur-losungs-app).
+*"Von der offiziellen Losungs-App für Android und iOS gibt es erfreuliche Neuigkeiten zu vermelden."*, [kommentiert Tobias Lampert die Mail](http://www.theolobias.de/2014/02/11/herrnhuter-losungen-neues-zur-losungs-app/?utm_source=rss&utm_medium=rss&utm_campaign=herrnhuter-losungen-neues-zur-losungs-app).
 
 Ich kann seine Euphorie nicht teilen.
 
-Die Brüdergemeine erlaubt es laut diesem Schreiben nicht mehr, die Losungstexte in irgendeiner Form selbst weiterzuverbreiten, zum Beispiel in einer eigens programmierten App. Die Losungstexte der offiziellen App sind nur *„als exklusives Angebot seitens der Herausgeber“* zu verstehen. Das ist besonders ärgerlich für Leute, die eine weniger weit verbreitete Smartphone-Platform nutzen oder App-Entwickler, die sich an einer eigenen Losungs-App versuchen wollen.
+Die Brüdergemeine erlaubt es laut diesem Schreiben nicht mehr, die Losungstexte in irgendeiner Form selbst weiterzuverbreiten, zum Beispiel in einer eigens programmierten App. Die Losungstexte der offiziellen App sind nur *"als exklusives Angebot seitens der Herausgeber"* zu verstehen. Das ist besonders ärgerlich für Leute, die eine weniger weit verbreitete Smartphone-Platform nutzen oder App-Entwickler, die sich an einer eigenen Losungs-App versuchen wollen.
 
 Ich finde es bedauernswert, dass sich die Herrnhuter so bedroht fühlen, dass sie meinen diese Apps von anderen Entwicklern unterbinden zu müssen. Das hätten sie eigentlich nicht nötig, denn die [offizielle App](https://itunes.apple.com/de/app/die-losungen-der-herrnhuter/id685358790?mt=8) ist durchaus konkurrenzfähig.
 

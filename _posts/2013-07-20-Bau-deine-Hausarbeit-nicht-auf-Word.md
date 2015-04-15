@@ -5,21 +5,21 @@ categories: [Technologie, Theologie]
 comments: true
 ---
 
-> „Und wer diese meine Rede hört und tut sie nicht, der gleicht einem törichten Mann, der sein Haus auf Sand baute.“ — [Matthäus 7,26](http://www.bibleserver.com/text/LUT/Matthäus7)
+> "Und wer diese meine Rede hört und tut sie nicht, der gleicht einem törichten Mann, der sein Haus auf Sand baute." — [Matthäus 7,26](http://www.bibleserver.com/text/LUT/Matthäus7)
 <!--more-->
 ### … und auch nicht auf Open Office!
 
 Wir alle kennen das. In meiner Jugend bekam ich beigebracht, dass das erste, was man auf einem neuen Computer installieren muss, [Microsoft Office](http://de.wikipedia.org/wiki/Microsoft_Office) ist. Wie soll man den sonst vernünftig arbeiten? Später fand ich heraus, dass es für Freunde von offener (und kostenloser) Software auch noch OpenOffice (jetzt [LibreOffice](https://de.wikipedia.org/wiki/LibreOffice)) gibt, was den gleichen Zweck erfüllt.
 
-In der Schule wurde uns im Informatikunterricht gelernt, wie wir in ein Word-Dokument freundliche „Clip-Arts“ und allerhand bunte, gekrümmte 3D-Regenbogen-Überschriften einfügen können. Alles schön und gut.
+In der Schule wurde uns im Informatikunterricht gelernt, wie wir in ein Word-Dokument freundliche "Clip-Arts" und allerhand bunte, gekrümmte 3D-Regenbogen-Überschriften einfügen können. Alles schön und gut.
 
 Seit dem haben mich Word-Programme begleitet und ich habe damit zahlreiche Hausaufgaben, wissenschaftliche Arbeiten, Glückwunschkarten und Liebesbriefe geschrieben. Das wird den meisten von uns so gehen.
 
 Aber umso umfangreicher die Projekte werden, umso unpraktischer wird es mit Word zu arbeiten. Inzwischen würde ich jedem davon abraten, eine Hausarbeit oder ähnliches in Word zu schreiben.
 
-### Von „WYSIWYG“ und anderen Akronymen
+### Von "WYSIWYG" und anderen Akronymen
 
-Was ist denn das Problem damit? Ganz einfach: Word et al. sind Programme, um Text zu „setzen“. Auf dem Bildschirm sieht man eine Repräsentation des Dokuments wie es aussehen würde, wenn man es auf Papier ausdrucken würde. Dieses Art der Darstellung nennt man WYSIWYG, *what you see is what you get*, also: Was man sieht, bekommt man auch. Bei unserem Beispiel Hausarbeit sehen wir also die einzelnen Seiten, die Fußnoten am Ende jeder Seite und so weiter.
+Was ist denn das Problem damit? Ganz einfach: Word et al. sind Programme, um Text zu "setzen". Auf dem Bildschirm sieht man eine Repräsentation des Dokuments wie es aussehen würde, wenn man es auf Papier ausdrucken würde. Dieses Art der Darstellung nennt man WYSIWYG, *what you see is what you get*, also: Was man sieht, bekommt man auch. Bei unserem Beispiel Hausarbeit sehen wir also die einzelnen Seiten, die Fußnoten am Ende jeder Seite und so weiter.
 
 Warum ist das aber ungünstig? Eine Arbeit oder einen anderen langen Text zu schreiben erfordert viel Konzentration; es geht in erster Linie darum, Worte auf das (virtuelle) Papier zu bekommen. Nach meiner Erfahrung (und bestimmt ging es jedem schon mal ähnlich) bereiten Word & co. aber so einiges an Ablenkung:
 
@@ -38,7 +38,7 @@ Trotzdem scheint es mir schwierig, sich während des Schreibens nicht immer wied
 
 Das kommt darauf an, wie fortgeschritten man es haben möchte.
 
-Für den Anfang empfehle ich einfach ein unkompliziertes Schreibprogramm für den Text – irgendeines, das die Worte nicht in ein Modell von „Seiten“ hineinpresst. Wenn die inhaltliche Arbeit abgeschlossen ist kann man den ganzen Text kopieren, in Word oder LibrOffice einfügen und dort dann *einmal* formatieren, das Inhaltsverzeichnis generieren etc. So spart man sich die meisten der oben genannten Probleme. 
+Für den Anfang empfehle ich einfach ein unkompliziertes Schreibprogramm für den Text – irgendeines, das die Worte nicht in ein Modell von "Seiten" hineinpresst. Wenn die inhaltliche Arbeit abgeschlossen ist kann man den ganzen Text kopieren, in Word oder LibrOffice einfügen und dort dann *einmal* formatieren, das Inhaltsverzeichnis generieren etc. So spart man sich die meisten der oben genannten Probleme. 
 
 Als Schreibprogramm kann man einfach den Windows-Editor verwenden. Da gibt es null Schnickschnack um vom eigentlichen abzulenken, *dem Inhalt*. Wer ein paar mehr Features will, dem empfehle ich [Notepad++](http://de.wikipedia.org/wiki/Notepad%2B%2B). Auf dem Mac verwende ich [iAWriter](https://itunes.apple.com/de/app/ia-writer/id439623248?mt=12&ign-mpt=uo%3D4).
 

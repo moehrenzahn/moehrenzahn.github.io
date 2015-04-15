@@ -51,4 +51,4 @@ It has a .5 second delay, but it works for me. If I enter `cal` into Alfred, it 
 
 You can [download the finished plugin here](/images/Fantastical.alfredworkflow).
 
-[^automate]: It would be much easier if Flexibits improved their Applescript implementation with an „invoke“ functionality. The default Applescript function `activate` doesn’t work because Fantastical on the Mac is not a proper window.
+[^automate]: It would be much easier if Flexibits improved their Applescript implementation with an "invoke" functionality. The default Applescript function `activate` doesn’t work because Fantastical on the Mac is not a proper window.

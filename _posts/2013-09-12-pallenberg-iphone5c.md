@@ -21,9 +21,9 @@ Apple hat bis jetzt immer die älteren iPhone-Modelle als günstigere Variante z
 
 ## Das *C* steht halt nicht für *cheap*
 
-Das ist – zugegeben – nicht sonderlich revolutionär. Aber eine „Frechheit“ ist es wohl kaum. Es ist einfach das, was zu erwarten war nach dem, was Apple die letzten Jahre auch gemacht hat.
+Das ist – zugegeben – nicht sonderlich revolutionär. Aber eine "Frechheit" ist es wohl kaum. Es ist einfach das, was zu erwarten war nach dem, was Apple die letzten Jahre auch gemacht hat.
 
-„Lächerlich“ macht sich Apple erst, wenn ein anderer Hersteller ein besseres Angebot bietet. Bedenklich ist viel eher, dass sich so viele Tech-Blogger an einem – wie sich herausstellte – fiktiven billig-iPhone aufheizen, und dann enttäuscht sind, wenn Apple nichts dergleichen präsentiert. Das *C* steht halt nicht für *cheap*.
+"Lächerlich" macht sich Apple erst, wenn ein anderer Hersteller ein besseres Angebot bietet. Bedenklich ist viel eher, dass sich so viele Tech-Blogger an einem – wie sich herausstellte – fiktiven billig-iPhone aufheizen, und dann enttäuscht sind, wenn Apple nichts dergleichen präsentiert. Das *C* steht halt nicht für *cheap*.
 
 Innovation ist wichtig. Aber wer denkt, dass ein Gerät durch einen sehr günstigen Preis plötzlich innovativ wird, der hat Apple nicht verstanden.[^3]
 

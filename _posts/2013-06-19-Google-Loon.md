@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Googles „Project Loon“ und die Zukunft des freien Internets
+title: Googles "Project Loon" und die Zukunft des freien Internets
 categories: [Technologie]
 comments: true
 ---
 
 Man kann ja von Google halten was man will, aber in bestimmten Bereichen sind sie wirklich innovativ und überraschen mit pfiffigen neuen Ideen. Im Juni 2013 hat Google wieder einmal eine solches Idee bekannt gegeben: Project Loon.
 <!--more-->
-Auf der [Homepage des Projektes](http://www.google.com/loon/) nennt Google es „ballonbetriebenes Internet für alle“. Kurz zusammengefasst geht es darum, aus mit Recievern ausgestatteten Wetterballons ein globales Netzwerk von Internet-Hotspots zu bilden. So könnte man relativ günstig Länder mit Internetanschlüssen versorgen, in denen die nötige Infrastruktur nicht vorhanden ist.
+Auf der [Homepage des Projektes](http://www.google.com/loon/) nennt Google es "ballonbetriebenes Internet für alle". Kurz zusammengefasst geht es darum, aus mit Recievern ausgestatteten Wetterballons ein globales Netzwerk von Internet-Hotspots zu bilden. So könnte man relativ günstig Länder mit Internetanschlüssen versorgen, in denen die nötige Infrastruktur nicht vorhanden ist.
 
 ### Google gehört das Internet
 
 Google ist eine Internetfirma, und das Unternehmen hat in der Vergangenheit bereits bewiesen, dass es nicht nur an Inhalten interessiert ist, sondern im Internet der Zukunft auch als Anbieter fungieren will.
 
-Bereits 2012 ging [„Google Fiber“](https://fiber.google.com/about/) durch die Medien. Mit seinem [wahnsinnig schnellen Breitbandinternet](https://fiber.google.com/features/) stellte es die schwache Konkurenz in den Schatten – zumindest in den [wenigen amerikanischen Städten](https://fiber.google.com/cities/), in denen Google Fiber angeboten wird.
+Bereits 2012 ging ["Google Fiber"](https://fiber.google.com/about/) durch die Medien. Mit seinem [wahnsinnig schnellen Breitbandinternet](https://fiber.google.com/features/) stellte es die schwache Konkurenz in den Schatten – zumindest in den [wenigen amerikanischen Städten](https://fiber.google.com/cities/), in denen Google Fiber angeboten wird.
 
 Fiber ist deshalb räumlich so beschränkt, weil Google erst einmal überall Glasfaserkabeln verlegen bzw. mieten müsste – eine zeitaufwändige und kostspielige Angelegenheit.[^1] Google hätte zwar vielleicht das Geld dazu, überall eigene Kabel zu verlegen, dennoch arbeiten sie daran, das ganze Kabel-im-Boden-Problem komplett zu umgehen – mit Ballons.
 

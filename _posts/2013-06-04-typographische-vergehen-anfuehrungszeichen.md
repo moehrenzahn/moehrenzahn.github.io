@@ -23,7 +23,7 @@ Wohl am häufigsten findet man im Internet Anführungszeichen, die so aussehen w
 
 ![Schreibmaschinen-Anführungszeichen auf zeit.de](/images/Anf%C3%BChrungszeichen_zeit.de.png) 
 
-Hier sind die „Kringel“ vereinfacht zu jeweils zwei horizontalen Strichen (`"`). Das könnte man ja als künstlerische(/typografische) Freiheit entschuldigen, aber aus Gründen befinden sich die Striche am Anfang des Zitates *oben* an der Zeile. Was soll das denn bedeuten?
+Hier sind die "Kringel" vereinfacht zu jeweils zwei horizontalen Strichen (`"`). Das könnte man ja als künstlerische(/typografische) Freiheit entschuldigen, aber aus Gründen befinden sich die Striche am Anfang des Zitates *oben* an der Zeile. Was soll das denn bedeuten?
 
 ### Ein kurzer Exkurs in die Geschichte der Schriftsetzung 
 

@@ -19,4 +19,4 @@ Und das hat nichts mit technischem Fortschritt zu tun. [Die drei Macs auf den Fo
 
 Apple mag in manchen Bereichen nachgelassen haben, aber in Sachen Hardware-Design sind sie immer noch unerreicht – andere Hersteller wedeln nur hilflos mit den Armen oder [imitieren halbherzig das Apple-Design](http://www.maclife.de/panorama/netzwelt/neue-schicke-ultrabooks-hp-ohne-eigene-ideen-kopiert-erneut-macbook-air-design).[^hp]
 
-[^hp]: Ehrlich mal. Das [HP SpectreOne](http://www.maclife.de/panorama/netzwelt/neue-schicke-ultrabooks-hp-ohne-eigene-ideen-kopiert-erneut-macbook-air-design) sieht aus als hätte man den iMac genommen und gesagt: „Jetzt müssen wir nur noch ein paar Sachen verändern, damit es ein bisschen anders aussieht.“ \*Schauder\*.
+[^hp]: Ehrlich mal. Das [HP SpectreOne](http://www.maclife.de/panorama/netzwelt/neue-schicke-ultrabooks-hp-ohne-eigene-ideen-kopiert-erneut-macbook-air-design) sieht aus als hätte man den iMac genommen und gesagt: "Jetzt müssen wir nur noch ein paar Sachen verändern, damit es ein bisschen anders aussieht." \*Schauder\*.

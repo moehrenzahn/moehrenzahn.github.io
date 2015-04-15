@@ -6,7 +6,7 @@ categories: [Technologie]
 
 Ich hab wieder einmal ein paar kleine Veränderungen an moehrenzahn.de vorgenommen.
 
-Zum einen habe ich die ganze Seite von [Octopress](http://octopress.org/) zu [Jekyll](http://jekyllrb.com/) migriert.[^1] Jekyll hat in den letzten Jahren einige substantielle Updates mitbekommen, die vor allem die Build-Geschwindigkeit massiv verbessert haben. Ich hatte sowieso kaum noch Features von Octopress genutzt, deshalb entschloss ich mich, zu „reinem“ Jekyll zu wechseln. 
+Zum einen habe ich die ganze Seite von [Octopress](http://octopress.org/) zu [Jekyll](http://jekyllrb.com/) migriert.[^1] Jekyll hat in den letzten Jahren einige substantielle Updates mitbekommen, die vor allem die Build-Geschwindigkeit massiv verbessert haben. Ich hatte sowieso kaum noch Features von Octopress genutzt, deshalb entschloss ich mich, zu "reinem" Jekyll zu wechseln. 
 
 [^1]: Das war recht unkompliziert, da Octopress ja im Grunde nur ein aufgebohrtes Jekyll ist. Als Besucher sollte man keine Veränderung bemerken können.
 
@@ -42,7 +42,7 @@ document.cookie = "nightmode=on; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
 
 Mit diesem Wissen ausgestattet muss jetzt nur noch die Logik programmiert werden, die den Cookie abwechselnd speichert und löscht:[^2]
 
-[^2]: Die Funktion `getcookie` hab ich mir von [w3schools](http://www.w3schools.com/js/js_cookies.asp) „geborgt“.
+[^2]: Die Funktion `getcookie` hab ich mir von [w3schools](http://www.w3schools.com/js/js_cookies.asp) "geborgt".
 
 {% highlight javascript %}
 $(document).ready(function() {

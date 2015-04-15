@@ -13,33 +13,33 @@ comments: true
 
 Liebe Gemeinde, 
 
-Wie stellen Sie sich eigentlich die Jünger von Jesus vor? Welches Bild haben Sie in Ihrem Kopf, wenn Sie das Wort „Jünger“ hören?
+Wie stellen Sie sich eigentlich die Jünger von Jesus vor? Welches Bild haben Sie in Ihrem Kopf, wenn Sie das Wort "Jünger" hören?
 
 Vielleicht ja ein Bild, so, wie in alten Bibelverfilmungen? Ein Haufen verdächtig europäisch aussehender Männer mittleren Alters mit dichten, krausigen Bärten, die in beigefarbenen, grob gewebten Gewändern voller Würde ihre Verse vortragen?
 
 Oder waren die Jünger eher einfältige Gestalten, die immer treuherzig und ein bisschen naiv hinter Jesus her liefen – und dabei mehr im Weg waren als sie hilfreich waren?
 
-Die Evangelien beschäftigen sich viel damit, was die Jünger so für Typen waren. Und da zeigt sich, dass diese so verschiedenen Bilder beide nicht grundverkehrt sind. Im neuen Testament zeigen sich zwei Seiten vom Leben als Jünger – zwei Seiten vom Jüngersein. Ich möchte sie nennen *die „ahnungslosen Tage“* im Leben der Jünger und *die „ahnungsvollen Tage“* im Leben der Jünger.
+Die Evangelien beschäftigen sich viel damit, was die Jünger so für Typen waren. Und da zeigt sich, dass diese so verschiedenen Bilder beide nicht grundverkehrt sind. Im neuen Testament zeigen sich zwei Seiten vom Leben als Jünger – zwei Seiten vom Jüngersein. Ich möchte sie nennen *die "ahnungslosen Tage"* im Leben der Jünger und *die "ahnungsvollen Tage"* im Leben der Jünger.
 
 ## Das Leben eines Jüngers: Die ahnungsvollen Tage
 
-Schauen wir uns zunächst einmal die „ahnungsvollen Tage“ an.
+Schauen wir uns zunächst einmal die "ahnungsvollen Tage" an.
 
-Die Jünger von Jesus mussten schon irgend eine „Ahnung“ gehabt haben. Jesus ist durch das Land gezogen und hat sich seine Jüngerinnen und Jünger wie im Vorbeigehen zusammengesammelt. Hier ein paar Fischer, dort einen Gelehrten, einen Zollbeamten, die Frau eines wichtigen Politikers. Diese Leute sind freiwillig mit Jesus mitgekommen, manche haben aus dem Stand ihre Familien, ihren Beruf und alles was sie hatten zurückgelassen, um mit diesem Jesus mitzugehen. Das kann ich mir nicht anders erklären, als das irgendetwas an diesem Jesus die Jünger angezogen haben muss – auch wenn sie selbst den Finger nicht darauf legen konnten, was dieses „Etwas“ war. Die Jünger hatten eine „Ahnung“ davon, das Jesus nicht ein Wanderprediger wie jeder andere war. Und sie trafen die wichtigste Entscheidung ihres Lebens. Sie gingen mit Jesus mit.
+Die Jünger von Jesus mussten schon irgend eine "Ahnung" gehabt haben. Jesus ist durch das Land gezogen und hat sich seine Jüngerinnen und Jünger wie im Vorbeigehen zusammengesammelt. Hier ein paar Fischer, dort einen Gelehrten, einen Zollbeamten, die Frau eines wichtigen Politikers. Diese Leute sind freiwillig mit Jesus mitgekommen, manche haben aus dem Stand ihre Familien, ihren Beruf und alles was sie hatten zurückgelassen, um mit diesem Jesus mitzugehen. Das kann ich mir nicht anders erklären, als das irgendetwas an diesem Jesus die Jünger angezogen haben muss – auch wenn sie selbst den Finger nicht darauf legen konnten, was dieses "Etwas" war. Die Jünger hatten eine "Ahnung" davon, das Jesus nicht ein Wanderprediger wie jeder andere war. Und sie trafen die wichtigste Entscheidung ihres Lebens. Sie gingen mit Jesus mit.
 
 Zwar war den Jüngern zumeist nicht klar, wer Jesus war – und sie hätten es wohl auch niemandem erklären können -, aber sie hatten zumindest eine Ahnung davon, dass dieser Jesus etwas besonderes war. 
 
 Bei den Jüngern war es Petrus, bei dem als erstes der Groschen fiel. Jesus fragte seine Jünger einmal, was sie denken wer er sei. Unter den Jüngern herrschte allgemeine Ratlosigkeit, sie fingen an, hin und her zu diskutieren und zu spekulieren. Der Jünger Petrus wurde mitten in der Diskussion ganz still. Plötzlich hört er sich antworten:
 
-„Du bist der Christus, der Sohn des lebendigen Gottes!“
+"Du bist der Christus, der Sohn des lebendigen Gottes!"
 
 Dieser Lichtblick von Petrus währt aber nicht übermäßig lang. Gleich in der nächsten Szene scheint er wieder vergessen zu haben, was er selbst eigentlich gerade eben erst ausgesprochen hatte.
 
 ## Das Leben eines Jüngers: Die ahnungslosen Tage
 
-Die Jünger waren keineswegs dauererleuchtet. Der Grundzustand der Jünger war „ahnungslos“. Und das ist die andere Seite des Jüngerseins. Die „ahnungslosen Tage“.
+Die Jünger waren keineswegs dauererleuchtet. Der Grundzustand der Jünger war "ahnungslos". Und das ist die andere Seite des Jüngerseins. Die "ahnungslosen Tage".
 
-Jesus wirkte allerhand große Wunder. Dabei waren die Jünger höchstens als Handlanger aktiv, die schlicht die Anweisungen von Jesus befolgten. Jesus sagt: „Bringt mir die Brote und Fische her“ – die Jünger holen das Brot und die Fische. „Verteilt das Brot und die Fische unter den Leuten!“ – die Jünger verteilen das Essen. „Geht und sammelt die Reste wieder ein!“ – Die Jünger tun, was Jesus sagt, aber *verstehen*, was es bedeuten soll, tun sie nicht.
+Jesus wirkte allerhand große Wunder. Dabei waren die Jünger höchstens als Handlanger aktiv, die schlicht die Anweisungen von Jesus befolgten. Jesus sagt: "Bringt mir die Brote und Fische her" – die Jünger holen das Brot und die Fische. "Verteilt das Brot und die Fische unter den Leuten!" – die Jünger verteilen das Essen. "Geht und sammelt die Reste wieder ein!" – Die Jünger tun, was Jesus sagt, aber *verstehen*, was es bedeuten soll, tun sie nicht.
 
 Es gibt zahlreiche solche Episoden im Neuen Testament, in denen die Jünger insgesamt keinen besonders klugen Eindruck machen.
 
@@ -53,17 +53,17 @@ Das sind so die Momente, in denen klar wird, dass die Jünger oft im wahrsten Si
 
 ## Verklärung aus der Perspektive von Petrus
 
-Kommen wir nun – Sie haben sicher schon darauf gewartet – zu dieser wirklich merkwürdigen Geschichte unseres Predigttextes: Die „Verklärung Jesu“. Auf den ersten Blick ist das eine Geschichte, in der es ganz um Jesus geht. Aber bei näherer Betrachtung kann man aus dieser Geschichte von der Verklärung auch so einiges über die Jünger lernen. Bleiben wir doch mal bei Petrus und schauen uns die Geschichte aus seiner Perspektive an. 
+Kommen wir nun – Sie haben sicher schon darauf gewartet – zu dieser wirklich merkwürdigen Geschichte unseres Predigttextes: Die "Verklärung Jesu". Auf den ersten Blick ist das eine Geschichte, in der es ganz um Jesus geht. Aber bei näherer Betrachtung kann man aus dieser Geschichte von der Verklärung auch so einiges über die Jünger lernen. Bleiben wir doch mal bei Petrus und schauen uns die Geschichte aus seiner Perspektive an. 
 
 *Jesus lud Petrus und eine Hand voll anderer Jünger ein, mit ihm auf einen nahegelegenen Berg zu steigen. Petrus war gewohnt, zu tun was Jesus sagte und kam mit.*
 
-*An der Spitze des Berges angekommen, wurde Jesus plötzlich vor den Augen der Jünger wie „verwandelt“, sein Gesicht und seine Kleidung begannen strahlend zu leuchten – als wäre die ganze Herrlichkeit des Himmels auf einmal auf Jesus gerichtet. So etwas hatte Petrus noch nie gesehen. Was er sah, war herrlicher als alles, was Petrus je mit Jesus erlebt hatte – und er hatte schon so einiges mit ihm erlebt, wenn er darüber nachdachte.*
+*An der Spitze des Berges angekommen, wurde Jesus plötzlich vor den Augen der Jünger wie "verwandelt", sein Gesicht und seine Kleidung begannen strahlend zu leuchten – als wäre die ganze Herrlichkeit des Himmels auf einmal auf Jesus gerichtet. So etwas hatte Petrus noch nie gesehen. Was er sah, war herrlicher als alles, was Petrus je mit Jesus erlebt hatte – und er hatte schon so einiges mit ihm erlebt, wenn er darüber nachdachte.*
 
 *Plötzlich sah Petrus da noch zwei andere in Licht getauchte Gestalten bei Jesus. Petrus konnte sich nicht erklären warum, aber plötzlich wusste er, dass diese Gestalten Mose und Elia waren, die großen Glaubenshelden, die Petrus schon solange er denken konnte aus Geschichten kannte. Und sie fingen an sich mit Jesus zu unterhalten.*
 
-*Das Licht schien so hell, dass Petrus kaum noch klar denken konnte. Er konnte kein Wort verstehen von dem, was Jesus mit den Gestalten beredete. Er verstand nicht, was das überhaupt alles zu bedeuten hatte – und er machte sich auch keine weiteren Gedanken; er wollte einfach nur bleiben in diesem überirdischen Licht. „Meister,“ rief er zu Jesus, „Lass uns hier auf diesem Berg bleiben! Wir könnten Zelte aufbauen für dich, für Mose und für Elia!“ – Hauptsache den Moment festhalten. Petrus wollte nicht, dass dieser Lichtblick wieder vorbei geht, wie so oft zuvor.*
+*Das Licht schien so hell, dass Petrus kaum noch klar denken konnte. Er konnte kein Wort verstehen von dem, was Jesus mit den Gestalten beredete. Er verstand nicht, was das überhaupt alles zu bedeuten hatte – und er machte sich auch keine weiteren Gedanken; er wollte einfach nur bleiben in diesem überirdischen Licht. "Meister," rief er zu Jesus, "Lass uns hier auf diesem Berg bleiben! Wir könnten Zelte aufbauen für dich, für Mose und für Elia!" – Hauptsache den Moment festhalten. Petrus wollte nicht, dass dieser Lichtblick wieder vorbei geht, wie so oft zuvor.*
 
-*Aber schon während Petrus seinen Gedanken aussprach, war es ihm, als wäre das nicht das Richtige. Plötzlich hörte er eine Stimme – aber nicht von Jesus. Die Stimme schien von überall um ihn her zu kommen – eine göttliche Stimme. Und die Stimme sprach ihn an, sie sprach zu den Jüngern! Die Stimme redete von Jesus. Die Stimme befahl den Jüngern, bei Jesus zu bleiben und auf ihn zu hören. Sie sagte, dieser Jesus sei „Gottes geliebter Sohn.“*
+*Aber schon während Petrus seinen Gedanken aussprach, war es ihm, als wäre das nicht das Richtige. Plötzlich hörte er eine Stimme – aber nicht von Jesus. Die Stimme schien von überall um ihn her zu kommen – eine göttliche Stimme. Und die Stimme sprach ihn an, sie sprach zu den Jüngern! Die Stimme redete von Jesus. Die Stimme befahl den Jüngern, bei Jesus zu bleiben und auf ihn zu hören. Sie sagte, dieser Jesus sei "Gottes geliebter Sohn."*
 
 *Das war es, was Petrus irgendwie geahnt, gespürt hatte: Dieser Jesus ist Gottes Sohn! Jesus ist der Messias, von dem die alten Geschichten erzählten! In diesem einen, kurzen Moment, war für Petrus alles klar, der ganze Heilsplan Gottes lag wie ein offenes Buch vor ihm ausgebreitet! In diesem Moment schienen ihm all die unerklärlichen Dinge, die er mit Jesus erlebt hatte, enträtselt.*
 
@@ -71,7 +71,7 @@ Kommen wir nun – Sie haben sicher schon darauf gewartet – zu dieser wirklich
 
 *Plötzlich wird der Jünger Petrus wie aus dem Nichts von einem lähmenden Schrecken ergriffen, als würde das Buch der göttlichen Offenbarung vor seinen Augen mit aller Gewalt zugeschlagen. Petrus bricht zusammen und fällt auf die Erde – für einen Moment hat er nur noch Finsternis vor Augen.*
 
-*Da hört Petrus Schritte. Sie klingen vertraut, wie eine eigentlich vergessen geglaubte Erinnerung. Er spürt eine Hand auf seiner Schulter und fühlt, wie eine vertraute Wärme seinen ganzen Körper durchströmt. Es ist die vertraute Stimme seines Meisters Jesus, die zu ihm spricht, die ihm zusagt: „Steh auf, Petrus, und hab' keine Angst.“ In diesem Moment kann Petrus wieder die Augen öffnen; und als er aufblickt, sieht er niemanden als nur Jesus allein, seinen Meister.*
+*Da hört Petrus Schritte. Sie klingen vertraut, wie eine eigentlich vergessen geglaubte Erinnerung. Er spürt eine Hand auf seiner Schulter und fühlt, wie eine vertraute Wärme seinen ganzen Körper durchströmt. Es ist die vertraute Stimme seines Meisters Jesus, die zu ihm spricht, die ihm zusagt: "Steh auf, Petrus, und hab' keine Angst." In diesem Moment kann Petrus wieder die Augen öffnen; und als er aufblickt, sieht er niemanden als nur Jesus allein, seinen Meister.*
 
 ---
 
@@ -91,17 +91,17 @@ Ich kenne aber auch solche Lichtmomente – kurze, viel zu kurze Augenblicke, in
 
 Dieses Evangelium ist aber keines, das ich in eine handliche Predigt packen könnte und Ihnen einfach so vorlegen könnte. Es ist etwas, wo ich selbst dankbar bin, wenn ich einen flüchtigen Blick darauf erhaschen kann. Und das geht mir auch noch so, obwohl ich schon einige Jahre Theologie studiere. Man könnte ja meinen, dass man sowas dort lernt. Aber umso mehr ich lerne, umso weniger habe ich das Gefühl, dass ich eine Ahnung habe von all diesen Dingen.
 
-Sie fragen sich jetzt vielleicht: Kann ich denn als Christ überhaupt sagen, dass ich „keine Ahnung“ habe? Oder gar als Prediger? Was bedeutet denn dann Jüngersein, wenn nicht verstehen? 
+Sie fragen sich jetzt vielleicht: Kann ich denn als Christ überhaupt sagen, dass ich "keine Ahnung" habe? Oder gar als Prediger? Was bedeutet denn dann Jüngersein, wenn nicht verstehen? 
 
-Jüngersein bedeutet nicht, alles zu wissen. Es bedeutet Nach-Folgen. Mit Jesus mitgehen, auf Jesus schauen und *staunen*. Deshalb nennen wir es Glauben. Die christliche Botschaft ist nichts, was wir uns einmal aneignen und dann für immer eine Ahnung davon haben. Sondern wir gehen mit Jesus mit, weil wir eine Ahnung davon haben, dass *er* weiß. Das Evangelium, die „Gute Botschaft“ von der wir Christen immer reden, ist keine Information, die Sie in einer Predigt hören oder in einer Broschüre lesen können und dann Bescheid wissen. Sondern das Evangelium ist dieser Jesus selbst! Und was das bedeuten soll, können wir nur herausfinden, wenn wir mit ihm mitgehen! Wenn wir seine Jünger werden!
+Jüngersein bedeutet nicht, alles zu wissen. Es bedeutet Nach-Folgen. Mit Jesus mitgehen, auf Jesus schauen und *staunen*. Deshalb nennen wir es Glauben. Die christliche Botschaft ist nichts, was wir uns einmal aneignen und dann für immer eine Ahnung davon haben. Sondern wir gehen mit Jesus mit, weil wir eine Ahnung davon haben, dass *er* weiß. Das Evangelium, die "Gute Botschaft" von der wir Christen immer reden, ist keine Information, die Sie in einer Predigt hören oder in einer Broschüre lesen können und dann Bescheid wissen. Sondern das Evangelium ist dieser Jesus selbst! Und was das bedeuten soll, können wir nur herausfinden, wenn wir mit ihm mitgehen! Wenn wir seine Jünger werden!
 
-Und dann ist es auch nicht schlimm, wenn ich einmal Ahnungslos bin. Als Christ darf ich glauben, dass Jesus – gerade in den Momenten, wo ich nicht verstehe, wo ich ratlos bin, wo mir das Jüngersein zu viel wird – dass Jesus gerade dann, wenn ich am Boden liege, auf mich zukommt, mir seine Hand auf meine Schulter legt und mir zusagt – „Steh auf und hab' keine Angst.“
+Und dann ist es auch nicht schlimm, wenn ich einmal Ahnungslos bin. Als Christ darf ich glauben, dass Jesus – gerade in den Momenten, wo ich nicht verstehe, wo ich ratlos bin, wo mir das Jüngersein zu viel wird – dass Jesus gerade dann, wenn ich am Boden liege, auf mich zukommt, mir seine Hand auf meine Schulter legt und mir zusagt – "Steh auf und hab' keine Angst."
 
 Liebe Gemeinde, so ein Jünger möchte ich sein. Keiner von diesen heiligen Superjüngern aus irgendwelchen Bibelfilmen. Sondern ein ahnungsloser, *staunender* Jünger.
 
 ## Epilog: Jesus, der seine Jünger ins Leben zurückholt
 
-*Petrus und die anderen beiden Jünger stiegen gemeinsam mit Jesus wieder den Berg hinunter. Es schien ihm der längste Weg seines Lebens zu sein. Am liebsten wäre er wieder zurückgetreten in die leuchtende Klarheit des Berggipfels. Er spürte, dass der Weg den Berg hinab zugleich der Weg in das normale Leben sein würde. Ein Leben ohne vollmächtige Gottesschau, ohne dieses überwältigende Gefühl, Gott ganz nahe zu sein. Er fühlte sich, als würde er wieder im Dunkeln tappen. Das machte ihn unruhig. Aber er hatte Jesus' Worte vom Berg noch in den Ohren: „Hab keine Angst!“ Er wusste, dass Jesus an seiner Seite gehen würde –, dieser Jesus, von dem man sagte, er sei der Sohn Gottes – dieser Jesus, sein Meister,– und das machte ihm auf unerklärliche Weise – Mut.*
+*Petrus und die anderen beiden Jünger stiegen gemeinsam mit Jesus wieder den Berg hinunter. Es schien ihm der längste Weg seines Lebens zu sein. Am liebsten wäre er wieder zurückgetreten in die leuchtende Klarheit des Berggipfels. Er spürte, dass der Weg den Berg hinab zugleich der Weg in das normale Leben sein würde. Ein Leben ohne vollmächtige Gottesschau, ohne dieses überwältigende Gefühl, Gott ganz nahe zu sein. Er fühlte sich, als würde er wieder im Dunkeln tappen. Das machte ihn unruhig. Aber er hatte Jesus' Worte vom Berg noch in den Ohren: "Hab keine Angst!" Er wusste, dass Jesus an seiner Seite gehen würde –, dieser Jesus, von dem man sagte, er sei der Sohn Gottes – dieser Jesus, sein Meister,– und das machte ihm auf unerklärliche Weise – Mut.*
 
 Und dieser Friede Gottes, welcher höher ist als alle Vernunft, bewahre unsere Herzen und Sinne in Jesus Christus!
 

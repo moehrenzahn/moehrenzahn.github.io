@@ -52,4 +52,4 @@ Es gibt zwar eine halbe Sekunde Verzögerung, aber es genügt für mich. Wenn ic
 
 Das fertige Plugin gibt’s [hier zum Download](/images/Fantastical.alfredworkflow).
 
-[^automate]: Das wäre viel einfacher, wenn Flexibits ihre AppleScript-Implementierung mit einer „invoke“-Funktionalität erweitern würde. Die normale Applescript-Funktion `activate` funktioniert nicht, weil Fantastical auf dem Mac kein normales Fenster ist.
+[^automate]: Das wäre viel einfacher, wenn Flexibits ihre AppleScript-Implementierung mit einer "invoke"-Funktionalität erweitern würde. Die normale Applescript-Funktion `activate` funktioniert nicht, weil Fantastical auf dem Mac kein normales Fenster ist.

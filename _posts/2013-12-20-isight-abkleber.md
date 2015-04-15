@@ -6,14 +6,14 @@ comments: true
 slug: Ich bin dann mal weg, mir einen Aluhut basteln
 ---
 
-Ich habe mich in der Vergangenheit immer ein bisschen lustig gemacht über Leute, die ihre Webcam am Laptop großzügig abkleben – Paranoia durch Unwissenheit. „Die LED ist mit der Kamera in Hardware verbunden, die eine kann nicht ohne die andere angehen“, würde ich jedes mal erklären.
+Ich habe mich in der Vergangenheit immer ein bisschen lustig gemacht über Leute, die ihre Webcam am Laptop großzügig abkleben – Paranoia durch Unwissenheit. "Die LED ist mit der Kamera in Hardware verbunden, die eine kann nicht ohne die andere angehen", würde ich jedes mal erklären.
 
 Das scheint nach neuesten Erkenntnissen aber so nicht zu stimmen.  
 <!--more-->
 
 Die [Washington Post berichtet](http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/18/research-shows-how-macbook-webcams-can-spy-on-their-users-without-warning/) von einem Forscherteam, das es geschafft haben soll, auf einem MacBook die LED der iSight-Kamera zu umgehen und Video aufzunehmen, ohne, dass die Leuchte den Benutzer darüber informiert.
 
-Im [dazugehörigen Paper „iSeeYou: Disabling the MacBook Webcam Indicator LED“](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf) erklären die Sicherheitsforscher Matthew Brocker und Stephen Checkoway ausführlich ihre Methode.
+Im [dazugehörigen Paper "iSeeYou: Disabling the MacBook Webcam Indicator LED"](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf) erklären die Sicherheitsforscher Matthew Brocker und Stephen Checkoway ausführlich ihre Methode.
 
 Für ihre Tests vewendeten sie ein MacBook der ersten Generation, also von 2007/2008. Es wird ausdrücklich betont, dass nicht geprüft wurde, ob der Exploit (genannt *iSeeYou*) auch bei neueren Macs funktioniert:
 

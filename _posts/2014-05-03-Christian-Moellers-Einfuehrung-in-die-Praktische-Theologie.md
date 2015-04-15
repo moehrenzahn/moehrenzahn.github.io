@@ -30,7 +30,7 @@ Im ersten Kapitel schreibt Möller zunächst über die Entstehung und Problemste
 
 In einem historischen Rückblick auf die Geschichte der Praktischen Theologie kommt der Autor auf Schleiermacher zu sprechen, er fragt aber auch nach Ansätzen in der Zeit von der Alten Kirche zum 19. Jahrhundert – also vor der wissenschaftlichen Etablierung der Praktischen Theologie – und entdeckt dabei praktisch-theologische Überlegungen schon bei Gregor von Nazianz und Johannes Chrysostomus.
 
-In seiner Schilderung der Entwicklung der Praktischen Theologie nach Schleiermacher im 20. Jahrhundert stellt Möller die dei „Gestalten“ kerygmatisch, empirisch und spirituell anhand ihrer wichtigsten Vertreter vor.
+In seiner Schilderung der Entwicklung der Praktischen Theologie nach Schleiermacher im 20. Jahrhundert stellt Möller die dei "Gestalten" kerygmatisch, empirisch und spirituell anhand ihrer wichtigsten Vertreter vor.
 
 In einem Diskussionsteil versucht der Autor, die Entwicklung von liberaler zu kerygmatischer (Nach dem ersten Weltkrieg), zu empirischer (60er Jahre) und schließlich zur spirituellen Gestalt (Bohren und Josuttis) der Praktischen Theologie logisch anhand der historischen Hintergründe nachzuvollziehen.
 
@@ -52,15 +52,15 @@ In den Abschnitten *Stationen der Geschichte* sucht Möller nach den Ursprüngen
 
 ### Positionen im 20. Jahrhundert
 
-In seiner Rückschau auf das 20. Jahrhundert geht Möller deutlicher ins Detail. Wie bei der Vorstellung der Praktischen Theologie im Allgemeinen geht Möller von den Grundströmungen „Kerygmatisch“, „Empirisch“ und „Spirituell“ aus. Dabei fällt auf, dass sich dieses Schema durchaus auf alle Bereiche der Praktischen Theologie gleichermaßen anwenden lässt.
+In seiner Rückschau auf das 20. Jahrhundert geht Möller deutlicher ins Detail. Wie bei der Vorstellung der Praktischen Theologie im Allgemeinen geht Möller von den Grundströmungen "Kerygmatisch", "Empirisch" und "Spirituell" aus. Dabei fällt auf, dass sich dieses Schema durchaus auf alle Bereiche der Praktischen Theologie gleichermaßen anwenden lässt.
 
 Besonders in Disziplinen, in denen in den letzten Jahren viel passiert ist, haben viele Konzepte keine lange Geschichte und sind schwer zu schematisieren und einzuordnen. Ich frage mich, wie viele der genannten Ansätze sich bis heute bewährt haben.
 
-Inhaltlich orierntiert sich Möller bei der Vorstellung der einzelnen Entwürfe sehr stark an Personen. Da kann man als unerfahrener Leser schon mal den Überblick verlieren. Durch die Konzentration auf einzelne Stimmen ist es teilweise schwer zu erfassen, worum es bei den „Gestalten“ im Kern geht. Dafür bleibt dieser Teil eher neutral und lässt die verschiedenen Entwürfe für sich sprechen. Eine Bewertung wird dem Leser selbst überlassen.
+Inhaltlich orierntiert sich Möller bei der Vorstellung der einzelnen Entwürfe sehr stark an Personen. Da kann man als unerfahrener Leser schon mal den Überblick verlieren. Durch die Konzentration auf einzelne Stimmen ist es teilweise schwer zu erfassen, worum es bei den "Gestalten" im Kern geht. Dafür bleibt dieser Teil eher neutral und lässt die verschiedenen Entwürfe für sich sprechen. Eine Bewertung wird dem Leser selbst überlassen.
 
 ### Diskussion
 
-Nach diesen *Stationen der Geschichte* folgt stets ein *Diskussionsteil*, in dem der Autor die Entwicklung der Disziplinen noch einmal hinterfragt, die für ihm wichtigsten Gedanken noch einmal zusammenfasst und seine eigene Interpretation und Position zum Besten gibt. Erfrischenderweise traut sich Möller dabei, von sich selbst als „ich“ zu schreiben, was ja mitunter in wissenschaftlicher Literatur verpönt ist, aber seiner Glaubwürdigkeit und Verständlichkeit zugute kommt. 
+Nach diesen *Stationen der Geschichte* folgt stets ein *Diskussionsteil*, in dem der Autor die Entwicklung der Disziplinen noch einmal hinterfragt, die für ihm wichtigsten Gedanken noch einmal zusammenfasst und seine eigene Interpretation und Position zum Besten gibt. Erfrischenderweise traut sich Möller dabei, von sich selbst als "ich" zu schreiben, was ja mitunter in wissenschaftlicher Literatur verpönt ist, aber seiner Glaubwürdigkeit und Verständlichkeit zugute kommt. 
 
 Möller beschreibt das Verhältnis von kerygmatischer, empirischer und spiritueller Gestalt als eine durch historische Hintergründe bedingte Entwicklung. Dieses Von-Zu-Schema erweckt teilweise den Eindruck, als wären älteren Ideen nicht mehr aktuell oder verwertbar. Dabei scheinen mir manche dieser Ideen für die heutige Zeit höchst bedenkenswert.
 
@@ -72,7 +72,7 @@ Nach der Behandlung der letzten praktisch-theologischen Disziplin, der Diakoniew
 
 In diesem Anhang identifiziert sich der Autor auf symphatische Weise mit den geplagten Studierenden in der Examensvorbereitung. Möller erzählt, wie er diese letzte Phase seines Studiums erlebt hat und gibt praktische Ratschläge, wie man beim Lernen am Besten vorgeht und seine Zeit einteilt. Er nennt Tipps für praktische und mündliche Examensprüfungen, die ihm für sein eigenes Examen geholfen haben. Die Crux des Examens und des ganzen theologischen Studiums ist für ihn nicht die Anhäufung von Wissen, sondern die eigene theologische Urteilsfindung. Dieses eigene Urteil sollen Studierende ruhig auch in Prüfungen mit einbringen, viele Prüfer würden ein solides eigenes Urteil mindestens genauso hoch schätzen wie Faktenwissen.
 
-Besonderes Augenmerk legt Möller auf die Examenspredigt. Was folgt, kann man schon fast als eine kleine, kompakte, praktische Predigtlehre bezeichnen. Er selber bezeichnet es als „unmaßgebliche Ratschläge“, da das Entscheidende die eigene Arbeit mit dem Bibeltext sein müsse.
+Besonderes Augenmerk legt Möller auf die Examenspredigt. Was folgt, kann man schon fast als eine kleine, kompakte, praktische Predigtlehre bezeichnen. Er selber bezeichnet es als "unmaßgebliche Ratschläge", da das Entscheidende die eigene Arbeit mit dem Bibeltext sein müsse.
 
 Nach diesem Abschnitt folgt eine umfangreiche *Literaturliste*, in der zahlreiche Bücher, thematisch sortiert, mit einem kurzen Kommentar empfohlen werden. Die Kommentare sind besonders hilfreich, da man so gleich einen Eindruck von den spezifischen Eigenarten und Schwerpunkten der jeweiligen Literatur bekommt. Insofern ist diese Literaturliste deutlich mehr als nur eine Sammlung von Literaturangaben.
 

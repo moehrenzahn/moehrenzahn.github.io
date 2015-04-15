@@ -5,16 +5,16 @@ categories: [Technologie]
 slug: Ein Experiment
 ---
 
-Wie ihr sehen könnt, gibt es jetzt auf moehrenzahn.de unter jedem Artikel einen „Kommentar schreiben“-Button. Ich hatte schon länger mit dem Gedanken gespielt, so etwas einzubauen.
+Wie ihr sehen könnt, gibt es jetzt auf moehrenzahn.de unter jedem Artikel einen "Kommentar schreiben"-Button. Ich hatte schon länger mit dem Gedanken gespielt, so etwas einzubauen.
 
 <!--more-->
 
-Es gibt einen Grund, warum man Kommentare auf Webseiten oft – und das ist durchaus wertend gemeint – „[die untere Hälfte des Internets](http://bottomhalfoftheinternet.tumblr.com)“ nennt. Internet-Kommentare sind meistens von grauenvoller Qualität. Selbst wenn nicht beledigend oder vulgär, sind sie trotzdem selten einer Diskussion beiträglich. Und umso größer der Leserkreis einer Seite wird, umso schlimmer wird es.
+Es gibt einen Grund, warum man Kommentare auf Webseiten oft – und das ist durchaus wertend gemeint – "[die untere Hälfte des Internets](http://bottomhalfoftheinternet.tumblr.com)" nennt. Internet-Kommentare sind meistens von grauenvoller Qualität. Selbst wenn nicht beledigend oder vulgär, sind sie trotzdem selten einer Diskussion beiträglich. Und umso größer der Leserkreis einer Seite wird, umso schlimmer wird es.
 
 ## Kommentare – ja oder nein?
 
 Vor ein paar Jahren ging diese Diskussion durch amerikanische Nerdblogger-Kreise: Sind Kommentare auf Blogs überhaupt eine gute Idee? Man kam zu dem Schluss, dass
-Kommentare zwar das „Engagement“ erhöhen, dafür aber die gesamtqualität eines Blogs mindern. Deshalb haben sich viele dafür entschieden, Kommentare abzuschalten – und haben damit sehr gute Erfahrungen gemacht. Der Software-Designer [Matt Gemmel](https://twitter.com/mattgemmell) zum Beispiel [schrieb im Rückblick über seine Entscheidung](http://mattgemmell.com/2012/01/03/comments-still-off/):
+Kommentare zwar das "Engagement" erhöhen, dafür aber die gesamtqualität eines Blogs mindern. Deshalb haben sich viele dafür entschieden, Kommentare abzuschalten – und haben damit sehr gute Erfahrungen gemacht. Der Software-Designer [Matt Gemmel](https://twitter.com/mattgemmell) zum Beispiel [schrieb im Rückblick über seine Entscheidung](http://mattgemmell.com/2012/01/03/comments-still-off/):
 
 > In a nutshell, it was definitely the right move. For the first few days I did miss the validation of getting a flurry of comments on each new article, but I quickly realised that I was enjoying the peace and quiet. […] I’m definitely not going back. If you have a blog, I’d advise you to consider switching comments off too.
 

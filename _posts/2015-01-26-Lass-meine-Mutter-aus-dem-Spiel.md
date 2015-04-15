@@ -15,7 +15,7 @@ Die Medien und sozialen Netzwerke sind gespalten. Die eine Hälfte bekundet ihre
 
 Die andere Hälfte wehrt sich gegen die Verherrlichung geschmackloser, rassistischer Karikaturen als Gipfel unserer Kultur. Wir sind nicht Charlie – wir können gleichzeitig sowohl gegen islamistische Gewalt als auch gegen unmenschliche Verunglimpfungen einer Religion sein!
 
-Überall in Deutschland demonstrieren Pegida-Anhänger gegen die „Lügenpresse“. Sie, genau wie die Gegendemonstranten, halten „Wir sind Charlie“-Schilder in die Höhe. Mittendrin [bekennt sich Sascha Lobo zu seiner eigenen Ratlosigkeit](http://www.spiegel.de/netzwelt/web/sascha-lobo-die-ratlosigkeit-nach-den-anschlaegen-auf-charlie-hebdo-a-1012902.html). Ich fühle mich genauso.
+Überall in Deutschland demonstrieren Pegida-Anhänger gegen die "Lügenpresse". Sie, genau wie die Gegendemonstranten, halten "Wir sind Charlie"-Schilder in die Höhe. Mittendrin [bekennt sich Sascha Lobo zu seiner eigenen Ratlosigkeit](http://www.spiegel.de/netzwelt/web/sascha-lobo-die-ratlosigkeit-nach-den-anschlaegen-auf-charlie-hebdo-a-1012902.html). Ich fühle mich genauso.
 
 Letzte Woche hat Papst Franziskus sich zur Tragödie von Charlie Hebdo geäußert und meine Ratlosigkeit noch vergrößert. [In einer Pressekonferenz während eines Fluges von Sri Lanka nach Manila](http://www.wsj.com/articles/pope-francis-sees-limits-to-freedom-of-speech-1421325757) sagte er:
 

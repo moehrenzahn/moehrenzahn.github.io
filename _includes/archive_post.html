@@ -21,8 +21,8 @@
 			{{ post.date | date: "%Y" }}
 		</time>
 		<h1 class="entry-title index {% if post.link %}linklog{% endif %}">
-			{{ post.title }}
-			{% if post.published == false %}
+			{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
+			{% if post.draft == true %}
 				<span class="dot">(Entwurf)</span>
 			{% endif %}
 		</h1>

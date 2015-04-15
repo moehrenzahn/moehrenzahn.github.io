@@ -20,7 +20,7 @@ Christoph denkt darüber nach, in welche Richtungen sich E-Ink weiter verbreiten
 
 ## Tiefe Design-Abgründe
 
-Als Beispiel für ein Smartphone mit E-Ink bringt er den [YotaPhone-Prototypen](http://www.yotaphone.com/#/de/). Auf dem auf den ersten Blick gewöhnlichen Smartphone [befindet sich auf der Rückseite ein zweites Display mit E-Ink-Technik](http://www.youtube.com/watch?v=vWD2oMuAcc0). Man kann es „einfach“ herumdrehen und die Displaytechnologie so wechseln.
+Als Beispiel für ein Smartphone mit E-Ink bringt er den [YotaPhone-Prototypen](http://www.yotaphone.com/#/de/). Auf dem auf den ersten Blick gewöhnlichen Smartphone [befindet sich auf der Rückseite ein zweites Display mit E-Ink-Technik](http://www.youtube.com/watch?v=vWD2oMuAcc0). Man kann es "einfach" herumdrehen und die Displaytechnologie so wechseln.
 
 Der Elektropastor ist von der Idee begeistert. Ich finde es unbeschreiblich scheußlich. Uneleganter lässt sich so etwas überhaupt nicht implementieren.
 

@@ -14,9 +14,9 @@ Diesen Blog schreibe ich [wie bereits gesagt](/Bloghosting-mit-Heroku) mit [Jeky
 
 Es gibt Kommentarplattformen, mit denen man über Javascript auf seiner Seite sehr einfach Kommentare einbinden kann. Der bekannteste Anbieter ist wohl [Facebook](https://developers.facebook.com/docs/plugins/comments/), weniger berüchtigt ist [Disqus](https://disqus.com).
 
-Disqus habe ich sogar mal kurz ausprobiert. Was mich daran stört: Ich kann das Aussehen der Kommentare fast nicht beeinflussen. Das Interface ist voller sinnlosem „engagement“-Kram, der wohl dem Disqus-Netzwerk dient, aber nicht mir. Ich will gar nicht wissen, wie viele Cookies und Tracking-IDs man von so einer Kommentarbox bekommt – und dafür muss man noch nicht mal selber einen schreiben. Ich mag nur ungern auf meinem Blog geschlossenen Code von anderen Parteien ausführen – vor allem von so offensichtlichen Datenkraken.[^code]
+Disqus habe ich sogar mal kurz ausprobiert. Was mich daran stört: Ich kann das Aussehen der Kommentare fast nicht beeinflussen. Das Interface ist voller sinnlosem "engagement"-Kram, der wohl dem Disqus-Netzwerk dient, aber nicht mir. Ich will gar nicht wissen, wie viele Cookies und Tracking-IDs man von so einer Kommentarbox bekommt – und dafür muss man noch nicht mal selber einen schreiben. Ich mag nur ungern auf meinem Blog geschlossenen Code von anderen Parteien ausführen – vor allem von so offensichtlichen Datenkraken.[^code]
 
-[^code]: Deshalb sind die „Teilen“-Knöpfe hier auch nicht die klassischen, im Web bekannten Buttons sondern einfache Links, über die kein Tracking geschieht. Denn wer sind größere Datenkraken als Soziale Netzwerke. Meine einzige Ausnahme: Ein Font, den ich über Google Fonts einbinde.
+[^code]: Deshalb sind die "Teilen"-Knöpfe hier auch nicht die klassischen, im Web bekannten Buttons sondern einfache Links, über die kein Tracking geschieht. Denn wer sind größere Datenkraken als Soziale Netzwerke. Meine einzige Ausnahme: Ein Font, den ich über Google Fonts einbinde.
 
 Also stand für mich fest: kein Disqus! Eine interessante Idee sah ich unter einem [Artikel von Matthew Butterick](http://unitscale.com/mb/bomb-in-the-garden/): Ein schlichter Link am Ende der Seite mit dem Text:
 

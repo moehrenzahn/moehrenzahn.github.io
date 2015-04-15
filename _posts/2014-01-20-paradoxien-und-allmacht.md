@@ -14,7 +14,7 @@ Das Rätsel ist ein sogennantes [Paradoxon](http://de.wikipedia.org/wiki/Paradox
 
 ## Vom echt und scheinbar Paradoxen
 
-In unserer Realität gibt es keine echten Paradoxien. Die gibt es nur in der Rhetorik („Weniger ist mehr“), in scheinbaren Paradoxien (dass man [bei einem Eierkocher für weniger Eier mehr Wasser benötigt](http://www.netego.de/hpc?p=eggs&l=de)) oder bei Gedankenexperimenten.
+In unserer Realität gibt es keine echten Paradoxien. Die gibt es nur in der Rhetorik ("Weniger ist mehr"), in scheinbaren Paradoxien (dass man [bei einem Eierkocher für weniger Eier mehr Wasser benötigt](http://www.netego.de/hpc?p=eggs&l=de)) oder bei Gedankenexperimenten.
 
 Wenn bei einem Gedankenexperiment ein echtes Paradoxon auftritt, ist das ein Indiz für die Undurchführbarkeit eines Experiments (zum Beispiel bei Zeitreisen in die Vergangenheit).
 
@@ -30,13 +30,13 @@ Auf den ersten Blick scheint die die Bibel das zu behaupten, Gott wäre allmäc
 
 Ein Blick in den Urtext zeigt da das Wort שַׁדַּי (schaddaj). שַׁדַּי wird im AT ausschließlich als Ehrentitel für Gott gebraucht. Die Übersetzung dieses Titels ist ungeklärt. Die [Septuaginta](http://de.wikipedia.org/wiki/Septuaginta) lässt שַׁדַּי in der Regel weg oder übersetzt es mit θεὸς. Die tatsächliche Bedeutung von שַׁדַּי ist also schon früh hinter dem Titel verloren gegangen. An manchen Stellen übersetzt die LXX zwar שַׁדַּי auch mit παντοκράτωρ (Allmächtiger), aber das tut sie auch mit dem Gottestitel צְבָאוֹת (zebaot), für den das sicher keine treffende Übersetzung darstellt.[^zebaot]
 
-[^zebaot]: Wilhelm Gesenius’ Hebräisches und Aramäisches Handwörterbuch schlägt als wahrscheinlichste Bedeutung von יְהוָה צְבָאוֹת (jahwe zebaot) „Jahwe der himmlischen Heere“ oder „Jahwe der Kriegsscharen“ vor.
+[^zebaot]: Wilhelm Gesenius’ Hebräisches und Aramäisches Handwörterbuch schlägt als wahrscheinlichste Bedeutung von יְהוָה צְבָאוֹת (jahwe zebaot) "Jahwe der himmlischen Heere" oder "Jahwe der Kriegsscharen" vor.
 
 Im NT wird öfters das Wort παντοκράτωρ gebraucht, so zum Beispiel in [Offb 1,8](http://www.bibleserver.com/text/LUT/Offenbarung1,8) und in [2. Kor. 6,18](http://www.bibleserver.com/text/LUT/2.Korinther6,18). Es wird aber immer als Titel Gottes verwendet. Nie wird erklärt, was es mit dieser *Pantokratie* wirklich auf sich hat.
 
 ##Die Schöpfung: Gott schränkt seine Allmacht ein 
 
-Im Englischen gibt es eine schöne Redensart: „for all intents and purposes“. Das könnte man übersetzen als „In der Regel“, genauer „für alle intendierten (wollbaren) Zwecke“. So würde ich auch die Allmacht Gottes charakterisieren: Gott ist allmächtig in allen Belangen, die uns praktisch betreffen.
+Im Englischen gibt es eine schöne Redensart: "for all intents and purposes". Das könnte man übersetzen als "In der Regel", genauer "für alle intendierten (wollbaren) Zwecke". So würde ich auch die Allmacht Gottes charakterisieren: Gott ist allmächtig in allen Belangen, die uns praktisch betreffen.
 
 Denn wenn Gott alle Begebenheiten und Gesetze unseres Universums erschaffen hat, dann sind sie ihm auch praktisch Untertan. Er ist der Herr über alle Wesen und Dinge, die um uns sind.
 

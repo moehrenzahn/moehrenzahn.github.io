@@ -9,7 +9,7 @@ Im Nachglühen der Mitteilung, dass [Amazon-Chef Jeff Bezos die Washington Post 
 <!--more-->
 [Richard Gutjahr](https://twitter.com/gutjahr) schreibt [auf Spiegel Online:](http://www.spiegel.de/netzwelt/web/richard-gutjahr-zur-zeitungsdebatte-a-915257.html)
 
-> „Über all die Jahre des Jammerns und des Power-Lobbyings für das Leistungsschutzrecht haben es die Verlage schlicht und ergreifend versäumt, ihren Lesern eine frustfreie Bezahlmöglichkeit zu bieten. Was spricht gegen eine einheitliche Micropayment-Plattform für alle Häuser, vielleicht sogar gekoppelt an die monatliche Telefonrechnung? Wichtig: Eine Lösung für alle - nicht wieder jeder Verlag für sich. Man meldet sich ja auch nicht bei 20 verschiedenen iTunes-Stores an, um im Netz seine Lieblingsmusik zu bekommen.“
+> "Über all die Jahre des Jammerns und des Power-Lobbyings für das Leistungsschutzrecht haben es die Verlage schlicht und ergreifend versäumt, ihren Lesern eine frustfreie Bezahlmöglichkeit zu bieten. Was spricht gegen eine einheitliche Micropayment-Plattform für alle Häuser, vielleicht sogar gekoppelt an die monatliche Telefonrechnung? Wichtig: Eine Lösung für alle - nicht wieder jeder Verlag für sich. Man meldet sich ja auch nicht bei 20 verschiedenen iTunes-Stores an, um im Netz seine Lieblingsmusik zu bekommen."
 
 Der Beitrag ist sehr gut geschrieben und spricht eine längst bekannte Wahrheit über das Verlagswesen aus: Die großen Verlage verschenken potentielle Einnahmen, weil sie den Lesern keine attraktiven Bezahlangebote bieten.
 
@@ -19,7 +19,7 @@ Und der Vergleich mit iTunes scheint auf den ersten Blick plausibel – Apple ha
 
 Ich glaube aber nicht, dass diese Rechnung aufgehen wird. 
 
-Zum ersten ist es fragwürdig, ob sich die Verlage jemals auf ein Bezahlsystem einigen würden. iTunes funktioniert ja nur, weil es ein Quasi-Monopol in seiner Branche hat. Kein Verlag hat Lust, sich seine Gewinne mit einem „Zwischenhändler“ zu teilen (Apple streicht für einen Platz auf seinem App Store bekanntermaßen beachtliche 30% aller Umsätze ein). Keines der großen Musiklabels ist glücklich darüber, dass der Großteil ihrer Verkäufe über Apples Ladentisch gehen (und andersherum würde Apple sich nur über seine Leiche einen App Store mit Amazon oder sonstiger Konkurrenz teilen).
+Zum ersten ist es fragwürdig, ob sich die Verlage jemals auf ein Bezahlsystem einigen würden. iTunes funktioniert ja nur, weil es ein Quasi-Monopol in seiner Branche hat. Kein Verlag hat Lust, sich seine Gewinne mit einem "Zwischenhändler" zu teilen (Apple streicht für einen Platz auf seinem App Store bekanntermaßen beachtliche 30% aller Umsätze ein). Keines der großen Musiklabels ist glücklich darüber, dass der Großteil ihrer Verkäufe über Apples Ladentisch gehen (und andersherum würde Apple sich nur über seine Leiche einen App Store mit Amazon oder sonstiger Konkurrenz teilen).
 
 Deshalb wollen die Zeitungsverlage den zweiten Weg gehen: Eigene Systeme entwickeln, dass sie selbst kontrollieren. Denn wenn man selbst die nötigen Ressourcen hat, warum sollte man sich die Gewinne mit einem Micropayment-Provider teilen. Ich glaube aber nicht, dass sie das adäquat hinbekommen. Wie auch [Stephan Dörner](https://twitter.com/Doener) [auf online-journalismus-blog.com vermutet:](http://onlinejournalismusblog.com/2013/08/10/washington-post-ubernahme-die-verlagsbranche-braucht-den-itunes-moment/)
 
@@ -27,7 +27,7 @@ Deshalb wollen die Zeitungsverlage den zweiten Weg gehen: Eigene Systeme entwick
 
 Aber auch Dörner schlägt als Lösung vor, dass sich die Verlage an eine dritte Partei wenden:
 
-> „Vielleicht schafft Bezos ja endlich das iTunes für journalistische Inhalte auf seiner Kindle-Plattform und rettet damit die Verlage aus ihrer selbst verschuldeten Unfähigkeit. Dem Journalismus wäre es zu wünschen.“
+> "Vielleicht schafft Bezos ja endlich das iTunes für journalistische Inhalte auf seiner Kindle-Plattform und rettet damit die Verlage aus ihrer selbst verschuldeten Unfähigkeit. Dem Journalismus wäre es zu wünschen."
 
 Wie oben bereits beschrieben, halte ich es für unwahrscheinlich, dass sich die Verlage freiwillig auf so etwas einlassen würden. Aber davon abgesehen klingt das eben zitierte Szenario sowieso eher wie ein dystopischer Albtraum.
 
@@ -39,4 +39,4 @@ Aber beim Journalismus sind die Inhalte ja wohl (hoffentlich) nicht identisch un
 
 Wer bei der Sache auf jeden Fall verliert, sind die Unabhängigen. [Die Indie-Labels werden auf iTunes mies behandelt](http://www.digitalmusicnews.com/permalink/2013/20130612appleinferior) und für Freie Journalisten sehe ich da ganz ähnliche Probleme kommen.
 
-Das sich die Verlage etwas Neues ausdenken müssen, um am Ball zu bleiben, finde ich auch. Das es mit einer [„einheitlichen Micropayment-Plattform“](http://www.spiegel.de/netzwelt/web/richard-gutjahr-zur-zeitungsdebatte-a-915257.html) getan wäre, sehe ich jedoch kritisch!
+Das sich die Verlage etwas Neues ausdenken müssen, um am Ball zu bleiben, finde ich auch. Das es mit einer ["einheitlichen Micropayment-Plattform"](http://www.spiegel.de/netzwelt/web/richard-gutjahr-zur-zeitungsdebatte-a-915257.html) getan wäre, sehe ich jedoch kritisch!

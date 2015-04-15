@@ -16,7 +16,7 @@ Ich habe viele Apps zum Lernen von Karteikarten ausprobiert und bin am Ende bei 
 ![Animation der Vokabelansicht von Eductic](/images/eductic.gif)
 *Animation der Vokabelansicht von Eductic*
 
-Kernstück der App ist die Karteiansicht: Es gibt nur einen Knopf am unteren Bildschirmrand, der sowohl zum Bewerten der eigenen Kenntnis, zum „Umdrehen“ der Karte als auch zum Fortfahren zur nächsten Karte dient! Das ganze Funktioniert durch Schieben des Reglers, je nachdem wie gut man die Karte kennt (in %). Wenn der Regler berührt wird, wird die Antwort gezeigt. Wenn der Regler wieder losgelassen wird, wird die ausgewählte Prozentzahl ausgewählt und die nächste Karte erscheint. Das ganze ist im Text schwer zu beschreiben, aber diese Oberfläche ist einfach genial (und das auch noch kostenlos)!
+Kernstück der App ist die Karteiansicht: Es gibt nur einen Knopf am unteren Bildschirmrand, der sowohl zum Bewerten der eigenen Kenntnis, zum "Umdrehen" der Karte als auch zum Fortfahren zur nächsten Karte dient! Das ganze Funktioniert durch Schieben des Reglers, je nachdem wie gut man die Karte kennt (in %). Wenn der Regler berührt wird, wird die Antwort gezeigt. Wenn der Regler wieder losgelassen wird, wird die ausgewählte Prozentzahl ausgewählt und die nächste Karte erscheint. Das ganze ist im Text schwer zu beschreiben, aber diese Oberfläche ist einfach genial (und das auch noch kostenlos)!
 
 Wie bekommt man aber seine Vokabeln in die App? Man kann mit iTunes Vokabeln aus einfachen Textdateien importieren. So kommt man um manuelles Eintippen am iPhone herum.
 

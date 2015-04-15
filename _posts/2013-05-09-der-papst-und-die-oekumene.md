@@ -15,7 +15,7 @@ Nun dämmert es uns langsam, dass das wohl wieder nichts wird wird mit den Refor
 Von vielen Seiten kam die Meinung: Eine Papstwahl lohnt nur, wenn die Chance auf eine neue Reformbewegung besteht. Wenn der neue Papst Frauenordination und Empfängnisverhütung erlaubt. Und das gemeinsame Abendmahl.
 Aber jetzt ist die Luft raus. Dieser Papst wird's wohl nicht sein, der Messias, der die Kirchen wieder zusammenfügt.
 
-Ich bin dieser Reden leid. Interessanter finde ich die Perspektive von Hans Spiegl, evangelischer Pfarrer aus Österreich. Zu seinem [Podcast „Tagebuch eines Pfarrers“](http://pfarrer.herzblut.fm/index.php?id=2029) schreibt er:
+Ich bin dieser Reden leid. Interessanter finde ich die Perspektive von Hans Spiegl, evangelischer Pfarrer aus Österreich. Zu seinem [Podcast "Tagebuch eines Pfarrers"](http://pfarrer.herzblut.fm/index.php?id=2029) schreibt er:
 
 > es gibt einen neuen papst und mir ist das – sie haben es erraten – egal! der mensch mag ein netter und guter sein – aber dieses medientheater hat überhaupt nichts mit meinem erleben und verständnis von kirche zu tun.
 

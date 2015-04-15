@@ -6,11 +6,11 @@ slug: Facebook- und Twitter-Buttons via statischer Links
 comments: true
 ---
 
-Wer auf meinem Blog unter einen Artikel schaut, wird dort unter „Teilen“ Links zu Faceboook, Twitter und Google+ finden. Das kennt man ja von überall aus dem Internet. Sie dienen als eine freundliche Erinnerung, gute Artikel weiterzuempfehlen. Außerdem machen sie Teilen und Liken sehr bequem – mit ein bis zwei Klicks landet ein Artikel in der eigenen Timeline.
+Wer auf meinem Blog unter einen Artikel schaut, wird dort unter "Teilen" Links zu Faceboook, Twitter und Google+ finden. Das kennt man ja von überall aus dem Internet. Sie dienen als eine freundliche Erinnerung, gute Artikel weiterzuempfehlen. Außerdem machen sie Teilen und Liken sehr bequem – mit ein bis zwei Klicks landet ein Artikel in der eigenen Timeline.
 
 <figure><img src='/images/Social%20Sharing/sharing.jpg' /><figcaption>Sharing-Buttons: Das ganze Internet ist voll von ihnen.</figcaption></figure>
 
-Solche Links auf der eigenen Seite einzubinden ist einfach: Man sucht sich den jeweiligen Einbettungscode und fügt diesen an der gewüschten Stelle der Seite in den `HTML`-Code ein. Der Code für den bekannten Facebook-„gefällt mir“-Knopf sieht zum Beispiel in etwa so aus:
+Solche Links auf der eigenen Seite einzubinden ist einfach: Man sucht sich den jeweiligen Einbettungscode und fügt diesen an der gewüschten Stelle der Seite in den `HTML`-Code ein. Der Code für den bekannten Facebook-"gefällt mir"-Knopf sieht zum Beispiel in etwa so aus:
 
 {% highlight html %}
 <script>
@@ -30,7 +30,7 @@ Solche Links auf der eigenen Seite einzubinden ist einfach: Man sucht sich den j
 
 Das untere `<div>`-Element ist der eigentliche Like-Button. Das Attribut `data-href` gibt die URL der zu likenden Seite an.
 
-Interessanter ist der JavaScript-Code darüber. Dieser führt ein Skript von `connect.facebook.net` aus, und zwar jedesmal, wenn jemand die Seite mit dem eingebetteten Code aufruft. Was dieses Skript genau macht, lässt sich schwer sagen. Sicher ist, dass es die Anzahl der bisherigen „Likes“ abruft (um sie neben dem Button anzuzeigen) und den eigenen „Like“ registriert, wenn man den Button drückt. [Zusätzlich installiert das Skript einen Cookie im Browser](https://www.facebook.com/help/206635839404055?q=cookies), mit dem Facebook in etwa nachvollziehen kann, wo man sonst so rumsurft – um zum Beispiel gezielt Werbung anzuzeigen.
+Interessanter ist der JavaScript-Code darüber. Dieser führt ein Skript von `connect.facebook.net` aus, und zwar jedesmal, wenn jemand die Seite mit dem eingebetteten Code aufruft. Was dieses Skript genau macht, lässt sich schwer sagen. Sicher ist, dass es die Anzahl der bisherigen "Likes" abruft (um sie neben dem Button anzuzeigen) und den eigenen "Like" registriert, wenn man den Button drückt. [Zusätzlich installiert das Skript einen Cookie im Browser](https://www.facebook.com/help/206635839404055?q=cookies), mit dem Facebook in etwa nachvollziehen kann, wo man sonst so rumsurft – um zum Beispiel gezielt Werbung anzuzeigen.
 
 Viele Leute finden gerade diese Cookies und überhaupt das unbekannte JavaScript besonders problematisch, weil man keinen Einfluss darauf hat, ob die eigenen Daten gespeichert werden – das bloße Besuchen einer Seite mit Facebook- oder Twitter-Button genügt, um ein Cookie zu setzen.
 
@@ -64,7 +64,7 @@ Auf Twitter kann man sogar noch zusätzliche Parameter codieren:
 <a href="http://twitter.com/intent/tweet?url=[URL]&amp;text=[TITLE]&amp;via=[ACCOUNT]">Twitter</a>
 {% endhighlight %}
 
-Neben `[URL]` lässt sich der `[TITLE]` des Artikels oder der Seite angeben und ein „via“-Twitter-Acocunt, der z.B. der des Autors sein kann.
+Neben `[URL]` lässt sich der `[TITLE]` des Artikels oder der Seite angeben und ein "via"-Twitter-Acocunt, der z.B. der des Autors sein kann.
 
 Der Vorteil dieser Social-Links sind, dass einfache Links null JavaScript enthalten. Sie sind also blitzschnell und übermitteln nur die Daten, die im Link codiert sind. Außerdem kann ich die Links mit CSS an das Design meiner Seite anpassen – ich habe zum Beispiel die primäre Farbe des jeweiligen Netzwerks als Hervorhebungsfarbe für die Links gesetzt.[^farben]
 

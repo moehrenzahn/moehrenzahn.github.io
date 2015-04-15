@@ -39,9 +39,9 @@ Nun, könnte man sich jetzt fragen: Wenn Gott nicht für die Versuchung verantwo
 
 Jakobus schreibt, dass die Versuchung in uns selbst ihren Ursprung hat, in unseren Begierden, unserer Lust. Er beschreibt das in einer ganz bildhaften Sprache:
 
-Im Text steht: unsere eigenen Begierden „reizen“ uns. Das griechische Wort hier kann auch meinen: sie „nehmen uns in Schlepptau“, sie „reißen uns fort“ — wie ein unwiderstehlicher Sog, bei dem unsere eigene Willenskraft versagt.
+Im Text steht: unsere eigenen Begierden "reizen" uns. Das griechische Wort hier kann auch meinen: sie "nehmen uns in Schlepptau", sie "reißen uns fort" — wie ein unwiderstehlicher Sog, bei dem unsere eigene Willenskraft versagt.
 
-Unsere Begierden „locken“ uns, das ist im Griechischen ein Begriff aus der Fischerei: wir werden „geködert“, „verlockt“ — da werden Versprechungen gemacht, oder man verspricht sich selbst etwas von einer Sache; Man geht den eigenen Begierden im Netz wie ein gefangener, hilflos zappelnder Fisch.
+Unsere Begierden "locken" uns, das ist im Griechischen ein Begriff aus der Fischerei: wir werden "geködert", "verlockt" — da werden Versprechungen gemacht, oder man verspricht sich selbst etwas von einer Sache; Man geht den eigenen Begierden im Netz wie ein gefangener, hilflos zappelnder Fisch.
 
 Da muss ich vielleicht gar nicht viel dazu sagen. Ich denke, wir kennen dieses Gefühl der Verlockung nur zu gut.
 
@@ -59,15 +59,15 @@ Jakobus schreibt:
 
 > Irrt euch nicht, meine lieben Brüder. Alle gute Gabe und alle vollkommene Gabe kommt von oben herab, von dem Vater des Lichts, bei dem keine Veränderung ist noch Wechsel des Lichts und der Finsternis. 
 
-„Irrt euch nicht!“ Jakobus fleht uns geradezu an. Wenn wir diese Sache nicht verstehen, machen wir uns selbst das Glauben schwer.
+"Irrt euch nicht!" Jakobus fleht uns geradezu an. Wenn wir diese Sache nicht verstehen, machen wir uns selbst das Glauben schwer.
 
-Bei Gott ist kein Wechsel des Lichts: Gott ist kein irdisches Licht, das mal leuchtet und mal Schatten wirft. Bei Gott gibt es keinen Sonnenuntergang und keine Sonnenfinsternis. Gott hat keine „zwei Seiten,“ eine Gute und eine Böse. Von Gott kommt immer und nur Gutes!
+Bei Gott ist kein Wechsel des Lichts: Gott ist kein irdisches Licht, das mal leuchtet und mal Schatten wirft. Bei Gott gibt es keinen Sonnenuntergang und keine Sonnenfinsternis. Gott hat keine "zwei Seiten," eine Gute und eine Böse. Von Gott kommt immer und nur Gutes!
 
 Irrt euch nicht, meine lieben Geschwister!
 
-Gott hat mit Versuchung und Anfechtung nichts zu tun. Gott ist unsere „Feste Burg“ in Anfechtung. Zu ihm können wir fliehen, ihm können wir vertrauen, dass er uns nur Gutes tun wird.
+Gott hat mit Versuchung und Anfechtung nichts zu tun. Gott ist unsere "Feste Burg" in Anfechtung. Zu ihm können wir fliehen, ihm können wir vertrauen, dass er uns nur Gutes tun wird.
 
-Für Jakobus muss das absolut feststehen, sonst hätten wir keine Gewissheit, keinen sicheren Zufluchtsort, keine „Feste Burg“ bei Gott.
+Für Jakobus muss das absolut feststehen, sonst hätten wir keine Gewissheit, keinen sicheren Zufluchtsort, keine "Feste Burg" bei Gott.
 
 Bei Gott müssen wir nicht stets auf der Hut sein. Bei Gott gibt es nur Licht und Gutes. Auf diesen Gott können wir unsere Ganze Hoffnung setzen!
 

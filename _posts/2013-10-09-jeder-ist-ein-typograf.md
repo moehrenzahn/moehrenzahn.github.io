@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeder ist ein Typograf – Matthew Buttericks „Practical typography“
+title: Jeder ist ein Typograf – Matthew Buttericks "Practical typography"
 categories: [Typografie, Technologie]
 comments: true
 ---
