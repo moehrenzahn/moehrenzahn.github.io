@@ -17,7 +17,7 @@ body {
 
 /* Site Padding */
 
-#content {
+#content, footer {
 	margin: 0 auto;
 	padding: 1.5em 5px;
 	max-width: $max-width;
@@ -149,22 +149,38 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 /* Profile picture */
 
 .profile-outer {
-    width: 200px;
-    margin: 0 auto;
-    height: 200px;
-    overflow: hidden;
-    padding-bottom: 40px;
+	width: 200px;
+	margin: 0 auto;
+	height: 200px;
+	overflow: hidden;
+	margin-bottom: 40px;
+	border: 2px solid black !important;
+	border-radius: 50%;
+}
+.profile-outer:hover {
+	border-color: $color !important;
 }
 .profile-image {
-    background: url("/images/me.jpeg") no-repeat center top;  
-   	background-size: 100%;
-    border-radius: 50%;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    transition: background $transition-time;
-    }
+	background: url("/images/me.jpeg") no-repeat center top;  
+	background-size: 100%;
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	transition: background $transition-time;
+}
 
+.profile-outer.side {
+	float: left;
+	width: 80px;
+	margin: 0;
+	margin-left: -105px; 
+	height: 80px;
+	padding-bottom: 0px;
+	@media (max-width: $max-width + 220px) {
+		display: none;
+	}
+}
 
 /* Language Selector */
 
@@ -341,3 +357,10 @@ background: -ms-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%)
 background: linear-gradient(to right, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
 } 
+
+.dark-mode .profile-outer {
+	border: 2px solid $background-color !important;
+}
+.dark-mode .profile-outer:hover {
+	border-color: $color !important;
+}

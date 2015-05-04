@@ -1,3 +1,7 @@
+<a href="/{% case page.lang %}
+    {% when "en" %}en/about
+    {% when else %}ueber
+  {% endcase %}" class="profile-outer side"><div class="profile-image side"></div></a>
 <span class="byline author vcard">
   {% case page.lang %}
     {% when "en" %}By <a href="/en/about">

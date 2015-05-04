@@ -1,6 +1,8 @@
 <div class="banner">
-    <h2 class="bannertext"><a class="titlelink" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en{% endcase %}
+    <h2 class="bannertext">
+    <a class="titlelink" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en{% endcase %}
     ">moehrenzahn.de</a><br/>
+
     {% case page.lang %}
           {% when "en" %}
             Weblog of <a href="/en/about/">Max Melzer</a>

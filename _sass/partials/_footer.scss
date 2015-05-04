@@ -1,16 +1,11 @@
 /* Footer at very bottom of page */
 
-footer.bottom
-{
-	
-	padding-top: 6em;
-	padding-bottom: 3em;
-	padding-left: 18px;
-	padding-right: 18px;
-	@media only screen and (max-width: 480px) {padding-top: 2em;}
+footer.bottom {
+	height: 100px;
+	@media only screen and (min-width: $max-width+600) {
+		// margin-top: -100px;
+	}
 	p, span {
-		margin: 0 auto;
-		text-align: center;
 		font-family: $sans;
 		line-height: 1.7;
 		color: $text-color-light;}
