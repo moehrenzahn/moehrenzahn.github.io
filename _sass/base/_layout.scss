@@ -237,7 +237,7 @@ h1.entry-title.index {
 	margin-top: 4px;
 	content: "";
 	transition: background $transition-time;
-	@media only screen and (max-width: $max-width) {margin-left: -26px;}
+	@media only screen and (max-width: $max-width) {margin-left: -27px;}
 }
 
 .entry-title.index:before {
