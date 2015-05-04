@@ -3,13 +3,12 @@ layout: post
 title: Computer können auch schön sein
 link: http://www.minimallyminimal.com/blog/helplessly-pretty-the-emac-imac-and-ibook
 categories: [Technologie]
-comments: true
 slug: Apple lässt sogar einen Röhrenmonitor irgendwie elegant aussehen
 ---
 
 [Andrew Kim](http://www.minimallyminimal.com/about/) hat auf [minimallyminimal.com](http://www.minimallyminimal.com/) ein paar wunderschöne alte Apple-Computer fotografiert. Diese Bilder demonstrieren ganz hervorragend, warum Apple etwas besonderes ist:
 
->Looking back at these machines really makes you realize how beautifully engineered and ahead of the competition they used to be. I'll be showing you the eMac, the iBook and the iMac - all of them are charming beyond belief.
+> Looking back at these machines really makes you realize how beautifully engineered and ahead of the competition they used to be. I'll be showing you the eMac, the iBook and the iMac - all of them are charming beyond belief.
 
 Für mich repräsentieren diese Fotos, warum Apple den anderen Computer-Herstellern meilenweit voraus ist: Für Apple ist ein Computer keine Werkbank, kein notwendiges Übel, sondern etwas Schönes, etwas, das Freude machen kann und darf.
 

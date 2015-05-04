@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  Ein Mail.app-Plugin für Sublime Text 3
+title: 'Ein Mail.app-Plugin für Sublime Text 3'
 categories: [Technologie]
-comments: true
 ---
 
-Ich habe [mein erstes Plugin für Sublime Text](https://github.com/moehrenzahn/Mail) geschrieben. Es ist recht einfach und unkompliziert.
-<!--more-->
-Es nimmt den Text des aktiven Dokuments und verwandelt ihn in eine neue Mail.app-Nachricht. Die erste Textzeile wird als Betreff verwendet.
+Ich habe [mein erstes Plugin für Sublime Text](https://github.com/moehrenzahn/Mail) geschrieben. Es ist recht einfach und unkompliziert. Es nimmt den Text des aktiven Dokuments und verwandelt ihn in eine neue Mail.app-Nachricht. Die erste Textzeile wird als Betreff verwendet.
 
-Ursprünglich wollte ich, dass das Plugin die Mail aus konvertiertem Markdown erstellt, aber leider hat Mails AppleScript interface keine API für HTML-Nachrichten[^1]
+Ursprünglich wollte ich, dass das Plugin die Mail aus konvertiertem Markdown erstellt, aber leider hat Mails AppleScript-Interface keine API für HTML-Nachrichten[^1]
 
 Um im Plugin AppleScript einzubinden habe ich [Dr. Drangs Code zum Kombinieren von Python und AppleScript](http://www.leancrew.com/all-this/2013/03/combining-python-and-applescript/) verwendet:
 
@@ -52,4 +49,4 @@ Das liegt daran, dass Python 3 intern Text zu `data` umwandelt. Wenn man wieder 
 
 Vielleicht hilft das ja mal irgendjemandem weiter. 
 
-[^1]: Nun, es gibt eine [undokumentierte API](http://macscripter.net/viewtopic.php?id=36778) dafür aber die scheint nicht richtig zu funktionieren.
+[^1]: Nun, es gibt eine [undokumentierte API](http://macscripter.net/viewtopic.php?id=36778) dafür, aber die scheint nicht richtig zu funktionieren.

@@ -2,12 +2,10 @@
 layout: post
 title: Run Jesus Run! Das 10-Sekunden-Evangelium
 categories: [Technologie, Theologie]
-comments: true
 slug: Was wir von Computerspielen über Religion lernen können
 ---
 
 Es ist immer wieder spannend zu sehen, wie die Kunst über die Jahrhunderte christliche Inhalte aufgegriffen und interpretiert hat. Jedes erdenkliche künstlerische Medium hat die christliche Tradition auf seine Weise aufgenommen. 
-<!--more-->
 
 In den letzten Jahren haben Künstler auch das Videospiel zunehmend als Medium für sich entdeckt. Besonders in der Indie-Szene tauchen immer wieder "Spiele" auf, die kein nennenswertes Gameplay oder Story bieten, sondern nur eine Idee oder Emotionen vermitteln – also "Kunst" sind. Dezidiert biblische Themen werden dabei aber nur selten aufgegriffen.
 
@@ -22,7 +20,7 @@ Das Spiel dauert, wie der Titel schon sagt, nur 10 Sekunden, jeder kann also [gl
 
 [Molleindustria](http://www.molleindustria.org/blog/about/), die Gruppe, die sich *Run Jesus run!* ausgedacht hat, beschreibt sich selbst als ein Entwickler von ["homeopathic remedies to the idiocy of mainstream entertainment"](http://www.molleindustria.org/blog/about/): Spiele, die zum Nachdenken anregen sollen oder einfach Satire auf typische Videospielklischees sind.
 
-Aus meiner Sicht funktioniert *Run Jesus run!* genau auf diesen beiden Ebenen. Zum einen ist es eine witzige Parodie auf Videospiele: Zum Beispiel das abstrakte Sammeln von Punkten (die Maximalpunktzahl erreicht man, wenn man alle zwölf Aposteln "gesammelt" hat) oder das Spiel mit den Konzepten "gewinnen" und "verlieren".[^mario]
+Aus meiner Sicht funktioniert *Run Jesus run!* genau auf diesen beiden Ebenen. Zum einen ist es eine witzige Parodie auf Videospiele: Zum Beispiel das abstrakte Sammeln von Punkten (die Maximalpunktzahl erreicht man, wenn man alle zwölf Apostel "gesammelt" hat) oder das Spiel mit den Konzepten "gewinnen" und "verlieren".[^mario]
 
 [^mario]: Man beachte auch die Anspielung auf das von-unten-an-Würfel-hüpfen aus Super Mario in der Bergpredigt-Szene.
 
@@ -45,5 +43,3 @@ Aus christlicher Sicht ist der Kreuzestod ein eschatologischer Sieg – auch wen
 Nach der Kreuzigungsszene endet *Run Jesus run!*. Wir aber wissen, dass die eigentliche Siegesszene des Lebens Jesu erst drei Tage später folgte.
 
 *Run Jesus run! kann man auf der [Entwicklerhomepage](http://www.molleindustria.org/runjesusrun/run_jesus_run.html) kostenlos im Browser spielen oder für Windows und Mac herunterladen.*
-
-*Dieser Beitrag ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de).*

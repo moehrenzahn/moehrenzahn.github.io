@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Jeder ist ein Typograf – Matthew Buttericks "Practical typography"
+title: 'Jeder ist ein Typograf – Matthew Buttericks "Practical typography"'
 categories: [Typografie, Technologie]
-comments: true
 ---
 
-Ich habe gerade etwas zu Ende gelesen was schon lange in meiner Instapaper-Liste rumlag: [Matthew Buttericks *Practical typography*](http://practicaltypography.com/).
+Ich habe gerade etwas zu Ende gelesen, das schon lange in meiner Instapaper-Liste rumlag: [Matthew Buttericks *Practical typography*](http://practicaltypography.com/).
 
 <!--more-->
 
@@ -21,7 +20,7 @@ Im Weiteren erklärt er in klarem Englisch was man tun muss, damit die eigenen T
 
 Das Entscheidende ist, dass er nicht einfach sagt, was man zu tun hat. Er erklärt auch *warum* man es tun sollte und [warum die Beschäftigung mit Typografie wichtig ist](http://practicaltypography.com/why-does-typography-matter.html). Man muss nichts über Typografie wissen, um dieses Buch zu verstehen. Es sind ganz praktische Ratschläge, die leicht zu verstehen und zu befolgen sind. Die meisten Kapitel haben kurze Anleitungen für Word, Pages und CSS dazu, wie die gute Typografie in die eigenen Dokumente kommt.
 
-Was mir auch sehr gefällt sind seine Randnotizen. Das Buch ist voll von spannenden Fakten über Schriftsetzung und Font Trivia. Zum beispiel gibt es ein interessantes Kapitel über die [Geschichte von Times New Roman](http://practicaltypography.com/times-new-roman.html).
+Was mir auch sehr gefällt sind seine Randnotizen. Das Buch ist voll von spannenden Fakten über Schriftsetzung und Font-Trivia. Zum beispiel gibt es ein interessantes Kapitel über die [Geschichte von Times New Roman](http://practicaltypography.com/times-new-roman.html).
 
 Sein Schreibstil ist locker und nicht oberlehrerhaft. Und das Buch ist nicht mal sehr lang. Es hat mich nur zwei Abende gekostet; die meisten Kapitel sind kurz und in sich geschlossen, also kann man es in kleinen Happen lesen. 
 
@@ -35,7 +34,7 @@ Etwas anderes, das zu kurz Anklang, ist die Frage, wie man Text und Zwischenräu
 
 ## Weitersagen
 
-Der Autor hat entschieden, dieses Buch als eine Webseite zu veröffentlichen. Und es ist – unglaublicherweise – völlig kostenlos! Im Kapitel [How to pay for this book](http://practicaltypography.com/how-to-pay-for-this-book.html) erklärt Butterick, dass man bezahlen kann, indem man das Buch weiterempfieht[^fonts]. Das werde ich also tun. Ich empfehle es von Herzen. Du bist ein Typograf und [solltest dieses Buch lesen](http://practicaltypography.com/)!
+Der Autor hat entschieden, dieses Buch als eine Webseite zu veröffentlichen. Und es ist – unglaublicherweise – völlig kostenlos! Im Kapitel [How to pay for this book](http://practicaltypography.com/how-to-pay-for-this-book.html) erklärt Butterick, dass man bezahlen kann, indem man das Buch weiterempfieht.[^fonts] Das werde ich also tun. Ich empfehle es von Herzen. Du bist ein Typograf und [solltest dieses Buch lesen](http://practicaltypography.com/)!
 
 [^fonts]: Es ist ziemlich offensichtlich, dass das Buch im Grunde Werbung für Buttericks eigene professionelle Fonts ist (die sehr hübsch sind). Das ganze Buch ist in seinen Schriften [Equity](http://practicaltypography.com/index.html) und [Concourse](http://practicaltypography.com/concourse.html) gesetzt.
 

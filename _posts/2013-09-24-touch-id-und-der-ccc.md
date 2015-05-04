@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Das iPhone ist kein Datentresor
+title: 'Das iPhone ist kein Datentresor'
 categories: [Technologie]
-comments: true
 ---
 
 Es war zu erwarten: [Der Chaos Computer Club hat den iPhone Fingerabrucksensor Touch ID "gehackt"](http://www.ccc.de/de/updates/2013/ccc-breaks-apple-touchid). Ich hatte eigentlich [erst neulich hier](http://moehrenzahn.de/sicherheit_unserer_fingerabdruecke/) über die angebliche Sicherheit des Systems geschrieben.
@@ -18,7 +17,7 @@ Woran man arbeiten kann (und was Apple tut), ist die Sicherheit der Touch ID im 
 
 Dazu kommt noch, dass der neue Sensor *in den meisten Situationen* sicherer ist als ein Zahlencode.[^3] Also kommt in Sachen Sicherheit am Ende ein Plus heraus. Nur deshalb muss es ja noch lange nicht *sicher* sein. Deshalb ist [dieses eine Fazit](http://www.ccc.de/de/updates/2013/ccc-breaks-apple-touchid) des CCC nicht ganz verkehrt:
 
-> "iPhone-Benutzer sollten vermeiden, sensible Daten mit ihrem Fingerabdruck zu sichern."
+> iPhone-Benutzer sollten vermeiden, sensible Daten mit ihrem Fingerabdruck zu sichern.
 
 Das gilt aber genau so für die Code-Sperre.
 
@@ -26,4 +25,4 @@ Das gilt aber genau so für die Code-Sperre.
 
 [^2]: Ganz davon abgesehen, dass viele ihr iPhone gar nicht sperren – [laut Apple über 50 Prozent](http://support.apple.com/kb/HT5949?viewlocale=en_US&locale=en_US).
 
-[^3]: [Hier gibt es eine Zusammenfassung von Apple, wie Touch ID funktioniert und was es bringen soll ](http://support.apple.com/kb/HT5949?viewlocale=en_US&locale=en_US).
+[^3]: [Hier gibt es eine Zusammenfassung von Apple, wie Touch ID funktioniert und was es bringen soll](http://support.apple.com/kb/HT5949?viewlocale=en_US&locale=en_US).

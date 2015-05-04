@@ -2,7 +2,6 @@
 layout: post
 title: A Fantastical plugin for Alfred
 categories: [English]
-comments: true
 lang: en
 ---
 
@@ -25,9 +24,9 @@ on alfred_script(q)
 end alfred_script
 {% endhighlight %}
 
-Given this code, Alfred would pass whatever argument I passed after my Keyword (I decided on `cal`) to Fantastical, and then I would press `enter` to create the entry[^instant]. It is not very sophisticated and [imartins created a similar plugin](http://www.alfredforum.com/topic/1272-add-to-fantastical/) way before me.
+Given this code, Alfred would pass whatever argument I gave after my Keyword (I decided on `cal`) to Fantastical, and then I would press `enter` to create the entry.[^instant] It is not very sophisticated and [imartins created a similar plugin](http://www.alfredforum.com/topic/1272-add-to-fantastical/) way before me.
 
-[^instant]: You can also make Fantastical add the entry in the background with the modifier `[add immediately true]`. I didn’t want that because I want to be able to check if Fantastical parses the input correctly. However, one could add a check for a certain symbol (`!`, for example) to the input and use the modifier when the symbol is present.
+[^instant]: You can also have Fantastical add the entry in the background with the modifier `[add immediately true]`. I didn’t want that because I want to be able to check if Fantastical parses the input correctly. However, one could add a check for a certain symbol (`!`, for example) to the input and use the modifier when the symbol is present.
 
 There was one annoyance, though. I often use Fantastical to view upcoming appointments. When you invoke Fantastical via `parse sentence` it always expands the parsing area, cropping the events list. The workaround was to enter some text and delete it again, then the parsing interface would collapse. Because this is annoying to do I decided to automate this:[^automate]
 
@@ -48,7 +47,5 @@ end alfred_script
 This code checks if the input string is empty. If it is, it turns it into a singe space character to be easily deleted later. After the parse command I simulate the key press of `key code 51`, which is the `delete` key. This collapses the parsing interface.
 
 It has a .5 second delay, but it works for me. If I enter `cal` into Alfred, it opens the normal Fantastical interface (like if I pressed `⌥ Space` before). If I enter `cal` with anything afterwards, Fantastical uses this text to parse a new entry.
-
-You can [download the finished plugin here](/images/Fantastical.alfredworkflow).
 
 [^automate]: It would be much easier if Flexibits improved their Applescript implementation with an "invoke" functionality. The default Applescript function `activate` doesn’t work because Fantastical on the Mac is not a proper window.

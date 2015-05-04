@@ -2,13 +2,12 @@
 layout: post
 title: Der kostenlose Butler in der Hosentasche
 categories: [Technologie]
-comments: true
 slug: 'Loyalität gibt’s nicht umsonst'
 ---
 
-Wenn man an die [NSA-Affäre](http://de.wikipedia.org/wiki/Überwachungs-_und_Spionageaffäre_2013) denkt, kann man sich schon fragen, wem man denn noch Vertrauen kann.<!--more--> Das trifft besonders in unserer Zeit zu, in der fast jeder und jede von uns ein voll funktionsfähiges Spionagegerät in unserer Tasche trägt, dem wir so ziemlich alles, was wir wissen und tun, anvertrauen.
+Wenn man an die [NSA-Affäre](http://de.wikipedia.org/wiki/Überwachungs-_und_Spionageaffäre_2013) denkt, kann man sich schon fragen, wem man denn noch Vertrauen kann. Das trifft besonders in unserer Zeit zu, in der fast jeder und jede von uns ein voll funktionsfähiges Spionagegerät in unserer Tasche trägt, dem wir so ziemlich alles, was wir wissen und tun, anvertrauen.
 
-Der Blogger [Felix Schwenzel](https://twitter.com/diplix) empfiehlt auf [wirres.net](http://wirres.net/), dass wir [unsere Smartphones mehr als Butler betrachten sollten, mit den Konsequenzen](http://wirres.net/article/articleview/6928/1/6/):
+Der Blogger [Felix Schwenzel](https://twitter.com/diplix) empfiehlt auf [wirres.net](http://wirres.net/), dass wir [unsere Smartphones mehr als Butler betrachten sollten – mit den Konsequenzen](http://wirres.net/article/articleview/6928/1/6/):
 
 > vielleicht wäre das gar keine schlechte idee, die eine oder andere gepflogenheit oder tabu das sich im verhältnis von privilegierten und ihren dienern oder assistenten in den jahrhunderten herausgebildet hat, auch auf technik anzuwenden.[^1]
 
@@ -24,7 +23,7 @@ Bei einem kostenlosen Dienst ist man nie der Kunde, sondern immer das Produkt. F
 
 Wer bei Facebook ein Foto für die Familie hochlädt, für den ist Facebook wie ein Butler, der die Fotos zur Familie bringt, aber nicht ohne vorher Abzüge davon an die lokale Tageszeitung zu verkaufen. Dafür ist er immerhin kostenlos, nicht wahr? (Das ist so ziemlich das Prinzip, auf dem das ganze Internet aufbaut.[^2])
 
-In einer Gesellschaft wie der unsrigen kannst du Verschwiegenheit und Loyalität nur erwarten, wenn du sie bezahlst! Wenn jemand zu dir kommen würde, und dir anbieten würde dir kostenlos die Wohnung zu putzen, würdest du auch vermuten, dass er was mitgehen lassen würde!
+In einer Gesellschaft wie der unsrigen kannst du Verschwiegenheit und Loyalität nur erwarten, wenn du sie bezahlst. Wenn jemand zu dir kommen würde, und dir anbieten würde kostenlos deine Wohnung zu putzen, würdest du auch vermuten, dass er was mitgehen lassen würde!
 
 [^1]: irgendjemand spende dem Mann eine Shift-Taste!
 

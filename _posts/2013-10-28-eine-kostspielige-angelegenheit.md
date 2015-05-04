@@ -2,11 +2,10 @@
 layout: post
 title: Eine kostspielige Angelegenheit
 categories: [Theologie]
-comments: true
 slug: Sollten wir Tebartz-van Elst dankbar sein?
 ---
 
-Die letzten Tage geisterte der katholische Bischof Tebartz-van Elst ununterbrochen durch die Nachrichten. Sein schickes, neu gebautes Diözesanzentrum in Limburg hat nun schon immerhin 31 Millionen Euro an Kirchengeldern verschlungen.<!--more-->
+Die letzten Tage geisterte der katholische Bischof Tebartz-van Elst ununterbrochen durch die Nachrichten. Sein schickes, neu gebautes Diözesanzentrum in Limburg hat nun schon immerhin 31 Millionen Euro an Kirchengeldern verschlungen.
 
 Vielleicht sollten wir Evangelische mal überdenken, warum wir darüber so empört sind. Sollten wir sogar dankbar sein?
 
@@ -16,6 +15,4 @@ Damals war es der Neubau des Petersdoms in Rom, der für die Kurie so unvorherge
 
 Insofern bin ich über diese Prachtbauten der katholischen Kirche ganz froh. Ohne all diese bauwütigen Kirchenoberhäupter würde es unsere lutherische Kirche so vielleicht überhaupt nicht geben.
 
-Und ganz nebenbei bemerkt kann ich mich an manch’ beindruckendem architektonischen Kunstwerk, das nun einmal gebaut wurde, einfach erfreuen – egal wie teuer es war. (Da gehört der Petersdom dazu, das Diözesanzentrum in Limburg [eher weniger](http://www.ksta.de/politik/-das-ist-der--protzbau--von-limburg,15187246,24587974.html).)
-
-*Dieser Beitrag ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de).*
+Und ganz nebenbei bemerkt kann ich mich an manch beeindruckenden architektonischen Kunstwerk, das nun einmal gebaut wurde, einfach erfreuen – egal wie teuer es war. (Da gehört der Petersdom dazu, das Diözesanzentrum in Limburg [eher weniger](http://www.ksta.de/politik/-das-ist-der--protzbau--von-limburg,15187246,24587974.html).)

@@ -51,6 +51,9 @@ h1.entry-title {
 h1.entry-title:first-letter {
 	text-transform: capitalize;
 }
+.entry-slug {
+	color: $text-color-light;
+}
 
 /* Article content */
 

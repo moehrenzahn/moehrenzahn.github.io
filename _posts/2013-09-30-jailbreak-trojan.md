@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Anatomy of a Jailbreak Trojan
+title: 'Anatomy of a Jailbreak Trojan'
 lang: en
 categories: [English]
-comments: true
 link: http://ryanhileman.info/posts/webgl
 ---
 
@@ -13,4 +12,4 @@ Highly disconcerting: [Ryan Hileman](https://twitter.com/lunixbochs/) has discov
 
 Apple *does* have its reasons in trying to make jailbreaking as difficult as possible. The "tweak" has already been taken offline, but there are certainly many more tools opening similar backdoors on the countless shady Cydia repositories …
 
-[^1]: I laughed when I read  [on Twitter](https://twitter.com/lunixbochs/status/382737948363325440) that he wrote his own custom blogging engine just to publish this post.
+[^1]: I laughed when I read [on Twitter](https://twitter.com/lunixbochs/status/382737948363325440) that he wrote his own custom blogging engine just to publish this post.

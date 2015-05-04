@@ -2,13 +2,10 @@
 layout: post
 title: Wie eine Online-Bibel *nicht* funktionieren sollte
 categories: [Technologie, Theologie]
-comments: true
 slug: Die Bibel in gerechter Sprache Online
 ---
 
 Seit ein paar Wochen ist die neue [Homepage der Bibel in gerechter Sprache](http://www.bibel-in-gerechter-sprache.de) online. Dort kann man sich diese Bibelversion kostenlos anschauen. Ich habe die Seite mal unter die Lupe genommen.
-
-<!--more-->
 
 Ich bin ja grundsätzlich ein Fan davon, wenn Unternehmen das Internet sinnvoll einsetzen und Inhalte online verfügbar machen. Aber das, was das Team der *Bibel in gerechter Sprache* (BigS) da verzapft hat, taugt einfach überhaupt nichts!
 
@@ -18,7 +15,7 @@ Und dabei geht es mir nicht um die Optik. Die Seite ist sehr schick designt – 
 
 ## Wozu ist eine Online-Bibel da?
 
-Online-Bibeln eignen sich hervorragend, um Bibelstellen schnell aufzurufen, um in verschiedene Übersetzungen zu vergleichen und zum recherchieren. Eine digitale Volltextsuche schlägt jede Konkordanz um Längen. Die Onlinge-BigS ist für keines dieser Dinge zu gebrauchen.
+Online-Bibeln eignen sich hervorragend, um Bibelstellen schnell aufzurufen, um in verschiedene Übersetzungen zu vergleichen, und zum recherchieren. Eine digitale Volltextsuche schlägt jede Konkordanz um Längen. Die Onlinge-BigS ist für keines dieser Dinge zu gebrauchen.
 
 Versuchen wir doch mal spaßenshalber, eine Bibelstelle aufzurufen. Zum Beispiel Psalm 23: Ich wähle aus dem Dropdown-Menü den Punkt "Das Buch der Psalmen" aus (nicht leicht zu finden, weil die BigS auch viele apokryphe Stoffe beinhaltet – was ja nicht unbedingt schlecht ist. Die Liste der Bücher ist auf jeden Fall lang). Dann gebe ich im Feld "Kapitel" "23" ein. Dabei denke ich mir, dass ein einfaches Eingabefeld für die Bibelstelle irgendwie schneller zu benutzen wäre.
 
@@ -43,5 +40,3 @@ Ich verstehe nicht ganz, was die Seite der BigS soll. Wenn sie ausschließlich f
 Daran wird sich wahrscheinlich auch kurzfristig nichts ändern. die dämliche 5-Verse-Begrenzung und die fehlende Suchfunktion ist höchstwahrscheinlich eine "Idee" von irgendwelchen Verlagsbürokraten, die Angst haben, dass niemand mehr ihr Buch kauft, wenn die Online-Version *zu* praktisch wird.
 
 Mein Interesse ist auf jeden Fall verflogen.
-
-*Dieser Beitrag ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de).*

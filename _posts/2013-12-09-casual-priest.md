@@ -2,7 +2,6 @@
 layout: post
 title: Casual Priest – Das Priester-Outfit für das 21. Jahrhundert?
 categories: [Theologie]
-comments: true
 ---
 
 "Maßgeschneidert, modern, selbstbewusst und stylish"<!--more--> – so beschreibt die Schwedische Modedesignerin Maria Sjödin Stockholm ihre [Kollektion "Casual Priest"](http://www.casualpriest.com/1.html).
@@ -13,7 +12,7 @@ In dieser [handgeschneiderten Kollektion](http://www.casualpriest.com/1.html) fi
 
 Die Kleider sind modelliert nach der Vorlage des Kollarhemds, das ein Geistlicher als amtliche Alltagskeidung tragen kann (und das nicht zu verwechseln ist mit dem Talar, dem *liturgischen* Gewand). Dieses Outfit ist heute eigentlich nur noch aus dem Fernsehen oder bei katholischen Priestern bekannt. Wer jedoch zu offiziellen Anlässen, die kein Gottesdienst sind, als Pfarrer oder Pfarrerin erkennbar sein will, greift auch als Evangelischer heutzutage noch zum schwarzen Kollarhemd.
 
-Auf Frauen zugeschnittene "Kollarhemden" hat es allerdings noch nie gegeben. Manche sagen, Sjödin hat in Schweden mit ihrer Kollektion eine echte Marktlücke entdeckt. Ich finde es begrüßenswert, wenn die Öffnung unserer Berufsgruppe für Frauen jetzt sich auch langsam mal in äußerlicher (Mode-)Vielfalt äußert.
+Auf Frauen zugeschnittene "Kollarhemden" hat es allerdings noch nie gegeben. Manche sagen, Sjödin habe in Schweden mit ihrer Kollektion eine echte Marktlücke entdeckt. Ich finde es begrüßenswert, wenn die Öffnung unserer Berufsgruppe für Frauen jetzt sich auch langsam mal in äußerlicher (Mode-)Vielfalt äußert.
 
 ## "Ein sicheres und professionelles Gefühl"
 

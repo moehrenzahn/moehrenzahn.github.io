@@ -3,11 +3,10 @@ layout: post
 title: Boot to Bootcamp with AppleScript
 lang: en
 categories: [English]
-comments: true
 slug: So I wrote an AppleScript
 ---
+
 Ever since I got my first Mac I also had a Bootcamp partition with Windows 7 installed, because there are some programs that just don't run on Macs and besides, I like to play the occasional video game.
-<!--more-->
 
 Booting from a Bootcamp partition is a little convoluted. You restart the Mac and keep the `option` key pressed during startup to select the boot partition. I found this method annoying. I often would forget to press the button or press it too late and have to watch the Mac boot to OS X all the way, only to retry the procedure.
 
@@ -26,7 +25,7 @@ do shell script theScript with administrator privileges
 return theVolume
 {% endhighlight %}
 
-Throw this script into an [Alfred workflow](http://support.alfredapp.com/workflows/) and you have a very simple solution for booting to another partition. You should adjust the `theVolume` variable to the name of your partition (I believe the default is "Bootcamp"). If you are feeling adventurous and want to make the script even faster you can embed your username and password into the script on line three:
+Throw this script into an [Alfred workflow](http://support.alfredapp.com/workflows/) and you have a very simple solution for booting to another partition. You have to adjust the `theVolume` variable to the name of your partition (I believe the default is "Bootcamp"). If you are feeling adventurous and want to make the script even faster you can embed your username and password into the script on line three:
 
 {% highlight applescript %}
 do shell script theScript with administrator privileges user name "USER" password "PASSWORD"

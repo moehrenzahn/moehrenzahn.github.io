@@ -3,7 +3,6 @@ layout: post
 title: 'Wo surfst du so?'
 slug: Eine Online-Horizonterweiterung
 categories: [Technologie, Theologie]
-comments: true
 ---
 
 Vor einiger Zeit habe ich auf Twitter mit [Fabian Maysenhölder](http://www.twitter.com/f_mayse) und einigen anderen über [einen TheoPop-Artikel](http://theopop.de/2014/01/bringt-internet-ende-religion/) diskutiert. Dabei kamen wir darauf zu sprechen, welche Internetseiten wir regelmäßig lesen, nicht in erster Linie weil wir sie interessant finden, sondern um uns herauszufordern. Oder um, [wie Fabian es ausdrückte](http://theopop.de/2014/01/bringt-internet-ende-religion/), *"sich nicht nur in Kreisen und auf Webseiten, Blogs und in Foren[^foren] zu bewegen, die das eigene Weltbild stützen."*

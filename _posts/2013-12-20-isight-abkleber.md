@@ -2,14 +2,12 @@
 layout: post
 title: Hatten Webcam-Abkleber die ganze Zeit recht?
 categories: [Technologie]
-comments: true
 slug: Ich bin dann mal weg, mir einen Aluhut basteln
 ---
 
 Ich habe mich in der Vergangenheit immer ein bisschen lustig gemacht über Leute, die ihre Webcam am Laptop großzügig abkleben – Paranoia durch Unwissenheit. "Die LED ist mit der Kamera in Hardware verbunden, die eine kann nicht ohne die andere angehen", würde ich jedes mal erklären.
 
-Das scheint nach neuesten Erkenntnissen aber so nicht zu stimmen.  
-<!--more-->
+Das scheint nach neuesten Erkenntnissen aber so nicht zu stimmen.
 
 Die [Washington Post berichtet](http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/18/research-shows-how-macbook-webcams-can-spy-on-their-users-without-warning/) von einem Forscherteam, das es geschafft haben soll, auf einem MacBook die LED der iSight-Kamera zu umgehen und Video aufzunehmen, ohne, dass die Leuchte den Benutzer darüber informiert.
 

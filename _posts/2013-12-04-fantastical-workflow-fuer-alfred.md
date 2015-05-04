@@ -2,7 +2,6 @@
 layout: post
 title: Ein Fantastical-Plugin für Alfred
 categories: [Technologie]
-comments: true
 ---
 
 Ich habe ein neues Plugin geschrieben. Es ist ein [Fantastical](http://flexibits.com/fantastical)-Plugin für den ausgezeichneten [Spotlight-Ersatz Alfred](http://www.alfredapp.com).
@@ -10,7 +9,7 @@ Ich habe ein neues Plugin geschrieben. Es ist ein [Fantastical](http://flexibits
 
 Ich verwende Fantastical jeden Tag, um meine Kalender einzusehen und zu verwalten. Seine natürliche Spracherkennung ist der beste und schnellste Weg, um neue Termine in meinen Kalender einzutragen. Ich hatte Fantastical auf `⌥ Leertaste` eingestellt, weil ich es so oft verwendete.
 
-Aber ich verwende und mag auch Alfred sehr, den super fähigen Spotlight-Ersatz von Running with Crayons. Ich mache damit alle vom Dateien öffnen und Mails erstellen bis kurze Webrecherchen anstellen. Es ersetzt bei mir den `⌘ Space` Shortcut von Spotlight. Ich schreibe sehr gern kurze Workflows[^powerpack], um häufige Aufgaben über Alfred schnell zu erledigen.
+Aber ich verwende und mag auch Alfred sehr, den super fähigen Spotlight-Ersatz von Running with Crayons. Ich mache damit alles vom Dateien öffnen und Mails erstellen bis kurze Webrecherchen anstellen. Es ersetzt bei mir den `⌘ Space` Shortcut von Spotlight. Ich schreibe oft kurze Workflows[^powerpack], um häufige Aufgaben über Alfred schnell zu erledigen.
 
 [^powerpack]: Mit dem [Alfred Power Pack](https://buy.alfredapp.com).
 

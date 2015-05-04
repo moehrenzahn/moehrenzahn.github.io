@@ -2,13 +2,10 @@
 layout: post
 title: Die Zukunft des elektronischen Papiers
 categories: [Technologie]
-comments: true
 slug: Vor- und Nachteile von E-Ink
 ---
 
 Schon so manches mal habe ich auf Amazon einen kleinen Kindle auf meinen Wunschzettel gesetzt, weil mir das Display so gut gefällt: Das Zauberwort heißt E-Ink.
-
-<!--more-->
 
 Der [Elektopastor](http://www.elektropastor.de)[^1] hat letzte Woche [etwas über den Stand der E-Ink-Technik geschrieben](http://www.elektropastor.de/2013/10/12/quo-vadis-E-Ink/):
 
@@ -35,9 +32,9 @@ Da irrt er sich gewaltig. Der größte Nachteil[^2] von E-Ink ist, dass die Bild
 <iframe width="100%" height="315" src="//www.youtube.com/embed/lBI8Z1qj7o0" frameborder="0" allowfullscreen></iframe>
 *Video: Stock Android auf dem Nook. Es geht zwar, ist aber ziemlich grausig.*
 
-Schade eigentlich. Es wäre zu hoffen, dass die Reaktionszeiten der E-Ink-Technologie mit der Zeit kürzer werden[^4]. Aber bis es soweit ist sind wahrscheinlich die herkömmlichen LCD-Displays kontrastreicher und Stromsparender geworden… 
+Schade eigentlich. Es wäre zu hoffen, dass die Reaktionszeiten der E-Ink-Technologie mit der Zeit kürzer werden[^4]. Aber bis es soweit ist sind wahrscheinlich die herkömmlichen LCD-Displays kontrastreicher und Stromsparender geworden.
 
-Ich bin gespannt, was die Zukunft bringen wird. Aber ich glaube nicht, dass E-Ink ausserhalb des E-Book-Marktes Fuß fassen wird. Es ist *nur* eine Technologie zum Lesen. Es ist die beste Technologie zum Lesen.
+Ich bin gespannt, was die Zukunft bringen wird. Aber ich glaube nicht, dass E-Ink außerhalb des E-Book-Marktes Fuß fassen wird. Es ist *nur* eine Technologie zum Lesen. Es ist die beste Technologie zum Lesen.
 
 [^1]: Das ist natürlich [Christoph Martsch](http://twitter.com/calexmartsch/), Freund des [SETh](http://www.interseth.de/) und mein partner-in-crime auf [theologiestudierende.de](http://www.theologiestudierende.de/).
 

@@ -7,7 +7,7 @@ comments: true
 slug: Changing the Octopress preview engine
 ---
 
-One great thing about [Octopress](http://octopress.org) is that you can always preview your site in your browser locally with the `rake preview` command. This is a great feature for fiddling with the design without making every change public.[^fiddle]<!--more-->
+One great thing about [Octopress](http://octopress.org) is that you can always preview your site in your browser locally with the `rake preview` command. This is a great feature for fiddling with the design without making every change public.[^fiddle]
 
 [^fiddle]: Something that I do much more than I would like to.
 

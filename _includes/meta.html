@@ -25,7 +25,7 @@
     {% when '12' %}Dezember
   {% endcase %}
   {{ page.date | date: "%Y" }}</time>
-{% endif %}
+{% endif %}<span class="dot">•</span> {{ page.content | number_of_words }} {% if page.lang == 'en' %}Words{% else %} Wörter{% endif %}
 
 <p class="meta sharing">
 	{% case page.lang %}
@@ -35,8 +35,8 @@
             Teilen:
         {% endcase %} 
   
-  <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="gp-like">Google+</a><span class="dot">•</span>
   <a href="http://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=moehrenzahn" class="twitter-like">Twitter</a><span class="dot">•</span>
   <a href="http://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="fb-like">Facebook</a><span class="dot">•</span>
+  <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="gp-like">Google+</a><span class="dot">•</span>
   <a href="mailto:?subject={{ page.title | escape }}%20%7C%20moehrenzahn.de&body=%0A%0A{{ page.title | escape }}%20%7C%20{{ site.url }}{{ page.url }}" class="mail-share" target="_top">Mail</a>
 </p>

@@ -2,17 +2,12 @@
 layout: post
 title: Typography is for everyone
 categories: [English]
-comments: true
 link: http://practicaltypography.com/
 lang: en
 slug: 'Matthew Butterick’s Practical typography'
 ---
 
-I just finished reading something that had been sitting in my Instapaper queue for a long time: [Matthew Butterick’s *Practical typography*](http://practicaltypography.com/).
-
-<!--more-->
-
-The foreword is written by famous german typographer [Erik Spiekermann](http://spiekermann.com/en/), so you know there is some authority behind this book.
+I just finished reading something that had been sitting in my Instapaper queue for a long time: [Matthew Butterick’s *Practical typography*](http://practicaltypography.com/). The foreword is written by famous german typographer [Erik Spiekermann](http://spiekermann.com/en/), so you know there is some authority behind this book.
 
 ## You are a typographer!
 
@@ -32,13 +27,13 @@ His writing is off the cuff and not overly didactic. And the book is not even th
 
 Even though Butterick writes mostly about print, he also touches on the Web a lot, albeit in much less detail than I would have liked.[^tables]
 
-One thing that I would have loved to read more about were more in-depth explanations of what makes and breaks a font. He lists quite a lot of [bad fonts](http://practicaltypography.com/bad-fonts.html) and better alternatives[^freefont], but never explains what exactly to look for in a font.
+One thing that I would have loved to read more about are more in-depth explanations of what makes and breaks a font. He lists quite a lot of [bad fonts](http://practicaltypography.com/bad-fonts.html) and better alternatives[^freefont], but never explains what exactly to look for in a font.
 
 Another thing that was only touched briefly is the question of how to balance text and white-space – How to determine the rythm of a page.
 
 ## Spreading the word
 
-The author decided to release this book as a website. And – incredibly – it’s free! In the chapter [How to pay for this book](http://practicaltypography.com/how-to-pay-for-this-book.html) Butterick writes you could pay by spreading the word[^fonts]. So that’s what I’ll do. I heartily recommend it. You are a typographer and should [read this book](http://practicaltypography.com/)!
+The author decided to release this book as a website. And – incredibly – it’s free! In the chapter [How to pay for this book](http://practicaltypography.com/how-to-pay-for-this-book.html) Butterick writes you could pay by spreading the word.[^fonts] So that’s what I’ll do. I heartily recommend it. You are a typographer and should [read this book](http://practicaltypography.com/)!
 
 [^fonts]: Although it’s pretty obvious that the book is basically an ad for Butterick’s own professional fonts (which are insanely pretty). The entire Book is set in his fonts [Equity](http://practicaltypography.com/index.html) and [Concourse](http://practicaltypography.com/concourse.html).
 

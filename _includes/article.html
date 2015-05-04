@@ -4,14 +4,7 @@
       {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
       
       <h1 class="entry-title index {% if post.link %}linklog{% endif %}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}</h1>
-      
-      {% if post.slug  %}
-        <span class="entry-content-excerpt">{{ post.slug }}</span>
-      {% else %}
-        {% if excerpted == 'true' %}
-        <span class="entry-content-excerpt">{{ content | excerpt | strip_html }}</span>
-        {% endif %}
-      {% endif %}
+      <span class="entry-content-excerpt">{{ content | strip_html | truncate: 300, ' …' }}</span>
     </div>
   </a>
 {% else %}

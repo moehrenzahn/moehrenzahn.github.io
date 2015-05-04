@@ -2,21 +2,19 @@
 layout: post
 title: Vokabeln lernen für (Studien-)Anfänger
 categories: [Theologie, Technologie]
-comments: true
 ---
 
 Das erste, was es im Theologiestudium zu lernen gibt, sind alte, tote Sprachen. Da kommt keiner dran vorbei, aber es macht Sinn, sich das Leben mit Technologie zu vereinfachen. Besonders beim Lernen von Vokabeln hat mir mein iPhone enorm geholfen, da ich es immer dabei hatte und in freien fünf Minuten drauf schauen konnte. Außerdem macht es so wenigstens etwas Spaß.
-<!-- more -->
 
-![Eductic Icon (Bildquelle: iTunes)](/images/eductic%20icon.png)
-*Eductic Icon (Bildquelle: iTunes)*
+![Eductic Icon (Bild: iTunes)](/images/eductic%20icon.png)
+*Eductic Icon (Bild: iTunes)*
 
 Ich habe viele Apps zum Lernen von Karteikarten ausprobiert und bin am Ende bei [Eductic](https://itunes.apple.com/us/app/eductic-flashcards/id340783381?mt=8) hängen geblieben. Die App ist sehr minimalistisch mit wenig Schnickschnack, aber die vorhandenen Features sind genial umgesetzt.
 
 ![Animation der Vokabelansicht von Eductic](/images/eductic.gif)
 *Animation der Vokabelansicht von Eductic*
 
-Kernstück der App ist die Karteiansicht: Es gibt nur einen Knopf am unteren Bildschirmrand, der sowohl zum Bewerten der eigenen Kenntnis, zum "Umdrehen" der Karte als auch zum Fortfahren zur nächsten Karte dient! Das ganze Funktioniert durch Schieben des Reglers, je nachdem wie gut man die Karte kennt (in %). Wenn der Regler berührt wird, wird die Antwort gezeigt. Wenn der Regler wieder losgelassen wird, wird die ausgewählte Prozentzahl ausgewählt und die nächste Karte erscheint. Das ganze ist im Text schwer zu beschreiben, aber diese Oberfläche ist einfach genial (und das auch noch kostenlos)!
+Kernstück der App ist die Karteiansicht: Es gibt nur einen Knopf am unteren Bildschirmrand, der sowohl zum Bewerten der eigenen Kenntnis, zum "Umdrehen" der Karte als auch zum Fortfahren zur nächsten Karte dient! Das ganze Funktioniert durch Schieben des Reglers, je nachdem wie gut man die Karte kennt (in Prozent). Wenn der Regler berührt wird, wird die Antwort angezeigt. Wenn der Regler wieder losgelassen wird, wird die ausgewählte Prozentzahl gespeichert und die nächste Karte erscheint. Das ganze ist im Text schwer zu beschreiben, aber diese Oberfläche ist einfach genial (und das auch noch kostenlos)!
 
 Wie bekommt man aber seine Vokabeln in die App? Man kann mit iTunes Vokabeln aus einfachen Textdateien importieren. So kommt man um manuelles Eintippen am iPhone herum.
 

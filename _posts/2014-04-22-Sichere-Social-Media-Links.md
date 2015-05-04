@@ -3,7 +3,6 @@ layout: post
 title: 'Sichere Social-Media-Links'
 categories: [Technologie]
 slug: Facebook- und Twitter-Buttons via statischer Links
-comments: true
 ---
 
 Wer auf meinem Blog unter einen Artikel schaut, wird dort unter "Teilen" Links zu Faceboook, Twitter und Google+ finden. Das kennt man ja von überall aus dem Internet. Sie dienen als eine freundliche Erinnerung, gute Artikel weiterzuempfehlen. Außerdem machen sie Teilen und Liken sehr bequem – mit ein bis zwei Klicks landet ein Artikel in der eigenen Timeline.
@@ -32,7 +31,7 @@ Das untere `<div>`-Element ist der eigentliche Like-Button. Das Attribut `data-h
 
 Interessanter ist der JavaScript-Code darüber. Dieser führt ein Skript von `connect.facebook.net` aus, und zwar jedesmal, wenn jemand die Seite mit dem eingebetteten Code aufruft. Was dieses Skript genau macht, lässt sich schwer sagen. Sicher ist, dass es die Anzahl der bisherigen "Likes" abruft (um sie neben dem Button anzuzeigen) und den eigenen "Like" registriert, wenn man den Button drückt. [Zusätzlich installiert das Skript einen Cookie im Browser](https://www.facebook.com/help/206635839404055?q=cookies), mit dem Facebook in etwa nachvollziehen kann, wo man sonst so rumsurft – um zum Beispiel gezielt Werbung anzuzeigen.
 
-Viele Leute finden gerade diese Cookies und überhaupt das unbekannte JavaScript besonders problematisch, weil man keinen Einfluss darauf hat, ob die eigenen Daten gespeichert werden – das bloße Besuchen einer Seite mit Facebook- oder Twitter-Button genügt, um ein Cookie zu setzen.
+Viele Leute finden gerade diese Cookies und überhaupt das unbekannte JavaScript problematisch, weil man keinen Einfluss darauf hat, ob die eigenen Daten gespeichert werden – das bloße Besuchen einer Seite mit Facebook- oder Twitter-Button genügt, um ein Cookie zu setzen.
 
 Deshalb hat [heise.de ein Zwei-Klick-System entwickelt](http://www.heise.demar/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html), bei dem der Nutzer erst durch einen Klick den Button aktiviert und dann mit einem zweiten Klick verwenden kann. Das externe Skript wird erst nach dem ersten Klick ausgeführt – wer keine Daten übermitteln will, ignoriert den Button einfach. Dieses System wurde bald in ein Wordpress-Plugin gepackt und weit über das deutschsprachige Internet verbreitet. Das Plugin schützt nicht nur die Privatsphäre der Nutzer, es ist auch hässlich wie die Nacht.
 
@@ -44,7 +43,7 @@ Also habe ich eine einfachere Lösung gesucht und gefunden: Links.
 
 Wie sich herausstellt, lässt sich der Teilen-Vorgang auf allen gängigen Sozialen Netzwerken via einfacher URLs auslösen, in denen alle wichtigen Daten codiert sind.
 
-So sieht der Code für Google+ aus:
+So sieht der Code für Google plus aus:
 
 {% highlight html %}
 <a href="https://plus.google.com/share?url=[URL]">Google+</a>
@@ -64,9 +63,9 @@ Auf Twitter kann man sogar noch zusätzliche Parameter codieren:
 <a href="http://twitter.com/intent/tweet?url=[URL]&amp;text=[TITLE]&amp;via=[ACCOUNT]">Twitter</a>
 {% endhighlight %}
 
-Neben `[URL]` lässt sich der `[TITLE]` des Artikels oder der Seite angeben und ein "via"-Twitter-Acocunt, der z.B. der des Autors sein kann.
+Neben `[URL]` lässt sich der `[TITLE]` des Artikels oder der Seite angeben und ein "via"-Twitter-Account, der z.B. der des Autors sein kann.
 
-Der Vorteil dieser Social-Links sind, dass einfache Links null JavaScript enthalten. Sie sind also blitzschnell und übermitteln nur die Daten, die im Link codiert sind. Außerdem kann ich die Links mit CSS an das Design meiner Seite anpassen – ich habe zum Beispiel die primäre Farbe des jeweiligen Netzwerks als Hervorhebungsfarbe für die Links gesetzt.[^farben]
+Der Vorteil dieser Social-Links sind, dass einfache Links null JavaScript enthalten. Sie sind also blitzschnell und übermitteln nur die Daten, die im Link codiert sind. Außerdem kann ich die Links mit CSS an das Design meiner Seite anpassen – ich habe zum Beispiel die primäre Farbe des jeweiligen Netzwerks als Hervorhebungsfarbe für die Links gesetzt.[^farben]
 
 [^farben]: Das sind übrigens für Facebook `#3b5a94`, für Twitter `#00aeea`und für Google+ `#e0483e`.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  A Mail.app plugin for Sublime Text 3
+title:  'A Mail.app plugin for Sublime Text 3'
 lang: en
 categories: [English]
-comments: true
 ---
 
-I wrote [my first plugin for Sublime Text](https://github.com/moehrenzahn/Mail). It is quite simple.<!--more--> It takes the text of the current document and turns it into a new Mail.app message. The first line of text is used as the subject line.
+I wrote [my first plugin for Sublime Text](https://github.com/moehrenzahn/Mail). It is quite simple. It takes the text of the current document and turns it into a new Mail.app message. The first line of text is used as the subject line.
 
 Originally I wanted it to use converted markdown text, but Mail’s AppleScript interface has no proper API for HTML messages.[^1] 
 

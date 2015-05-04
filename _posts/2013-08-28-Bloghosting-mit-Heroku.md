@@ -11,7 +11,7 @@ Zu allererst hatte ich [moehrenzahn.de](http://moehrenzahn.de) auf [Wordpress.co
 
 ## Warum mir Wordpress nicht reicht
 
-Die Premium-Features von Wordpress.com sind ziemlich kostspielig. Ich wollte vor allem meine eigene Domain ([moehrenzahn.de](http://moehrenzahn.de)) verwenden und das Design nach meinen Wünschen anpassen. Der [custom domain support](http://en.support.wordpress.com/domains/) ist zwar noch erschwinglich, aber [30 € pro Jahr für ein custom design](http://en.support.wordpress.com/custom-design/) wollte ich eigentlich nicht ausgeben, vor allem nicht für einen Blog den – wenn’s hochkommt – zwei Leute lesen.[^1]
+Die Premium-Features von Wordpress.com sind ziemlich kostspielig. Ich wollte vor allem meine eigene Domain ([moehrenzahn.de](http://moehrenzahn.de)) verwenden und das Design nach meinen Wünschen anpassen. Der [custom domain support](http://en.support.wordpress.com/domains/) ist zwar noch erschwinglich, aber [30 € pro Jahr für ein custom design](http://en.support.wordpress.com/custom-design/) wollte ich eigentlich nicht ausgeben, vor allem nicht für einen Blog den – wenn’s hochkommt – zwei Leute lesen.
 
 Also überlegte ich, mir meine eigene [Wordpress.org](http://wordpress.org)-Installation zu hosten. Da ich für diese Spielerei wie gesagt kein Geld ausgeben wollte, schaute ich mich nach kostenlosen Webhosting-Angeboten um. Nur eins dazu: Vergiss es. Alles was ich ausprobiert habe war der größte Obermurks.
 
@@ -21,7 +21,7 @@ Außerdem will ich mich nirgendwo einloggen müssen – meine Texte sollen einfa
 
 ## Die Suche nach einer stabilen Plattform
 
-Tatsächlich gibt es für diese scheinbar utopischen Anforderungen Lösungen: Zum Beispiel [Blogging-Plattformen mit Dropbox-Sync](http://www.fearofconfusion.com/2012/01/three-markdown-dropbox-bloggging.html). Ich hatte meinen Blog eine ganze Weile auf [Scriptogr.am](http://scriptogr.am)[^3]. Scriptogr.am hat zwar auch ein Webinterface, aber dort braucht man nur einen Knopf: Synchronisieren. Dann nahm der Dienst alle Markdown-Dateien aus einem bestimmten Ordner meiner Dropbox und machte Blog-Einträge daraus. Änderte ich etwas in meinen Dateien, änderte es sich nach einem Klick auf "Sync" auch online.
+Tatsächlich gibt es für diese scheinbar utopischen Anforderungen Lösungen: Zum Beispiel [Blogging-Plattformen mit Dropbox-Sync](http://www.fearofconfusion.com/2012/01/three-markdown-dropbox-bloggging.html). Ich hatte meinen Blog eine ganze Weile auf [Scriptogr.am](http://scriptogr.am).[^3] Scriptogr.am hat zwar auch ein Webinterface, aber dort braucht man nur einen Knopf: Synchronisieren. Dann nahm der Dienst alle Markdown-Dateien aus einem bestimmten Ordner meiner Dropbox und machte Blog-Einträge daraus. Änderte ich etwas in meinen Dateien, änderte es sich nach einem Klick auf "Sync" auch online.
 
 Das Ganze war kostenlos, ich konnte meine eigene Domain benutzen und sogar nach Herzenslust in HTML und CSS das Design anpassen. Scriptogr.am war und ist wirklich super und ich würde es ohne zu zögern jedem weiterempfehlen, der einfach elegant Texte online stellen will.[^4]
 
@@ -29,7 +29,7 @@ Warum bin ich aber dort nicht geblieben? Zum einen war es die Sorge über die Zu
 
 > I am no longer looking at Dropbox Markdown blogging systems. Most are just side project that get deleted, threatened deletion then aren't or become Posterous-like slow once I navigate off the first page of blog posts. I have lost my willingness to try them. I will stick with Blogger.
 
-Auf deutsch: Diese Plattformen sind meist Hobbys ohne Finanzierungsplan und mit kuzer Lebensspanne.
+Zu deutsch: Diese Plattformen sind meist Hobbys ohne Finanzierungsplan und mit kuzer Lebensspanne.
 
 Zum zweiten wollte ich meine eigene Seite nicht von der Plattform eines anderen Abängig machen. Oder wie es [Marco Arment so treffend formuliert](http://www.marco.org/2011/07/11/own-your-identity):
 
@@ -45,9 +45,7 @@ Hosten kann man die so erstellte Seite recht einfach und kostenlos über [GitHub
 
 Das Geniale ist, dass ich meine Seite jederzeit auf einen anderen Server spiegeln könnte, falls Heroku mich mal nicht mehr will. Ich bin also völlig unabhängig vom Webhost (und außerdem 100% Open Source)!
 
-Ich habe zwar bestimmt mit Einrichtung und Anpassung des Blogs mehr Zeit verbracht als mit Schreiben, aber das Ganze hat mir dadurch nur noch mehr Spaß gemacht. Für wen das unverständlich klingt, der ist mit Wordpress[^6] vielleicht doch besser bedient…
-
-[^1]: Falls du einer von den beiden bist, würde ich mich über [ein kurzes Feedback](https://twitter.com/max_7791/) freuen!
+Ich habe zwar bestimmt mit Einrichtung und Anpassung des Blogs mehr Zeit verbracht als mit Schreiben, aber das Ganze hat dadurch nur noch mehr Spaß gemacht. Für wen das unverständlich klingt, der ist mit Wordpress[^6] vielleicht doch besser bedient …
 
 [^2]: In John Grubers exzellentem [Markdown](http://daringfireball.net/projects/markdown/).
 
