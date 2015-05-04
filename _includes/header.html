@@ -1,14 +1,17 @@
 <div class="banner">
-   <a class="bannertext" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en{% endcase %}
-    ">moehrenzahn.de</a>
+   
 
   {% if site.subtitle %}
-    <h2 class="bannertext">
-    	{% case page.lang %}
+    <h2 class="bannertext"><a class="titlelink" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en{% endcase %}
+    ">moehrenzahn.de</a><br/>
+    {% case page.lang %}
           {% when "en" %}
-            {{ site.subtitle_en }}
+            Weblog of <a href="/en/about/">Max Melzer</a>
+            <br/>
+            on tech and theology
           {% when else %}
-            {{ site.subtitle }}
+            Weblog von <a href="/ueber">Max Melzer</a><br/>
+            über <a href="/categories/theologie/">Theologie</a> und <a href="/categories/technologie/">Technologie</a>
         {% endcase %}
 	</h2>
   {% endif %}

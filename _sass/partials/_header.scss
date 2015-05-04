@@ -2,7 +2,6 @@
 #banner {
 	border-top: solid 6px $color;
 	margin-bottom: 0px;
-	@media only screen and (max-width: 480px) {margin-bottom: 0px;}
 }
 
 a.bannertext {
@@ -21,15 +20,28 @@ a.bannertext {
 }
 a.bannertext:hover {color: $color;}
 
-a.bannertext, a.bannertext:visited, a.bannertext:hover {border: none;}
+a.bannertext, a.bannertext:visited, a.bannertext:hover {border: none; padding-bottom: 1px;}
 
 h2.bannertext {
+	display: inline-block;
 	font-family: $header-subtitle-font-family;
 	font-size: $metatext * 1.05;
 	font-weight: normal;
-	text-align: center;
-	line-height: 1.4;
 	color: $text-color-light;
 	padding: 10px 10px;
-
+	text-align: center;
+	@media (min-width: 000px) {
+		text-align: left;
+		float: left;
 	}
+}
+a.titlelink {
+	display: inline-block;
+	font-family: Vollkorn, Georgia, serif;
+	font-size: 140%;
+	border: none;
+	transition: color .3s;
+}
+a.titlelink:hover {
+	color: $color !important;
+}

@@ -38,10 +38,12 @@ article {
 
 
 article {
+	display: inline-block;
 	h1.entry-title {
 		padding-bottom: 1em;
 		text-align: center;
 		font-size: 125%;
+
 	}
 	.entry-slug {
 		text-align: center;
@@ -57,6 +59,10 @@ article {
 
 	figure, img, iframe, video, object {margin-left: auto; margin-right: auto; display: block; max-width: 100% !important;}
 	}
+
+.blog-index {
+	display: inline-block;
+}
 
 /* Heading of pages */
 
@@ -90,7 +96,7 @@ div.pagination
 
 article {
 ul, ol {margin-bottom: 1em; li {margin-bottom: 0;}
-	@media only screen and (max-width: 650px) {margin-left: 1.3em;}
+	@media only screen and (max-width: $max-width) {margin-left: 1.3em;}
 }
 
 ul { list-style-type: disc;
