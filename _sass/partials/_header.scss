@@ -4,24 +4,6 @@
 	margin-bottom: 0px;
 }
 
-a.bannertext {
-	font-family: Vollkorn, Georgia, serif;
-	font-size: 360%;
-	display: block;
-	color: $text-color;
-	line-height: 1.8;
-	padding-top: 10px;
-	text-align: center;
-	border: none;
-	@media only screen and (max-width: 768px) {font-size: 275%;}
-	@media only screen and (max-width: 480px) {font-size: 220%;}
-	@media only screen and (max-width: 320px) {font-size: 150%;}
-	transition: color .3s;
-}
-a.bannertext:hover {color: $color;}
-
-a.bannertext, a.bannertext:visited, a.bannertext:hover {border: none; padding-bottom: 1px;}
-
 h2.bannertext {
 	display: inline-block;
 	font-family: $header-subtitle-font-family;
@@ -29,6 +11,8 @@ h2.bannertext {
 	font-weight: normal;
 	color: $text-color-light;
 	padding: 10px 10px;
+	padding-right: 50px;
+	padding-bottom: 1em;
 	text-align: center;
 	@media (min-width: 000px) {
 		text-align: left;
@@ -37,7 +21,7 @@ h2.bannertext {
 }
 a.titlelink {
 	display: inline-block;
-	font-family: Vollkorn, Georgia, serif;
+	font-family: Georgia, serif;
 	font-size: 140%;
 	border: none;
 	transition: color .3s;

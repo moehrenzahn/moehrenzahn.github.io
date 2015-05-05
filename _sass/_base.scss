@@ -1,3 +1,32 @@
+/* Variables */
+
+$max-width: 560px;
+$color: #FF670F; 
+$background-color: white;
+$footer-color: #404040;
+$button-color: #F0F0F0;
+$transition-time: .4s;
+
+//Fonts
+
+$sans: Source Sans Pro, Helvetica, sans-serif !default;
+
+$mono: Ubuntu mono, "Lucida Console", Monaco, monospace !default;
+$heading-font-family: $sans !default;
+$header-title-font-family: Vollkorn, Charter, Georgia, serif !default;
+$header-subtitle-font-family: $sans !default;
+
+//Font sizes
+
+$bodytext: 20px;
+$metatext: 90%;
+$footnotetext: 97%;
+
+//Font colors
+
+$text-color-light: #6B6B6B;
+$text-color: #383838;
+
 @import "base/layout";
 @import "base/solarized";
 @import "base/typography";
