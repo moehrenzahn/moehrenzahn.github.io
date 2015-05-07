@@ -3,7 +3,6 @@ layout: post
 title: 'Der Apple-Tastaturenvergleich'
 categories: [Technologie]
 slug: Klein oder Groß?
-comments: true
 ---
 
 Vor einiger Zeit habe ich mir zum Tippen am Schreibtisch eine Tastatur gekauft. Mein Einstiegsmodell war ein voll mechanisches, laut klackerndes [Cherry MX-Board 3.0](http://www.tweaktown.com/reviews/6121/cherry-mx-board-3-0-mechanical-keyboard-review/).

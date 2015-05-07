@@ -37,5 +37,3 @@ Mit dem restriktiven Umgang mit den Lizenzen lassen sich sicherlich kurzfristig 
 Screenshot der iOS-App "Amen." von Jonathan Arnold</figcaption></figure>
 
 Die Benutzer solcher Apps werden nicht mehr die original Losungen lesen und werden es vermutlich nicht einmal bemerken. Denn am Ende sind die Losungen nichts anderes als eine Auswahl an (teilweise zufälligen) Bibelversen. Für die tägliche Andacht vieler Bibelfreunde wird es keinen großen Unterschied machen, wer genau die Auswahl der Verse getroffen hat.
-
-*Dieser Artikel ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de/).*

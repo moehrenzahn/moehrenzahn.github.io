@@ -4,7 +4,7 @@ title: 'Nachtmodus'
 categories: [Technologie]
 ---
 
-Ich hab wieder einmal ein paar kleine Veränderungen an moehrenzahn.de vorgenommen.
+Ich hab wieder einmal ein paar kleine Änderungen an moehrenzahn.de vorgenommen.
 
 Zum einen habe ich die ganze Seite von [Octopress](http://octopress.org/) zu [Jekyll](http://jekyllrb.com/) migriert.[^1] Jekyll hat in den letzten Jahren einige substantielle Updates mitbekommen, die vor allem die Build-Geschwindigkeit massiv verbessert haben. Ich hatte sowieso kaum noch Features von Octopress genutzt, deshalb entschloss ich mich, zu "reinem" Jekyll zu wechseln. 
 
@@ -32,7 +32,7 @@ Nun macht aber so ein Nachtmodus nur Sinn, wenn der Browser sich den Modus merkt
 document.cookie = "nightmode=on; path=/";
 {% endhighlight %}
 
-`nightmode` ist der Name des Cookie, `path=/` braucht man, damit der Cookie Seitenübergreifend gilt. Ohne `path`-Angabe hätte jede `url` ihre eigenen Cookies.
+`nightmode` ist der Name des Cookie, `path=/` braucht man, damit der Cookie seitenübergreifend gilt. Ohne `path`-Angabe hätte jede `url` ihre eigenen Cookies.
 
 Entfernen kann man den Cookie wieder, indem man den Wert `expires` auf ein Datum in der Vergangenheit setzt.
 
@@ -42,7 +42,7 @@ document.cookie = "nightmode=on; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
 
 Mit diesem Wissen ausgestattet muss jetzt nur noch die Logik programmiert werden, die den Cookie abwechselnd speichert und löscht:[^2]
 
-[^2]: Die Funktion `getcookie` hab ich mir von [w3schools](http://www.w3schools.com/js/js_cookies.asp) "geborgt".
+[^2]: Die Funktion `getcookie` hab ich mir von [w3schools](http://www.w3schools.com/js/js_cookies.asp) "geborgt."
 
 {% highlight javascript %}
 $(document).ready(function() {

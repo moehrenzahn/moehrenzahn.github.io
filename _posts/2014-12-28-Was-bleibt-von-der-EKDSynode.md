@@ -2,11 +2,9 @@
 layout: post
 title: 'Was bleibt von der #EKDSynode?'
 categories: [Technologie, Theologie]
-slug: 
-comments: true
 ---
 
-Vor einigen Wochen ist in der EKD etwas spannendes passiert: Auf der jüngsten Synode in Dresden haben sich Synodale – viele wahrscheinlich zum ersten mal ernsthaft – mit dem Thema "Internet" beschäftigt und damit, was das ganze mit Kirche zu tun haben könnte.<!--more-->
+Vor einigen Wochen ist in der EKD etwas spannendes passiert: Auf der jüngsten Synode in Dresden haben sich Synodale – viele wahrscheinlich zum ersten mal ernsthaft – mit dem Thema "Internet" beschäftigt und damit, was das ganze mit Kirche zu tun haben könnte.
 
 Diese ersten Begegnungen wurden von der theologischen Netzgemeinde skeptisch beobachtet. Es ist ein langer Weg, auf dem die Evangelische Kirche in Deutschland unterwegs ist. Bis vor kurzem war es vielerorts noch [ungeschriebene Dienstvorschrift, dass sich Gemeindearbeit aus "den Sozialen Netzwerken" herauszuhalten habe](http://www.pastorsandy.de/?p=4431).
 

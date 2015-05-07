@@ -2,11 +2,10 @@
 layout: post
 title: 'Dropbox Sync for Heroku'
 categories: [English]
-lang: en 
-comments: true
+lang: en
 ---
 
-[As I wrote before](http://moehrenzahn.de/Bloghosting-with-Heroku/) this blog is hosted on (the free tier of) [Heroku](https://heroku.com/). A couple of days ago the hosting provider announced a great new feature for deploying apps and websites to Heroku: [Dropbox Sync](https://blog.heroku.com/archives/2014/11/19/announcing_beta_dropbox_sync).<!--more-->
+[As I wrote before](http://moehrenzahn.de/Bloghosting-with-Heroku/) this blog is hosted on (the free tier of) [Heroku](https://heroku.com/). A couple of days ago the hosting provider announced a great new feature for deploying apps and websites to Heroku: [Dropbox Sync](https://blog.heroku.com/archives/2014/11/19/announcing_beta_dropbox_sync).
 
 This is a huge feature. It means that with Heroku and a static site you can build your own (free!) Dropbox powered blog. You don't need to deal with git deployment at all; you just put your files into a Dropbox directory, hit the "Deploy" button in your Heroku dashboard and there is no third step.
 

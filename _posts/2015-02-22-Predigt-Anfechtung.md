@@ -2,10 +2,9 @@
 layout: post
 title: 'Predigt: Anfechtung'
 categories: [Predigt, Theologie]
-comments: true
 ---
 
-*Diese Predigt zu [Jakobus 1,12-18](http://www.bibleserver.com/text/LUT/Jakobus%201%2C12-18) hielt ich am Sonntag Invokavit am 9. März 2014 im Rahmen meines Gemeindepraktikums.*<!--more-->
+*Diese Predigt zu [Jakobus 1,12-18](http://www.bibleserver.com/text/LUT/Jakobus%201%2C12-18) hielt ich am Sonntag Invokavit am 9. März 2014 im Rahmen meines Gemeindepraktikums.*
 
 ---
 
@@ -21,7 +20,7 @@ Der Predigttext beginnt gleich mit einer ziemlich steilen These zum Thema Anfech
 
 > Selig ist der Mann, der die Anfechtung erduldet; denn nachdem er bewährt ist, wird er die Krone des Lebens empfangen, die Gott verheißen hat denen, die ihn lieb haben.
 
-Selig der, der Anfechtungen erdulden muss! — Wer würde sich so etwas schon wünschen, angefochten zu werden, in seinem Glauben erschüttert zu werden?
+Selig der, der Anfechtungen erdulden muss! – Wer würde sich so etwas schon wünschen, angefochten zu werden, in seinem Glauben erschüttert zu werden?
 
 Dem, der die Anfechtung aushält, der der Versuchung widersteht, wird eine Verheißung zugesprochen, die Krone des Lebens. Das kann schon Trost geben, zu wissen, dass unsere Beharrlichkeit sich auszahlen wird. Deshalb schreibt Jakobus sogar, dass wir uns freuen sollen, wenn wir in Anfechtung fallen.
 
@@ -39,9 +38,9 @@ Nun, könnte man sich jetzt fragen: Wenn Gott nicht für die Versuchung verantwo
 
 Jakobus schreibt, dass die Versuchung in uns selbst ihren Ursprung hat, in unseren Begierden, unserer Lust. Er beschreibt das in einer ganz bildhaften Sprache:
 
-Im Text steht: unsere eigenen Begierden "reizen" uns. Das griechische Wort hier kann auch meinen: sie "nehmen uns in Schlepptau", sie "reißen uns fort" — wie ein unwiderstehlicher Sog, bei dem unsere eigene Willenskraft versagt.
+Im Text steht: unsere eigenen Begierden "reizen" uns. Das griechische Wort hier kann auch meinen: sie "nehmen uns in Schlepptau", sie "reißen uns fort" – wie ein unwiderstehlicher Sog, bei dem unsere eigene Willenskraft versagt.
 
-Unsere Begierden "locken" uns, das ist im Griechischen ein Begriff aus der Fischerei: wir werden "geködert", "verlockt" — da werden Versprechungen gemacht, oder man verspricht sich selbst etwas von einer Sache; Man geht den eigenen Begierden im Netz wie ein gefangener, hilflos zappelnder Fisch.
+Unsere Begierden "locken" uns, das ist im Griechischen ein Begriff aus der Fischerei: wir werden "geködert", "verlockt" – da werden Versprechungen gemacht, oder man verspricht sich selbst etwas von einer Sache; Man geht den eigenen Begierden im Netz wie ein gefangener, hilflos zappelnder Fisch.
 
 Da muss ich vielleicht gar nicht viel dazu sagen. Ich denke, wir kennen dieses Gefühl der Verlockung nur zu gut.
 
@@ -87,7 +86,7 @@ Jakobus schreibt im letzten Vers unseres Predigttextes:
 
 Wir sind Gottes Kinder und sind bei Gott willkommen. Weil er sich für uns hingegeben hat, damit wir zu ihm laufen können. Auch und grade wenn wir scheitern, sind wir willkommen. Nichts anderes bedeutet Buße.
 
-Das dürfen wir feiern im Abendmahl, wir sind eingeladen, wieder neu an Gottes Tisch zurückzukehren und bei ihm Zuflucht zu finden — und immer wieder einen Neuanfang.
+Das dürfen wir feiern im Abendmahl, wir sind eingeladen, wieder neu an Gottes Tisch zurückzukehren und bei ihm Zuflucht zu finden – und immer wieder einen Neuanfang.
 
 Und der Friede Gottes, der höher ist als alle unsere Vernunft, bewahre unsere Herzen und Sinne in Jesus Christus.
 

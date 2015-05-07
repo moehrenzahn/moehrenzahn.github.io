@@ -236,13 +236,13 @@ h1.entry-title.index {
 
 .entry-title:before, .entry-title.index:before {
 	display: inline-block;
-	width: 25px;
-	height: 25px;
-	background: url("/images/moehre.png") no-repeat center top;
+	width: 30px;
+	height: 30px;
+	background: url("/images/moehre.png") no-repeat center center;
 	background-size: 100%;
 	position: absolute;
 	margin-left: -35px;
-	margin-top: 4px;
+	margin-top: .08em;
 	content: "";
 	transition: background $transition-time;
 	@media only screen and (max-width: $max-width) {margin-left: -27px;}
@@ -252,16 +252,17 @@ h1.entry-title.index {
 	background-image: url("/images/moehre_black.png")
 }
 .entry-title.linklog:before {
-	content: "→";
-	font-weight: bolder;
+	content: "";
 	display: inline-block;
-	background: none;
-	color: #E0E0E0;
+	width: 18px;
+	height: 18px;
+	background: url("/images/icons/arrow-white.png") no-repeat center center;
+	background-size: 100%;
 	position: absolute;
-	margin-left: -35px;
-	margin-top: 0;
-	transition: color $transition-time;
-	@media only screen and (max-width: $max-width) {margin-left: -25px;}
+	margin-left: -30px;
+	margin-top: .35em;
+	transition: background $transition-time;
+	@media only screen and (max-width: $max-width) {margin-left: -27px;}
 }
 
 .entry-title.page, .entry-title.index {
@@ -282,12 +283,12 @@ a.index-link:hover {
 	border: none;
 	.entry-title {border-color: $color;}
 	.entry-title.index:before {
-		background: url("/images/moehre.png") no-repeat center top;
+		background: url("/images/moehre.png") no-repeat center center;
 		background-size: 100%;
 	}
 	.entry-title.linklog:before {
-		color: $color;
-		background: none;
+		background: url("/images/icons/arrow-color.png") no-repeat center center;
+		background-size: 100%;
 	} 
 }
 

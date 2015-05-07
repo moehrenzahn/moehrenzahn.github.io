@@ -3,7 +3,6 @@ layout: post
 title: '"Echte" Kommunikation'
 categories: [Technologie, Theologie]
 slug: Ein Pladoyer für die digitale Kommunikation des Evangeliums. 
-comments: true
 ---
 
 Als die EKD-Synode sich im November in Dresden zusammenfand, um über die "Digitale Kommunikation des Evangeliums" zu sprechen, war das einer der Knackpunkte: Wie verhält sich Kommunikation im Internet zum vielgelobten "Face-to-Face"-Austausch?

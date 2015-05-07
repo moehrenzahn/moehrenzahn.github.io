@@ -35,5 +35,3 @@ In den 60er Jahren war der Ingenier Josef F. Blumrich damit beauftragt, für die
 Zunächst finde ich Blumrichs Kreativität äußerst bemerkenswert. Als zweites bin ich schockiert, wie gut die Beschreibung Ezechiels auf ein modernes Fluggerät passt. Das Video illustriert die Theorie Blumrichs, unterlegt von dem Ezechieltext. Und tatsächlich lässt sich so ziemlich jedes Detail in eine Raumschiffbeschreibung übersetzen.
 
 Vermutlich ist das Ganze Spinnerei auf dem Level eines [Erich von Däniken](http://de.wikipedia.org/wiki/Erich_von_Däniken) (und ist natürlich von demselben [aufgegriffen worden](https://www.youtube.com/watch?v=UzgXTp1mV1g)), aber immerhin hat es Unterhaltungswert. Und jedes mal, wenn ich jetzt über Ezechiel 1 stolpere, muss ich an ein kupfern glänzendes Raumschiff denken …
-
-*Dieser Artikel ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de/)*

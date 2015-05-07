@@ -3,7 +3,6 @@ layout: post
 title: 'Der Zeitgeist'
 categories: [Theologie]
 slug: Gefahr oder Chance?
-comments: true
 ---
 
 Neulich ist mir aufgefallen, dass mir immer wieder ein bestimmtes Stichwort begegnet, besonders aus konservativen Kreisen: Der "Zeitgeist".
@@ -23,5 +22,3 @@ Schön hat das der [Theologe und Ethiker Peter Dabrock in einem Interview mit ev
 Das bedeutet es für mich, gegen den Strom zu schwimmen. Nicht jeder  gesellschaftlichen Entwicklung in einem nutzlosen, ziellosen Widerstand entgegenzutreten, sondern dann, wenn es um das Evangelium geht, klar Stellung zu beziehen. Andere Dinge können wir in Ruhe prüfen und dann auch ganz schamlos übernehmen. Egal ob es dabei um die Frage geht, was für Musik wir in unseren Gottesdiensten spielen, oder um Fragen der Sexualmoral.
 
 Ich halte den Zeitgeist nicht für eine Bedrohung sondern für eine Chance. Ich denke, man kann von diesem "Zeitgeist" manches lernen, wenn man sich mit ihm auseinandersetzt. Aber mit einer Anti-Zeitgeist-Rhetorik entzieht man sich dieser Auseinandersetzung und "prüft" eben nicht. Und dann gerät man in die Gefahr, auch einiges an "Gutem" zu verpassen.
-
-*Dieser Artikel ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de/)*

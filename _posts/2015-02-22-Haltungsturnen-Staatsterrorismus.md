@@ -3,7 +3,6 @@ layout: post
 title: 'Staatsterrorismus'
 link: http://www.haltungsturnen.de/2015/01/staatsterrorismus.html
 categories: [Technologie, Politik]
-comments: true
 ---
 
 Wolfgang Lünenbürger-Reidenbach auf [Haltungsturnen](http://www.haltungsturnen.de/2015/01/staatsterrorismus.html):
@@ -11,7 +10,7 @@ Wolfgang Lünenbürger-Reidenbach auf [Haltungsturnen](http://www.haltungsturnen
 > Einmal zum Mitschreiben: Der Bundesinnenminster, der von einer Koalition aus CDU, CSU und SPD getragen wird, fordert die Abschaffung von Grundrechten.
 > Meiner Meinung nach wäre ein Verschlüsselungsverbot Staatsterrorismus. Denn eine Regierung, die verhindert, dass ihre Bürgerinnen sich unbelauscht unterhalten, ist ein Terrorregime. Und ein Staat, in dem Verschlüsselung verboten oder das Briefgeheimnis abgeschafft ist, ist ein Unrechtsstaat.
  
-Wir sind hier gerade dabei, unsere Grundrechte an die sogenannte "Terrorabwehr" zu verlieren (anderes Beispiel: [Vorratsdatenspeicherung](http://de.wikipedia.org/wiki/Vorratsdatenspeicherung)). Und ich sage es gerne immer wieder: Wenn uns die Terroristen dazu erpressen können, unsere freiheitlich-demokratischen Grundrechte aufzugeben, dann haben sie schon gewonnen.
+Wir sind hier gerade dabei, unsere Grundrechte an die sogenannte "Terrorabwehr" zu verlieren. Und ich sage es gerne immer wieder: Wenn uns die Terroristen dazu erpressen können, unsere freiheitlich-demokratischen Grundrechte aufzugeben, dann haben sie schon gewonnen.
 
 Es geht beim Terrorismus nicht darum, alle Feinde der eigenen Ideologie umzubringen. Es geht darum, *Angst* (lat. *terror*) zu säen, um Gegner einzuschüchtern oder zu erpressen. Dafür braucht es nicht unbedingt tatsächliche Gewalt, die *Angst* vor Gewalt ist oft völlig ausreichend, um einen politischen Gegner zu manipulieren. 
 

@@ -13,7 +13,7 @@ slug: Ein jQuery-Plugin für Pop-Up-Fußnoten
 
 [^1]: Das sieht dann zum Beispiel so aus.
 
-Die Einrichtung war denkbar einfach: Auf [bigfootjs.com](http://www.bigfootjs.com/)[^2] gibt es umfangreiche Anleitungen und eine Dokumentation der verschiedenen Einstellungsmöglichkeiten. 
+Die Einrichtung ist denkbar einfach: Auf [bigfootjs.com](http://www.bigfootjs.com/)[^2] gibt es umfangreiche Anleitungen und eine Dokumentation der verschiedenen Einstellungsmöglichkeiten. 
 
 Weil ich gerne und oft Fußnoten verwende, ist das genau das richtige Plugin für mich.
 

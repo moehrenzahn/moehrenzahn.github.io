@@ -3,7 +3,6 @@ layout: post
 title: 'Lieblos und Altbacken'
 categories: [Technologie, Theologie]
 slug:  Zur Qualität kirchlicher Online-Angebote
-comments: true
 ---
 
 Die Kirche will sich digitaler, moderner geben. Das war der Grundtenor der EKD-Synode in Dresden. "Kirche hat sich immer der jeweils neuesten Medien in der Verkündigung und in der Kommunikation bedient.", tönt die [Kundgebung der Synodalen](http://ekd.de/synode2014/schwerpunktthema/beschluss_kundgebung.html) stolz. Ja, die Kirche gebraucht alle Medien. Sie scheitert dabei aber häufig an den Details. Die Folge: Kirche wirkt in den neuen Medien oft ungelenk und altbacken.

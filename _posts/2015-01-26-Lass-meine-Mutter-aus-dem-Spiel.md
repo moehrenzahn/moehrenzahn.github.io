@@ -2,12 +2,9 @@
 layout: post
 title: 'Lass meine Mutter aus dem Spiel!'
 categories: [Theologie, Politik]
-slug: 
-lang: 
-comments: true
 ---
 
-*Wir sind Charlie! Wir sind nicht Charlie!*<!--more-->
+*Wir sind Charlie! Wir sind nicht Charlie!*
 
 <figure><img src='/images/Papst Franziskus.jpg' /><figcaption></figcaption></figure>
 
@@ -21,7 +18,7 @@ Letzte Woche hat Papst Franziskus sich zur Tragödie von Charlie Hebdo geäußer
 
 > Man kann nicht mit Gewalt reagieren, aber wenn [jemand] etwas übles über meine Mutter sagt, kann er auf einen Faustschlag gefasst sein. So etwas muss man erwarten. […] Es gibt eine Menge Leute, die schlecht über andere Religionen reden. Sie machen sich lustig über sie. Was passiert ist ist das gleiche, was mit meinem Freund passiert. Es gibt eine Grenze.
 
-Ich könnte für diese Kolumne den guten Franziskus so verstehen, dass er religiös motivierte Gewalt in Ordnung findet, wenn man sich nur  genügend beleidigt fühlt. Wer andere Religionen karikiert braucht sich nicht wundern, wenn er irgendwann ermordet wird. *So etwas muss man halt erwarten.*
+Ich könnte für diese Kolumne den guten Franziskus so verstehen, dass er religiös motivierte Gewalt in Ordnung findet, wenn man sich nur genügend beleidigt fühlt. Wer andere Religionen karikiert, braucht sich nicht wundern, wenn er irgendwann ermordet wird. *So etwas muss man halt erwarten.*
 
 So einfach kann ich ihn aber nicht verdammen.
 

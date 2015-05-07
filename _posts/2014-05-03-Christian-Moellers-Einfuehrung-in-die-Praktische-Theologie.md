@@ -3,20 +3,17 @@ layout: post
 title: 'Christian Möllers Einführung in die Praktische Theologie'
 categories: [Theologie]
 slug: Eine Buchbesprechung
-comments: true
 ---
 
-*Dies ist die ungekürzte Version der Buchbesprechung, die zuvor auf [theologiestudierende.de](http://www.theologiestudierende.de) erschienen ist.*
+Christian Möllers *Einführung in die Praktische Theologie*, erschienen 2004,[^1] ist eines der neueren Überblickswerke über die Praktische Theologie.
 
-Christian Möllers *Einführung in die Praktische Theologie*, erschienen 2004[^1], ist eines der neueren Überblickswerke über die Praktische Theologie.
-
-[^1]: Christian Möller, Einführung in die Praktische Theologie (UTB 2529), Tübingen/Basel 2004. UTB stellte mir für diesen Bericht ein kostenloses Rezensionexemplar zur Verfügung.
+[^1]: Christian Möller, Einführung in die Praktische Theologie (UTB 2529), Tübingen/Basel 2004. UTB stellte mir für diesen Bericht ein kostenloses Rezensionsexemplar zur Verfügung.
 
 Möller (\*1940) selbst war nach seinem Studium einige Jahre im Pfarramt, bevor er ab 1962 in Wuppertal und später Heidelberg Professor für Praktische Theologie wurde. Sein Spezialgebiet ist der Gemeindeaufbau, er selbst versteht sich als Brückenbauer zwischen den einzelnen Unterdisziplinen der Praktischen Theologie. Daher verwundert auch nicht, dass seine *Einführung in die Praktische Theologie* eine Zusammenschau dieser Disziplinen bietet und Anregungen gibt, wie sich diese gegenseitig ergänzen und bereichern können. 
 
 Der Selbstanspruch des Buches ist, den Lesern zu einem eigenen Urteil zu verhelfen und Freude an der Praktischen Theologie zu wecken.
 
-Die *Einführung* ist eine der kürzeren Grundrisse der Praktischen Theologie (viele andere umfassen mehrere Bände). Dennoch ist sie sehr umfangreich, die etwas unter 300 Seiten werden gut genutzt. Das Schiftbild ist etwas klein geraten, an den Seitenrändern bleibt dafür genügend Platz für kurze Notizen. Es ist übersichtlich gesetzt, mit eingerückten und grau hinterlegten Abschnitten, die visuell Schwerpunkte setzen und längere Zitate kennzeichnen.
+Die *Einführung* ist eine der kürzeren Grundrisse der Praktischen Theologie (viele andere umfassen mehrere Bände). Dennoch ist sie sehr umfangreich, die etwas unter 300 Seiten werden gut genutzt. Das Schriftbild ist etwas klein geraten, an den Seitenrändern bleibt dafür genügend Platz für kurze Notizen. Es ist übersichtlich gesetzt, mit eingerückten und grau hinterlegten Abschnitten, die visuell Schwerpunkte setzen und längere Zitate kennzeichnen.
 
 Die meisten der Kapitel sind angenehm kurz gehalten und daher auch gut zum Überfliegen und wiederholenden Lernen geeignet. Außerdem sind häufig an den Seitenrand Stichwörter gedruckt, die den nebenstehenden Absatz knapp zusammenfassen – für die Übersichtlichkeit eine super Idee. 
 

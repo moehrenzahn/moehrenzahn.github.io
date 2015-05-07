@@ -53,5 +53,3 @@ Prof. Frenschkowski hat klar argumentiert und auch nicht davor zurückgeschreckt
 ## Tipps für Studierende
 
 Am Ende des Abends wurden die beiden Podiumsgäste nach ihren Tipps für Studierende gefragt. Prof. Frenschkowski empfahl, dass wir über alle diese Fragen weiter kritisch diskutieren sollen, und zwar "nicht nur untereinander, sondern auch mit den Lehrenden". Klaus Berger befürwortete diesen Rat, fügte aber noch hinzu (und damit wurde ihm das letzte Wort gelassen), dass wir "bei Manipluation und Ideologie die Kunst des Widerstands lernen."
-
-*Dieser Artikel ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de/).*

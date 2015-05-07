@@ -3,11 +3,9 @@ layout: post
 title: 'Je suis Charlie'
 categories: [Politik]
 slug: Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen
-lang: 
-comments: true
 ---
 
-Heute Nachmittag gab es in der Pariser Redaktion der Satirezeitschrift "Charlie Hebdo" eine tragische Schießerei, bei der 12 Personen erschossen wurden und viele weitere verletzt. 
+Heute Nachmittag gab es in der Pariser Redaktion der Satirezeitschrift "Charlie Hebdo" eine tragische Schießerei, bei der 12 Personen erschossen wurden und viele weitere verletzt wurden. 
 
 Im Moment gibt es nur wenige Informationen zu den Tätern und deren Motivation. Es scheint aber klar zu sein, dass dies ein Akt des Terrorismus war.
 

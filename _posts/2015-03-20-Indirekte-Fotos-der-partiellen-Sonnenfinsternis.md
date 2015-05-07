@@ -2,12 +2,11 @@
 layout: post
 title: 'Indirekte Fotos der partiellen Sonnenfinsternis'
 categories: [Technologie]
-comments: true
 ---
 
 Heute war in Leipzig unverhofft perfektes Wetter, um die partielle Sonnenfinsternis zu beobachten.
 
-Mit einer Smartphone-Kamera lässt sich dieses Naturschauspiel eigentlich nicht festhalten, da selbst mit minimaler Belichtung die Sonne noch so hell schien, dass sie strahlend rund aussah.
+Mit einer Smartphone-Kamera ließ sich dieses Naturschauspiel eigentlich nicht festhalten, da selbst bei minimaler Belichtung die Sonne noch so hell schien, dass sie strahlend rund aussah.
 
 Mit einem Trick konnte man die Sonnensichel dennoch fotografieren: Über [Linsenreflexionen (Lens Flare)](http://de.wikipedia.org/wiki/Lens_Flare). Wenn man helle Lichtquellen Fotografiert, ergeben sich oft Spiegelungen dieser in der Linse. Diesen Effekt kann man bei der Sonnenfinsternis nutzen, um eine – weniger helle – Reflektion der Sichel neben dem eigentlichen Motiv einzufangen. Das ganze sieht dann etwa so aus:
 

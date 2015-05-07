@@ -21,5 +21,3 @@ Satire hin oder her – Leute wie Frau Stängel hätten bestimmt auch vor 50 Jah
 Das manche der Kommilitonen im StuRa mit kirchlichen Räumen nichts anzufangen wissen, ist nichts Neues. Aber diese öffentliche Zurschaustellung kultureller und geschichtlicher Ignoranz ist ein neuer Höhepunkt. Leider entspricht die sperrige Haltung des StuRa in sachen Unikirche auch der des Rektorats der Universität Leipzig, [welches den "Kanzelstreit" schon länger nicht nur mit lauteren Mitteln zu führen scheint](http://www.theologiestudierende.de/2014/04/04/die-kanzelfrage-der-leipziger-uni-kirche/).
 
 Seit einiger Zeit gibt es in Leipzig die Möglichkeit, aus der vefassten Studierendenschaft auszutreten. Damit würden 8 € vom Semesterbeitrag für den StuRa wegfallen. Es scheint, als will der StuRa diesen Schritt allen christlichen und kulturell interessierten Studierenden in Leipzig nahelegen – zumindest zeigt er kein Interesse daran, deren Interessen vertreten zu wollen.
-
-*Dieser Artikel ist zuerst erschienen auf [theologiestudierende.de](http://www.theologiestudierende.de/)*

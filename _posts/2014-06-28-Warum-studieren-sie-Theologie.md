@@ -3,7 +3,6 @@ layout: post
 title: 'Meinen Wissensdurst hat das Studium nicht enttäuscht'
 categories: [Theologie]
 link: http://www.evangelische-zeitung-niedersachsen.de/ez-online/thema_der_woche/25_theologie
-comments: true
 ---
 
 Ich habe für die Evangelische Zeitung [einen kurzen Text geschrieben zur Frage, warum ich Theologie studiere](http://www.evangelische-zeitung-niedersachsen.de/ez-online/thema_der_woche/25_theologie)<!--more-->:

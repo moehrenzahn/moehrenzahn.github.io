@@ -3,7 +3,6 @@ layout: post
 title: 'SHIFT – Bookazine für Menschen mit Mut zur Veränderung'
 link: https://www.startnext.com/shift-next
 categories: [Technologie, Journalismus]
-comments: true
 ---
 
 Hi. Könnt ihr bitte mal alle auf [den Link klicken](https://www.startnext.com/shift-next) und dort dem [Daniel Höly](https://twitter.com/juicedaniel) etwas Geld geben, damit ich im April mein Magazin bekomme? Das wäre sehr nett.
