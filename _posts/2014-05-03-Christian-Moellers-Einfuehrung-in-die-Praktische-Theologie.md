@@ -17,7 +17,7 @@ Die *Einführung* ist eine der kürzeren Grundrisse der Praktischen Theologie (v
 
 Die meisten der Kapitel sind angenehm kurz gehalten und daher auch gut zum Überfliegen und wiederholenden Lernen geeignet. Außerdem sind häufig an den Seitenrand Stichwörter gedruckt, die den nebenstehenden Absatz knapp zusammenfassen – für die Übersichtlichkeit eine super Idee. 
 
-In manchen Kapiteln wechselt Möller vom Fließtext zu einem tabellarischen Überblick. Das ist zunächst überraschend, aber sehr Übersichtlich.
+In manchen Kapiteln wechselt Möller vom Fließtext zu einem tabellarischen Überblick. Das ist zunächst überraschend, aber sehr übersichtlich.
 
 Was etwas unübersichtlich ist, sind die zahlreichen Überschriften, die teilweise bis in die fünfte Ebene gehen und ganz unterschiedlich gekennzeichnet sind. Da vergisst man schon mal, worum es gerade eigentlich ging.
 
@@ -27,21 +27,21 @@ Im ersten Kapitel schreibt Möller zunächst über die Entstehung und Problemste
 
 In einem historischen Rückblick auf die Geschichte der Praktischen Theologie kommt der Autor auf Schleiermacher zu sprechen, er fragt aber auch nach Ansätzen in der Zeit von der Alten Kirche zum 19. Jahrhundert – also vor der wissenschaftlichen Etablierung der Praktischen Theologie – und entdeckt dabei praktisch-theologische Überlegungen schon bei Gregor von Nazianz und Johannes Chrysostomus.
 
-In seiner Schilderung der Entwicklung der Praktischen Theologie nach Schleiermacher im 20. Jahrhundert stellt Möller die dei "Gestalten" kerygmatisch, empirisch und spirituell anhand ihrer wichtigsten Vertreter vor.
+In seiner Schilderung der Entwicklung der Praktischen Theologie nach Schleiermacher im 20. Jahrhundert stellt Möller die drei "Gestalten" kerygmatisch, empirisch und spirituell anhand ihrer wichtigsten Vertreter vor.
 
 In einem Diskussionsteil versucht der Autor, die Entwicklung von liberaler zu kerygmatischer (Nach dem ersten Weltkrieg), zu empirischer (60er Jahre) und schließlich zur spirituellen Gestalt (Bohren und Josuttis) der Praktischen Theologie logisch anhand der historischen Hintergründe nachzuvollziehen.
 
-Der Text arbeitet sehr strukturiert und mit vielen Zitaten und Beispielen, um die Kernaussagen der einzelnen Gestalten zu illustrieren. Man bekommt ein Bild von den Ansprüchen der einzelnen Gestalten. Das meiste, was hier gesagt wird bekommt man zwar auch in einem guten Proseminar zu hören, aber etwas doppelt gehört zu haben hat noch niemandem geschadet.
+Der Text arbeitet sehr strukturiert und mit vielen Zitaten und Beispielen, um die Kernaussagen der einzelnen Gestalten zu illustrieren. Man bekommt ein Bild von den Ansprüchen der einzelnen Persönlichkeiten. Das meiste, was hier gesagt wird bekommt man zwar auch in einem guten Proseminar zu hören, aber etwas doppelt gehört zu haben hat noch niemandem geschadet.
 
 -----
 
-Nach dieser ersten Einleitung in die Praktische Theologie im Allgemeinen geht das Buch sehr strukturiert vor. Nach dem gleichen, dreiteiligen Schema behandelt es nacheinander die Teildiszplinen Pastoraltheologie, Oikodomik, Liturgik, Homiletik, Poimenik, Kasualien, Katechetik und Diakoniewissenschaft.
+Nach dieser ersten Einleitung in die Praktische Theologie im Allgemeinen geht das Buch sehr strukturiert vor. Nach dem gleichen, dreiteiligen Schema behandelt es nacheinander die Teildisziplinen Pastoraltheologie, Oikodomik, Liturgik, Homiletik, Poimenik, Kasualien, Katechetik und Diakoniewissenschaft.
 
 Auffällig dabei ist, dass Möller versucht, jede Disziplin gleichermaßen zu würdigen, zu manchen allerdings weniger zu sagen hat als zu anderen. (Besonders fällt das beim sehr kurzen Abschnitt zu den Kasualien auf) Ob das daran liegt, dass er sich dort weniger gut auskennt, oder ob einfach kaum Forschung auf diesen Gebieten betrieben wurde, bleibt unklar.
 
 Zunächst kommt ein geschichtlicher Überblick über die biblischen und historischen Wurzeln der jeweiligen Teildisziplin (*Stationen der Geschichte*). 
 Daraufhin wird auf einzelne *Positionen im 20. Jahrhundert* näher eingegangen.
-Dritter Teil ist die sogennante *Diskussion*, in der der Autor die geschichtliche Entwicklung der Disziplinen auswertet und selbst Stellung bezieht.
+Dritter Teil ist die sogenannte *Diskussion*, in der der Autor die geschichtliche Entwicklung der Disziplinen auswertet und selbst Stellung bezieht.
 
 ### Stationen der Geschichte
 
@@ -53,11 +53,11 @@ In seiner Rückschau auf das 20. Jahrhundert geht Möller deutlicher ins Detail.
 
 Besonders in Disziplinen, in denen in den letzten Jahren viel passiert ist, haben viele Konzepte keine lange Geschichte und sind schwer zu schematisieren und einzuordnen. Ich frage mich, wie viele der genannten Ansätze sich bis heute bewährt haben.
 
-Inhaltlich orierntiert sich Möller bei der Vorstellung der einzelnen Entwürfe sehr stark an Personen. Da kann man als unerfahrener Leser schon mal den Überblick verlieren. Durch die Konzentration auf einzelne Stimmen ist es teilweise schwer zu erfassen, worum es bei den "Gestalten" im Kern geht. Dafür bleibt dieser Teil eher neutral und lässt die verschiedenen Entwürfe für sich sprechen. Eine Bewertung wird dem Leser selbst überlassen.
+Inhaltlich orientiert sich Möller bei der Vorstellung der einzelnen Entwürfe sehr stark an Personen. Da kann man als unerfahrener Leser schon mal den Überblick verlieren. Durch die Konzentration auf einzelne Stimmen ist es teilweise schwer zu erfassen, worum es bei den "Gestalten" im Kern geht. Dafür bleibt dieser Teil eher neutral und lässt die verschiedenen Entwürfe für sich sprechen. Eine Bewertung wird dem Leser selbst überlassen.
 
 ### Diskussion
 
-Nach diesen *Stationen der Geschichte* folgt stets ein *Diskussionsteil*, in dem der Autor die Entwicklung der Disziplinen noch einmal hinterfragt, die für ihm wichtigsten Gedanken noch einmal zusammenfasst und seine eigene Interpretation und Position zum Besten gibt. Erfrischenderweise traut sich Möller dabei, von sich selbst als "ich" zu schreiben, was ja mitunter in wissenschaftlicher Literatur verpönt ist, aber seiner Glaubwürdigkeit und Verständlichkeit zugute kommt. 
+Nach diesen *Stationen der Geschichte* folgt stets ein *Diskussionsteil*, in dem der Autor die Entwicklung der Disziplinen noch einmal hinterfragt, die für ihm wichtigsten Gedanken noch einmal zusammenfasst und seine eigene Interpretation und Position zum Besten gibt. Erfrischender weise traut sich Möller dabei, von sich selbst als "ich" zu schreiben, was ja mitunter in wissenschaftlicher Literatur verpönt ist, aber seiner Glaubwürdigkeit und Verständlichkeit zugute kommt. 
 
 Möller beschreibt das Verhältnis von kerygmatischer, empirischer und spiritueller Gestalt als eine durch historische Hintergründe bedingte Entwicklung. Dieses Von-Zu-Schema erweckt teilweise den Eindruck, als wären älteren Ideen nicht mehr aktuell oder verwertbar. Dabei scheinen mir manche dieser Ideen für die heutige Zeit höchst bedenkenswert.
 
@@ -65,9 +65,9 @@ Diese Diskussionsteile sind in meinen Augen die stärksten des Buches. Der Autor
 
 ## Anhang
 
-Nach der Behandlung der letzten praktisch-theologischen Disziplin, der Diakoniewissenschaft, folgen ein paar Seiten *Anhang*.
+Nach der Behandlung der letzten praktisch-theologischen Disziplin, der Diakoniewissenschaft, folgen ein paar Seiten *Anhang.*
 
-In diesem Anhang identifiziert sich der Autor auf symphatische Weise mit den geplagten Studierenden in der Examensvorbereitung. Möller erzählt, wie er diese letzte Phase seines Studiums erlebt hat und gibt praktische Ratschläge, wie man beim Lernen am Besten vorgeht und seine Zeit einteilt. Er nennt Tipps für praktische und mündliche Examensprüfungen, die ihm für sein eigenes Examen geholfen haben. Die Crux des Examens und des ganzen theologischen Studiums ist für ihn nicht die Anhäufung von Wissen, sondern die eigene theologische Urteilsfindung. Dieses eigene Urteil sollen Studierende ruhig auch in Prüfungen mit einbringen, viele Prüfer würden ein solides eigenes Urteil mindestens genauso hoch schätzen wie Faktenwissen.
+In diesem Anhang identifiziert sich der Autor auf sympathische Weise mit den geplagten Studierenden in der Examensvorbereitung. Möller erzählt, wie er diese letzte Phase seines Studiums erlebt hat und gibt praktische Ratschläge, wie man beim Lernen am Besten vorgeht und seine Zeit einteilt. Er nennt Tipps für praktische und mündliche Examensprüfungen, die ihm für sein eigenes Examen geholfen haben. Die Crux des Examens und des ganzen theologischen Studiums ist für ihn nicht die Anhäufung von Wissen, sondern die eigene theologische Urteilsfindung. Dieses eigene Urteil sollen Studierende ruhig auch in Prüfungen mit einbringen, viele Prüfer würden ein solides eigenes Urteil mindestens genauso hoch schätzen wie Faktenwissen.
 
 Besonderes Augenmerk legt Möller auf die Examenspredigt. Was folgt, kann man schon fast als eine kleine, kompakte, praktische Predigtlehre bezeichnen. Er selber bezeichnet es als "unmaßgebliche Ratschläge", da das Entscheidende die eigene Arbeit mit dem Bibeltext sein müsse.
 
@@ -83,4 +83,4 @@ Der Ausdruck ist gut verständlich und der Autor illustriert seine Ausführungen
 
 Nicht uneingeschränkt empfehlenswert ist es für völlige theologische Neulinge oder als alleinige Lernquelle. Nicht alle Begriffe und Vokabeln werden direkt erklärt und eine gewisse Vorkenntnis wird erwartet. Besonders das Fehlen eines Stichwortverzeichnisses macht das gezielte Nachlesen über einzelne Themengebiete schwierig.
 
-Die Stärke des Buches ist, dass zwischen den Teildisziplinen gedankliche Verbindungen und parallele historische Entwicklungen aufgezeigt werden. Das erleichtert sowohl das Verstehen als auch das Systematisieren der Praktischen Theologie als Gesamtes.
+Die Stärke des Buches liegt darin, dass zwischen den Teildisziplinen gedankliche Verbindungen und parallele historische Entwicklungen aufgezeigt werden. Das erleichtert sowohl das Verstehen als auch das Systematisieren der Praktischen Theologie als Gesamtes.

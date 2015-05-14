@@ -18,7 +18,7 @@ Wenn ich zwei Männer sehe, die sich küssen, ist mir das unangenehm. Ich kann m
 
 Es gibt bei jedem Menschen eine latente Unsicherheit. Jeder und jede versucht instinktiv, die eigene sexuelle Orientierung zu schützen. Kaum eine Angst ist größer als die, seine (eigene) Sexualität zu verlieren. Das gilt für homosexuelle und heterosexuelle Menschen gleich.[^trans] Bei der Sexualität geht es bei jedem Menschen um’s Eingemachte. Das ist einer der Bereiche, in denen Menschen am meisten emotional angreifbar sind.
 
-##Ein Versuch der Verständigung
+## Ein Versuch der Verständigung
 
 Es ist also auch kein Zufall, dass ein Hauptargument von Gleichstellungs-Gegnern der Schutz der eigenen sexuellen Identität ist: Wenn Homosexualität zu stark inkulturiert wird, sei die gesunde sexuelle (also die vermeintlich natürlich heterosexuelle) Entwicklung in Gefahr. Die Befürchtung ist, dass jemand die eigene Sexualität verlieren könnte. Diese reflexartige Angst ist erst einmal ohne argumentative Grundlage.[^grundlage]
 
