@@ -143,32 +143,33 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 .profile-outer {
 	width: 200px;
 	margin: 0 auto;
+	padding: 0;
 	height: 200px;
 	overflow: hidden;
 	margin-bottom: 40px;
-	border: 2px solid black !important;
 	border-radius: 50%;
+	background-color: $text-color-light;
+	border: 2px solid $text-color-light !important;
+	transition: border $transition-time;
 }
 .profile-outer:hover {
 	border-color: $color !important;
 }
 .profile-image {
-	background: url("/images/me.jpeg") no-repeat center top;  
+	background: url("/images/me.jpeg") no-repeat center center; 
 	background-size: 100%;
-	border-radius: 50%;
 	width: 100%;
 	height: 100%;
-	overflow: hidden;
-	transition: background $transition-time;
 }
 
 .profile-outer.side {
 	float: left;
-	width: 80px;
+	width: 3.5em;
+	height: 3.5em;
 	margin: 0;
-	margin-left: -105px; 
-	height: 80px;
+	margin-left: -75px; 
 	padding-bottom: 0px;
+	border-width: 1px !important;
 	@media (max-width: $max-width + 220px) {
 		display: none;
 	}
@@ -197,14 +198,15 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 	 	border: none;
 	 }
 	 a:hover img {
-	 	opacity: .9;
+	 	border-color: $color;
 	 }
 	 img {
 	 	display: inline;
-	 	width: 32%; height: auto;
+	 	width: 33.3%; height: auto;
+	 	box-sizing: border-box;
 	 	margin: 0px;
-	 	transition: opacity .5s;
-	 	opacity: 1;
+	 	transition: border $transition-time;
+	 	border: 1px solid transparent;
 	 }
 }
 
@@ -236,16 +238,15 @@ h1.entry-title.index {
 
 .entry-title:before, .entry-title.index:before {
 	display: inline-block;
-	width: 30px;
-	height: 30px;
+	width: 1.2em;
+	height: 1.2em;
 	background: url("/images/moehre.png") no-repeat center center;
 	background-size: 100%;
 	position: absolute;
-	margin-left: -35px;
-	margin-top: .08em;
+	margin-left: -1.4em;
+	margin-top: .1em;
 	content: "";
 	transition: background $transition-time;
-	@media only screen and (max-width: $max-width) {margin-left: -27px;}
 }
 
 .entry-title.index:before {
@@ -254,13 +255,13 @@ h1.entry-title.index {
 .entry-title.linklog:before {
 	content: "";
 	display: inline-block;
-	width: 18px;
-	height: 18px;
+	width: .75em;
+	height: .75em;
 	background: url("/images/icons/arrow-white.png") no-repeat center center;
 	background-size: 100%;
 	position: absolute;
-	margin-left: -30px;
-	margin-top: .35em;
+	margin-left: -1.1em;
+	margin-top: .29em;
 	transition: background $transition-time;
 	@media only screen and (max-width: $max-width) {margin-left: -27px;}
 }
@@ -290,6 +291,10 @@ a.index-link:hover {
 		background: url("/images/icons/arrow-color.png") no-repeat center center;
 		background-size: 100%;
 	} 
+}
+.linklog:hover:before {
+	background: url("/images/icons/arrow-color.png") no-repeat center center;
+	background-size: 100%;
 }
 
 span.entry-content-excerpt {
@@ -352,7 +357,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', e
 } 
 
 .dark-mode .profile-outer {
-	border: 2px solid $background-color !important;
+	border: 1px solid $background-color !important;
 }
 .dark-mode .profile-outer:hover {
 	border-color: $color !important;

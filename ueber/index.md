@@ -13,15 +13,7 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 ## Projekte
 
 <div class="projects">
-    <a href="/" target="_blank">
-         <img src="/images/Projekte/moehrenzahn.jpg" />
-    </a>
-    <a href="http://www.theologiestudierende.de" target="_blank">
-        <img src="/images/Projekte/theologiestudierende.jpg" />
-    </a>
-    <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank">
-        <img src="/images/Projekte/sagmal.jpg" />
-    </a>
+    <a href="/" target="_blank"><img src="/images/Projekte/moehrenzahn.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
 **moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Jekyll](http://jekyllrb.com) und gehostet auf [GitHub](https://github.com).

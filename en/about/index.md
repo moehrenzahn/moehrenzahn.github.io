@@ -15,15 +15,7 @@ Here I write about things I am interested in, mostly tech and theology – [most
 ## Projects
 
 <div class="projects">
-    <a href="http://www.moehrenzahn.de" target="_blank">
-         <img src="/images/Projekte/moehrenzahn.jpg" />
-    </a>
-    <a href="http://www.theologiestudierende.de" target="_blank">
-        <img src="/images/Projekte/theologiestudierende.jpg" />
-    </a>
-    <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank">
-        <img src="/images/Projekte/sagmal.jpg" />
-    </a>
+    <a href="http://www.moehrenzahn.de" target="_blank"><img src="/images/Projekte/moehrenzahn.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
 **moehrenzahn.de** is this site. It is built with the excellent [Jekyll](http://jekyllrb.com) and hosted on [GitHub](https://github.com).

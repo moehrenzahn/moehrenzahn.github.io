@@ -3,7 +3,6 @@ layout: post
 title: 'Apple Watch'
 categories: [English]
 slug: The Apple Watch does not solve Smart Watches
-comments: true
 lang: en
 ---
 
@@ -11,13 +10,13 @@ On this week's event Apple – as anticipated – announced its upcoming wearab
 
 <img src='/images/Applewatch/Apple-Watch.png' />
 
-It turns out that [I was wrong](http://moehrenzahn.de/iWatch/) in hoping that Apple would actually solve smart watches. They simply announced another one. It appears to be a very well well done specimen, but it still suffers from the same two basic problems as all the other smart watches already on the market.
+It turns out that [I was wrong](http://moehrenzahn.de/iWatch/) in hoping that Apple would actually solve smart watches. They simply announced another one. It appears to be a very good specimen, but it still suffers from the same two basic problems as all the other smart watches already on the market.
 
 ## 1. Battery Life
 
 <figure><img src='/images/Applewatch/Apple-Watch-Charger.png' /><figcaption>The Apple Watch's inductive charger.</figcaption></figure>
 
-In Tuesdays presentation, Tim Cook carefully tip-toed around the battery problem, saying only that they expect "usage throughout the day to be incredible", therefore users would have to "charge it at night". It seems safe to assume that battery life of the Apple Watch will be no better than competing watches with an LCD screen. And those don't always last a full day. If the Apple Watch would fare significantly better, Cook would have surely made a point of it during the keynote.
+In Tuesdays presentation, Tim Cook carefully tip-toed around the battery problem, saying only that they expect "usage throughout the day to be incredible," therefore users would have to "charge it at night." It seems safe to assume that battery life of the Apple Watch will be no better than competing watches with an LCD screen. And those don't always last a full day. If the Apple Watch would fare significantly better, Cook would have surely made a point of it during the keynote.
 
 Not getting a full day of battery life out of a wearable is a non-starter. You can't expect people to take off their watches in the afternoon to charge them for the evening. This is the current Achilles heel of all the smart watches[^pebble] – and Apple's probably is no different in this regard.
 
@@ -35,6 +34,6 @@ Admittedly this is hard to judge without seeing it in person, but the Watch look
 
 I really like the design of the hardware and the software. And sure, the build quality seems amazing. I kind of want one, but not at that price[^price] and not without assurance that the battery will indeed last a full day.
 
-[^price]: The price is announced to be "starting at $350". I expect that especially the premium gold models will retail at a much higher price.
+[^price]: The price is announced to be "starting at $350." I expect that especially the premium gold models will retail at a much higher price.
 
 Right now, the Apple Watch is a 1.0 product with obvious flaws. But, like the original iPhone, it is a solid foundation for Apple to iterate on in the coming years. I can imagine that, in four or five years time, smart watches will have become as ubiquitous as iPhones. But it will be an evolution, not a revolution.

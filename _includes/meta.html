@@ -29,7 +29,7 @@
     {% when '12' %}Dezember
   {% endcase %}
   {{ page.date | date: "%Y" }}</time>
-{% endif %}<span class="dot">•</span> {{ page.content | number_of_words }} {% if page.lang == 'en' %}Words{% else %} Wörter{% endif %}
+{% endif %}
 
 <p class="meta sharing">
 	{% case page.lang %}
