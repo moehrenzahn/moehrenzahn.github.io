@@ -34,7 +34,7 @@ Die Festlegung, dass ein Pfarrer nicht dafür verantwortlich ist, in jeder Kirch
 
 ## "Man müsste …"
 
-Man beachte außerdem die bisherige konsequente Verwendung der unpersönlichen dritten Person: "Man sollte", "es müssen." Die Identität derer, die für diese Veränderungsprozesse verantwortlich sein sollen, wird im Kapitel "Konsequenzen für die Anstellungsträger" enthüllt:
+Man beachte außerdem die bisherige konsequente Verwendung der unpersönlichen dritten Person: "Man sollte," "es müssen." Die Identität derer, die für diese Veränderungsprozesse verantwortlich sein sollen, wird im Kapitel "Konsequenzen für die Anstellungsträger" enthüllt:
 
 >Die beschriebenen Veränderungen für die Arbeitsfelder im Verkündigungsdienst machen deutlich, wie wichtig es ist, dass die Anstellungsträger, Kirchenbezirk und Kirchgemeinde, und das bedeutet auch die Gemeindeglieder, ihre Verantwortung für das Gemeindeleben wahrnehmen.
 

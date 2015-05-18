@@ -4,7 +4,7 @@ title: 'Eindrücke vom 3. Evangelischen Medienkongress – Keine großen Revolut
 categories: [Theologie]
 ---
 
-Ende September war ich zu Gast beim [3. Evangelischen Medienkongress in Leipzig](http://medienkongress.evangelisch.de/). Was folgt sind meine höchst subjektiven Eindrücke und Gedanken zu Dingen, die ich auf dem Kongress gehört habe, besonders zur kirchlichen Internetarbeit.<!--more-->
+Ende September war ich zu Gast beim [3. Evangelischen Medienkongress in Leipzig](http://medienkongress.evangelisch.de/). Was folgt sind meine höchst subjektiven Eindrücke und Gedanken zu Dingen, die ich auf dem Kongress gehört habe, besonders zur kirchlichen Internetarbeit.
 
 Die Medienmenschen auf dem Kongress, der von [Markus Bräuer, dem Medienbeauftragten der EKD](http://www.ekd.de/personen/braeuer.html), ins Leben gerufen wurde, waren in der Hauptsache im Rundfunk beschäftigt, also in Radio und Fernsehen. Zwar war während des Kongresses das Internet immer wieder ein zentrales Thema, doch wurde es von den meisten eher mit Skepsis betrachtet.
 

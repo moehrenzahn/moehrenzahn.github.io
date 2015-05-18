@@ -2,7 +2,6 @@
 layout: post
 title: 'Kritik an der Kritik'
 categories: [Theologie]
-draft: true
 ---
 
 Letzte Woche hat Philipp für die Moment mal-Kolumne auf theologiestudierende.de [einen Artikel](http://www.theologiestudierende.de/2015/05/04/moment-mal-was-heisst-hier-konservativ/) geschrieben, in dem er die Frage stellte, was es bedeutet, "konservativ" zu sein. Das Ganze war vor allem eine Abrechnung mit Christen, die ihre persönlichen Ressentiments gegen Homosexualität als "konservative Werte" zu verkaufen versuchen.

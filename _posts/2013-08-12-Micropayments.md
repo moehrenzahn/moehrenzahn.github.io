@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einheitliche Micropayments sind kein Allheilmittel'
-categories: Technologie
+categories: [Technologie, Journalismus]
 ---
 
 Im Nachglühen der Mitteilung, dass [Amazon-Chef Jeff Bezos die Washington Post gekauft hat](http://www.tagesschau.de/wirtschaft/washington-post100.html), sind viele deutsche Online-Journalisten verständlicherweise besorgt über die Nachhaltigkeit ihres Mediums.
