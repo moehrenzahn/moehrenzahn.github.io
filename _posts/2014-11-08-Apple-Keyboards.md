@@ -2,7 +2,6 @@
 layout: post
 title: 'Der Apple-Tastaturenvergleich'
 categories: [Technologie]
-slug: Klein oder Groß?
 ---
 
 Vor einiger Zeit habe ich mir zum Tippen am Schreibtisch eine Tastatur gekauft. Mein Einstiegsmodell war ein voll mechanisches, laut klackerndes [Cherry MX-Board 3.0](http://www.tweaktown.com/reviews/6121/cherry-mx-board-3-0-mechanical-keyboard-review/).
@@ -11,15 +10,15 @@ In letzter Zeit kam es mir mit dieser Tastatur zunehmend so vor, als wäre jeder
 
 <figure><img src='/images/Clickykeyboards/IMG_4032.jpg' /><figcaption>Das Cherry MX-Board 3.0.</figcaption></figure>
 
-Ich beschloss, mich nicht weiter herumzuquälen und mir eine Apple-Tastatur zu besorgen. Nicht etwa, weil Apple die besten Tastaturen herstellen würde, sondern weil ich auf meinem MacBook stets flink und ohne hinzusehen tippen konnte. Ich bin das Layout und Tastengefühl einfach gewohnt.
+Ich beschloss, mich nicht weiter herumzuquälen und mir eine Apple-Tastatur zu besorgen. Nicht etwa, weil Apple die besten Tastaturen herstellt, sondern weil ich auf meinem MacBook stets flink und ohne hinzusehen tippen konnte. Ich bin das Layout und Tastengefühl einfach gewohnt.
 
-Also machte ich mich auf die Suche nach USB-Tastaturen von Apple. USB, weil mich an meinem Schreibtisch ein Kabel mehr nicht stört und ich nicht mehr Batterien als nötig wechseln müssen will.
+Also machte ich mich auf die Suche nach USB-Tastaturen von Apple. USB, weil mich an meinem Schreibtisch ein Kabel mehr nicht stört und ich nicht mehr Batterien als nötig wechseln will.
 
-Wer eine USB-Tastatur will, bekommt von Apple inzwischen nur noch die Version mit Ziffernblock angeboten. Die Kompakte Variante gibt es nur noch mit Bluetooth. Aber auf Ebay gibt es immer noch kleine kabelgebundene Exemplare zu finden, die ein paar Jahre alt sind. Die Entscheidung fiel mir schwer, also bestellte ich erst einmal beide Tastaturvarianten. Was folgt, ist mein ausführlicher Vergleich.
+Wer eine USB-Tastatur will, bekommt von Apple inzwischen nur noch die Version mit Ziffernblock angeboten. Die kompakte Variante gibt es nur noch mit Bluetooth. Aber auf Ebay gibt es immer noch kleine kabelgebundene Exemplare zu finden, die ein paar Jahre alt sind. Die Entscheidung fiel mir schwer, also bestellte ich erst einmal beide Tastaturvarianten. Was folgt, ist mein ausführlicher Vergleich.
 
 -----
 
-Beide Tastaturen sind aus dem gleichen Material – Aluminum (Das gleiche wie das aller modernen Macs) und weißes Plastik. Die Tasten haben eine angenehm rauhe Oberfläche, die bei meinem Macbook (inzwischen?) fehlt. Beide sind sehr flach und haben auf der Unterseite Gummifüße, die fest installiert sind und gerade klebrig genug um die Tastatur nicht am Tisch festzukleben, aber auch nicht ungewollt wegrutschen zu lassen.
+Beide Tastaturen sind aus dem gleichen Material – Aluminium (Das gleiche wie das aller modernen Macs) und weißes Plastik. Die Tasten haben eine angenehm raue Oberfläche, die bei meinem MacBook Pro (inzwischen?) fehlt. Beide sind sehr flach und haben auf der Unterseite Gummifüße, die fest installiert sind und gerade klebrig genug um die Tastatur nicht am Tisch festzukleben, aber auch nicht ungewollt wegrutschen zu lassen.
 
 Beide haben links und rechts einen USB-Port, was eigentlich die perfekte Position ist, um schnell einen USB-Stick anzuschließen.[^usb] 
 
@@ -33,7 +32,7 @@ Im Vorfeld dachte ich, ich würde die Tastatur ohne Nummernblock behalten. Die k
 
 <figure><img src='/images/Clickykeyboards/IMG_4040.JPG' /><figcaption></figcaption></figure>
 
-Die Tastaur ist im Gegensatz zur Tastatur eines Macbooks wegen der Fußleiste etwas angewinkelt, aber nicht so stark, dass es stören würde.[^winkel] Die Tasten gehen knackig und haben einen sehr dumpfen, bassigen Anschlag im Vergleich zur internen Tastatur meines MacBook Pro. Die Tasten fühlen sich stabiler verankert an und es gibt weniger geklapper. 
+Die Tastatur ist im Gegensatz zur Tastatur eines MacBooks wegen der Fußleiste etwas angewinkelt, aber nicht so stark, dass es stören würde.[^winkel] Die Tasten gehen knackig und haben einen sehr dumpfen, bassigen Anschlag im Vergleich zur internen Tastatur meines MacBook Pro. Die Tasten fühlen sich stabiler verankert an und es gibt weniger geklapper. 
 
 [^winkel]: Der Winkel ist minimal flacher als bei den kabellosen Modellen. Die Tastatur passt also zum Beispiel nicht ganz nahtlos neben ein Magic Trackpad.
 
@@ -55,4 +54,4 @@ Die Tasten sind noch leiser und haben weniger von der bassigen Resonanz der kurz
 
 Die perfekte Tastatur für mich hätte das Layout der großen Tastatur, aber ohne Ziffernblock. Denn den verwende ich so gut wie nie und er verschiebt die Maus unangenehm weit nach rechts. Man merkt der kleinen Version jedoch an, dass sie schon seit ein paar Jahren nicht mehr aktualisiert wurde. Der Anschlag der (neueren) großen Tastatur ist definitiv angenehmer als beim kleineren Auslaufmodell – leiser und weicher.
 
-Ich habe mich schließlich für die große Tastatur entschieden. Am Ende war mir Tippgefühl wichtiger als ein paar Zentimeter mehr Platz auf dem Schreibtisch. Jetzt, ein paar Wochen später, kann ich sagen, dass ich die Entscheidung nicht bereut habe.
+Ich habe mich schließlich für die große Tastatur entschieden. Am Ende war mir Tippgefühl wichtiger als ein paar Zentimeter mehr Platz auf dem Schreibtisch. Jetzt, ein paar Wochen später, kann ich sagen, dass ich die Entscheidung nicht bereue.

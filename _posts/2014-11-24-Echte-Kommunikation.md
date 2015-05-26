@@ -7,7 +7,7 @@ slug: Ein Pladoyer für die digitale Kommunikation des Evangeliums.
 
 Als die EKD-Synode sich im November in Dresden zusammenfand, um über die "Digitale Kommunikation des Evangeliums" zu sprechen, war das einer der Knackpunkte: Wie verhält sich Kommunikation im Internet zum vielgelobten "Face-to-Face"-Austausch?
 
-Viele sind skeptisch. Selbst [in den Kommentarabteilungen auf evangelisch.de](http://aktuell.evangelisch.de/artikel/110375/i-der-digitalen-gesellschaft-veraendert-sich-kommunikation) zum Kundgebungsentwurf der Synode bekommt man eine ganze Ladung unreflektierter Internetkritik um die Ohren gehauen. Da besteht das ganze Internet scheinbar aus Kommerz und bedeutungslosem gechatte. Der ausführliche persönliche Austausch verkümmere durch Internetplattformen wie Facebook und WhatsApp.
+Viele sind skeptisch. Selbst [in den Kommentarabteilungen auf evangelisch.de](http://aktuell.evangelisch.de/artikel/110375/i-der-digitalen-gesellschaft-veraendert-sich-kommunikation) zum Kundgebungsentwurf der Synode bekommt man eine ganze Ladung unreflektierter Internetkritik um die Ohren gehauen. Da besteht das ganze Internet scheinbar aus Kommerz und bedeutungslosem Gechatte. Der ausführliche persönliche Austausch verkümmere durch Internetplattformen wie Facebook und WhatsApp.
 
 Weshalb diese Einstellung fragwürdig ist, [erklärt Matthias Jung trefflich auf seinem Blog](http://blogmatthiasjung.wordpress.com/2014/11/09/angst-digitalisierung-kirche/):
 
@@ -17,9 +17,9 @@ Kommunikation läuft schon seit Beginn der Menschheit über verschiedene "Medien
 
 [^sprache]: Selbst "Face-to-Face"-Kommunikation ist in gewisser Weise nicht unvermittelt, sondern bedient sich dem Medium Sprache.
 
-Die (zugegeben brandneuen und damit manchmal einschüchternden) Kommunikationswege über das Internet sind nicht *besser* oder *schlechter* als die alte "Face-to-Face"-Kommunikation, sondern einfach *anders*. Im Internet lassen sich manche Dinge weniger gut, dafür andere ausschließlich so erreichen. Die Crux ist, *jedes* Medium mit seinen Stärken und Schwächen zu nutzen – das Evangelium darf sich für keine Kommunikationsform zu fein sein.
+Die (zugegeben brandneuen und damit manchmal einschüchternden) Kommunikationswege über das Internet sind nicht *besser* oder *schlechter* als die alte "Face-to-Face"-Kommunikation, sondern einfach *anders.* Im Internet lassen sich manche Dinge weniger gut, dafür andere ausschließlich so erreichen. Die Crux ist, *jedes* Medium mit seinen Stärken und Schwächen zu nutzen – das Evangelium darf sich für keine Kommunikationsform zu fein sein.
 
-Freilich lassen sich die Kommunikationsmedien nicht willkürlich austauschen – jede Form hat ihre "Spezialgebiete".[^Nord] Darüber, welche Spezialgebiete Kirche im Internet ausfüllen könnte, muss weiter nachgedacht werden. Davor müssen sich Kirchenmenschen  aber mal an das Internet herantrauen und das Medium und seine Umgangsformen erlernen.
+Freilich lassen sich die Kommunikationsmedien nicht willkürlich austauschen – jede Form hat ihre "Spezialgebiete."[^Nord] Darüber, welche Spezialgebiete Kirche im Internet ausfüllen könnte, muss weiter nachgedacht werden. Davor müssen sich Kirchenmenschen aber erst mal an das Internet herantrauen und das Medium und seine Umgangsformen erlernen.
 
 Da stehen die Kirchen noch ganz am Anfang.
 

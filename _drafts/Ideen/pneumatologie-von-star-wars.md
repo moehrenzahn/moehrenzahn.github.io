@@ -12,3 +12,5 @@ Vergleich mit der Beschreibung der Macht aus Star Wars Episode IV
 Charakteristik der Macht in Star Wars
 
 Verlgeich: Kabod: Sichtbare Aura
+
+http://www.washingtonpost.com/posteverything/wp/2015/04/21/how-star-wars-answers-our-biggest-religious-questions/
