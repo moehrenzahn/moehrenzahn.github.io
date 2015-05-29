@@ -2,9 +2,6 @@
 layout: post
 title: 'Predigt: Von ahnungsvollen und ahnungslosen Tagen'
 categories: [Theologie, Predigt]
-slug: Predigt vom 25. Januar 2015 in der Trinitatiskirche Leipzig
-lang: 
-comments: true
 ---
 
 *Diese Predigt habe ich gehalten am 25. Januar 2015 in der Trinitatiskirche Leipzig. Der Gottesdienst war Teil des homiletischen Seminars.*
