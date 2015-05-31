@@ -7,8 +7,6 @@ draft: true
 
 Gamergate
 
-<!--more-->
-
 Much has been written about the state of women in gaming and the broader gaming culture. 
 
 Sarkeesian. 
