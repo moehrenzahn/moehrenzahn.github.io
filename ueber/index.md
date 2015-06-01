@@ -16,7 +16,17 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
     <a href="/" target="_blank"><img src="/images/Projekte/moehrenzahn.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
-**moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Jekyll](http://jekyllrb.com) und gehostet auf [GitHub](https://github.com).
+{% assign wordcount = 0 %}
+{% for post in site.posts %}
+    {% capture postwordcount %}
+        {{ post.content | number_of_words }}
+    {% endcapture %}
+    {% capture wordcount %}
+        {{ wordcount | plus:{{postwordcount}}
+    {% endcapture %}
+{% endfor %}
+
+**moehrenzahn.de** ist diese Seite. Sie ist erstellt mit dem exzellenten [Jekyll](http://jekyllrb.com) und gehostet auf [GitHub](https://github.com). Bis heute habe ich hier {{ site.posts | size }} Artikel veröffentlicht mit insgesamt {{wordcount}} Wörtern.
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich ehrenamtlich leite und designt habe. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort.
 
