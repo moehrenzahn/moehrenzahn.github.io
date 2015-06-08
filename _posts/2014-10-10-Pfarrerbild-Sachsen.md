@@ -64,12 +64,12 @@ Insgesamt empfinde ich die im Bericht der Arbeitsgemeinschaft beschriebenen Vors
 
 [^12]: Die Arbeitsgruppe findet auch, dass "Pfarrerinnen und Pfarrer […] von einfachen Verwaltungstätigkeiten zu entlasten" seien. Wie die entsprechenden Verwaltungsangestellten finanziert werden sollen, bleibt jedoch offen.
 
-An dieser Stelle möchte ich [wieder einmal](http://aktuell.evangelisch.de/artikel/92410/pfarrernachwuchs-braucht-rueckhalt-von-der-kirchenleitung) den ehemaligen sächsischen Landesbischof Werner Krusche zitieren, der schon 1975 in einem Referat diesen Gedanken Ausdruck verlieh:[^11]
+An dieser Stelle möchte ich [wieder einmal](http://aktuell.evangelisch.de/artikel/92410/pfarrernachwuchs-braucht-rueckhalt-von-der-kirchenleitung) den ehemaligen Landesbischof der Kirchenprovinz Sachsen Werner Krusche zitieren, der schon 1975 in einem Referat diesen Gedanken Ausdruck verlieh:[^11]
 
 >[D]aß es vermutlich nicht mit kleineren Korrekturen an den vorhandenen Berufsbildern und einigen Reformen der entsprechenden Ausbildungsgänge getan sein würde […], sondern daß angesichts der Entwicklung, die wir als Gemeinde Jesu Christi in unserer Gesellschaft vor uns sehen, möglichst umfassend, nüchtern und verheißungsgewiß darüber nachgedacht werden müßte, welche Auftragsschwerpunkte sich abzeichnen, für welche Aufgabenfelder hauptamtliche Kräfte nötig sein und welche Ausbildungsgänge sich dafür erforderlich machen werden. Umfassende Überlegungen sind deshalb nötig, weil wir in großen Schritten aus der weithin immer noch quasi-volkskirchlichen Situation, in der auf ganze Strecken noch wie früher, nur mit reduzierten Zahlen, gearbeitet werden konnte, in eine Situation einwandern, in der der Auftrag Jesu Christi so nicht mehr zureichend wahrgenommen werden kann.
 
 [^11]: Aus: Krusche, Werner: Die große Aufgabe der kleiner werdenden Gemeinde – Konsequenzen für die Ausbildung kirchlicher Mitarbeiter.
 
-Man beachte, dass Bischof Krusche das schon vor fast vierzig Jahren gesagt hat. Der Bericht der Arbeitsgruppe hinterlässt bei mir den Eindruck, dass meine Landeskirche heute immer noch lediglich um diese Aufgabe herumtänzelt.
+Man beachte, dass Bischof Krusche (dessen Landeskirche mit der sächsischen zwar nur den Name gemein hat) das schon vor fast vierzig Jahren gesagt hat. Der Bericht der Arbeitsgruppe hinterlässt bei mir den Eindruck, dass meine Landeskirche heute immer noch lediglich um diese Aufgabe herumtänzelt.
 
 Zum Schluss meine Frage an euch Kommilitoninnen und Kommilitonen: Wie ist die Situation in euren Landeskirchen? Was gibt es dort für Visionen, die das Pfarramt (und die anderen kirchlichen Berufe) zukunftsfähig machen könnten?

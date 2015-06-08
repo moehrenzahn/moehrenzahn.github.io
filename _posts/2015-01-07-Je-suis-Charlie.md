@@ -18,5 +18,3 @@ Es darf jetzt auch nicht um Schuldzuweisungen gehen. Ehren wir die Täter nicht 
 Jetzt ist die Zeit, die gestorbenen Redakteure von "Charlie Hebdo" zu feiern und unseren Respekt zu zollen.
 
 Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen.
-
-<figure><img src='/images/Je-suis-Charlie.jpg' /></figure>
