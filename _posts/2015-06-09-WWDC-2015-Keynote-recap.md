@@ -5,7 +5,7 @@ categories: [Technologie, English]
 lang: en
 ---
 
-[This years WWDC keynote](http://www.apple.com/live/2015-june-event/) brought no new hardware announcements. But with the announcement of new versions of OS X, iOS and watchOS, there was still lots of new stuff to cover.
+[This year's WWDC keynote](http://www.apple.com/live/2015-june-event/) brought no new hardware announcements. But with the announcement of new versions of OS X, iOS and watchOS, there was still lots of new stuff to cover.
 
 [El Capitan](http://www.apple.com/osx/elcapitan-preview/) appears to be a sort of "Snow Yosemite," bringing few new features an instead focusing on speed and stability. Beyond that I am excited for the new features in Mission Control – particularly the new split full screen view.
 
