@@ -29,7 +29,7 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
     <img src="/images/Projekte/journalist.jpg" /><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
-Neben meinem Studium arbeite ich als **freiberuflicher Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung.*](http://www.evangelische-zeitung-niedersachsen.de) Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
+Neben meinem Studium arbeite ich als **freiberuflicher Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich seit 2012 ehrenamtlich leite und entwickelt habe. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Zu meiner Arbeit dort wurde ich von *Der Sonntag* interviewt [("Bloggen für Christus")](https://www.sonntag-sachsen.de/2015/02/bloggen-fuer-christus).
 
