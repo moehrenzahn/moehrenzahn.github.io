@@ -9,7 +9,7 @@ Hannes Leitlein auf ZEIT online:
 
 > Immer mehr Hebammen steigen schon jetzt aus der Geburtshilfe aus, weil die Haftpflichtprämien weiter steigen. Mit der letzten Erhöhung auf 6.270 Euro pro Jahr zum 1. Juli mussten laut Hebammenverband erneut 145 freiberufliche Hebammen die Geburtshilfe aufgeben. Die 2.348 versicherten Hebammen, die noch freiberuflich Geburten begleiten, zahlen unter Umständen sogar drauf.
 
-Ich wüsste keinen Berufsstand, dessen Notwendigkeit und Ehrenhaftigkeit weniger umstritten ist als der der Hebamme. Es ist eine Schande, dass Ausgerechnet dieser Berufsgruppe ihre Arbeit immer unmöglicher gemacht wird. Und das auch noch mit so einem lächerlichen Hindernis wie Versicherungsprämien.
+Ich wüsste keinen Berufsstand, dessen Notwendigkeit und Ehrenhaftigkeit weniger umstritten ist als der der Hebamme. Es ist eine Schande, dass ausgerechnet dieser Berufsgruppe ihre Arbeit immer unmöglicher gemacht wird. Und das auch noch mit so einem lächerlichen Hindernis wie Versicherungsprämien.
 
 Da hilft momentan anscheinend nur, [bei den Versicherern Druck zu machen](https://www.change.org/p/geburt-darf-keine-privatleistung-werden-gegen-die-wirtschaftlich-optimierte-geburt-elternprotest). Oder beim Gesundheitsministerium, damit eine Alternative zum GKV geschaffen wird:
 
