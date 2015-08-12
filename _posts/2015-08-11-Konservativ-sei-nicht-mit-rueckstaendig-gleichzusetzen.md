@@ -17,8 +17,8 @@ Ziemlich rückständig[^1] fand ich jedoch, was Rentzing über das Zusammenleben
 
 Vor 30 Jahren hätte ein Idea-Interview mit so einem aufgeklärt-konservativen Theologen wie Rentzing wahrscheinlich so geklungen:
 
-> Er werde sich schützend vor alle Frauen stellen, die sich entscheiden, in den kirchlichen Dienst einzutreten und dies vor Gott verantworten wollen. Theologischen blieben allerdings Fragen: "Ein Dienst solcher Frauen im Pfarramt könnte das Signal setzen, dass das aus Gottes Sicht in Ordnung ist. Meines Erachtens würde die Kirche damit aber die Grenze dessen, was sie zu diesem Thema sagen kann, weit überschreiten."
+> Er werde sich schützend vor alle Frauen stellen, die sich entscheiden, in den kirchlichen Dienst einzutreten und dies vor Gott verantworten wollen. Theologisch blieben allerdings Fragen: "Ein Dienst solcher Frauen im Pfarramt könnte das Signal setzen, dass das aus Gottes Sicht in Ordnung ist. Meines Erachtens würde die Kirche damit aber die Grenze dessen, was sie zu diesem Thema sagen kann, weit überschreiten."
 
 Oder vor 200 Jahren vielleicht so:
 
-> Er werde sich schützend vor alle Sklaven stellen, die sich entscheiden, aus ihrem Dienstverhältnis zu fliehen und dies vor Gott verantworten wollen. Theologischen blieben allerdings Fragen: "Eine kirchliche Aufnahme entlaufener Sklaven könnte das Signal setzen, dass das aus Gottes Sicht in Ordnung ist. Meines Erachtens würde die Kirche damit aber die Grenze dessen, was sie zu diesem Thema sagen kann, weit überschreiten."
+> Er werde sich schützend vor alle Sklaven stellen, die sich entscheiden, aus ihrem Dienstverhältnis zu fliehen und dies vor Gott verantworten wollen. Theologisch blieben allerdings Fragen: "Eine kirchliche Aufnahme entlaufener Sklaven könnte das Signal setzen, dass das aus Gottes Sicht in Ordnung ist. Meines Erachtens würde die Kirche damit aber die Grenze dessen, was sie zu diesem Thema sagen kann, weit überschreiten."
