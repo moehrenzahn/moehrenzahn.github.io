@@ -88,8 +88,7 @@ div.pagination
 /* List styling */
 
 article {
-ul, ol {margin-bottom: 1em; li {margin-bottom: 0;}
-	@media only screen and (max-width: $max-width) {margin-left: 1.3em;}
+ul, ol {margin-bottom: 1em; li {margin-bottom: 0;margin-right: 2em;}
 }
 
 ul { list-style-type: disc;
@@ -362,4 +361,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', e
 }
 .dark-mode .profile-outer:hover {
 	border-color: $color !important;
+}
+.dark-mode .footnote-button:before {
+	color: $text-color;
 }

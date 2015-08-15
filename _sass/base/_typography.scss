@@ -76,7 +76,8 @@ article p, article blockquote, article ul, article ol
 
 article blockquote
 	{
-		padding: 0 1em;
+		padding: 0 .7em;
+		margin-left: .5em; margin-right: .5em;
 		border-left: 3px solid $color;
 		font-style: italic;
 			cite {
@@ -104,7 +105,8 @@ footer {
 	color: $text-color-light;
 }
 
-time {padding-top: 3px;}
+time {color: $text-color-light; padding-top: 3px;}
+footer time {color: $text-color-light;}
 
 footer.read-on a {
 	color: white;	
