@@ -5,7 +5,7 @@ sharing: false
 
 ## Beitrag zur [Facebook-Diskussion](https://www.facebook.com/maximlIian.meIzer/posts/10200787690452113) mit Karsten
 
-Zunächst will ich sagen, dass ich das meiste von dem, was du geschrieben hast, sehr klug, durchdacht und ausgewogen finde und auch unterschreiben würde. Das gilt aber natürlich nicht für alles. Im Folgenden werde ich wie immer ein paar deiner Gedanken kommentieren bzw. deine Fragen versuchen zu beantworten. 
+Zunächst will ich sagen, dass ich vieles von dem, was du geschrieben hast, sehr klug, durchdacht und ausgewogen finde und auch unterschreiben würde. Das gilt aber natürlich nicht für alles. Im Folgenden werde ich wie immer ein paar deiner Gedanken kommentieren bzw. deine Fragen versuchen zu beantworten. 
 
 > 1\. Gerade in der Römerstelle hast du darauf verwiesen, dass es sich bei den Aussagen des Paulus nur um einen "gleichgeschlechtlichen Sexualakt" handelt. 
 Der historische Hintergrund, den du anführst, sagt, dass es sich um ein Beispiel des Paulus für die Sündhaftigkeit aller Menschen und besonders um die der römischen Oberschicht handelt. Ich kann deine Gedanken nachvollziehen, allerdings finde ich, dass es mehrere mehr oder weniger sinnvolle Interpretationen gibt, besonders, wenn man sich den Text und Kontext anschaut. […]
