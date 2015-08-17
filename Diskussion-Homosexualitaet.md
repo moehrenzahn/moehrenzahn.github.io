@@ -1,10 +1,10 @@
 ---
 layout: page
 sharing: false
-title: 'Beitrag zur [Facebook-Diskussion](https://www.facebook.com/maximlIian.meIzer/posts/10200787690452113) mit Karsten'
+title: 'Beitrag zur Facebook-Diskussion mit Karsten'
 ---
 
-## Beitrag zur [Facebook-Diskussion](https://www.facebook.com/maximlIian.meIzer/posts/10200787690452113) mit Karsten
+[Link zur Facebook-Diskussion](https://www.facebook.com/maximlIian.meIzer/posts/10200787690452113)
 
 Zunächst will ich sagen, dass ich vieles von dem, was du geschrieben hast, sehr klug, durchdacht und ausgewogen finde und auch unterschreiben würde. Das gilt aber natürlich nicht für alles. Im Folgenden werde ich wie immer ein paar deiner Gedanken kommentieren bzw. deine Fragen versuchen zu beantworten (und zum Schluss meine eigene Frage stellen). 
 
