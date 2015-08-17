@@ -59,9 +59,13 @@ Ich finde das im Fall der Homosexualität jedoch ein merkwürdiges Argument. Mü
 
 Davon abgesehen würde ich mal sagen, dass Dinge, die in der Bibel nicht vorkommen nach biblischen Kriterien zu prüfen sind (1. Thes 5,15). Das gilt für Fahrräder und Atomraketen und gilt auch für moderne homosexuelle Beziehungen. Und ich wüsste nicht, wo letztere dem Geiste der Schrift widersprechen (außer seiner gelegentlichen scheinbaren Abneigung gegen Analverkehr, Bibelstellen, die – wir ja nun ausgiebig genug besprochen haben – nicht unbedingt den Analverkehr an sich verurteilen).
 
+---------
+
 > Und zu allerletzt noch eine Anmerkung zu der Vorstellung, die Diskussion um die Homosexualität sei nur eine Randdiskussion und am Ende nicht zentral. Zimmer sagt, dass es im ganzen AT nur zwei Stellen über Homosexualität gibt (eben in 3. Mo 18 & 20). Deswegen kann man aus dieser Stelle keine Theologie und Ethik aufbauen. Aber ich hab mal nachgeschaut. Man findet die Aussage "Du sollst nicht töten (morden)." ebenfalls nur zweimal im AT. Ist das jetzt genauso unwichtig und sind die ethischen Konsequenzen, die wir aus dem Dekalog gezogen haben damit hinfällig? 
 
 Nein, die theologische "Wichtigkeit" einer Aussage erschließt sich natürlich nicht nur aus der Häufigkeit, aber das ist eben ein Indiz. Es gibt noch zahlreiche weitere Kriterien. Das Mordverbot steht zum Beispiel mitten in einem der zentralsten Bekenntnistexte, dem Herzstück der Sinaioffenbarung. Das Mordverbot wird von Christus in seiner Verkündigung aufgegriffen (Mt 5,21f). Das sind jetzt mal nur zwei exemplarische Gründe, warum das Mordverbot für uns zentral ist, obwohl es nur selten explizit genannt wird. Und "zufälliger Weise" treffen diese beiden Gründe für die Ablehnung von Homosexualität überhaupt nicht zu: Lev 18 und 20 sind mit die "hinterwäldlerischsten" Stellen im AT und bei Jesus finden wir überhaupt nichts zu Homosexualität.
+
+--------
 
 > Ich würde gern in diesem Abschnitt noch einmal auf die ursprüngliche Ausgangsfrage, nämlich das Zitat von Bischof Rentzing eingehen.
 >
