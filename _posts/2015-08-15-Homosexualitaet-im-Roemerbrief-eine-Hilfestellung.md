@@ -43,7 +43,7 @@ Das Phänomen des des gleichgeschlechtlichen Sexualaktes reiht Paulus ein in ein
 
 ## "Natürlich" und "Widernatürlich"
 
-In seiner Umschreibung des gleichgeschlechtlichen Sexualaktes gebraucht Paulus die Begriff φυσικός („naturgemäß“) und παρὰ φύσιν („entgegen der Natur“), um den heterosexuellen und den homosexuellen Akt zu unterscheiden.
+In seiner Umschreibung des gleichgeschlechtlichen Sexualaktes gebraucht Paulus die Begriff φυσικός ("naturgemäß") und παρὰ φύσιν ("entgegen der Natur"), um den heterosexuellen und den homosexuellen Akt zu unterscheiden.
 
 Aus dieser Formulierung wird bisweilen geschlossen, dass Paulus sich auf eine naturgegebene "Schöpfungsordnung" von Mann und Frau beruft, wobei homosexuelle Geschlechtsakte ein Bruch dieser Ordnung wäre.
 
@@ -67,6 +67,8 @@ Aus Röm 1,26–28 und seinem geschichtlichen Kontext lassen sich einige Punkte 
 
 Bisher habe ich bewusst ausschließlich vom *gleichgeschlechtlichen Sexualakt* oder ähnlichen Formulierungen geschrieben. Denn ein Eingebettetsein des Sexualaktes in eine Beziehung oder Partnerschaft wird in Röm 1 nicht thematisiert. Im Gegenteil wird durch die Betonung des triebhaften Aspektes vor allem konsequenzlose und spontane Auslebung von Sexualität beschrieben und kritisiert.
 
+Als Gegengewicht gegen diese Lesart ist vorzubringen, dass der Vergleich des homosexuellen "Umgangs" mit dem "natürlichen Umgang" darauf schließen lässt, dass dabei nicht ausschließlich der Geschlechtsverkehr an sich gemeint ist. Denn für die paulinische Ethik ist nicht jeder heterosexuelle Geschlechtsverkehr legitim und "natürlich" (wie etwa solcher ausserhalb der Ehe). Der "natürliche Umgang" umfasst also nicht nur den Sexualakt, sondern auch dessen gesellschaftlichen Rahmen. Es macht Sinn, dass dies gleichermaßen für den "unnatürlichen Umgang" gilt. Bei diesem Rahmen ist jedoch nicht an moderne, eheartige Beziehungsstrukturen zu denken, sondern an den "Sitz im Leben" gleichgeschlechtlicher Beziehungen in der antiken Welt.
+
 ## "Homosexualität" in der griechischen Antike
 
 Im Rahmen dieses Textes kann freilich nur ein kurzer Überblick zum Thema "Homosexualität" in der griechischen Antike gegeben werden. Der Begriff erscheint hier in Anführungszeichen, da er im Kontext der Antike ein Anachronismus darstellt.
@@ -81,7 +83,9 @@ Aller Wahrscheinlichkeit nach war der griechisch-römischen Antike das Konzept e
 
 ## Zusammenfassung
 
-Im Lichte dieser Beobachtungen scheint es mir plausibel anzunehmen, dass Paulus in Röm 1,26f die ausschweifende sexuelle Praxis der römischen und griechischen Oberschicht in der Päderastie kritisiert. Durch Bezugnahme auf 3.Mo 18.20 stellt er sich in die jüdische Tradition, die jeden homosexuellen Kontakt zwischen Männern ablehnte. Der destruktive Parameter in Röm 1,26f ist demnach nicht der gleichgeschlechtliche Sexualakt an sich, sondern 
+Im Lichte dieser Beobachtungen scheint es mir plausibel[^5] anzunehmen, dass Paulus in Röm 1,26f die ausschweifende sexuelle Praxis der römischen und griechischen Oberschicht in der Päderastie kritisiert. Durch Bezugnahme auf 3.Mo 18.20 stellt er sich in die jüdische Tradition, die jeden homosexuellen Kontakt zwischen Männern ablehnte. Der destruktive Parameter in Röm 1,26f ist demnach nicht der gleichgeschlechtliche Sexualakt an sich, sondern 
+
+[^5]: Ich schreibe hier bewusst von "Plausibilitäten" und "Wahrscheinlichkeiten". Damit möchte ich nicht ausdrücken, dass meine Schlussfolgerung auf wackeligen Füßen ständen. Es kann in der Exegese jedoch nie eine garantiert "wahre" Auslegung geben. Es gibt nur Plausibilitäten, die mehrheitsfähig werden und deshalb allgemein als "wahr" angenommen werden.
 
 - der Ausbruch aus dem, was in Paulus' subjektivem jüdisch-kulturellen Kontext als angemessener Umgang mit Sexualität galt (von Paulus umschrieben als "Natürlichkeit/Widernatürlichkeit"),
 - das triebhafte Ausgeliefertsein an die eigenen "fleischlichen" Begierden und
