@@ -45,7 +45,7 @@ Das Phänomen des des gleichgeschlechtlichen Sexualaktes reiht Paulus ein in ein
 
 In seiner Umschreibung des gleichgeschlechtlichen Sexualaktes gebraucht Paulus die Begriff φυσικός ("naturgemäß") und παρὰ φύσιν ("entgegen der Natur"), um den heterosexuellen und den homosexuellen Akt zu unterscheiden.
 
-Aus dieser Formulierung wird bisweilen geschlossen, dass Paulus sich auf eine naturgegebene "Schöpfungsordnung" von Mann und Frau beruft, wobei homosexuelle Geschlechtsakte ein Bruch dieser Ordnung wäre.
+Aus dieser Formulierung wird bisweilen geschlossen, dass Paulus sich auf eine naturgegebene "Schöpfungsordnung" von Mann und Frau beruft, wobei der homosexuelle Geschlechtsakt ein Bruch dieser Ordnung wäre.
 
 Einer genaueren Untersuchung des Wortfeldes bei Paulus hält diese Deutung jedoch nicht stand. Die rhetorische Figur der Berufung auf die "Naturgemäßheit" einer Sache begegnet bei Paulus auch in 1.Kor 11,13–15. Dort heißt es:
 
@@ -62,7 +62,7 @@ Für den homosexuellen Geschlechtsakt muss aus heutiger Sicht das gleiche Urteil
 Aus Röm 1,26–28 und seinem geschichtlichen Kontext lassen sich einige Punkte ableiten, welche spezifischen Phänomene Paulus anspricht:
 
 - Der "widernatürliche Verkehr" und das "Schande Treiben" wird in der Forschung wie bereits erwähnt einhellig als Beschreibung eines gleichgeschlechtlichen Sexualakts gedeutet.
-- Auslöser für diesen Sexualakt sind die "schändlichen Leidenschaften" und das "in Begierde zueinander entbrennen". Paulus' Fokus liegt also auf dem Lustempfinden und der impulsiven Zügellosigkeit, die den Sexualaktes auslösen.
+- Auslöser für diesen Sexualakt sind die "schändlichen Leidenschaften" und das "in Begierde zueinander entbrennen". Paulus' Fokus liegt also auf dem Lustempfinden und der impulsiven Zügellosigkeit, die den Sexualakt auslösen.
 - Die "Dahingebung in den Begierden ihrer Herzen" durch Gott geschieht *erst nach und aufgrund* des Hochmutes der Menschen. Entweder ist an dieser Stelle nicht an eine lebenslange sexuelle Orientierung gedacht oder es handelt sich um eine Art "Fluch", der (aufgrund der Sünden der Vorfahren o.Ä.) von Geburt an auf den betroffenen Menschen lastet.
 
 Bisher habe ich bewusst ausschließlich vom *gleichgeschlechtlichen Sexualakt* oder ähnlichen Formulierungen geschrieben. Denn ein Eingebettetsein des Sexualaktes in eine Beziehung oder Partnerschaft wird in Röm 1 nicht thematisiert. Im Gegenteil wird durch die Betonung des triebhaften Aspektes vor allem konsequenzlose und spontane Auslebung von Sexualität beschrieben und kritisiert.

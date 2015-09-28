@@ -22,7 +22,7 @@ In der Frage der Homosexualität finde ich jedoch die gängige "konservative" Ar
 
 [^4]: Wer diesen Punkt gern fundiert diskutieren möchte, möge bitte davon absehen hier die Kommentare vollzumüllen und [schreibe mir lieber eine Mail](mailto:max@moehrenzahn.de).
 
-Der Eifer, den viele Christen (die ihrem Selbstverständnis nach konservativ sind) an den Tag legen, wenn es um die Ablehnung von Homosexualität geht („weil es in der Bibel steht!“) ist aus meiner Sicht fehlplatziert. Ein sogenanntes "konservatives Profil" erschöpft sich heutzutage leider viel zu häufig in einer unreflektierten Verbalinspirationslehre.[^5]
+Der Eifer, den viele Christen (die ihrem Selbstverständnis nach konservativ sind) an den Tag legen, wenn es um die Ablehnung von Homosexualität geht ("weil es in der Bibel steht!") ist aus meiner Sicht fehlplatziert. Ein sogenanntes "konservatives Profil" erschöpft sich heutzutage leider viel zu häufig in einer unreflektierten Verbalinspirationslehre.[^5]
 
 [^5]: Sehr pointiert (und polemisch) wurde dieses Problem bereits unter der Überschrift "[Was heißt hier Konservativ?](http://www.theologiestudierende.de/2015/05/04/moment-mal-was-heisst-hier-konservativ/)" von Philipp Greifenstein behandelt. 
 
