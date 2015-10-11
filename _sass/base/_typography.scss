@@ -6,7 +6,7 @@ body {
 	font-family: $sans;
 	color: $text-color !important;
 	line-height: 1.6;
-	word-wrap:break-word;
+	word-wrap: break-word;
 	text-rendering: geometricPrecision;
 	@media only screen and (max-width: 480px){
 		font-size: $bodytext * 0.7;
