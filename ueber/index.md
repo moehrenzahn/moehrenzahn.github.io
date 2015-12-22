@@ -22,13 +22,16 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 
 ----
 
-## Projekte
+## Meine Projekte
 
 <div class="projects">
-    <img src="/images/Projekte/journalist.jpg" /><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
+    <a href="http://www.devotionalium.moehrenzahn.de/mac" target="_blank"><img src="/images/Projekte/devotionalium.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
 Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
+
+[**Devotionalium**](http://www.devotionalium.moehrenzahn.de/mac) ist
+eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [OS X-Version](http://www.devotionalium.moehrenzahn.de/mac) und als [Web-App](http://www.devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Zu meiner Arbeit dort wurde ich von *Der Sonntag* [interviewt (hinter Bezahlschranke)](https://www.sonntag-sachsen.de/2015/02/bloggen-fuer-christus).
 
