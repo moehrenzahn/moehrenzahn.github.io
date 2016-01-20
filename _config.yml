@@ -9,6 +9,7 @@ twitter_username: _maxmelzer
 
 # Build settings
 markdown: kramdown
+exclude: [_drafts/Abgelehnt/]
 
 kramdown:
    smart_quotes: lsquo,rsquo,ldquo,rdquo
