@@ -1,6 +1,6 @@
 /* Variables */
 
-$max-width: 560px;
+$max-width: 600px;
 $color: #FF670F; 
 $background-color: white;
 $footer-color: #404040;
@@ -9,9 +9,8 @@ $transition-time: .4s;
 
 //Fonts
 
-$sans: Source Sans Pro, Helvetica, sans-serif !default;
-
-$mono: Ubuntu mono, "Lucida Console", Monaco, monospace !default;
+$sans: Source Sans Pro, -system, "Helvetica Neue", sans-serif !default;
+$mono: "Ubuntu mono", "Lucida Console", Monaco, monospace !default;
 $heading-font-family: $sans !default;
 $header-title-font-family: Vollkorn, Charter, Georgia, serif !default;
 $header-subtitle-font-family: $sans !default;
