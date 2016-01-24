@@ -7,7 +7,7 @@ categories: [Politik]
 
 Ich stelle mich übrigens selbstverständlich hinter [#ausnahmslos](http://ausnahmslos.org/). Dabei handelt es sich um eine feministische Stellungnahme zu den Vorfällen der Silvesternacht in Köln:
 
-<figure><img src='/images/ausnahmslos.jpg' /><figcaption></figcaption></figure>
+<figure><img src='/images/ausnahmslos.jpeg' /><figcaption></figcaption></figure>
 
 > Der konsequente Einsatz gegen sexualisierte Gewalt jeder Art ist unabdingbar und von höchster Priorität. Es ist für alle schädlich, wenn feministische Anliegen von Populist_innen instrumentalisiert werden, um gegen einzelne Bevölkerungsgruppen zu hetzen, wie das aktuell in der Debatte um die Silvesternacht getan wird.
 > Sexualisierte Gewalt darf nicht nur dann thematisiert werden, wenn die Täter die vermeintlich „Anderen" sind: die muslimischen, arabischen, Schwarzen oder nordafrikanischen Männer – kurzum, all jene, die rechte Populist_innen als „nicht deutsch“ verstehen. Sie darf auch nicht nur dann Aufmerksamkeit finden, wenn die Opfer (vermeintlich) weiße Cis-Frauen sind.
