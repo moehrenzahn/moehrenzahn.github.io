@@ -49,7 +49,7 @@ article {
 	}
 
 	p, blockquote, ul, ol
-		{margin-bottom: 1em;}
+		{margin-bottom: 32px;}
 
 	figure, img, iframe, video, object {
 		display: block;
@@ -116,7 +116,7 @@ div.pagination
 /* List styling */
 
 article {
-ul, ol {margin-bottom: 1em; li {margin-bottom: 0;margin-right: 2em;}
+ul, ol {margin-bottom: 31px; li {margin-bottom: 0;margin-right: 2em;}
 }
 
 ul { list-style-type: disc;
@@ -195,9 +195,10 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 	width: 3.5em;
 	height: 3.5em;
 	margin: 0;
-	margin-left: -75px; 
+	margin-top: -1em;
+	margin-left: -80px; 
 	padding-bottom: 0px;
-	border-width: 1px !important;
+	border-width: 2px !important;
 	@media (max-width: $max-width + 220px) {
 		display: none;
 	}

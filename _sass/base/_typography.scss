@@ -8,12 +8,12 @@ body {
 	line-height: 1.6;
 	word-wrap: break-word;
 	text-rendering: geometricPrecision;
-	@media only screen and (max-width: 480px){
-		font-size: $bodytext * 0.7;
-		line-height: 1.5;
-	}
-	@media only screen and (max-width: 1280px){
-		font-size: $bodytext * 0.9;}
+	// @media only screen and (max-width: 480px){
+	// 	font-size: $bodytext * 0.7;
+	// 	line-height: 1.5;
+	// }
+	// @media only screen and (max-width: 1280px){
+	// 	font-size: $bodytext * 0.9;}
 }
 
 /* Heading of Pages */
@@ -58,7 +58,7 @@ a[rev='footnote']{
 a[rev='footnote']:hover {border: none; color: $color;}
 
 h1, h2, h3, h4 {font-family: $heading-font-family;
-	font-weight: 600; line-height: 1.5;}
+	font-weight: 600; line-height: 1.5;margin-bottom: 31px;}
 
 article h1, article h2, article h3, article h4
 	{
@@ -90,7 +90,7 @@ article blockquote
 /* Footnotes */
 
 div.footnotes {
-	ol, li, p {font-size: $footnotetext; margin-bottom: .5em;}
+	ol, li, p {font-size: $footnotetext; margin-bottom: 0; margin-top: 0;}
 }
 
 /* Date above post (single- and multiview) */
@@ -147,3 +147,5 @@ figcaption {
 
 
 .sharing .dot {margin-left: 7px !important; margin-right: 4px !important;}
+
+.sharing {margin-bottom: 27px; margin-top: 27px;}
