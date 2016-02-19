@@ -33,7 +33,7 @@ Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter an
 [**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
 eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [OS X-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
 
-[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/portalleitung/) erscheinen zuerst dort. Zu meiner Arbeit dort wurde ich von *Der Sonntag* [interviewt (hinter Bezahlschranke)](https://www.sonntag-sachsen.de/2015/02/bloggen-fuer-christus).
+[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
 
 [**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziere. Bis heute sind 42 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen.
 
