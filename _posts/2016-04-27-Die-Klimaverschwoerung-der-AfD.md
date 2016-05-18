@@ -20,7 +20,7 @@ Wie kann die AfD aber gegen den eindeutigen wissenschaftlichen Konsens der Klima
 
 >Unter dem Schlagwort "Klimaneutrales Deutschland 2050" durch "Dekarbonisierung" missbraucht die deutsche Regierung die steigende CO2-Konzentration zur "Großen Transformation" der Gesellschaft, mit der Folge, dass die persönliche und wirtschaftliche Freiheit massiv eingeschränkt wird.
 
-Die Implikation ist klar: Laut AfD benutzt die Bundesregierung benutzt die Pseudowissenschaft des IPCC, um ihren "Irrweg Klimaschutzpolitik" zu rechtfertigen. Schließlich ist CO2 ja gar nicht schlimm, sondern eingentlich sogar gut für die Umwelt! Diese ganzen Wissenschaftler sind doch fremdgesteuert von der Agenda der "großen Transformation"!
+Die Implikation ist klar: Laut AfD benutzt die Bundesregierung die Pseudowissenschaft des IPCC, um ihren "Irrweg Klimaschutzpolitik" zu rechtfertigen. Schließlich ist CO2 ja gar nicht schlimm, sondern eingentlich sogar gut für die Umwelt! Diese ganzen Wissenschaftler sind doch fremdgesteuert von der Agenda der "großen Transformation"!
 
 Dieses Verschwörungsdenken ist gefährlich und findet sich auch an anderen Stellen des AfD-Parteiprogramms, so etwa beim Thema "Islam" (Verschwörungstheorie: Der Islam will durch Parallelgesellschaften den Deutschen Rechtsstaat untergraben) und wenn es um den "Erhalt der deutschen Kultur und Identität" geht (Verschwörungstheorie: Der "Multikulturalismus" versucht aktiv, die "Deutsche Leitkultur" zu zerstören).
 
