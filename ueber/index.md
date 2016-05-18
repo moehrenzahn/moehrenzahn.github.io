@@ -25,13 +25,15 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 ## Meine Projekte
 
 <div class="projects">
-    <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img src="/images/Projekte/devotionalium.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
+    <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img src="/images/Projekte/devotionalium.jpg" /></a><a href="/poster/" target="_blank"><img src="/poster/images/preview_square.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
 </div>
 
 Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
 [**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
 eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [OS X-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
+
+Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakatmotiven**](/poster/). Die selbst designten Bilddateien gibt es dort in voller Auflösung zum Download.
 
 [**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
 
