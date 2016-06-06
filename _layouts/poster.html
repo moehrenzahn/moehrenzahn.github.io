@@ -70,11 +70,9 @@ language: en
     }
 
     .posters {
-      column-count: 2;
-      -webkit-column-count: 2;
-      -moz-column-count: 2;
-      margin: 0 auto;
-      max-width: 900px;
+      margin: 0 10px;
+      display: block;
+      background-color: red !important;
     }
 
     .poster {
@@ -85,13 +83,13 @@ language: en
       line-height: 340px;
       text-align: center;
       background-color: rgb(250,240,240);
-      margin-right: 10px;
-      margin-bottom: 10px;
+      margin-right: 5px;
+      margin-bottom: 5px;
       transition: all .2s ease-out;
     }
 
     .poster-extra {
-      width: 150px;
+      overflow: hidden;
       margin-bottom: 10px;
       display: inline-block;
       vertical-align: text-bottom;
@@ -100,10 +98,16 @@ language: en
       display: block;
     }
 
-  @media (max-width: 700px) {
+    .poster-container {
+      float: left;
+      width: 420px;
+      overflow: hidden;
+    }
+
+  @media (max-width: 850px) {
     body {
       margin: 2px;
-      padding: 20px 0;
+      padding: 5px 0;
       font-size: 65%;
     }
     .headline {
@@ -127,8 +131,10 @@ language: en
       line-height: 202px;
     }
     .poster-extra {
-      margin-left: 5px;
-      width: 100px;
+      margin-left: 1px;
+    }
+    .poster-container {
+      width: 250px;
     }
     .fb-share, .tw-share {
       min-width: 50px;
@@ -230,20 +236,21 @@ language: en
     </h2>
 
 <div class="posters">
-{% for image in site.static_files %}
-{% if image.path contains 'poster/images/preview/' %}
-<a class="hoverbox-poster poster" href="{{ site.baseurl }}{{ image.path | remove: "preview/" }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", " " }}"></a>
-<div class="poster-extra">
-<div class="poster-title">{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", "&nbsp;" }}</div>
-<a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "notext/" }}">Without text</a>
-<a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "wallpaper/" }}">Desktop wallpaper</a>
+  {% for image in site.static_files %}
+  {% if image.path contains 'poster/images/preview/' %}
+  <div class="poster-container">
+      <a class="hoverbox-poster poster" href="{{ site.baseurl }}{{ image.path | remove: "preview/" }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", " " }}"></a>
+      <div class="poster-extra">
+      <div class="poster-title">{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", "&nbsp;" }}</div>
+      <a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "notext/" }}">Without text</a>
+      <a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "wallpaper/" }}">Desktop wallpaper</a>
+      </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+  <div class="poster-container"><div class="hoverbox-poster poster">More coming soon …</div></div>
 </div>
 <div style="clear:both"></div>
-{% endif %}
-{% endfor %}
-<div class="hoverbox-poster poster">More coming soon …</div>
-</div>
-
 
     <h2 class="description">Help me make more of these:</h2>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
