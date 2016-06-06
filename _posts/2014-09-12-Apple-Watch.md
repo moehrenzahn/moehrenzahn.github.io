@@ -8,7 +8,8 @@ lang: en
 
 On this week's event Apple – as anticipated – announced its upcoming wearable: the Apple Watch. But it did not solve the problems smart watches are facing.
 
-<img src='/images/Applewatch/Apple-Watch.png' />
+<figure><img src='/images/Applewatch/Apple-Watch.png' /><figcaption>The Apple Watch's inductive charger.</figcaption></figure>
+
 
 It turns out that [I was wrong](http://moehrenzahn.de/iWatch/) in hoping that Apple would actually solve smart watches. They simply announced another one. It appears to be a very good specimen, but it still suffers from the same two basic problems as all the other smart watches already on the market.
 
@@ -24,7 +25,7 @@ Not getting a full day of battery life out of a wearable is a non-starter. You c
 
 ## 2. Thickness
 
-<img src='/images/Applewatch/Apple-Watch-Thickness.png'/>
+<figure><img src='/images/Applewatch/Apple-Watch-Thickness.png'/></figure>
 
 Admittedly this is hard to judge without seeing it in person, but the Watch looks quite massive. This might not be much of an issue when actually wearing the thing, but making fun of the size of the [Moto 360](https://moto360.motorola.com/) seems out of the question now.[^size]
 

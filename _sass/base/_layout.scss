@@ -402,16 +402,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', e
 	border-color: $text-color;
 }
 
-.dark-mode .footnote-content.scrollable, .dark-mode .footnote-main-wrapper:before {
-	background: $text-color;
-	background: -moz-linear-gradient(top, $text-color 0%, $text-color 50%, rgba(40, 40, 40, 0) 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, $text-color), color-stop(50%, $text-color), color-stop(100%, rgba(40, 40, 40, 0)));
-	background: -webkit-linear-gradient(top, $text-color 0%, $text-color 50%, rgba(40, 40, 40, 0) 100%);
-}
-
-
-
 .dark-mode .footnote-content-wrapper {
 	background-color: $text-color;
 	border-color: $text-color;
+}
+
+.dark-mode .footnote-main-wrapper:before, .dark-mode .footnote-main-wrapper:after {
+	background: none !important;
 }

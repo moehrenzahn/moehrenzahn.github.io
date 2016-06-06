@@ -1,6 +1,13 @@
-<!DOCTYPE html>
-<html lang="en-US">
- <head>
+---
+layout: compress
+single: true
+language: en
+---
+
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+
+
+<head>
   <title>Star Wars Art Deco Posters by Max Melzer</title>
   <meta name="keywords" content="Sci-Fi, Poster, Wallpaper, Movie, Pop-art, Art Deco, Star Wars, Force Awakens">
   <meta name="author" content="Max Melzer">
@@ -41,12 +48,12 @@
     a:hover {
       color: rgb(150,30,30);
     }
-
+ 
     .headline {
       font-family: 'Oswald', sans-serif;
       font-size: 3.5em;
     }
-    .description, .donate, .footer, .poster, .shares {
+    .description, .donate, .footer, .poster, .shares, .poster-extra {
       font-family: 'Oswald', sans-serif;
       font-weight: lighter;
     }
@@ -63,29 +70,39 @@
     }
 
     .posters {
+      column-count: 2;
+      -webkit-column-count: 2;
+      -moz-column-count: 2;
       margin: 0 auto;
-      max-width: 910px;
-      padding: 20px;
-      background-color: rgba(0,0,0,.3);
+      max-width: 900px;
     }
 
     .poster {
       display: inline-block;
-      vertical-align: top;
-      border: 5px solid rgb(250,240,240);
-      height: 360px;
+      color: black;
+      height: 364px;
       width: 250px;
       line-height: 340px;
       text-align: center;
-      background-color: rgba(0,0,0,.3);
-      margin: 20px; 
-      overflow: hidden;
-      box-shadow: 0px 0px 20px rgba(0,0,0,.3);
+      background-color: rgb(250,240,240);
+      margin-right: 10px;
+      margin-bottom: 10px;
       transition: all .2s ease-out;
+    }
+
+    .poster-extra {
+      width: 150px;
+      margin-bottom: 10px;
+      display: inline-block;
+      vertical-align: text-bottom;
+    }
+      .poster-extra > * {
+      display: block;
     }
 
   @media (max-width: 700px) {
     body {
+      margin: 2px;
       padding: 20px 0;
       font-size: 65%;
     }
@@ -102,25 +119,26 @@
       width: 200px;
     }
     .posters {
-      padding: 2.5px;
       margin-bottom: 40px;
     }
     .poster {
-      height: 190px;
+      height: 202px;
       width: 138px;
-      line-height: 170px;
-      margin: 2px;
-      border-width: 2px;
-      box-shadow: 0px 0px 5px rgba(0,0,0,.3);
+      line-height: 202px;
+    }
+    .poster-extra {
+      margin-left: 5px;
+      width: 100px;
     }
     .fb-share, .tw-share {
       min-width: 50px;
       padding: 5px;
       margin: 5px;
     }
+    .hoverbox-poster {
+      border-width: 2px !important;
+    }
   }
-
-
 
     .poster img {
       width: 100%;
@@ -165,6 +183,13 @@
       background-color: #4099ff;
     }
 
+    .hoverbox-poster {
+      border: 5px solid rgba(255,240,240,0);
+    }
+    .hoverbox-poster:hover {
+      border-color: brown;
+    }
+
     .hoverbox {}
     .hoverbox:hover {
       -webkit-transform:scale(1.2);
@@ -179,23 +204,47 @@
     }
 
   </style>
-  </head>
-  <body>
-    <h1 class="headline">Star Wars Art Déco Posters</h1>
-    <h2 class="description box"><p>A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper.</p>
-    <p>Feel free to download them for personal use. If you want to use my artwork for anything else, please <a href="mailto:hi@moehrenzahn.de">get in touch</a>!</p></h2>
-    <div class="posters">
-      <a class="hoverbox poster" href="images/SW-Blockade-Runner.jpg"><img src="images/preview/SW-Blockade-Runner.jpg" alt="The rebel blockade runner"></a>
-      <a class="hoverbox poster" href="images/SW-Tatooine-Sunset-v2.jpg"><img src="images/preview/SW-Tatooine-Sunset-v2.jpg" alt="Sunset over Tatooine"></a>
-      <a class="hoverbox poster" href="images/SW-Hoth-AT-AT.jpg"><img src="images/preview/SW-Hoth-AT-AT.jpg" alt="Assault on Hoth"></a>
-      <a class="hoverbox poster" href="images/SW-Jakku-Star-Destroyer.jpg"><img src="images/preview/SW-Jakku-Star-Destroyer.jpg" alt="Scavengers of Jakku"></a>
-      <a class="hoverbox poster" href="images/SW-Jakku-AT-AT.jpg"><img src="images/preview/SW-Jakku-AT-AT.jpg" alt="Rey's Home"></a>
-      <a class="hoverbox poster" href="images/SW-Jakku-AT-AT-Night.jpg"><img src="images/preview/SW-Jakku-AT-AT-Night.jpg" alt="Night over Jakku"></a>
-      <a class="hoverbox poster" href="images/SW-Tie-Fighter-Sunset.jpg"><img src="images/preview/SW-Tie-Fighter-Sunset.jpg" alt="Ride of the Valkyries"></a>
-      <a class="hoverbox poster" href="images/SW-Takodana.jpg"><img src="images/preview/SW-Takodana.jpg" alt="Attack on Takodana"></a>
-      <div class="hoverbox poster">More coming soon …</div>
-    </div>
-    <div style="clear:both"></div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.moehrenzahn.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.moehrenzahn.de/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</head>
+
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}>
+ <h1 class="headline">{{ page.title }}</h1>
+    <h2 class="description box">
+      {{ content }}
+    </h2>
+
+<div class="posters">
+{% for image in site.static_files %}
+{% if image.path contains 'poster/images/preview/' %}
+<a class="hoverbox-poster poster" href="{{ site.baseurl }}{{ image.path | remove: "preview/" }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", " " }}"></a>
+<div class="poster-extra">
+<div class="poster-title">{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", "&nbsp;" }}</div>
+<a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "notext/" }}">Without text</a>
+<a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "wallpaper/" }}">Desktop wallpaper</a>
+</div>
+<div style="clear:both"></div>
+{% endif %}
+{% endfor %}
+<div class="hoverbox-poster poster">More coming soon …</div>
+</div>
+
+
     <h2 class="description">Help me make more of these:</h2>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
@@ -209,6 +258,8 @@
       <a target="blank_" class="hoverbox tw-share" href="http://twitter.com/intent/tweet?url=http://www.moehrenzahn.de/poster&text=Star%20Wars%20art%20deco%20posters&via=_maxmelzer">Twitter</a>
     </div>
     <div style="clear:both"></div>
-    <div class="footer">This project is in no way affiliated with or endorsed by Disney. Made with ❤︎ by <a href="http://www.moehrenzahn.de/en/about">Max Melzer</a>. <a href="http://www.moehrenzahn.de/impressum">Legal</a>.</div>
-  </body>
+    <div class="footer">This project is in no way affiliated with or endorsed by Disney. © 2012–2016 <a href="/en/about/">Max Melzer</a>. <a href="/legal/">Legal</a>.</div>
+</body>
 </html>
+
+
