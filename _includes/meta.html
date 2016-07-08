@@ -9,7 +9,7 @@
   {% endcase %}
   Max Melzer</a><span class="dot">•</span></span>
 {% if page.lang == 'en' %}
-  <time>{{ page.date | date_to_long_string }}</time><span class="dot">•</span><span class="byline author vcard">{{ page.content | number_of_words }} Words</span><span class="meta" style="position:absolute;top:1em;right:1em;">Reading time: {{ page.content | number_of_words | divided_by:200 }}  min</span>
+  <time>{{ page.date | date_to_long_string }}</time><span class="meta" style="position:absolute;top:1em;right:1em;">Reading time: {{ page.content | number_of_words | divided_by:200 }}  min</span>
 {% else %}
   {% assign m = page.date | date: "%-m" %}
   <time>{{ page.date | date: "%-d." }}
@@ -27,7 +27,7 @@
     {% when '11' %}November
     {% when '12' %}Dezember
   {% endcase %}
-  {{ page.date | date: "%Y" }}</time><span class="dot">•</span>{{ page.content | number_of_words }} Wörter<span class="meta" style="opacity:.8;position:absolute;top:1em;right:1em;">Lesezeit: {{ page.content | number_of_words | divided_by:200 }}  min</span>
+  {{ page.date | date: "%Y" }}</time><span class="dot"><span class="meta" style="opacity:.8;position:absolute;top:1em;right:1em;">Lesezeit: {{ page.content | number_of_words | divided_by:200 }}  min</span>
 {% endif %}
 
 <p class="meta sharing">
@@ -40,7 +40,6 @@
   
   <a href="http://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=moehrenzahn" class="twitter-like">Twitter</a><span class="dot">•</span>
   <a href="http://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="fb-like">Facebook</a><span class="dot">•</span>
-  <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="gp-like">Google+</a><span class="dot">•</span>
   <a href="mailto:?subject={{ page.title | escape }}%20%7C%20moehrenzahn.de&body=%0A%0A{{ page.title | escape }}%20%7C%20{{ site.url }}{{ page.url }}" class="mail-share" target="_top">Mail</a>
 </p>
 
