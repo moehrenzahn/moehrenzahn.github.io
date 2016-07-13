@@ -10,7 +10,7 @@ Vor einiger Zeit lernte ich durch den großartigen [Radiolab](http://www.radiola
 
 Wenn man den Kokon, in dem sich eine Raupe gerade auf den Weg zum Schmetterling macht, vorzeitig öffnet, findet man darin keine Raupe mit Flügeln oder eine andere Übergangsform. In dem Kokon ist … nichts. Nur Raupen-Muß. Die Raupe löst sich völlig auf. Sollte die Raupe zwischenzeitlich wirklich *tot* sein? Wie ist das möglich, wird eine Wissenschaftlerin [im Podcast](http://www.radiolab.org/story/goo-and-you/) gefragt. Ihre Antwort:
 
->That question is the big fat metaphisical quasi-religious semi-mystical philosophical question that people have asked forever. 
+>That question is the big fat metaphysical quasi-religious semi-mystical philosophical question that people have asked forever. 
 
 Schon im Mittelalter stellten die Leute diese Frage. Die offensichtliche Antwort war damals: Die Raupe stirbt tatsächlich. Das Erwachen des Schmetterlings im Kokon, die Metamorphose, ist eine Neuschöpfung, ein Vorgeschmack auf unsere Neuschöpfung nach dem Tod.
 
