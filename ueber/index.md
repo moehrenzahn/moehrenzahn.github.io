@@ -3,21 +3,11 @@ layout: page
 sharing: false
 ---
 
-{% assign wordcount = 0 %}
-{% for post in site.posts %}
-    {% capture postwordcount %}
-        {{ post.content | number_of_words }}
-    {% endcapture %}
-    {% capture wordcount %}
-        {{ wordcount | plus:{{postwordcount}}
-    {% endcapture %}
-{% endfor %}
-
 <div class="profile-outer"><div class="profile-image"></div></div>
 
 Hi, Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
 
-Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht mit insgesamt {{wordcount}} Wörtern. {% for post in site.posts limit:1 %}
+Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht. {% for post in site.posts limit:1 %}
 Mein neuester Artikel ist <a href="{{ post.url }}">{{ post.title }}.</a>
 {% endfor %}
 
