@@ -239,6 +239,20 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 	 }
 }
 
+.project-image {
+	border: 2px solid transparent;
+	width: 15%;
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	border-radius: 50%;
+	transition: border $transition-time;
+}
+.project-image:hover {
+	border: 2px solid $color;
+}
+
+
 /*Index View*/
 
 h1.entry-title, .entry-ellipse {transition: border $transition-time;}
@@ -389,7 +403,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', e
 } 
 
 .dark-mode .profile-outer {
-	border: 1px solid $background-color !important;
+	border: 2px solid $background-color !important;
 }
 .dark-mode .profile-outer:hover {
 	border-color: $color !important;

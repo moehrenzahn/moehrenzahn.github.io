@@ -15,9 +15,11 @@ sharing: false
 
 <div class="profile-outer"><div class="profile-image"></div></div>
 
-Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
+Hi, Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
 
-Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht mit insgesamt {{wordcount}} Wörtern.
+Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht mit insgesamt {{wordcount}} Wörtern. {% for post in site.posts limit:1 %}
+Mein neuester Artikel ist <a href="{{ post.url }}">"{{ post.title }}."</a>
+{% endfor %}
 
 
 ----
@@ -25,19 +27,19 @@ Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der H
 ## Meine Projekte
 
 <div class="projects">
-    <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img src="/images/Projekte/devotionalium.jpg" /></a><a href="/poster/" target="_blank"><img src="/poster/images/preview_square.jpg" /></a><a href="http://www.theologiestudierende.de" target="_blank"><img src="/images/Projekte/theologiestudierende.jpg" /></a><a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img src="/images/Projekte/sagmal.jpg" /></a>
+    
 </div>
 
-Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
+<a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
-[**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
+<a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img class="project-image" src="/images/Projekte/devotionalium.jpg" /></a>[**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
 eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [OS X-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
 
-Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakatmotiven**](/poster/). Die selbst designten Bilddateien gibt es dort in voller Auflösung zum Download.
+<a href="/poster/" target="_blank"><img class="project-image" src="/poster/images/preview_square.jpg" /></a>Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakatmotiven**](/poster/). Die selbst designten Bilddateien gibt es dort in voller Auflösung zum Download.
 
-[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
+<a href="http://www.theologiestudierende.de" target="_blank"><img class="project-image" src="/images/Projekte/theologiestudierende.jpg" /></a>[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
 
-[**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziere. Bis heute sind 42 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen.
+<a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img class="project-image" src="/images/Projekte/sagmal.jpg" /></a>[**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziert habe. Ingesamt sind 42 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen.
 
 ----
 
