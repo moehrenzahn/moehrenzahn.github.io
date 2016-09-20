@@ -1,6 +1,6 @@
 ---
 layout: poster
-title: Minimal Star Wars Posters and Wallpapers
+title: Minimalist Star Wars Posters and Wallpapers
 lang: en
 ---
 

@@ -8,7 +8,7 @@ language: en
 
 
 <head>
-  <title>Minimal Star Wars Posters by Max Melzer</title>
+  <title>Minimalist Star Wars Posters by Max Melzer</title>
   <meta name="keywords" content="Sci-Fi, Poster, Wallpaper, Movie, Pop-art, Art Deco, Star Wars, Force Awakens">
   <meta name="author" content="Max Melzer">
   <meta name="description" content="A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper.">
@@ -66,7 +66,7 @@ language: en
       font-size: 3.5em;
       padding-top: 30vh;
     }
-    .description, .donate, .footer, .poster, .shares, .poster-extra {
+    .description, .donate, .footer, .posters, .shares {
       font-family: 'Oswald', sans-serif;
       font-weight: lighter;
     }
@@ -83,44 +83,56 @@ language: en
     }
 
     .posters {
+      text-align: center;
       margin: 0 10px;
       display: block;
-      background-color: red !important;
     }
 
     .poster {
-      display: inline-block;
+      display: block;
       color: black;
-      height: 364px;
-      width: 250px;
-      line-height: 340px;
-      text-align: center;
       background-color: rgb(250,240,240);
-      margin-right: 5px;
-      margin-bottom: 5px;
       transition: all .2s ease-out;
     }
 
     .poster-extra {
-      overflow: hidden;
-      margin-bottom: 10px;
-      display: inline-block;
-      vertical-align: text-bottom;
+      opacity: 0;
+      position: absolute;
+      background-color: rgba(0,0,0,.8);
+      padding: 10px 20px;
+      bottom: 5px;
+      left: 5px;
+      display: block;
+      text-align: left;
+      transition: all .2s ease-out;
     }
       .poster-extra > * {
       display: block;
     }
 
     .poster-container {
-      float: left;
-      margin: 20px;
-      width: 420px;
-      overflow: hidden;
+      display: inline-block;
+      height: 404px;
+      width: 280px;
+      position: relative;
+      margin: 10px;
     }
 
-  @media (max-width: 850px) {
+    .more-block {
+      display: inline-block;
+      color: black;
+      text-align: center;
+      background-color: white;
+      height: 404px;
+      line-height: 404px;
+      width: 280px;
+      margin: 10px;
+      vertical-align: top;
+    }
+
+  @media (max-width: 640px) {
     body {
-      font-size: 65%;
+      font-size: 85%;
     }
 
     .headline {
@@ -128,28 +140,27 @@ language: en
       padding-top: 3em;
       padding-top: 20vh;
     }
-/*    .description, .description.box {
-      margin: 10px 0px;
-      padding: 3px;
-      background: none;
-      font-size: 125%;
-    }*/
     .donate {
       width: 200px;
     }
     .posters {
       margin-bottom: 40px;
     }
-    .poster {
-      height: 202px;
-      width: 138px;
-      line-height: 202px;
+    .poster-container {
+      margin: 3px;
+      height: auto;
+      width: 45%;
+    }
+    .more-block {
+      height: auto;
+      line-height: 1.6;
+      width: 45%;
+      margin: 3px;
     }
     .poster-extra {
-      margin-left: 1px;
-    }
-    .poster-container {
-      width: 250px;
+      padding: 5px 5px;
+      left: 2px;
+      bottom: 2px;
     }
     .fb-share, .tw-share {
       min-width: 50px;
@@ -211,7 +222,11 @@ language: en
       border-color: brown;
     }
 
-    .hoverbox {}
+    .poster-container:hover .poster-extra {
+      opacity: 1;
+    }
+
+    .hoverbox {}
     .hoverbox:hover {
       -webkit-transform:scale(1.2);
       -moz-transform:scale(1.2);
@@ -265,7 +280,9 @@ language: en
   </div>
   {% endif %}
   {% endfor %}
-  <div class="poster-container"><div class="hoverbox-poster poster">More coming soon …</div></div>
+  
+  <div class="more-block">More coming soon …</div>
+
 </div>
 <div style="clear:both"></div>
 
