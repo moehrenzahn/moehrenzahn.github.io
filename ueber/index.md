@@ -16,14 +16,10 @@ Mein neuester Artikel ist <a href="{{ post.url }}">{{ post.title }}.</a>
 
 ## Meine Projekte
 
-<div class="projects">
-    
-</div>
-
 <a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
 <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img class="project-image" src="/images/Projekte/devotionalium.jpg" /></a>[**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
-eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [OS X-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
+eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [macOS-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/). Eine Version für iOS ist geplant.
 
 <a href="/poster/" target="_blank"><img class="project-image" src="/poster/images/preview_square.jpg" /></a>Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakatmotiven**](/poster/). Die selbst designten Bilddateien gibt es dort in voller Auflösung zum Download.
 
