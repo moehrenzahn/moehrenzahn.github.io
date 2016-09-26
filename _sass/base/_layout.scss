@@ -216,33 +216,11 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 
 /* Projects */
 
-.projects {
-	display: inline;
-	margin: auto 0;
-	width: 100%;
-	 a {
-	 	border: none;
-	 }
-	 a:hover {
-	 	border: none;
-	 }
-	 a:hover img {
-	 	border-color: $color;
-	 }
-	 img {
-	 	display: inline;
-	 	width: 25%; height: auto;
-	 	box-sizing: border-box;
-	 	margin: 0px;
-	 	transition: border $transition-time;
-	 	border: 1px solid transparent;
-	 }
-}
-
 .project-image {
 	border: 2px solid transparent;
 	width: 15%;
 	float: left;
+	clear: both;
 	margin-bottom: 20px;
 	margin-right: 20px;
 	border-radius: 50%;
