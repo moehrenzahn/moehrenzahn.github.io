@@ -24,6 +24,6 @@ Dabei sind Mütter (und manchmal auch Väter) mit Kinderwagen zumindest in Leipz
 
 -----
 
-Heute morgen war ich wieder mit dem Zug unterwegs. Auf einer Bahnsteigtreppe sah ich eine junge Mutter, die versuchte ihren Kinderwagen irgendwie diagonal die Treppe hinab zu bugsieren. Ich bat ihr meine Hilfe an und gemeinsam brachten wir den Wagen hinab und auf der anderen Seite wieder hinauf. Die Frau konnte kaum ein Wort Deutsch, trotzdem rief sie mir im Gehen ein aufrichtiges „Dankeschön“ nach. Vielleicht ist das ja auch ein kleiner Gewinn, dass Menschen in solchen kleinen Begegnungen so etwas wie ein Zusammengehörigkeitsgefühl entwickeln.
+Heute morgen war ich wieder mit dem Zug unterwegs. Auf einer Bahnsteigtreppe sah ich eine junge Mutter, die versuchte ihren Kinderwagen irgendwie diagonal die Treppe hinab zu bugsieren. Ich bat ihr meine Hilfe an und gemeinsam brachten wir den Wagen hinab und auf der anderen Seite wieder hinauf. Die Frau konnte kaum ein Wort Deutsch, trotzdem rief sie mir im Gehen ein aufrichtiges "Dankeschön" nach. Vielleicht ist das ja auch ein kleiner Gewinn, dass Menschen in solchen kleinen Begegnungen so etwas wie ein Zusammengehörigkeitsgefühl entwickeln.
 
 Das entschuldigt natürlich nicht die Bahn, ihre Fahrstühle nicht in Ordnung zu halten.

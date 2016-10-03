@@ -7,7 +7,7 @@ sharing: false
 
 Hi, Mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
 
-Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über [Technisches](/categories/technologie/) und [Theologisches](/categories/theologie/) – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht. {% for post in site.posts limit:1 %}
+Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über Technisches, Theologisches und Politisches – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht. {% for post in site.posts limit:1 %}
 Mein neuester Artikel ist <a href="{{ post.url }}">{{ post.title }}.</a>
 {% endfor %}
 
@@ -25,7 +25,7 @@ eine moderne, theologenfreundliche Andachts-App mit umfangreicher Unterstützung
 
 <a href="http://www.theologiestudierende.de" target="_blank"><img class="project-image" src="/images/Projekte/theologiestudierende.jpg" /></a>[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
 
-<a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img class="project-image" src="/images/Projekte/sagmal.jpg" /></a>[**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziert habe. Ingesamt sind 42 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen.
+<a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img class="project-image" src="/images/Projekte/sagmal.jpg" /></a>[**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziert habe. Ingesamt sind 42 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen. Zur Zeit macht der Podcast eine Pause.
 
 ----
 
