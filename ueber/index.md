@@ -7,9 +7,7 @@ sharing: false
 
 Hi, mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
 
-Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über Technisches, Theologisches und Politisches – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht. {% for post in site.posts limit:1 %}
-Mein neuester Artikel ist <a href="{{ post.url }}">{{ post.title }}.</a>
-{% endfor %}
+Hier auf moehrenzahn.de schreibe ich über alles was mich interessiert, in der Hauptsache über Technisches, Theologisches und Politisches – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht.
 
 
 ----

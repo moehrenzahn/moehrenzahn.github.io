@@ -1,6 +1,6 @@
 ---
 layout: poster
-title: Minimalist Star Wars Posters and Wallpapers
+title: STAR WARS Vector Art
 lang: en
 ---
 

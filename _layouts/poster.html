@@ -8,21 +8,21 @@ language: en
 
 
 <head>
-  <title>Minimalist Star Wars Posters by Max Melzer</title>
+  <title>Star Wars Vector Art by Max Melzer</title>
   <meta name="keywords" content="Sci-Fi, Poster, Wallpaper, Movie, Pop-art, Art Deco, Star Wars, Force Awakens">
   <meta name="author" content="Max Melzer">
   <meta name="description" content="A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper.">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title"              content="Sci-Fi Art Deco Posters" />
+  <meta property="og:title"              content="Sci-Fi Vector Art Posters" />
   <meta property="og:description"        content="A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper." />
   <meta property="og:image"              content="http://www.moehrenzahn.de/poster/images/preview.jpg" />
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@moehrenzahn">
   <meta name="twitter:creator" content="@_maxmelzer">
-  <meta name="twitter:title" content="Sci-Fi Art Deco Posters">
+  <meta name="twitter:title" content="Sci-Fi Vector Art Posters">
   <meta name="twitter:description" content="A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper.">
   <meta name="twitter:image" content="http://www.moehrenzahn.de/poster/images/preview.jpg">
 
@@ -58,7 +58,7 @@ language: en
       height: 700px;
       height: 90vh;
       margin-bottom: 3em;
-      background-image: url(/poster/images/wallpaper/ROTJ-Endor-Moon.jpg);
+      background-image: url(/poster/images/notext/ROTJ-Hangar.jpg);
       background-position: center;
       background-size: cover;
     }
@@ -67,6 +67,7 @@ language: en
       font-family: 'Oswald', sans-serif;
       font-size: 3.5em;
       padding-top: 30vh;
+      text-shadow: 0 0 5px black;
     }
     .description, .donate, .footer, .posters, .shares {
       font-family: 'Oswald', sans-serif;
@@ -95,6 +96,11 @@ language: en
       color: black;
       background-color: rgb(250,240,240);
       transition: all .2s ease-out;
+      width: 100%;
+      height: 100%;
+      background-position: center;
+      background-size: cover;
+      margin: auto;
     }
 
     .poster-extra {
@@ -114,6 +120,7 @@ language: en
 
     .poster-container {
       display: inline-block;
+      vertical-align: top;
       height: 404px;
       width: 280px;
       position: relative;
@@ -151,7 +158,6 @@ language: en
     }
     .poster-container {
       margin: 3px;
-      height: auto;
       width: 45%;
     }
     .more-block {
@@ -182,8 +188,7 @@ language: en
   }
 
     .poster img {
-      width: 100%;
-      margin: auto;
+      
     }
 
     .donate {
@@ -225,7 +230,7 @@ language: en
     }
 
     .hoverbox-poster {
-      border: 5px solid rgba(255,240,240,0);
+      border: 5px solid rgba(255,240,240,1);
     }
     .poster-container:hover {
       z-index: 3;
@@ -285,7 +290,7 @@ language: en
   {% for image in site.static_files %}
   {% if image.path contains 'poster/images/preview/' %}
   <div class="poster-container">
-      <a class="hoverbox-poster poster" href="{{ site.baseurl }}{{ image.path | remove: "preview/" }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", " " }}"></a>
+      <a class="hoverbox-poster poster" href="{{ site.baseurl }}{{ image.path | remove: "preview/" }}" style="background-image:url({{ site.baseurl }}{{ image.path }})"></a>
       <div class="poster-extra">
       <div class="poster-title">{{ image.path | remove: ".jpg" | remove: "/poster/images/preview/" | replace: "-", "&nbsp;" }}</div>
       <a class="poster-extra-link" href="{{ site.baseurl }}{{ image.path | replace: "preview/", "notext/" }}">Without text</a>
@@ -305,7 +310,9 @@ language: en
 <div style="margin:0 auto;max-width:700px;max-height:400px;">
 	<iframe style="width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/e7LKiIM8Sno?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<div style="margin:0 auto;max-width:700px;max-height:400px;">
+<iframe  style="width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/-Kt6VT7H3JQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
     <h2 class="description">Help me make more of these:</h2>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
