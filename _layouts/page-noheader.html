@@ -1,0 +1,16 @@
+---
+layout: compress
+---
+
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}>
+  <div id="main">
+    <div id="content">
+      {{ content | expand_urls: root_url }}
+    </div>
+  </div>
+  <footer class="bottom" role="contentinfo">{% include footer.html %}</footer>
+</body>
+</html>

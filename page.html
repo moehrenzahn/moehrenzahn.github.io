@@ -1,0 +1,15 @@
+---
+layout: default
+sidebar: false
+---
+
+<div>
+<article role="article">
+  {% if page.title %}
+  <header id="top-header">
+    <h1 class="entry-title page">{{ page.title }}</h1>
+  </header>
+  {% endif %}
+  {{ content }}
+</article>
+</div>
