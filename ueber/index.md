@@ -21,7 +21,7 @@ Hier auf [moehrenzahn.de](/) schreibe ich über alles was mich interessiert, in 
 <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img class="project-image" src="/images/Projekte/devotionalium.jpg" /></a>[**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
 eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [macOS-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/).
 
-<a href="/poster/" target="_blank"><img class="project-image" src="/poster/images/preview_square.jpg" /></a>Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakatmotiven**](/poster/). Die selbst designten Bilddateien gibt es dort in voller Auflösung zum Download.
+<a href="/poster/" target="_blank"><img class="project-image" src="/poster/images/preview_square.jpg" /></a>Ich habe eine ständig wachsende [**Sammlung von Star-Wars-inspirierten Plakat- und Wallpapermotiven**](/poster/). Die Bilddateien stehen in voller Auflösung zum Download bereit.
 
 <a href="http://www.theologiestudierende.de" target="_blank"><img class="project-image" src="/images/Projekte/theologiestudierende.jpg" /></a>[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
 
