@@ -16,6 +16,8 @@ Hier auf [moehrenzahn.de](/) schreibe ich über alles was mich interessiert, in 
 
 <a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Neben meinem Studium arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
+<a href="/webdesign" target="_blank"><img class="project-image" src="/images/Projekte/webdesign.jpg" /></a>Ich bin **Webdesigner** mit Leidenschaft für attraktive, benutzerfreundliche Internetseiten. Mein Portfolio befindet sich unter [moehrenzahn.de/webdesign](/webdesign).
+
 <a href="http://devotionalium.moehrenzahn.de/mac" target="_blank"><img class="project-image" src="/images/Projekte/devotionalium.jpg" /></a>[**Devotionalium**](http://devotionalium.moehrenzahn.de/mac) ist
 eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die biblischen Ursprachen. Devotionalium gibt es zur Zeit als [macOS-Version](http://devotionalium.moehrenzahn.de/mac) und als [Web-App](http://devotionalium.moehrenzahn.de/).
 
