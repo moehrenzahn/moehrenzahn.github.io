@@ -33,6 +33,8 @@ eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die bi
 
 <a href="http://www.theologiestudierende.de/category/sag-mal-der-podcast/" target="_blank"><img class="project-image" src="/images/Projekte/sagmal.jpg" /></a>[**Sag mal**](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) ist ein Podcast, den ich gemeinsam mit zwei Kommilitonen produziert habe. Ingesamt sind 43 Ausgaben zu verschiedenen theologischen und hochschulpolitischen Themen erschienen.
 
+<div style="clear:both"></div>
+
 <a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
 <div style="clear:both"></div>
