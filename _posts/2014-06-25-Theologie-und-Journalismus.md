@@ -2,7 +2,7 @@
 layout: post
 title: 'Sag mal #19: Auch wenn das Land Pfarrer braucht …'
 link: http://www.theologiestudierende.de/2014/06/25/sag-mal-19/
-categories: [Theologie]
+categories: [Theologie, bestof]
 slug: Die letzten beiden Folgen von <em>Sag mal</em> zeigen Berührungspunkte zwischen Theologie und Journalismus auf.
 ---
 
