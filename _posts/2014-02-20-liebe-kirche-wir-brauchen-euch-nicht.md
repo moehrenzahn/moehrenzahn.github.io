@@ -2,7 +2,7 @@
 layout: post
 title: 'Liebe Kirche, wir brauchen euch nicht!'
 slug: 'Ihr braucht uns!'
-categories: [Theologie]
+categories: [Theologie, bestof]
 ---
 
 Vor ein paar Tagen war ich mit beim jährlichen Treffen des sächsischen Bischofs samt Kirchenleitung mit den Professoren und Mitarbeitenden der theologischen Fakultät in Leipzig. Ich kam dort mit recht offenen Erwartungen hin. Die Dozenten waren freundlich und es gab ein Buffet mit Kaffee und fein belegten Brötchen.

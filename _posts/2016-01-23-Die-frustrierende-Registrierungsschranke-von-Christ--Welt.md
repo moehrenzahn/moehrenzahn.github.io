@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Die frustrierende Registrierungsschranke von Christ & Welt'
-categories: [Technologie, Journalismus]
+categories: [Technologie, Journalismus, bestof]
 ---
 
 Seit etwa einem halben Jahr hat die Webseite des großartigen Wochenmagazins [Christ & Welt](http://www.christundwelt.de) eine "Registrierungsschranke". Das bedeutet: Auf christundwelt.de Artikel lesen ist nach wie vor kostenlos. Allerdings öffnet sich nach einem kurzem Aufenthalt auf einer Artikelseite folgendes Pop-up: 

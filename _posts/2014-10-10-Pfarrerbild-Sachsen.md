@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Liebe Kirche, wie geht’s weiter?'
-categories: [Theologie]
+categories: [Theologie, bestof]
 ---
 
 In der sächsischen Landeskirche findet zurzeit ein Gesprächsprozess zum Thema "Berufsbilder der Verkündigungsdienste" statt. Anlass war die Reduzierung der Pfarrstellen um 7 % und die damit verbundene Feststellung, dass (nicht nur) diese Landeskirche in einer Krise steckt. Eine Arbeitsgruppe der Synode hatte bereits 2011 realisiert, [dass die Lage ernst ist](http://www.evlks.de/doc/Zwischenbericht-Berufsbilder_Stand_30.08.13.pdf):

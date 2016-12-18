@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eindrücke vom 3. Evangelischen Medienkongress – Keine großen Revolutionen, bitte?'
-categories: [Theologie]
+categories: [Theologie, bestof]
 ---
 
 Ende September war ich zu Gast beim [3. Evangelischen Medienkongress in Leipzig](http://medienkongress.evangelisch.de/). Was folgt sind meine höchst subjektiven Eindrücke und Gedanken zu Dingen, die ich auf dem Kongress gehört habe, besonders zur kirchlichen Internetarbeit.
