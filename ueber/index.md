@@ -35,7 +35,7 @@ eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die bi
 
 <div style="clear:both"></div>
 
-<a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase) Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
+<a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
 
 <div style="clear:both"></div>
 ----
