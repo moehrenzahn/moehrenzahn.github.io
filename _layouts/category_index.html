@@ -17,7 +17,7 @@ Categories{% else %}Kategorien{% endif %}</h1>
 
 <div class="archive-title">
 	{% for category in site.categories %}
-        <a href="/categories/{{category | first | downcase}}/">{{category | first | capitalize}}</a><span class="dot">•</span>
+        <a href="/categories/{{category | first | downcase}}/">{{category | first | capitalize}}</a><span class="dot">•</span>
     {% endfor %} 
     <a href="/archives">Alle</a>
 </div>

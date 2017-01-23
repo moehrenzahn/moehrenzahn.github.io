@@ -7,17 +7,12 @@ single: true
   	<footer>
       <p class="meta"><div class="profile-small"><div class="profile-image"></div></div>{% include meta.html %}
 
-    {% if site.static_comments == true %}
-      <p class="meta"><a class="writecomment" href="mailto:moehrenzahn@icloud.com?Subject={% if page.lang == 'en' %}Comment to article on moehrenzahn.de:{% else %}Kommentar zu Artikel auf moehrenzahn.de: {% endif %}{{ page.url | remove: '/'}}" target="_top">{% if page.lang == 'en' %}Write comment{% else %}Kommentar schreiben{% endif %}</a></p>
-  		{% include comment_template.html %}     
-    {% endif %}
-
       <div class="meta">
         {% if page.previous.url %}
-          <div id="previouspost">{% if page.lang == 'en' %}Previous article{% else %}Vorheriger Artikel{% endif %}:<br><a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">{{page.previous.title | markdownify | remove: "<p>" | remove: "</p>"}}</a></div>
+          <div id="previouspost">{% if page.lang == 'en' %}Previous article{% else %}Vorheriger Artikel{% endif %}:<br><a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">{{page.previous.title | markdownify | remove: "<p>" | remove: "</p>"}}</a></div>
         {% endif %}
         {% if page.next.url %}
-          <div id="nextpost">{% if page.lang == 'en' %}Next article{% else %}Nächster Artikel{% endif %}:<br><a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}</a></div>
+          <div id="nextpost">{% if page.lang == 'en' %}Next article{% else %}Nächster Artikel{% endif %}:<br><a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}</a></div>
         {% endif %}
       </div>
   </footer>

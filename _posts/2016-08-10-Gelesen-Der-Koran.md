@@ -10,11 +10,11 @@ In diesem Artikel will ich meine Eindrücke schildern. Gelesen habe ich den Kora
 
 ## Große Mose-Fans auf der Wasserrutsche
 
-Der Koran liest sich wie eine Wasserrutsche: Die 114 Kapitel ("Suren") sind traditionell grob der Länge nach sortiert. Frühe Kapitel sind 100te Verse lang und ein Büchlein für sich; die späteren Suren nehmen dann zunehmend Fahrt auf und die letzten Abschnitte passen jeweils auf eine Seite.
+Der Koran liest sich wie eine Wasserrutsche: Die 114 Kapitel ("Suren") sind traditionell grob der Länge nach sortiert. Frühe Kapitel sind hunderte Verse lang und ein Büchlein für sich; die späteren Suren nehmen dann zunehmend Fahrt auf und die letzten Abschnitte passen jeweils auf eine Seite.
 
 Die Grundaussage des Koran ist überraschend einheitlich und leicht verständlich. Es wird wiederholt eingetrichtert, was *Muslim sein* bedeut: An Allah[^3] glauben, das Gebet verrichten und die Armensteuer entrichten.[^2] Im Gegenzug werden die "Ungläubigen" heftig kritisiert. Sie sind die Feinde Gottes, ihre gerechte Strafe wird sie nach dem Tod in der Hölle ereilen.
 
-Gott wird charakterisiert als weise, gerecht und gütig; als Beschützer der Gläubigen. Und vor allem als barmherzig. Fast jede Sure beginnt mit dem Vers "Im Namen Allahs, des Erbarmers, des Barmherzigen." Das Gott die Gottlosen straft, wird nicht als Grausamkeit, sondern als Gerechtigkeitsausgleich verstanden. Als parallele Drängt sich das alttestamentliche [Tat-Folge-Prinzip](https://de.wikipedia.org/wiki/Tun-Ergehen-Zusammenhang) auf.
+Gott wird charakterisiert als weise, gerecht und gütig; als Beschützer der Gläubigen. Und vor allem als barmherzig. Fast jede Sure beginnt mit dem Vers "Im Namen Allahs, des Erbarmers, des Barmherzigen." Das Gott die Gottlosen straft, wird nicht als Grausamkeit, sondern als Gerechtigkeitsausgleich verstanden. Als parallele drängt sich das alttestamentliche [Tat-Folge-Prinzip](https://de.wikipedia.org/wiki/Tun-Ergehen-Zusammenhang) auf.
 
 Häufiger hatte ich eine Art "deja-vú"-Erfahrung, als hätte ich das Gleiche vor kurzem erst gelesen. Im Koran werden bestimmte Geschichten immer wieder erzählt, bestimmte theologische Pointen immmer wieder eingeschärft. Besonderes Highlight für mich als christlichen Theologen ist das ursprünglich biblische Material: Ständig werden biblische Geschichten auf eigentümliche Weise nacherzählt. Besonders die Moseerzählung hatte es Mohammed anscheinend angetan. Die Geschichte von Mose und den Zauberern des Pharao wird immer und immer wieder erzählt.
 
@@ -24,7 +24,7 @@ Die alttestamentlichen Geschichten dienen dem Koran als Lehrerzählungen. Sie di
 
 Auch formell drängen sich Vergleiche zum Alten Testament auf. Der Text klingt oft wie aus den Psalmen, dann wieder wie Weisheitsliteratur oder prophetische Sozialkritik. Für das ungeübte Auge wären viele Verse und ganze Abschnitte nicht von Bibeltext zu unterscheiden.
 
-Das hat mich überrascht, dürfte es doch eigentlich so gut wie keine kulturellen Überschneidungen zwischen den Autoren des Alten Testaments und dem Arabien des 7. Jahrhundert geben. Ich vermute deshalb, dass die stilistischen Ähnlichkeiten auf die deutsche Übersetzung zurückzuführen ist. Für den Koran gibt es im Internet mehrere kostenlose oder sehr günstige Koranübersetzungen auf Deutsch. Die meisten davon sind aus der Zeit um 1900 und lesen sich entsprechend holprig. Dass die Sprache entfernt an die alte Lutherübersetzung erinnert ist also kein Zufall.[^6]
+Das hat mich überrascht, dürfte es doch eigentlich so gut wie keine kulturellen Überschneidungen zwischen den Autoren des Alten Testaments und dem Arabien des 7. Jahrhundert geben. Ich vermute deshalb, dass die stilistischen Ähnlichkeiten auf die deutsche Übersetzung zurückzuführen ist. Für den Koran gibt es im Internet mehrere kostenlose oder sehr günstige Koranübersetzungen auf Deutsch. Die meisten davon sind aus der Zeit um 1900 und lesen sich entsprechend holprig. Dass die Sprache entfernt an die alte Lutherübersetzung erinnert, ist also kein Zufall.[^6]
 
 Der Koran eignet sich eigentlich überhaupt nicht zum Übersetzen. Zum einen sieht die traditionelle muslimische Lehre Koranübersetzungen nicht vor. Wegen der strengen Verbalinspirationslehre gilt nur der arabische Urtext als gültiges Wort Gottes. Außerdem ist der Koran fast durchgängig ein einer speziellen Reimform verfasst, dem sogenannten [Sadschʿ](https://de.wikipedia.org/wiki/Sadsch). Es gibt Übersetzungen, die dieses Reimschema (auf Kosten der inhaltlichen Genauigkeit) ins Deutsche zu übertragen versuchen. Das klingt dann zum Beispiel so:[^4]
 
@@ -48,7 +48,7 @@ Und ja, es gibt diese Stellen. Es sind wenige und sie sind weit verstreut. Man z
 > Und bekämpft in Allahs Pfad, wer euch bekämpft; doch übertretet nicht; siehe, Allah liebt nicht die Übertreter.  
 > Und erschlagt sie, wo immer ihr auf sie stoßt, und vertreibt sie, von wannen sie euch vertrieben; denn Verführung ist schlimmer als Totschlag. Bekämpft sie jedoch nicht bei der heiligen Moschee, es sei denn, sie bekämpften euch in ihr. Greifen sie euch jedoch an, dann schlagt sie tot. Also ist der Lohn der Ungläubigen. (Sure 2,186)
 
-Der Koran enthält außerdem zahlreiche Versicherungen, dass Gott die Ungläubigen Strafen wird, dass sie nicht ins Paradies kommen werden. Das Wir-Die-Schema ist unverkennbar. Besonders Christen kommen im Koran schlecht weg, weil sie aus dessen Perspektive mit ihrer Trinitätslehre Vielgötterei betreiben. 
+Der Koran enthält außerdem zahlreiche Versicherungen, dass Gott die Ungläubigen strafen wird, dass sie nicht ins Paradies kommen werden. Das Wir-Die-Schema ist unverkennbar. Besonders Christen kommen im Koran schlecht weg, weil sie aus dessen Perspektive mit ihrer Trinitätslehre Vielgötterei betreiben. 
 
 Trotzdem kann ich als christlicher Theologie nicht zum Schluss kommen, der Koran rufe zur Gewalt auf oder habe Gewalttätigkeit gar als Fundament. Die Stellen, die zur Gewalt aufrufen, sind jedesmal klar historisch einzuordnen, oft wird an Verfolgungs- und Kriegssituationen angespielt. Auch hier sind die Parallelen zum Alten Testament unübersehbar, wo es auch Aufrufe zur Gewalt gibt. [Garstigere noch als die des Koran.](http://www.bibleserver.com/text/LUT/1.Samuel15) Hier wie da ist klar, dass diese Stellen in einen historischen Rahmen gehören und nur von daher zu verstehen sind.
 
