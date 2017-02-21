@@ -137,7 +137,7 @@ window.sr = ScrollReveal();
 <div style="clear:both"></div>
 
 
-<div class="contact">Anfragen nehme ich gern entgegen unter <a href="mailto:hallo@moehrenzahn.de">hallo@moehrenzahn.de</a></div>
+<div class="contact">Anfragen nehme ich gern entgegen unter <a href="mailto:max@moehrenzahn.de">max@moehrenzahn.de</a></div>
 
 <script type="text/javascript">
 sr.reveal('.webdesign-container, .contact, h2', { duration: 1000, viewFactor: 0.5}, 500);

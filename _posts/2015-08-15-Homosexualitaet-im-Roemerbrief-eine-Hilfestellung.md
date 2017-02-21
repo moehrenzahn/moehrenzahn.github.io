@@ -13,7 +13,7 @@ Schließlich heißt es doch in [Römer 1,26f](http://www.bibleserver.com/text/LU
 
 Ich kenne Christen, die mir anvertraut haben, dass sie wünschten, derartige Stellen gäbe es nicht in der Bibel und Gott wäre es einfach egal, welche sexuelle Orientierung ein Mensch hat. Denn offensichtlich sind Homosexuelle keine schlechteren Menschen oder gar schlechtere Christen. Aber gleichzeitig sehen sich diese Christen unbedingt an das Wort Gottes gebunden und können und wollen sich nicht über ein in ihren Augen so eindeutiges Schriftwort hinwegsetzen.
 
-Dieser Text soll eine Hilfestellung sein, zu einem differenzierten Umgang mit Röm 1,26f zu gelangen. Dabei verstehe ich diesen Artikel als *work-in-progress.* Ich erhebe keinen Anspruch auf Vollständigkeit; wo ich auf weitere Informationen oder Fehler hingewiesen werde, werde ich den Artikel entsprechend erweitern. Hinweise gern an <hallo@moehrenzahn.de>.
+Dieser Text soll eine Hilfestellung sein, zu einem differenzierten Umgang mit Röm 1,26f zu gelangen. Dabei verstehe ich diesen Artikel als *work-in-progress.* Ich erhebe keinen Anspruch auf Vollständigkeit; wo ich auf weitere Informationen oder Fehler hingewiesen werde, werde ich den Artikel entsprechend erweitern. Hinweise gern an <max@moehrenzahn.de>.
 
 ## Der Kontext
 

@@ -19,7 +19,7 @@ a modern devotion app for theologians with great support for the biblical origin
 
 <div style="clear:both"></div>
 
-<a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>I am a freelance **journalist.** You can contact me via <hallo@moehrenzahn.de>.
+<a href="mailto:max@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>I am a freelance **journalist.** You can contact me via <max@moehrenzahn.de>.
 
 <div style="clear:both"></div>
 
@@ -29,4 +29,4 @@ If you want to follow my writing you can [subscribe to the RSS feed](/en/feed.xm
 
 I also occasionally publish small snippets of code on GitHub: [My Repositories on GitHub](https://github.com/moehrenzahn).
 
-You can contact me on Twitter at [@_maxmelzer](http://www.twitter.com/_maxmelzer) or send me an email to [hallo@moehrenzahn.de](mailto:hallo@moehrenzahn.de).
+You can contact me on Twitter at [@_maxmelzer](http://www.twitter.com/_maxmelzer) or send me an email to [max@moehrenzahn.de](mailto:max@moehrenzahn.de).

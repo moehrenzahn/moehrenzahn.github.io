@@ -35,7 +35,7 @@ eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die bi
 
 <div style="clear:both"></div>
 
-<a href="mailto:hallo@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase). Anfragen nehme ich gern entgegen unter <hallo@moehrenzahn.de>.
+<a href="mailto:max@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase). Anfragen nehme ich gern entgegen unter <max@moehrenzahn.de>.
 
 <div style="clear:both"></div>
 ----
@@ -46,4 +46,4 @@ Wem gefällt, was ich hier schreibe, kann den [RSS-Feed](/feed.xml) abonnieren o
 
 Neben dieser Seite veröffentliche ich sporadisch kleine Code-Schnipsel auf GitHub: [Meine Repositories auf GitHub](https://github.com/moehrenzahn)
 
-Zu erreichen bin ich auf Twitter unter [@_maxmelzer](http://www.twitter.com/_maxmelzer) und per Mail unter <hallo@moehrenzahn.de>.
+Zu erreichen bin ich auf Twitter unter [@_maxmelzer](http://www.twitter.com/_maxmelzer) und per Mail unter <max@moehrenzahn.de>.

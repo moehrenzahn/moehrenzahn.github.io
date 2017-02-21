@@ -25,4 +25,4 @@ Aber Devotionalium kann noch mehr. Es gibt eine Suchfunktion, mit der jederzeit 
 
 Zunächst gibt es Devotionalium als [App für OS X](http://devotionalium.moehrenzahn.de/mac) und als [Web-Version](http://devotionalium.moehrenzahn.de/). Für die Zukunft habe ich auch eine Version für iPhone und iPad geplant, dazu später mehr.
 
-Ich würde mich freuen, wenn viele von euch Devotionalium mal [ausprobieren](http://devotionalium.moehrenzahn.de/mac) und mir Feedback zukommen lassen würden. Was gefällt euch und was fehlt eurer Meinung nach noch? Ihr erreicht mich auf [Twitter](https://twitter.com/_maxmelzer) oder per Mail über <hallo@moehrenzahn.de>.
+Ich würde mich freuen, wenn viele von euch Devotionalium mal [ausprobieren](http://devotionalium.moehrenzahn.de/mac) und mir Feedback zukommen lassen würden. Was gefällt euch und was fehlt eurer Meinung nach noch? Ihr erreicht mich auf [Twitter](https://twitter.com/_maxmelzer) oder per Mail über <max@moehrenzahn.de>.

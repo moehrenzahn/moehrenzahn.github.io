@@ -11,7 +11,7 @@ Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RS
 Maximilian Melzer  
 Haferkornstr. 24  
 04129 Leipzig<br />
-<hallo@moehrenzahn.de>
+<max@moehrenzahn.de>
 
 ----
 
