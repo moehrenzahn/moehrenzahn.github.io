@@ -107,13 +107,21 @@ window.sr = ScrollReveal();
 
 ## Webdesign-Portfolio von [Max Melzer](/ueber)
 
-<div class="webdesign"> 
+<div class="webdesign">
 
 <div class="webdesign-container">
 <a href="http://theologiestudierende.de" style="background-image:url(/webdesign/theologiestudierende.de.jpg)"></a>
 <div class="webdesign-extra">
 <div class="webdesign-title">theologiestudierende.de</div>
 <div class="webdesign-desc">Ein theologisches Online-Magazin</div>
+</div>
+</div>
+
+<div class="webdesign-container">
+<a href="http://liturgiewissenschaft.de" style="background-image:url(/webdesign/liturgiewissenschaft.de.jpg)"></a>
+<div class="webdesign-extra">
+<div class="webdesign-title">liturgiewissenschaft.de</div>
+<div class="webdesign-desc">Die Internetseite der katholisch-theologischen AKL</div>
 </div>
 </div>
 
@@ -130,7 +138,7 @@ window.sr = ScrollReveal();
 <div class="webdesign-extra">
 <div class="webdesign-title">devotionalium.com</div>
 <div class="webdesign-desc">Das Showcase für Devotionalium für Mac</div>
-</div> 
+</div>
 </div>
 
 </div>

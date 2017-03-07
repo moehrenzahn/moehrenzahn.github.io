@@ -14,7 +14,7 @@ Hier auf [moehrenzahn.de](/) schreibe ich über alles was mich interessiert, in 
 
 ## Meine Projekte
 
-<a href="/webdesign" target="_blank"><img class="project-image" src="/images/Projekte/webdesign.jpg" /></a>Ich bin **Webdesigner** mit Leidenschaft für attraktive, benutzerfreundliche Internetseiten. Mein Portfolio befindet sich unter [moehrenzahn.de/webdesign](/webdesign).
+<a href="/webdesign" target="_blank"><img class="project-image" src="/images/Projekte/webdesign.jpg" /></a>Ich bin **Webentwickler** mit Leidenschaft für attraktive, benutzerfreundliche Internetseiten. Mein Portfolio befindet sich unter [moehrenzahn.de/webdesign](/webdesign).
 
 <div style="clear:both"></div>
 
