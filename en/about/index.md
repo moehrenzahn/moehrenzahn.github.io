@@ -6,7 +6,7 @@ sharing: false
 
 <div class="profile-outer"><div class="profile-image"></div></div>
 
-My name is Max Melzer. I am a german student of theology at the University of Leipzig. [Here](/) I write about all the things I am interested in – mostly about tech, theology and politics and most of it in [german](/).
+My name is Max Melzer. I am a german theologian and web developer. [Here](/en) I write about all the things I am interested in – mostly about tech, theology and politics and most of it in [german](/).
 
 ## My Projects
 

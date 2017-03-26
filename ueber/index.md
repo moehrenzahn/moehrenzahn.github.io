@@ -5,7 +5,7 @@ sharing: false
 
 <div class="profile-outer"><div class="profile-image"></div></div>
 
-Hallo, mein Name ist Max Melzer. Ich bin Leipziger Theologiestudent und Chefredakteur von [theologiestudierende.de](http://www.theologiestudierende.de).
+Hallo, mein Name ist Max Melzer. Ich bin Diplomtheologe und Web-Entwickler aus Leipzig.
 
 Hier auf [moehrenzahn.de](/) schreibe ich über alles was mich interessiert, in der Hauptsache über Technisches, Theologisches und Politisches – manchmal auch [auf Englisch](/en/). Seit 2012 habe ich hier {{ site.posts | size }} Artikel veröffentlicht.
 
@@ -27,7 +27,13 @@ eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die bi
 
 <div style="clear:both"></div>
 
-<a href="http://www.theologiestudierende.de" target="_blank"><img class="project-image" src="/images/Projekte/theologiestudierende.jpg" /></a>[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und seit 2012 ehrenamtlich leite. [Viele meiner Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) erscheinen zuerst dort.
+<a href="mailto:max@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase). Anfragen nehme ich gern entgegen unter <max@moehrenzahn.de>.
+
+<div style="clear:both"></div>
+
+## Ehemalige Projekte
+
+<a href="http://www.theologiestudierende.de" target="_blank"><img class="project-image" src="/images/Projekte/theologiestudierende.jpg" /></a>[**theologiestudierende.de**](http://www.theologiestudierende.de/) ist ein theologisches Online-Magazin, das ich entwickelt habe und von 2012 bis 2017 ehrenamtlich geleitet habe. [Viele meiner theologischen Artikel](http://www.theologiestudierende.de/author/max-melzermoehrenzahn-de/) sind zuerst dort erschienen.
 
 <div style="clear:both"></div>
 
@@ -35,9 +41,6 @@ eine theologenfreundliche Bibel-App mit umfangreicher Unterstützung für die bi
 
 <div style="clear:both"></div>
 
-<a href="mailto:max@moehrenzahn.de" target="_blank"><img class="project-image" src="/images/Projekte/journalist.jpg" /></a>Nebenher arbeite ich als **Journalist.** Texte von mir sind unter anderem erschienen in [*Der Sonntag*](https://www.sonntag-sachsen.de) und der [*Evangelischen Zeitung*](http://www.evangelische-zeitung-niedersachsen.de). Arbeitsproben finden sich unter [moehrenzahn.de/showcase](/showcase). Anfragen nehme ich gern entgegen unter <max@moehrenzahn.de>.
-
-<div style="clear:both"></div>
 ----
 
 ## Anderswo
