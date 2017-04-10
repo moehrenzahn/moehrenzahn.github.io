@@ -3,10 +3,6 @@ layout: page-noheader
 sharing: false
 ---
 
-<script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
-<script type="text/javascript">
-window.sr = ScrollReveal();
-</script>
 <style type="text/css">
 
 @-webkit-keyframes pop-in {
@@ -134,6 +130,14 @@ window.sr = ScrollReveal();
 </div>
 
 <div class="webdesign-container">
+<a href="http://christuskirche-leipzig-eutritzsch.de" style="background-image:url(/webdesign/christuskirche-leipzig-eutritzsch.de.jpg)"></a>
+<div class="webdesign-extra">
+<div class="webdesign-title">christuskirche-leipzig-eutritzsch.de</div>
+<div class="webdesign-desc">Die Internetseite der Christuskirchgemeinde Leipzig</div>
+</div>
+</div>
+
+<div class="webdesign-container">
 <a href="http://devotionalium.com/mac" style="background-image:url(/webdesign/devotionalium.com.jpg)"></a>
 <div class="webdesign-extra">
 <div class="webdesign-title">devotionalium.com</div>
@@ -145,7 +149,7 @@ window.sr = ScrollReveal();
 <div style="clear:both"></div>
 
 
-<div class="contact">Anfragen nehme ich gern entgegen unter <a href="mailto:max@moehrenzahn.de">max@moehrenzahn.de</a></div>
+<div class="contact">Anfragen nehme ich gern entgegen unter <a href="mailto:max.melzer@moehrenzahn.de">max.melzer@moehrenzahn.de</a></div>
 
 <script type="text/javascript">
 sr.reveal('.webdesign-container, .contact, h2', { duration: 1000, viewFactor: 0.5}, 500);
