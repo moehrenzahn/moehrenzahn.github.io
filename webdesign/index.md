@@ -106,6 +106,14 @@ sharing: false
 <div class="webdesign">
 
 <div class="webdesign-container">
+<a href="https://eulemagazin.de" style="background-image:url(/webdesign/eulemagazin.de.jpg)"></a>
+<div class="webdesign-extra">
+<div class="webdesign-title">eulemagazin.de</div>
+<div class="webdesign-desc">Das Online-Magazin für Kirche, Politik und Kultur</div>
+</div>
+</div>
+
+<div class="webdesign-container">
 <a href="http://theologiestudierende.de" style="background-image:url(/webdesign/theologiestudierende.de.jpg)"></a>
 <div class="webdesign-extra">
 <div class="webdesign-title">theologiestudierende.de</div>
