@@ -9,7 +9,7 @@
   {% endcase %}
   Max Melzer</a><span class="dot">•</span></span>
 {% if page.lang == 'en' %}
-  <time>{{ page.date | date_to_long_string }}</time><span class="meta" style="position:absolute;top:1em;right:1em;">Reading time: {{ page.content | number_of_words | divided_by:200 }}  min</span>
+  <time>{{ page.date | date_to_long_string }}</time>
 {% else %}
   {% assign m = page.date | date: "%-m" %}
   <time>{{ page.date | date: "%-d." }}
@@ -27,7 +27,7 @@
     {% when '11' %}November
     {% when '12' %}Dezember
   {% endcase %}
-  {{ page.date | date: "%Y" }}</time><span class="dot"><span class="meta" style="opacity:.8;position:absolute;top:1em;right:1em;">Lesezeit: {{ page.content | number_of_words | divided_by:200 }}  min</span>
+  {{ page.date | date: "%Y" }}</time>
 {% endif %}
 
 <p class="meta sharing">
