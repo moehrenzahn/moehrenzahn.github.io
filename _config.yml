@@ -1,9 +1,9 @@
 # Site settings
 title: moehrenzahn.de
-email: moehrenzahn@icloud.com
+email: hi@moehrenzahn.de
 description: Weblog von Max Melzer
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://moehrenzahn.de" # the base hostname & protocol for your site
+url: "https://www.moehrenzahn.de" # the base hostname & protocol for your site
 permalink: :title/
 twitter_username: _maxmelzer
 
