@@ -5,9 +5,9 @@
 
     {% case page.lang %}
           {% when "en" %}
-            Weblog of <a href="/en/about/">Max Melzer</a>
+            Weblog of <a href="{{ root_url }}/en/about/">Max Melzer</a>
           {% when else %}
-            Weblog von <a href="/">Max Melzer</a><br/>
+            Weblog von <a href="{{ root_url }}/">Max Melzer</a><br/>
         {% endcase %}
 	</h2>
 </div>

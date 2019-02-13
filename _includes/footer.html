@@ -5,12 +5,12 @@
 	  Subscribe:
   {% when else %}
     <p>
-	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}">Max&nbsp;Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span><br/>
+	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}/">Max&nbsp;Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span><br/>
 	  Folgen:
 {% endcase %}
 	<span class="rss"><a href="{% case page.lang %}{% when "en" %}/en/feed.xml{% when else %}/feed.xml{% endcase %}" rel="subscribe-rss">RSS</a></span><span class="dot">•</span><span class="twitter"><a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span><br/>
 	
-	{% case page.lang %}{% when "en" %}<a id="nightmodetoggle">Dark mode</a>{% when else %}<a href="javascript:;" id="nightmodetoggle">Nachtmodus</a>{% endcase %}{% case page.lang %}{% when "en" %}<span class="dot">•</span>Wechseln zu <a href="{{ root_url }}/">Deutsch</a>{% when else %}<span class="dot">•</span>Switch to <a href="{{ root_url }}/en">English</a>{% endcase %}
+	{% case page.lang %}{% when "en" %}<a id="nightmodetoggle">Dark mode</a>{% when else %}<a href="javascript:;" id="nightmodetoggle">Nachtmodus</a>{% endcase %}{% case page.lang %}{% when "en" %}<span class="dot">•</span>Wechseln zu <a href="{{ root_url }}/">Deutsch</a>{% when else %}<span class="dot">•</span>Switch to <a href="{{ root_url }}/en/blog">English</a>{% endcase %}
 
 </p>
 
