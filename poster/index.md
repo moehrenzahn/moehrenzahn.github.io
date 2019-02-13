@@ -1,6 +1,6 @@
 ---
 layout: poster
-title: STAR WARS Vector Art
+title: Sci-Fi Vector Art
 lang: en
 ---
 

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in site.posts limit:15 %}
+    {% assign content = post.content %}
+      <article>
+        {% include article.html %}
+      </article>
+  {% endfor %}
+  <div class="pagination">
+    
+      <a class="archive-link" href="/archives/">Archiv</a>
+  </div>
+</div>

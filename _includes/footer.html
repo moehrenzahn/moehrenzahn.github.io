@@ -1,11 +1,11 @@
 {% case page.lang %}
   {% when "en" %}
     <p>
-	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="/en/about">Max&nbsp;Melzer</a><span class="dot">•</span> <span class="credit"><a href="{{ root_url }}/impressum">Imprint</a></span><br/>
+	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}/en/about">Max&nbsp;Melzer</a><span class="dot">•</span> <span class="credit"><a href="{{ root_url }}/impressum">Imprint</a></span><br/>
 	  Subscribe:
   {% when else %}
     <p>
-	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="/ueber">Max&nbsp;Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span><br/>
+	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}">Max&nbsp;Melzer</a><span class="dot">•</span><span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span><br/>
 	  Folgen:
 {% endcase %}
 	<span class="rss"><a href="{% case page.lang %}{% when "en" %}/en/feed.xml{% when else %}/feed.xml{% endcase %}" rel="subscribe-rss">RSS</a></span><span class="dot">•</span><span class="twitter"><a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span><br/>

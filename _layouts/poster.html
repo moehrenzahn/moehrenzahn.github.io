@@ -8,7 +8,7 @@ language: en
 
 
 <head>
-  <title>Star Wars Vector Art by Max Melzer</title>
+  <title>Sci-Fi Vector Art by Max Melzer</title>
   <meta name="keywords" content="Sci-Fi, Poster, Wallpaper, Movie, Pop-art, Art Deco, Star Wars, Force Awakens">
   <meta name="author" content="Max Melzer">
   <meta name="description" content="A collection of high-resolution images based on classic movie scenes. Looks great on a wall or as desktop wallpaper.">
@@ -39,56 +39,71 @@ language: en
 
     .headline, .description, .footer, .donate {
       text-align: center;
-      margin-right: 10px;
-      margin-left: 10px;
+      margin-right: 1em;
+      margin-left: 1em;
+    }
+
+    h2.description {
+      margin-top: 4em;
+    }
+
+    p {
+      font-size: 1.5em; 
+      margin: 1em;
+      margin-top: 0;
     }
 
     a {
-      color: rgb(120,0,0);
+      color: rgb(170, 17, 17);
       text-decoration: none;
       font-weight: normal;
       transition: color .2s ease-out;
     }
     a:hover {
-      color: rgb(150,30,30);
+      color: rgb(210,57,57);
+    }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      margin-bottom: 3em;
+    }
+    .hero-container {
+      min-width: 200px;
+      flex-basis: 0;
+      flex-grow: 1;
+      max-height: 90vh;
+    }
+
+    .hero-container img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
     }
 
     .headline-container {
-      width: 100%;
-      height: 700px;
-      height: 90vh;
-      margin-bottom: 3em;
-      background-image: url(/poster/images/notext/ROTJ-Hangar.jpg);
-      background-position: center;
-      background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      flex-basis: 450px;
+      background: black;
     }
 
     .headline {
       font-family: 'Oswald', sans-serif;
-      font-size: 3.5em;
-      padding-top: 30vh;
-      text-shadow: 0 0 5px black;
+      font-size: 3em;
     }
-    .description, .donate, .footer, .posters, .shares {
+    .description, .donate, .footer, .posters, .shares, p {
       font-family: 'Oswald', sans-serif;
       font-weight: lighter;
     }
 
-    .description {
-      margin-top: 50px;
-    }
-
-    .description.box {
-      margin: 50px auto;
-      padding: 20px;
-      max-width: 700px;
-      background-color: rgba(0,0,0,.5);
-    }
-
     .posters {
-      text-align: center;
-      margin: 0 10px;
-      display: block;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
     }
 
     .poster {
@@ -96,11 +111,9 @@ language: en
       color: black;
       background-color: rgb(250,240,240);
       transition: all .2s ease-out;
-      width: 100%;
       height: 100%;
       background-position: center;
       background-size: cover;
-      margin: auto;
     }
 
     .poster-extra {
@@ -119,25 +132,11 @@ language: en
     }
 
     .poster-container {
-      display: inline-block;
-      vertical-align: top;
-      height: 404px;
-      width: 280px;
       position: relative;
-      margin: 10px;
+      height: 58vmin;
+      width: 40vmin;
+      margin: 20px 10px;
       transition: all .2s ease-out;
-    }
-
-    .more-block {
-      display: inline-block;
-      color: black;
-      text-align: center;
-      background-color: white;
-      height: 404px;
-      line-height: 404px;
-      width: 280px;
-      margin: 10px;
-      vertical-align: top;
     }
 
   @media (max-width: 640px) {
@@ -145,26 +144,11 @@ language: en
       font-size: 85%;
     }
 
-    .headline {
-      font-size: 2em;
-      padding-top: 3em;
-      padding-top: 20vh;
-    }
     .donate {
       width: 200px;
     }
     .posters {
       margin-bottom: 40px;
-    }
-    .poster-container {
-      margin: 3px;
-      width: 45%;
-    }
-    .more-block {
-      height: auto;
-      line-height: 1.6;
-      width: 45%;
-      margin: 3px;
     }
     .poster-extra {
       padding: 5px 5px;
@@ -192,6 +176,7 @@ language: en
     }
 
     .donate {
+      cursor: pointer;
       color: white;
       display: block;
       width: 300px;
@@ -221,6 +206,9 @@ language: en
       margin: 10px;
       box-shadow: 0px 0px 20px rgba(0,0,0,.3);
       transition: all .2s ease-out;
+    }
+    .fb-share:hover, .tw-share:hover {
+      color: white;
     }
     .fb-share {
       background-color: #3B5998;
@@ -279,12 +267,17 @@ language: en
 </head>
 
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}>
-<div class="headline-container">
- <h1 class="headline">{{ page.title }}</h1>
-    <h2 class="description box">
+<header>
+  <div class="hero-container">
+    <img src="/poster/images/notext/ROTJ-Hangar.jpg">
+  </div>
+  <div class="headline-container">
+    <h1 class="headline">{{ page.title }}</h1>
+    <p class="description box">
       {{ content }}
-    </h2>
-</div>
+    </p>
+  </div>
+</header>
 <div style="clear:both"></div>
 <div class="posters">
   {% for image in site.static_files %}
@@ -299,18 +292,16 @@ language: en
   </div>
   {% endif %}
   {% endfor %}
-  
-  <div class="more-block">More coming soon …</div>
 
 </div>
 <div style="clear:both"></div>
 
 <h2 class="description">Making-Of Timelapse</h2>
 
-<div style="margin:0 auto;max-width:700px;max-height:400px;">
+<div style="margin:50px auto;max-width:900px;max-height:400px;">
 	<iframe style="width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/e7LKiIM8Sno?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-<div style="margin:0 auto;max-width:700px;max-height:400px;">
+<div style="margin:50px auto;max-width:900px;max-height:400px;">
 <iframe  style="width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/-Kt6VT7H3JQ?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
     <h2 class="description">Help me make more of these:</h2>
