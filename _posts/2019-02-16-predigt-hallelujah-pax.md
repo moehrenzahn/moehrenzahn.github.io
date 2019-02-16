@@ -4,7 +4,7 @@ title: 'Predigt: Ein kaltes, gebrochenes Halleluja'
 categories: [Predigt, Theologie]
 ---
 
-*Die folgende Predigt zu Leonard Cohens* [Hallelujah](https://de.wikipedia.org/wiki/Hallelujah_(Leonard-Cohen-Lied)) *hielt ich am 10. Februar 2019 im [PAX Live](http://pax-leipzig.de) Jugendgottesdienst in der Michaeliskirche Leipzig. Es ist auch ein [Audio-Mitschnitt der Predigt auf Soundcloud](https://soundcloud.com/paxjugendkirche/predigt-vom-10022019-paxlife-thema-preach-your-song-halleluja) verfügbar.*
+*Die folgende Predigt zu Leonard Cohens* [Hallelujah](https://de.wikipedia.org/wiki/Hallelujah_(Leonard-Cohen-Lied)) *hielt ich am 10. Februar 2019 im [PAX Life](http://pax-leipzig.de) Jugendgottesdienst in der Michaeliskirche Leipzig. Es ist auch ein [Audio-Mitschnitt der Predigt auf Soundcloud](https://soundcloud.com/paxjugendkirche/predigt-vom-10022019-paxlife-thema-preach-your-song-halleluja) verfügbar.*
 
 ---
 
