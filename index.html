@@ -5,16 +5,17 @@
 
 <div class="about">
     <div class="about-title">
-        <div>
+        <div class="copy">
             <h2><span class="color">Hallo</span>, mein Name ist Max Melzer.</h2>
             <p>Ich bin Diplomtheologe und Web-Entwickler aus Leipzig.</p>
             <p>Mit gut gemachten Webseiten will ich die Welt zu einem etwas besseren Ort machen.</p>
         </div>
+        <div class="scroll-down-button-container nav"><a href="#about-contact" class="scroll-down">↓</a></div>
     </div>
-    <div class="about-contact">
+    <div class="about-contact" id="about-contact">
         <div>
             <p>Du brauchst eine Webseite oder Hilfe bei einem Web-Projekt für dich oder deine Organisation?</p>
-            <a class="button" href="mailto:hi@moehrenzahn.de">E-Mail schreiben</a>
+            <a class="button scroll-effect" href="mailto:hi@moehrenzahn.de">E-Mail schreiben</a>
         </div>
     </div>
     <div style="height: 10vw; overflow: hidden;" >
@@ -24,14 +25,14 @@
     </div>
     <div class="about-customers">
         <div>
-            <h2>Kunden & Partner</h2>
+            <h2 class="scroll-effect">Kunden & Partner</h2>
             <div class="customers-grid">
-                <img alt="Evanglisch-lutherische Landeskirche Sachsen" src="/images/about/customer-evlks.png"/>
-                <img alt="Jugenpfarramt Leipzig" src="/images/about/customer-pax.png"/>
-                <img alt="Die Eule" src="/images/about/customer-eule.png"/>
-                <img alt="Studierendenrat Evangelische Theologie" src="/images/about/customer-seth.png"/>
-                <!-- <img alt="theologiestudierende.de" src="/images/about/customer-tsde.png"/> -->
-                <img alt="Arbeitsgemeinschaft Katholische Liturgiewissenschaften" src="/images/about/customer-akl.png"/>
+                <img class="scroll-effect" alt="Evanglisch-lutherische Landeskirche Sachsen" src="/images/about/customer-evlks.png"/>
+                <img class="scroll-effect" alt="Jugenpfarramt Leipzig" src="/images/about/customer-pax.png"/>
+                <img class="scroll-effect" alt="Die Eule" src="/images/about/customer-eule.png"/>
+                <img class="scroll-effect" alt="Studierendenrat Evangelische Theologie" src="/images/about/customer-seth.png"/>
+                <!-- <img class="scroll-effect" alt="theologiestudierende.de" src="/images/about/customer-tsde.png"/> -->
+                <img class="scroll-effect" alt="Arbeitsgemeinschaft Katholische Liturgiewissenschaften" src="/images/about/customer-akl.png"/>
             </div>
         </div>
     </div>
@@ -43,21 +44,21 @@
     <div class="about-projects">
         <div>
             <div class="title">
-                <h2>Portfolio</h2>
+                <h2 class="scroll-effect">Portfolio</h2>
                 <p>Einige der Projekte, die ich für Kunden oder in eigener Sache entwickelt habe</p>
             </div>
             <div class="project-devotionalium">
                 <h3>Devotionalium</h3>
                 <h4>Eine freie Plattform für tägliche Bibelverse</h4>
-                <img alt="Devotionalium" src="/images/about/project-devotionalium.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Devotionalium" data-full="/images/about/project-devotionalium.jpg" src="/images/about/project-devotionalium-pre.jpg"/>
                 <h4>Schnell und voller Features</h4>
                 <p>Bei der Startseite von Devotionalium lag die oberste Priorität auf Geschwindigkeit. Trotzdem gibt es coole Features: Einen stylischen Nachtmodus, majestätische Foto-Hintergründe, und eine Ursprachen-Funktion.</p>
-                <img alt="Devotionalium" src="/images/about/project-devotionalium-2.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Devotionalium" data-full="/images/about/project-devotionalium-2.jpg" src="/images/about/project-devotionalium-2-pre.jpg"/>
                 <h4>Eine API für alle Fälle</h4>
                 <p>Devotionalium ist nicht nur eine Webseite. Es ist ein Webservice, der über eine moderne, übersichtliche REST-Schnittstelle von überall eingebunden werden kann.</p>
                 <h4>Devotionalium als WordPress-Plugin</h4>
                 <p>Damit Devotionalium in Zukunft wirklich überall zu finden ist, gibt es Devotionalium als Plugin für WordPress – leicht zu finden über das offizielle Plugin-Verzeichnis.</p>
-                <img alt="Devotionalium" src="/images/about/project-devotionalium-3.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Devotionalium" data-full="/images/about/project-devotionalium-3.jpg" src="/images/about/project-devotionalium-3-pre.jpg"/>
                 <div class="button-container">
                     <a class="visit-page button" href="https://devotionalium.com">Zur Seite</a>
                 </div>
@@ -65,15 +66,15 @@
             <div class="project-pax">
                 <h3>PAX Leipzig</h3>
                 <h4>Webseiten-Trio für die Evangelische Jugendarbeit</h4>
-                <img alt="PAX Leipzig" src="/images/about/project-pax.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="PAX Leipzig" data-full="/images/about/project-pax.jpg" src="/images/about/project-pax-pre.jpg"/>
                 <h4>Dynamische Startseite</h4>
                 <p>Die Startseite setzt sich zusammen aus frei über das Backend konfigurierbaren Blöcken. Der Kunde kann jederzeit Content verändern, hinzufügen oder völlig neu anordnen.</p>
-                <img alt="PAX Leipzig" src="/images/about/project-pax-2.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="PAX Leipzig" data-full="/images/about/project-pax-2.jpg" src="/images/about/project-pax-2-pre.jpg"/>
                 <h4>Content, der sich selbst aktualisiert</h4>
                 <p>Viele Informationen auf der Startseite halten sich ohne aktive Wartung aktuell. Große Teile des Contents speisen sich aus Online-Kalendern und Webservice-Anbindungen.</p>
                 <h4>Multisite mit dynamischem Template</h4>
                 <p>3 in 1: Das maßgeschneiderte WordPress-Theme versorgt drei Seiten in einer Multisite-Instanz – mit eigenem Farbschema, aber gemeinsamem Corporate Design.</p>
-                <img alt="PAX Leipzig" src="/images/about/project-pax-3.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="PAX Leipzig" data-full="/images/about/project-pax-3.jpg" src="/images/about/project-pax-3-pre.jpg"/>
                 <div class="button-container">
                     <a class="visit-page button" href="http://pax-leipzig.de">Zur Seite</a>
                 </div>
@@ -81,17 +82,17 @@
             <div class="project-eule">
                 <h3>Die Eule</h3>
                 <h4>Nachrichten und Meinungen zu Kirche, Politik und Kultur für eine neue Generation</h4>
-                <img alt="Die Eule" src="/images/about/project-eule.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Die Eule" data-full="/images/about/project-eule.jpg" src="/images/about/project-eule-pre.jpg"/>
                 <h4>Wordpress mit Anpassungen</h4>
                 <p>Ein stark angepasstes WordPress-Backend, dass für die Redaktionsarbeit optimiert ist.</p>
                 <h4>Bilder, sobald sie gebraucht werden</h4>
                 <p>Schnell ladende Seiten trotz hochauflösender Fotografien – möglich dank „Lazy Loading“ über Javascript. Inhalte werden erst in voller Auflösung geladen, wenn sie gebraucht werden.</p>
-                <img alt="Die Eule" src="/images/about/project-eule-2.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Die Eule" data-full="/images/about/project-eule-2.jpg" src="/images/about/project-eule-2-pre.jpg"/>
                 <h4>Magazin-Feeling mit mehrspaltigen Layouts</h4>
                 <p>Wir haben die Nuss geknackt – mehrspaltige Layouts im Web!
                     Bestimmte Artikel auf der „Eule“ werden in mehreren Spalten dargestellt, wie in einem Print-Magazin.
                     Das funktioniert vollautomatisch, kein manuelles Layouten notwendig.</p>
-                <img alt="Die Eule" src="/images/about/project-eule-3.jpg"/>
+                <img class="scroll-effect image-lazy loading" alt="Die Eule" data-full="/images/about/project-eule-3.jpg" src="/images/about/project-eule-3-pre.jpg"/>
                 <div class="button-container">
                     <a class="visit-page button" href="https://eulemagazin.de">Zur Seite</a>
                 </div>
@@ -104,7 +105,7 @@
         <div>
             <p>Du brauchst eine Webseite oder Hilfe bei einem Web-Projekt für dich oder deine Organisation?</p>
             <p>Ich freue mich über Fragen oder Anfragen an <a href="mailto:hi@moehrenzahn.de">hi@moehrenzahn.de</a>.</p>
-            <a class="button" href="mailto:hi@moehrenzahn.de">E-Mail schreiben</a>
+            <a class="button scroll-effect" href="mailto:hi@moehrenzahn.de">E-Mail schreiben</a>
         </div>
         <div class="footer">
                 <ul>

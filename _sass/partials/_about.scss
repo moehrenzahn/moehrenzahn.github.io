@@ -16,18 +16,20 @@
 
 	.about-title {
 		flex-wrap: wrap;
+		position: relative;
+		background-color: rgb(122,117,113);		
 		background-image: url("../images/about/title-bg.jpg");
 		background-position: center;
 		background-size: cover;
 		justify-content: initial;
-		min-height: 90vh;
-		> div {
+		min-height: 100vh;
+		.copy {
 			display: block;
 			max-width: 45vw;
 			margin-right: 5vmin;
 			margin-left: auto;
-			margin-top: 12em;
-			margin-bottom: 12em;
+			animation: zoomIn 2s;
+			
 			p {
 				font-size: 2.3em;
 				line-height: 1.2em;
@@ -35,7 +37,6 @@
 				color: white;
 				font-weight: bolder;
 				text-shadow: 0 0 15px rgba(0,0,0,.2); 
-			
 			};
 			h2 {
 				line-height: .8em;
@@ -49,6 +50,32 @@
 				font-size: 1.5em;
 				background: #FF670F;
 				color: white;
+			}
+		}
+
+		.scroll-down-button-container {
+			position: absolute;
+			width: 100%;
+			bottom: .5em;
+			font-size: 1.75em;
+			margin-bottom: 1em;
+
+			a.scroll-down {
+				display: block;
+				margin: 0 auto;
+				color: white;
+				text-align: center;
+				background: rgba(0,0,0,.2);
+				width: 2em;
+				height: 2em;
+				line-height: 2em;
+				border: none;
+				border-radius: 50%;
+				transition: transform .3s, color .3s;
+				&:hover {
+					color: #FF670F;
+					transform: scale(1.2);
+				}
 			}
 		}
 	}
@@ -74,11 +101,6 @@
 					max-width: 60vw;
 					width: 250px;
 					max-height: 110px;
-					//filter: grayscale(1);
-					transition: filter .3s ease-in-out;
-					&:hover {
-						filter: grayscale(0);
-					}
 				}
 			}
 		}	
@@ -133,8 +155,7 @@
 			}
 			img {
 				display: block;
-				max-width: 1400px;
-				max-width: 100%;
+				width: 100%;
 				height: auto;
 				margin-top: 4vw;
 				margin-bottom: 5vw;
@@ -230,5 +251,27 @@
 			transform: translateY(2px);
 			margin-bottom: 2px; // Make up for the hidden border;
 		}
+	}
+}
+
+@keyframes zoomIn {
+	0% {
+		opacity: 0;
+		transform: scale3d(0.3, 0.3, 0.3);
+	}
+	50% {
+		opacity: 0;
+		transform: scale3d(0.3, 0.3, 0.3);
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.scroll-effect {
+	transition: opacity 1.5s, transform 1.5s !important;
+	&.hidden {
+		opacity: 0;
+		transform: translateY(20px);
 	}
 }
