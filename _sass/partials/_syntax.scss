@@ -101,16 +101,17 @@ p, li {
     font-family: $mono;
     display: inline-block;
     white-space: no-wrap;
-    //font-size: .8em;
+    font-size: .8em;
     color: #555;
   }
-  pre code { font-size: 1em !important; background: none; border: none; }
+  pre code { background: none; border: none; }
 }
 
 /* ACTUAL CODE */
 
 .pre-code {
   font-family: $mono !important;
+  font-size: .8em !important;
   overflow: scroll;
   overflow-y: scroll;
   display: block;
