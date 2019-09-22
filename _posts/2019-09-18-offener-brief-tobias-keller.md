@@ -35,5 +35,14 @@ Mit freundlichen Grüßen,
 
 - Christian Bradatsch  
 *Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+- Alexandra Bradatsch  
+*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+- Jeannette Klinger  
+*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+- Dr. Björn Opfer-Klinger  
+*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+- Aljoscha Klinger  
+*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+ 
 
 *Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*
