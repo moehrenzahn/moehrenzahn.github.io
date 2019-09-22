@@ -31,4 +31,9 @@ Mit freundlichen Grüßen,
 *Dipl. theol. Maximilian Melzer*  
 *Leipzig-Eutritzsch, den 18. September 2019*
 
-*Dieser Brief ist jetzt offen für Mitunterzeiner. Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*
+## Mitunterzeichner
+
+- Christian Bradatsch  
+*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+
+*Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*
