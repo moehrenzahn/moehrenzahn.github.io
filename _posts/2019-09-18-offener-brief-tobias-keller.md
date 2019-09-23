@@ -43,6 +43,9 @@ Mit freundlichen Grüßen,
 *Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
 - Aljoscha Klinger  
 *Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
+- Katja Glathe  
+*Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
+- Anna Melzer  
+*Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
  
-
 *Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*
