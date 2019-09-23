@@ -47,5 +47,7 @@ Mit freundlichen Grüßen,
 *Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
 - Anna Melzer  
 *Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
+- Pascal Bihler  
+*Katholische Kirchengemeinde der Alt-Katholiken in Sachsen und Ost-Thüringen*
  
 *Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*
