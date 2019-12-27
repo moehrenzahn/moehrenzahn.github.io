@@ -1,17 +1,18 @@
 #!/usr/bin/php
-<?php
-print_r($argv);
-$url = $argv[1] ?? '';
 
+<?php
 $date = (new DateTime())->format('Y-m-d');
 $title = 'Draft';
 
+$url = $argv[1] ?? '';
 if ($url) {
     echo "Parsing URL '$url' …" . PHP_EOL;
     $content = file_get_contents($url);
     if ($content) {
         $title = getTitleFromHtml($content);
         echo "Using title '$title' …" . PHP_EOL;
+    } else {
+        $url = '';
     }
 }
 $filePath = implode('/', [
@@ -46,8 +47,8 @@ exec("open $filePath");
 function prepareFilename(string $date, string $title): string
 {
     $title = strtolower($title);
-    $title = str_replace([' ', '–', '—'], '-', $title);
-
+    $title = str_replace([' ', '–', '—', '|', '/', '\\', '&', '#'], '-', $title);
+    
     while (strpos($title, '--') !== false) {
         $title = str_replace('--', '-', $title);
     }
