@@ -7,4 +7,4 @@ update:
 	git commit -m "Update site"
 	git push origin master
 new:
-	./scripts/new-post.php $$(pbpaste)
+	./_scripts/new-post.php $$(pbpaste)
