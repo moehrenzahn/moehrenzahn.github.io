@@ -17,7 +17,7 @@ $header-subtitle-font-family: $sans !default;
 
 //Font sizes
 
-$bodytext: 20px;
+$bodytext: 18px;
 $metatext: 90%;
 $footnotetext: 97%;
 
@@ -29,3 +29,4 @@ $text-color: #383838;
 @import "base/layout";
 @import "base/solarized";
 @import "base/typography";
+@import "base/darkmode";

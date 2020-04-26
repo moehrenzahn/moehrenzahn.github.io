@@ -57,6 +57,7 @@
 			position: absolute;
 			top: 0;
 			left: 0;
+			font-size: 16px;
 			ul, li {
 				list-style: none;
 			}
@@ -229,7 +230,7 @@
 			position: absolute;
 			bottom: .5em;
 			right: .5em;
-			font-size: .5em;
+			font-size: 17px;
 			ul, li {
 				list-style: none;
 			}
@@ -293,5 +294,19 @@
 	&.hidden {
 		opacity: 0;
 		transform: translateY(20px);
+	}
+}
+
+// dark mode
+@media (prefers-color-scheme: dark) {
+	.about {
+		.about-customers h2, .about-projects p {
+			color: $text-color;
+		}
+
+		.title > * {
+			color: $text-color;
+		}
+		
 	}
 }

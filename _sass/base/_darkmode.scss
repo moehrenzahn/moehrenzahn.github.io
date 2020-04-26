@@ -1,0 +1,67 @@
+
+@media (prefers-color-scheme: dark) {
+
+	body {
+		background: #222;
+
+		a.bannertext:hover {
+			color: $color;
+		}
+	
+		a, a:visited {
+			border-bottom-color: #777;
+		}
+		a:hover {
+			border-bottom-color: $color;
+		}
+		h1,  h2,  p,  a, a:visited {
+			color: #bbb;
+		}
+		article.hentry {
+			code, figcaption {
+				color: #777;
+			}
+
+            footer {
+                a, a.social {
+                    color: #aaa;    
+                }
+                time,  div,  span,  figcaption,  .meta, p {
+                    color: #777;
+                }
+            }
+            li {
+                color: #aaa;
+            }
+            .footnote-button:before {
+                color: $text-color;
+            }
+            .footnote-content,  .tooltip,  .footnote-main-wrapper {
+                background-color: $text-color;
+                border-color: $text-color;
+            }
+            .footnote-content-wrapper {
+                background: $text-color;
+                border-color: $text-color;
+            }
+            .footnote-content.scrollable {
+                .footnote-main-wrapper:before,  .footnote-main-wrapper:after {
+                    background: none;
+                }
+            }
+        }
+		span.entry-content-excerpt:after {
+			background: -moz-linear-gradient(left, rgba(34,34,34,0) 0%, rgba(34,34,34,1) 100%);
+			background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(34,34,34,0)), color-stop(100%,rgba(34,34,34,1)));
+			background: -webkit-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
+			background: -o-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
+			background: -ms-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
+			background: linear-gradient(to right, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
+		} 
+	
+		
+	}
+
+	
+}
