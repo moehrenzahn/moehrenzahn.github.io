@@ -8,13 +8,13 @@ categories: [Politik, Theologie]
 
 *Es geht darin um die heftige Auseinandersetzung zwischen der Kirchenleitung und der konfessionell-evangelikalen "Sächsischen Bekenntnisinitiative" (SBI) in der Zeit von 2012 bis 2014.*
 
-*Carsten Rentzing war darmals einer der Wortführer der SBI. In den im Folgenden geschilderten Ereignissen spielt Carsten Rentzing eine nicht unbedeutende Rolle.*
+*Carsten Rentzing war damals einer der Wortführer der SBI. In den im Folgenden geschilderten Ereignissen spielt Carsten Rentzing eine nicht unbedeutende Rolle.*
 
-*Soviel vorweg: In keinem der zahlreichen Vorträge, Artikel und Interviews mit und von Rentzing, die ich für diese Arbeit gesichtet habe, ist dieser in irgendeiner Art als nationalistisch, völkisch oder anderweitig politisch rechts aufgefallen. Im Gegenteil hat Rentzing sich im Kontext der Flüchtlingskrise von 2015 wiederholt dezidiert gemäßigt und Flüchtlingsfreundlich geäußert.*
+*Soviel vorweg: In keinem der zahlreichen Vorträge, Artikel und Interviews mit und von Rentzing, die ich für diese Arbeit gesichtet habe, ist dieser in irgendeiner Art als nationalistisch, völkisch oder anderweitig politisch rechts aufgefallen. Im Gegenteil hat Rentzing sich im Kontext der Flüchtlingskrise von 2015 wiederholt dezidiert gemäßigt und flüchtlingsfreundlich geäußert.*
 
-*Die gesamte Arbeit liegt [hier als PDF zum Download](https://github.com/moehrenzahn/moehrenzahn.github.io/raw/master/Melzer-Examensarbeit-Gesprächsprozess.pdf) bereit. Was folgt ist eine gekürzte Fassung ohne Fußnoten.*
+*Die gesamte Arbeit liegt [hier als PDF zum Download](https://github.com/moehrenzahn/moehrenzahn.github.io/raw/master/Melzer-Examensarbeit-Gespr%C3%A4chsprozess.pdf) bereit. Was folgt, ist eine gekürzte Fassung ohne Fußnoten.*
 
---------
+---- 
 
 # Der Gesprächsprozess der sächsischen Landeskirche zum Schrift- und Kirchenverständnis
 

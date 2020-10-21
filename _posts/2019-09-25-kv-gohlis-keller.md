@@ -15,8 +15,8 @@ Ich bin positiv überrascht von der Entschiedenheit, mit der sich der Vorstand v
 
 Der Kirchenvorstand bringt es auf den Punkt: Es ist ein Skandal, dass AfD-Funktionäre *überhaupt* Ämter in einer evangelischen Landeskirche bekleiden dürfen. Denn das, was Tobias Keller in seiner Rede von sich gegeben hat, konnte man ganz ähnlich schon das ganze Jahr [im Regierungsprogramm der AfD Sachsen](https://www.afdsachsen.de/wahlen-2019/regierungsprogramml2019.html) lesen:
 
-> Halales Essen in Kantinen ist Ausdruck einer fortschreitenden Islamisierung, die wir entschieden bekämpfen. […]    
-Am generellen Verbot von Schächtungen wird festgehalten. In Sachsen sollen keine Ausnahmegenehmigungen erteilt werden, auch nicht aus religiösen Gründen.
+> Halales Essen in Kantinen ist Ausdruck einer fortschreitenden Islamisierung, die wir entschieden bekämpfen. […]  
+> Am generellen Verbot von Schächtungen wird festgehalten. In Sachsen sollen keine Ausnahmegenehmigungen erteilt werden, auch nicht aus religiösen Gründen.
 
 Die sächsische Landeskirche druckst bei diesem Thema seit Jahren auf beschämende Weise herum. Gern spricht man in Dresden in blumigen Worten von Nächstenliebe und Demokratie, aber wenn es um die konkrete Bewertung der AfD geht, will sich niemand offiziell äußern. [Andere Landeskirchen](https://www.evangelisch.de/inhalte/139936/11-11-2016/afd-und-kirche-kirchentag-interview-mit-bischof-markus-droege-ekbo) haben hier längst [klare Worte](https://www.faz.net/aktuell/rhein-main/kein-kirchliches-amt-fuer-radikale-afd-mitglieder-15754808.html) gefunden. 
 

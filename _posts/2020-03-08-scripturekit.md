@@ -33,4 +33,4 @@ When loading verse text, there are the following options available:
 - ZefaniaXML files (`.xml`)
 - `XML Format (One File-Whole Quran)` exported from qurandatabase.org. (`.xml`)
 
-You can find the [complete source code and detailed useage examples for *ScriptureKit* on GitHub](https://github.com/moehrenzahn/scripturekit-php).
+You can find the [complete source code and detailed usage examples for *ScriptureKit* on GitHub](https://github.com/moehrenzahn/scripturekit-php).

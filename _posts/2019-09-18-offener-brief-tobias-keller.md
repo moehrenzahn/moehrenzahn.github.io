@@ -30,24 +30,3 @@ Mit freundlichen Grüßen,
 
 *Dipl. theol. Maximilian Melzer*  
 *Leipzig-Eutritzsch, den 18. September 2019*
-
-## Mitunterzeichner
-
-- Christian Bradatsch  
-*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
-- Alexandra Bradatsch  
-*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
-- Jeannette Klinger  
-*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
-- Dr. Björn Opfer-Klinger  
-*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
-- Aljoscha Klinger  
-*Ev.-Luth. Versöhnungskirchgemeinde Leipzig-Gohlis*
-- Katja Glathe  
-*Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
-- Anna Melzer  
-*Ev.-Luth. Christuskirchgemeinde Leipzig-Eutritzsch*
-- Pascal Bihler  
-*Katholische Kirchengemeinde der Alt-Katholiken in Sachsen und Ost-Thüringen*
- 
-*Wenn du das Anliegen dieses Briefes öffentlich unterstützen möchtet, schicke bitte eine Mail an <max.melzer@moehrenzahn.de> mit deinem Namen und dem Namen deiner Kirchgemeinde. Sämtliche Mitunterzeichner werden hier aufgelistet.*

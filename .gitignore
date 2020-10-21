@@ -38,6 +38,7 @@ _site/
 ehthumbs.db
 Thumbs.db
 .sass-cache
+.Ulysses-Group.plist
 
 # Blog post drafts #
 ######################
