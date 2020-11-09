@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devotionalium – Die erste interreligiöse Tagesvers-App'
+title: 'Devotionalium – Die erste interreligiöse Tagesvers-App'
 link: https://devotionalium.com
 categories: [Politik, Theologie, Devotionalium]
 ---
@@ -15,7 +15,7 @@ Ich habe während der letzten Monate intensiv an meiner Tagesvers-App Devotional
 
 Unsere Zeit verlangt nach einer neuen Art von Tagesvers-App: Eine App, die nicht nur nach innen schaut, sondern den Blick nach außen weitet. Eine App, die zeigt, dass die christliche Tradition nicht vom Himmel gefallen ist, sondern in der jüdischen Tradition wurzelt und mit der muslimischen Tradition eng verwandt ist.
 
-**Deshalb ist Devotionalium jetzt die erste interreligiöse Tagesvers-App. Mit Devotionalium bietet zum ersten Mal eine App Texte aus den heiligen Schriften von Juden, Christen und Muslimen zugleich an.**
+**Deshalb ist Devotionalium jetzt die erste interreligiöse Tagesvers-App. Mit Devotionalium bietet zum ersten Mal eine App Texte aus den heiligen Schriften von Juden, Christen und Muslimen zugleich an.**
 
 ![Devotionalium Screenshot](/images/devotionalium-screenshot-desktop.jpg)
 
