@@ -4,7 +4,7 @@ body {
 	font-smoothing: subpixel-antialiased;
 	font-size: $bodytext;
 	font-family: $sans;
-	color: $text-color !important;
+	color: $text-color;
 	line-height: 1.6;
 	word-wrap: break-word;
 	text-rendering: geometricPrecision;
@@ -23,9 +23,6 @@ h1.entry-title {
 		padding-top: 0;
 		font-weight: 600;
 	}
-h1.entry-title:first-letter {
-	text-transform: capitalize;
-}
 .entry-slug {
 	color: $text-color-light;
 }
@@ -103,7 +100,7 @@ time {color: $text-color-light; padding-top: 3px;}
 footer time {color: $text-color-light;}
 
 footer.read-on a {
-	color: white;	
+	color: white;
 }
 
 .meta {color: $text-color-light;}
@@ -114,7 +111,7 @@ div.pagination
 {
     font-size: $metatext;
     line-height: 1.2;
-}	
+}
 
 /* Language Selector */
 .language-selector {
@@ -129,12 +126,12 @@ div.pagination
 figcaption {
 	//background-color: #EBEBEB;
 	font-size: 95%;
-	line-height: 1.5; 
+	line-height: 1.5;
 	font-style: italic;
 	color: $text-color-light;
 	text-align: right;
 	margin-bottom: 1em;
-	padding: 3px; 
+	padding: 3px;
 }
 
 .dot {color: #aaa !important; margin: 0 7px !important;}

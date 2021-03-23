@@ -1,9 +1,7 @@
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="{% if page.lang == 'en' %}en{% else %}de{% endif %}"><!--<![endif]-->
+<html class="no-js" lang="{% if page.lang == 'en' %}en{% else %}de{% endif %}">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -13,48 +11,29 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-</head>
 
   <!-- google fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic' rel='stylesheet' type='text/css'>
 
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True"/>
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.moehrenzahn.de/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '3']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Piwik Code -->
+  <link href="{{ root_url }}/favicon.png" rel="icon"/>
+  <link href="/images/apple-touch-icon.png" rel="apple-touch-icon" />
+  <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+  <script type="text/javascript" src="/js/bigfoot.min.js"></script>
+  <script type="text/javascript" src="/js/utils.js"></script>
+  <script type="text/javascript" src="/js/scroll-handler.js"></script>
+  <script type="text/javascript" src="/js/scroll-effect.js"></script>
+  <script type="text/javascript" src="/js/lazy-images.js"></script>
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link href="{{ root_url }}/favicon.png" rel="icon">
-<link href="/images/apple-touch-icon.png" rel="apple-touch-icon" />
-<script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="/js/bigfoot.min.js"></script>
-<script type="text/javascript" src="/js/utils.js"></script>
-<script type="text/javascript" src="/js/scroll-handler.js"></script>
-<script type="text/javascript" src="/js/scroll-effect.js"></script>
-<script type="text/javascript" src="/js/lazy-images.js"></script>
-
-<script type="text/javascript">
-            $.bigfoot({
-                actionOriginalFN: "ignore",
-                numberResetSelector: "article",
-            });
-</script>
+  <script type="text/javascript">
+              $.bigfoot({
+                  actionOriginalFN: "ignore",
+                  numberResetSelector: "article",
+              });
+  </script>
 
 </head>

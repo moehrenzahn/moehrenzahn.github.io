@@ -1,0 +1,22 @@
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap: 15px; row-gap: 30px">
+{% for poster in site.data.scifi-poster %}
+    <div class="poster-container" style="">
+        <a href="{{ poster.file }}" class="poster">
+            <img src="{{ poster.file-preview }}" alt="{{ poster.title }}"/>
+        </a>
+        <h2 class="poster-title" style="margin-bottom: 0">{{ poster.title }}</h2>
+
+        {% if poster.file-notext %}
+        <div>
+            <a href="{{ poster.file-notext }}">Without text</a>
+        </div>
+        {% endif %}
+        {% if poster.file-wallpaper %}
+        <div>
+            <a href="{{ poster.file-wallpaper }}">Desktop wallpaper</a>
+        </div>
+        {% endif %}
+    </div>
+{% endfor %}
+</div>

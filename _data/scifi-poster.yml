@@ -1,0 +1,71 @@
+
+- title: The Blockade Runner
+  file: /poster/images/ANH-Blockade-Runner.jpg
+  file-notext: /poster/images/notext/ANH-Blockade-Runner.jpg
+  file-wallpaper: /poster/images/wallpaper/ANH-Blockade-Runner.jpg
+  file-preview: /poster/images/preview/ANH-Blockade-Runner.jpg
+
+- title: Tatooine Sunset
+  file: /poster/images/ANH-Tatooine-Sunset.jpg
+  file-notext: /poster/images/notext/ANH-Tatooine-Sunset.jpg
+  file-wallpaper: /poster/images/wallpaper/ANH-Tatooine-Sunset.jpg
+  file-preview: /poster/images/preview/ANH-Tatooine-Sunset.jpg
+
+- title: Carbonite Duel
+  file: /poster/images/ESB-Carbonite-Duel.jpg
+  file-notext: /poster/images/notext/ESB-Carbonite-Duel.jpg
+  file-wallpaper: /poster/images/wallpaper/ESB-Carbonite-Duel.jpg
+  file-preview: /poster/images/preview/ESB-Carbonite-Duel.jpg
+
+- title: Cloud City
+  file: /poster/images/ESB-Cloud-City.jpg
+  file-notext: /poster/images/notext/ESB-Cloud-City.jpg
+  file-wallpaper: /poster/images/wallpaper/ESB-Cloud-City.jpg
+  file-preview: /poster/images/preview/ESB-Cloud-City.jpg
+
+- title: Assault on Hoth
+  file: /poster/images/ESB-Hoth-AT-AT.jpg
+  file-notext: /poster/images/notext/ESB-Hoth-AT-AT.jpg
+  file-wallpaper: /poster/images/wallpaper/ESB-Hoth-AT-AT.jpg
+  file-preview: /poster/images/preview/ESB-Hoth-AT-AT.jpg
+
+- title: Nightfall on Endor
+  file: /poster/images/ROTJ-Endor-Moon.jpg
+  file-notext: /poster/images/notext/ROTJ-Endor-Moon.jpg
+  file-wallpaper: /poster/images/wallpaper/ROTJ-Endor-Moon.jpg
+  file-preview: /poster/images/preview/ROTJ-Endor-Moon.jpg
+
+#- title: The Emperor Arrives
+#  file: /poster/images/ROTJ-Hangar.jpg
+#  file-notext: /poster/images/notext/ROTJ-Hangar.jpg
+#  file-wallpaper: /poster/images/wallpaper/ROTJ-Hangar.jpg
+#  file-preview: /poster/images/preview/ROTJ-Hangar.jpg
+
+- title: Ashes of the Empire
+  file: /poster/images/TFA-Jakku-AT-AT.jpg
+  file-notext: /poster/images/notext/TFA-Jakku-AT-AT.jpg
+  file-wallpaper: /poster/images/wallpaper/TFA-Jakku-AT-AT.jpg
+  file-preview: /poster/images/preview/TFA-Jakku-AT-AT.jpg
+
+- title: Ashes of the Empire (Night)
+  file: /poster/images/TFA-Jakku-AT-AT-Night.jpg
+  file-wallpaper: /poster/images/wallpaper/TFA-Jakku-AT-AT-Night.jpg
+  file-preview: /poster/images/preview/TFA-Jakku-AT-AT-Night.jpg
+
+- title: Scavengers of Jakku
+  file: /poster/images/TFA-Jakku-Scavenger.jpg
+  file-notext: /poster/images/notext/TFA-Jakku-Scavenger.jpg
+  file-wallpaper: /poster/images/wallpaper/TFA-Jakku-Scavenger.jpg
+  file-preview: /poster/images/preview/TFA-Jakku-Scavenger.jpg
+
+- title: Attack on Takodana
+  file: /poster/images/TFA-Takodana.jpg
+  file-notext: /poster/images/notext/TFA-Takodana.jpg
+  file-wallpaper: /poster/images/wallpaper/TFA-Takodana.jpg
+  file-preview: /poster/images/preview/TFA-Takodana.jpg
+
+- title: Ride of the Valkyries
+  file: /poster/images/TFA-Valkyries.jpg
+  file-notext: /poster/images/notext/TFA-Valkyries.jpg
+  file-wallpaper: /poster/images/wallpaper/TFA-Valkyries.jpg
+  file-preview: /poster/images/preview/TFA-Valkyries.jpg

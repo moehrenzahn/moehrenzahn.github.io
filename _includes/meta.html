@@ -1,13 +1,16 @@
-<a href="/{% case page.lang %}
-    {% when "en" %}en/about
-    {% when else %}ueber
-  {% endcase %}" class="profile-outer side"><div class="profile-image side"></div></a>
+<a href="{% case page.lang %}
+    {% when 'en' %}/en/about
+    {% when else %}/ueber
+  {% endcase %}" class="profile-outer side">
+  <div class="profile-image side"></div>
+</a>
 <span class="byline author vcard">
   {% case page.lang %}
     {% when "en" %}By <a href="/en/about">
     {% when else %}Von <a href="/ueber">
   {% endcase %}
-  Max Melzer</a><span class="dot">•</span></span>
+  Max Melzer</a><span class="dot">•</span>
+</span>
 {% if page.lang == 'en' %}
   <time>{{ page.date | date_to_long_string }}</time>
 {% else %}
@@ -29,17 +32,4 @@
   {% endcase %}
   {{ page.date | date: "%Y" }}</time>
 {% endif %}
-
-<p class="meta sharing">
-	{% case page.lang %}
-          {% when "en" %}
-            Share: 
-          {% when else %}
-            Teilen:
-        {% endcase %} 
-  
-  <a href="http://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=moehrenzahn" class="twitter-like">Twitter</a><span class="dot">•</span>
-  <a href="http://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" class="fb-like">Facebook</a><span class="dot">•</span>
-  <a href="mailto:?subject={{ page.title | escape }}%20%7C%20moehrenzahn.de&body=%0A%0A{{ page.title | escape }}%20%7C%20{{ site.url }}{{ page.url }}" class="mail-share" target="_top">Mail</a>
-</p>
 

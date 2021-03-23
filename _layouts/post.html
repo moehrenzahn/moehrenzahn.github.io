@@ -5,7 +5,10 @@ single: true
 <article class="hentry" role="article">
 	{% include article.html %}
   	<footer>
-      <p class="meta"><div class="profile-small"><div class="profile-image"></div></div>{% include meta.html %}
+      <div class="meta">
+        <div class="profile-small"><div class="profile-image"></div></div>
+        {% include meta.html %}
+      </div>
 
       <div class="meta">
         {% if page.previous.url %}
@@ -15,5 +18,5 @@ single: true
           <div id="nextpost">{% if page.lang == 'en' %}Next article{% else %}Nächster Artikel{% endif %}:<br><a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}</a></div>
         {% endif %}
       </div>
-  </footer>
+    </footer>
 </article>

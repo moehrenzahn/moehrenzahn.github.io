@@ -1,0 +1,24 @@
+{% assign paintings = site.data.paintings | reverse %}
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); grid-gap: 15px">
+    {% for painting in paintings %}
+    <div>
+    <a href="{{ painting.file }}">
+        <img src="{{ painting.file }}" alt="{{ painting.title }}"/>
+        <div style="margin: 10px 0">
+            {% if painting.title %}
+            <h2 class="poster-title" style="margin: 0">{{ painting.title }}</h2>
+            {% endif %}
+            <div>
+                <em>{{painting.date | date_to_long_string}}</em><br/>
+            </div>
+            {% if painting.description %}
+            <div>
+                {{painting.description}}
+            </div>
+            {% endif %}
+        </div>
+    </a>
+    </div>
+    {% endfor %}
+</div>
+

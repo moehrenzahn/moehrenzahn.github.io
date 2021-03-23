@@ -1,6 +1,3 @@
-$facebook-color: #3b5a94;
-$twitter-color: #00aeea;
-$gplus-color: #e0483e;
 
 /* Link styling and animation */
 
@@ -12,17 +9,9 @@ h1, nav
 	a:hover {border-color: $color}
 	a {
 	    transition: border-color .3s}
-} 
-
-p.sharing {
-	a:hover {color: $text-color;}
-	a.fb-like:hover {border-color: $facebook-color !important;}
-	a.gp-like:hover {border-color: $gplus-color !important;}
-	a.twitter-like:hover {border-color: $twitter-color !important;}
-	a.mail-share:hover {border-color: gray !important;}
 }
 
-a, a:visited, .sharing a
+a, a:visited
 	{
 		text-decoration: none;
 		color: $text-color;

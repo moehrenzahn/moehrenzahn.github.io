@@ -2,17 +2,24 @@
   <a class="index-link" rel="full-article" href="{{ post.url | prepend: site.baseurl }}">
     <div class="index-post">
       {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-      
+
       <h1 class="entry-title index {% if post.link %}linklog{% endif %}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}</h1>
       <span class="entry-content-excerpt">{{ content | strip_html | truncate: 300, ' …' }}</span>
     </div>
   </a>
 {% else %}
-  
+
   {% if page.link %}
-    <h1 class="entry-title linklog">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}<a class="linklog" href="{{ page.link }}">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a></h1>
+    <h1 class="entry-title linklog">
+      {% if page.published == false %}
+        Entwurf<span class="dot">•</span>
+      {% endif %}
+      <a class="linklog" href="{{ page.link }}">
+        {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+      </a>
+    </h1>
   {% else %}
-    <h1 class="entry-title">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+    <h1 class="entry-title">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
   {% endif %}
   <div class="entry-content">{{ content }}</div>
 {% endif %}

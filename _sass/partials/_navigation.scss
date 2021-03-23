@@ -1,77 +1,21 @@
 /* Not currently included */
 
-$nav-color: $background-color;
-
-nav {
-	display: none;
-	position: absolute; top: 0;
-	margin: 20px 20px;
-	opacity: .8;
-	padding-top: 10px; padding-left: 10px;
-	border-radius: 25px;
-	transition: all .3s;
-	&:hover {padding: 10px; width: 150px; background-color: $nav-color;
-		li {
-			
-			margin-bottom: 5px;
-			background-color: $text-color;
-			a {text-indent: 50px; padding-bottom: 12px; width: 150px; font-size: $metatext;
-				@media only screen and (max-width: 480px) {font-size: $metatext *.8;}
-			}
-		}
-		li.menu {background-color: $nav-color; border-color: gray;
-}
-		li.menu a {font-size: 80%;}
+.header-menu {
+	font-size: 16px;
+	ul, li {
+		list-style: none;
 	}
-	@media only screen and (max-width: 800px) {margin: 8px 5px;}
-}
+	ul {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 1em;
+		padding-left: 0;
+	}
+	a {
+		margin-right: 1em;
 
-nav li {
-	display: block;
-	border-radius: 50%;
-	width: 40px;
-	height: 40px;
-	margin-bottom: -40px;
-	background-size: 40px 40px;
-	transition: all .3s;
-	&:hover {background-color: $color;}
+		&.active {
+			font-weight: bold;
+		}
+	}
 }
-
-li.menu {
-	background-image: url('/images/menu_icon.png');
-	position: relative;
-	background-color: $nav-color;
-	border-width: 1px;
-	border-style: solid;
-	border-color: $nav-color;
-	z-index: 100;
-	&:hover {background-color: $nav-color;} 
-	a {color: $text-color; text-transform: uppercase; text-indent: 80px;}
-	a:hover {color: $text-color;}
-}
-li.technology {
-	background-image: url('/images/w_technology_icon.png');
-}
-li.theology {
-	background-image: url('/images/w_luther_icon.png');
-}
-li.info {
-	background-image: url('/images/w_info_icon.png');
-}
-li.deutsch {
-	background-image: url('/images/w_deutsch_icon.png');
-}
-li.english {
-	background-image: url('/images/w_english_icon.png');
-}
-
-nav li a {
-	font-size: $metatext;
-	color: $text-color;
-	display: block;
-	font-size: 0;
-	padding-top: 10px;
-	transition: all .3s, font-size 0s;
-}
-nav li a:visited {color: $text-color;}
-nav li a:hover {color: $color;}

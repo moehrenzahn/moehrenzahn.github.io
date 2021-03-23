@@ -10,10 +10,12 @@ layout: compress
  <header id="banner" role="banner">{% include header.html %}</header>
 
   <div id="main">
-    <div id="content">
+    <div id="content" style="max-width: {{ page.layout-width | default: '660 px'}}">
       {{ content | expand_urls: root_url }}
     </div>
   </div>
-  <footer class="bottom" role="contentinfo">{% include footer.html %}</footer>
+  <footer class="bottom" role="contentinfo">
+      {% include footer.html %}
+  </footer>
 </body>
 </html>

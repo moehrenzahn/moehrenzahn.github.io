@@ -1,13 +1,24 @@
-<div class="banner">
-    <h2 class="bannertext">
-    <a class="titlelink" href="{{ root_url }}/{% case page.lang %}{% when "en" %}en/{% endcase %}blog
-    ">moehrenzahn.de</a><br/>
-
-    {% case page.lang %}
-          {% when "en" %}
-            Weblog of <a href="{{ root_url }}/en/about/">Max Melzer</a>
-          {% when else %}
-            Weblog von <a href="{{ root_url }}/">Max Melzer</a><br/>
-        {% endcase %}
-	</h2>
-</div>
+<nav class="header-menu">
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a class="
+                {% if page.url == item.url or page.url == item.url-de %}active{% endif %}
+                {% if item.title == 'Blog' and page.collection == 'posts' %}active{% endif %}
+            "
+               href="
+                {% if page.lang == 'de' %}
+                    {{ item.url-de | default: item.url }}
+                {% else %}
+                    {{ item.url }}
+                {% endif %}">
+                {% if page.lang == 'de' %}
+                    {{ item.title-de | default: item.title }}
+                {% else %}
+                    {{ item.title }}
+                {% endif %}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

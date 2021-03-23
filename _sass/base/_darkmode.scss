@@ -3,11 +3,12 @@
 
 	body {
 		background: #222;
+        color: #6B6B6B !important;
 
 		a.bannertext:hover {
 			color: $color;
 		}
-	
+
 		a, a:visited {
 			border-bottom-color: #777;
 		}
@@ -24,7 +25,7 @@
 
             footer {
                 a, a.social {
-                    color: #aaa;    
+                    color: #aaa;
                 }
                 time,  div,  span,  figcaption,  .meta, p {
                     color: #777;
@@ -58,10 +59,10 @@
 			background: -ms-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
 			background: linear-gradient(to right, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
 			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
-		} 
-	
-		
+		}
+
+
 	}
 
-	
+
 }

@@ -1,23 +1,29 @@
-{% case page.lang %}
-  {% when "en" %}
-    <p>
-	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}/en/about">Max&nbsp;Melzer</a>
-	  <span class="dot">•</span>
-	  <span class="credit"><a href="{{ root_url }}/impressum">Imprint</a></span>
-	  <span class="dot">•</span> 
- 		Wechseln zu <a href="{{ root_url }}/">Deutsch</a>
-	  <br/>
-	  Subscribe:
-  {% when else %}
-    <p>
+<div>
+{% if page.lang == 'de' %}
 	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}/">Max&nbsp;Melzer</a>
 	  <span class="dot">•</span>
 	  <span class="credit"><a href="{{ root_url }}/impressum">Impressum</a></span>
-	  <span class="dot">•</span> 
-	  	Switch to <a href="{{ root_url }}/en/blog">English</a> 
-	  <br/>
-	  Folgen:
-{% endcase %}
-	<span class="rss"><a href="{% case page.lang %}{% when "en" %}/en/feed.xml{% when else %}/feed.xml{% endcase %}" rel="subscribe-rss">RSS</a></span><span class="dot">•</span><span class="twitter"><a href="http://twitter.com/moehrenzahn/">Twitter</a></span></span>
+	  <span class="dot">•</span>
+	  	Switch to <a href="{{ root_url }}/en/blog">English</a>
+
+{% else %}
+	  &copy;&nbsp;2012–{{ site.time | date: "%Y" }}&nbsp;<a href="{{ root_url }}/en/about">Max&nbsp;Melzer</a>
+	  <span class="dot">•</span>
+	  <span class="credit"><a href="{{ root_url }}/impressum">Imprint</a></span>
+	  <span class="dot">•</span>
+ 		Wechseln zu <a href="{{ root_url }}/">Deutsch</a>
+{% endif %}
+
+{% if page.collection == 'posts' or page.url contains "blog" %}
 	<br/>
-</p>
+	{% if page.lang == 'de' %}Folgen{% else %}Subscribe{% endif %}:
+	<span class="rss">
+		<a href="{% case page.lang %}{% when 'en' %}/en/feed.xml{% when else %}/feed.xml{% endcase %}"
+		   rel="subscribe-rss">RSS</a>
+	</span>
+	<span class="dot">•</span>
+	<span class="twitter">
+		<a href="http://twitter.com/moehrenzahn/">Twitter</a>
+	</span>
+{% endif %}
+</div>
