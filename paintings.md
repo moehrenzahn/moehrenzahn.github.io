@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landschaftsgemälde
+title: Gemälde
 lang: de
 layout-width: 1200px
 ---

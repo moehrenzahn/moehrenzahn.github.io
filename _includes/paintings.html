@@ -1,9 +1,14 @@
 {% assign paintings = site.data.paintings | reverse %}
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); grid-gap: 15px">
     {% for painting in paintings %}
-    <div>
+        {% if painting.featured %}
+            <div style="grid-column: 1 / -1;">
+        {% else %}
+            <div>
+        {% endif %}
     <a href="{{ painting.file }}">
-        <img src="{{ painting.file }}" alt="{{ painting.title }}"/>
+        <img src="{{ painting.file }}"
+             alt="{{ painting.title }}"/>
         <div style="margin: 10px 0">
             {% if painting.title %}
             <h2 class="poster-title" style="margin: 0">{{ painting.title }}</h2>
@@ -21,4 +26,3 @@
     </div>
     {% endfor %}
 </div>
-
