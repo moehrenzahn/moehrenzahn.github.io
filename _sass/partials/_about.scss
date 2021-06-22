@@ -1,28 +1,42 @@
+body {
+	box-sizing: border-box;
+}
 
 .about {
-	overflow: hidden;
+
+	img {
+		max-width: 100%;
+	}
+
 	p, h2, h3, h4 {
 		margin: 0;
 		padding: 0;
 	}
 	transition: all .3s ease-in-out;
 	> [class^='about-'] {
-		padding: 0;
 		display: flex;
 		align-items: center;
 		justify-content: center;
+		> div {
+			> * {
+			}
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
 	}
 
 	.about-title {
-		flex-wrap: wrap;
+		flex-direction: column;
 		position: relative;
 		background-color: rgb(122,117,113);
 		background-image: url("../images/about/title-bg.jpg");
 		background-position: center;
 		background-size: cover;
-		justify-content: initial;
+		justify-content: space-between;
 		min-height: 100vh;
-		font-size: 1.8vmin;
+		font-size: 3.5rem;
 		.copy {
 			display: block;
 			max-width: 45vw;
@@ -31,7 +45,7 @@
 			animation: zoomIn 2s;
 
 			p {
-				font-size: 2.3em;
+				font-size: .75em;
 				line-height: 1.2em;
 				margin-bottom: .3em;
 				color: white;
@@ -40,14 +54,14 @@
 			};
 			h2 {
 				line-height: .8em;
-				font-size: 6em;
+				font-size: 2em;
 				color: white;
 				margin-bottom: .2em;
 				text-shadow: 0 0 15px rgba(0,0,0,.2);
 			}
 			.button {
 				margin-top: 1em;
-				font-size: 1.5em;
+				font-size: 1em;
 				background: #FF670F;
 				color: white;
 			}
@@ -64,11 +78,9 @@
 		}
 
 		.scroll-down-button-container {
-			position: absolute;
-			width: 100%;
-			bottom: .5em;
-			font-size: 1.75em;
-			margin-bottom: 1em;
+			font-size: 1.5rem;
+			margin-bottom: 1rem;
+			align-self: center;
 
 			a.scroll-down {
 				display: block;
@@ -106,24 +118,20 @@
 				align-items: center;
 				justify-content: center;
 				flex-wrap: wrap;
+
 				> img {
-					padding: 3em;
-					max-width: 60vw;
-					width: 250px;
+					margin: 50px;
 					max-height: 110px;
 				}
 			}
 		}
 	}
 	.about-projects {
-		padding-bottom: 3em;
+		padding: 10rem 0 3em;
 		background: #f7f7f7;
 
 		.title {
 			text-align: center;
-			margin: 15vh auto 10vh auto;
-			padding: 0 30px;
-			max-width: 750px;
 
 			h2 {
 				line-height: .8em;
@@ -134,16 +142,16 @@
 			p {
 				opacity: .8;
 				font-size: 1.5em;
-				margin: 0;
+				margin: 50px 0;
 			}
 		}
 
 		div[class^='project-'] {
 			background: white;
+			flex-direction: column;
 			box-shadow: 0 5px 20px rgba(0,0,0,.01);
-			padding: 5em;
-			margin: 5em 0;
 			max-width: 1100px;
+			padding: 6rem;
 
 			h3 {
 				line-height: .8em;
@@ -170,15 +178,15 @@
 				display: block;
 				width: 100%;
 				height: auto;
-				margin-top: 4vw;
-				margin-bottom: 5vw;
+				margin-top: 4rem;
+				margin-bottom: 5rem;
 				border-radius: 2px;
 				box-shadow: 0 7.5px 25px rgba(0,0,0,.25);
 				transform: scale(1.02);
 				transition: all .2s ease-out;
 			}
 			img:not(:last-of-type) {
-				margin-bottom: 10vw;
+				margin-bottom: 10rem;
 			}
 
 			h3, h4, p {
@@ -201,11 +209,13 @@
 	.about-contact {
 		font-size: 1.5em;
 		position: relative;
+		flex-direction: column;
+		justify-content: space-between;
 		text-align: center;
-		padding: 15vh 20px;
+		padding: 10rem 1rem;
 
 		p {
-			max-width: 800px;
+			max-width: 700px;
 			margin-bottom: .5em;
 		}
 
@@ -214,15 +224,15 @@
 		}
 
 		.button {
-			margin-top: 2vw;
 			background: #FF670F;
 			color: white;
 		}
 		.footer {
-			position: absolute;
-			bottom: .5em;
-			right: .5em;
+			align-self: flex-end;
+			justify-self: flex-end;
+			margin-top: 3rem;
 			font-size: 17px;
+			text-align: right;
 			ul, li {
 				list-style: none;
 			}
@@ -240,9 +250,9 @@
 	.about-contact-big {
 		background-image: url(../images/about/contact-bg.png);
 		color: white;
-		min-height: 100vh;
+		min-height: 80vh;
 		font-size: 1.8em;
-		padding: 20px;
+		padding: 20px 0;
 
 		.button {
 			margin-top: 5vw;
@@ -300,5 +310,29 @@
 			color: $text-color;
 		}
 
+	}
+}
+
+@media (max-width: 769px) {
+	body {
+		font-size: .8em;
+	}
+	.about {
+		.about-title {
+			background-position: 30%;
+			justify-content: flex-end;
+			align-items: end;
+			font-size: 1.5rem;
+			.copy {
+				max-width: 100%;
+				margin: 1rem;
+			}
+		}
+		.about-contact {
+			padding: 3rem 1rem;
+		}
+		.about-projects div[class^='project-'] {
+			padding: 1rem;
+		}
 	}
 }
