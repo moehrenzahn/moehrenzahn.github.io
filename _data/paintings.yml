@@ -51,7 +51,7 @@
 - file: /paintings/5DF50AD3-AC4E-455F-A55E-B0DB2766F641_1_105_c.jpeg
   date: 2021-02-04
   title: Mountain Stream
-  description: Acrylics on canvas. An study of a painting by Kevin Hill.
+  description: Acrylics on canvas. A study of a painting by Kevin Hill.
 
 #- title: Day 1 – Light
 #  file: /paintings/C81D65C1-3ECE-4977-BF1C-179B93FA8775_1_105_c.jpeg
@@ -78,3 +78,8 @@
   title: Big Ship
   description: Acrylics on paper, 40×30cm. A nautical painting heavily inspired by Montague Dawson.
   featured: yes
+
+- file: /paintings/IMG_9826.jpeg
+  date: 2021-06-10
+  featured: yes
+  description: 'A Study of a piece of *Zelda: Breath of the Wild* concept art. Acrylics on canvas board.'

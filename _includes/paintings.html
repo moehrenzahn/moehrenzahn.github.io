@@ -1,5 +1,5 @@
 {% assign paintings = site.data.paintings | reverse %}
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); grid-gap: 15px">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr)); grid-gap: 15px">
     {% for painting in paintings %}
         {% if painting.featured %}
             <div style="grid-column: 1 / -1;">
@@ -18,7 +18,7 @@
             </div>
             {% if painting.description %}
             <div>
-                {{painting.description}}
+                {{painting.description | markdownify}}
             </div>
             {% endif %}
         </div>
