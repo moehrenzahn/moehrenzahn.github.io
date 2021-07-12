@@ -36,7 +36,7 @@
 - title: Detail einer Altstadt im Süden Frankreichs
   file: /paintings/AD668B28-1516-4048-98D7-22EFBBBB6C90_1_105_c.jpeg
   date: 2021-01-13
-  description: Acrylics on paper, 40×30cm Erneutes Cameo von Kind 1.
+  description: Acrylics on paper, 40×30cm.
   featured: yes
 
 #- file: /paintings/EA669955-94C1-483C-9A77-57D7692683BA_1_105_c.jpeg
@@ -85,5 +85,9 @@
 
 - file: /paintings/IMG_0158.jpg
   date: 2021-07-04
-  description: Acrylics on paper, 40×30cm.  A Study of a painting by Christine Lashley.
+  description: Acrylics on paper, 40×30cm. A Study of a painting by Christine Lashley.
 
+- file: /paintings/IMG_0224.jpeg
+  date: 2021-07-12
+  description: Acrylics on cardboard, 40×30cm. Eine Landschaft in der Nähe von Meißen.
+  featured: yes

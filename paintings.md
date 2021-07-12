@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Gemälde
+title: Malerei
 lang: de
 layout-width: 1200px
 ---
 
-Ich male gelegentlich Landschaften und andere Sachen in Acrylfarben. Dies ist ein Archiv meiner vorzeigbaren Bilder.
+Etwa seit November 2020 male ich gelegentlich Landschaften und andere Sachen in Acrylfarben
+
+Dies ist ein Archiv meiner vorzeigbaren Bilder.
 
 {% include paintings.html %}
