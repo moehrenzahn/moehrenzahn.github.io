@@ -82,6 +82,7 @@
 - file: /paintings/IMG_9826.jpeg
   date: 2021-06-10
   description: 'Acrylics on canvas board, 18×24cm. A Study of a piece of *Zelda: Breath of the Wild* concept art.'
+  featured: yes
 
 - file: /paintings/IMG_0158.jpg
   date: 2021-07-04
@@ -91,7 +92,6 @@
   date: 2021-07-12
   title: Landschaft in der Nähe von Meißen
   description: Acrylics on cardboard, 40×30cm.
-  featured: yes
 
 - file: /paintings/2021-08-06.jpg
   date: 2021-08-06
@@ -102,3 +102,8 @@
   date: 2021-09-05
   title: 'Bremsdorfer Mühle'
   description: Acrylics on canvas board, 18×24cm. Zeigt die Bremsdorfer Mühle im Brandenburger Schlaubetal.
+
+- file: /paintings/2021-10-24-ocean-cliffs.jpeg
+  date: 2021-10-24
+  description: Acrylics on canvas board, 30×40cm. A Study of a painting by Romona Youngquist.
+  featured: yes
