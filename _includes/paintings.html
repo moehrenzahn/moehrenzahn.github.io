@@ -1,28 +1,79 @@
 {% assign paintings = site.data.paintings | reverse %}
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr)); grid-gap: 15px">
+<style>
+    #painting-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+        column-gap: 40px;
+        row-gap: 40px;
+    }
+    .painting a {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        flex-wrap: wrap;
+        column-gap: 20px;
+        border: none;
+    }
+    .painting a:hover .painting-img {
+        transform: scale(1.01);
+        box-shadow: 0 1px 10px rgba(0,0,0,0.12), 
+              0 4px 12px rgba(0,0,0,0.12), 
+              0 8px 16px rgba(0,0,0,0.12),
+              0 15px 24px rgba(0,0,0,0.12);
+    }
+    .painting-featured {
+        display: contents;
+    }
+    .painting-featured > a {
+        grid-column: 1 / -1;
+    }
+    .painting-img {
+        flex: 0 1 0px;
+        width: auto;
+        object-fit: contain;
+        object-position: center;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.12), 
+              0 4px 4px rgba(0,0,0,0.12), 
+              0 8px 8px rgba(0,0,0,0.12),
+              0 15px 16px rgba(0,0,0,0.12);
+        transition: all .3s;
+    }
+    .painting-description {
+        margin-top: 10px;
+        flex: 1 1 250px;
+        max-width: 750px;
+    }
+    .painting-description h2 {
+        margin: 0;
+    }
+</style>
+
+<div id="painting-container">
     {% for painting in paintings %}
         {% if painting.featured %}
-            <div style="grid-column: 1 / -1;">
+            <div class="painting painting-featured">
         {% else %}
-            <div>
+            <div class="painting">
         {% endif %}
-    <a href="{{ painting.file }}">
-        <img src="{{ painting.file }}"
-             alt="{{ painting.title }}"/>
-        <div style="margin: 10px 0">
-            {% if painting.title %}
-            <h2 class="poster-title" style="margin: 0">{{ painting.title }}</h2>
-            {% endif %}
-            <div>
-                <em>{{painting.date | date_to_long_string}}</em><br/>
-            </div>
-            {% if painting.description %}
-            <div>
-                {{painting.description | markdownify}}
-            </div>
-            {% endif %}
+            <a href="{{ painting.file }}">
+                <img
+                    class="painting-img"
+                    src="{{ painting.file }}"
+                    alt="{{ painting.title }}" />
+                <div class="painting-description">
+                    {% if painting.title %}
+                    <h2 class="poster-title">{{ painting.title }}</h2>
+                    {% endif %}
+                    <div>
+                        <em>{{painting.date | date_to_long_string}}</em><br/>
+                    </div>
+                    {% if painting.description %}
+                    <div>
+                        {{painting.description | markdownify | remove: "<p>" | remove: "</p>"}}
+                    </div>
+                    {% endif %}
+                </div>
+            </a>
         </div>
-    </a>
-    </div>
     {% endfor %}
 </div>

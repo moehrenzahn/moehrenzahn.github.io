@@ -2,7 +2,7 @@
 #  date: 2020-11-11
 #  description: Acrylics on paper, A4. Dieses Gemälde sollte eigentlich eine gemütliche Winterlandschaft werden. Ich hab aber die Farben vergeigt und jetzt hat es eine eher beklemmende Stimmung. Finde ich aber auch interessant
 
-- file: /paintings/2A820080-B2D8-40CB-BDDB-19D102238C49_1_201_a.jpeg
+- file: /paintings/2020-11-13-autumn-birches.jpeg
   date: 2020-11-13
   title: Autumn Birches
   description: Acrylics on paper, 30×40cm.
@@ -16,19 +16,19 @@
   date: 2020-11-29
   description: Acrylics on canvas. Im Hintergrund der Patscherkofel.
 
-- file: /paintings/33DB81DD-E683-48B4-B7E0-0F753EF330CD.jpg
+- file: /paintings/2021-01-02-driftless-area.jpg
   date: 2021-01-02
   title: Study of a Driftless Area
   description: Acrylics on paper, 40×30cm. A study of a painting by the inimitable Jim Musil.
   featured: yes
 
 - title: Einfacher Nachthimmel
-  file: /paintings/C0DD5B42-2085-4FE9-98A2-D39EC4B18ABD_1_105_c.jpeg
+  file: /paintings/2021-01-01-einfacher-nachthimmel.jpeg
   date: 2021-01-01
   description: Acrylics on paper, 30×40cm.
 
 - title: Schnee
-  file: /paintings/IMG_4355.jpeg
+  file: /paintings/2021-01-01-schnee.jpg
   date: 2021-01-01
   description: Acrylics on paper, 30×40cm. Mit Cameo vom Sohnemann.
 
@@ -48,7 +48,7 @@
 #  date: 2021-01-17
 #  description: Acrylics on paper, 10×4.5cm
 
-- file: /paintings/5DF50AD3-AC4E-455F-A55E-B0DB2766F641_1_105_c.jpeg
+- file: /paintings/2021-02-04-mountain-stream.jpeg
   date: 2021-02-04
   title: Mountain Stream
   description: Acrylics on canvas. A study of a painting by Kevin Hill.
@@ -73,14 +73,15 @@
 #  date: 2021-01-01
 #  description: Acrylics on canvas board, 18×24cm. Part of a series on creation.
 
-- file: /paintings/IMG_0129.jpg
+- file: /paintings/2021-05-01-big-ship.jpg
   date: 2021-05-01
   title: Big Ship
   description: Acrylics on paper, 40×30cm. A nautical painting heavily inspired by Montague Dawson.
   featured: yes
 
-- file: /paintings/IMG_9826.jpeg
+- file: /paintings/2021-06-10-zelda.jpeg
   date: 2021-06-10
+  title: Breath of the Wild
   description: 'Acrylics on canvas board, 18×24cm. A Study of a piece of *Zelda: Breath of the Wild* concept art.'
   featured: yes
 
@@ -105,9 +106,17 @@
 
 - file: /paintings/2021-10-24-ocean-cliffs.jpeg
   date: 2021-10-24
+  title: China Cove
   description: Acrylics on canvas board, 30×40cm. A Study of a painting by Romona Youngquist.
+  featured: yes
 
 - file: /paintings/2021-11-13-maxbruecke.jpg
   date: 2021-11-13
   title: 'Blick von der Nürnberger Maxbrücke'
   description: Acrylics on canvas board, 20×20cm. On the left is the "Wasserturm", on the right the "Henkerturm".
+
+- file: /paintings/2021-11-21-ponta-de-sao-lourenco.jpg
+  date: 2021-11-21
+  title: 'Ponta de São Lourenço'
+  description: Acrylics on canvas board, 30×30cm.
+
