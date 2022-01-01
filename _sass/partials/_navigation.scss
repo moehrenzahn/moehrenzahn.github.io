@@ -11,9 +11,10 @@
 		margin: 1em;
 		padding-left: 0;
 	}
-	a {
+	li {
 		margin-right: 1em;
-
+	}
+	a {
 		&.active {
 			font-weight: bold;
 		}

@@ -23,7 +23,6 @@
   border: none;
 }
 .footnote-button:active {
-  //opacity: 0.6;
   border: none;
 }
 .footnote-button.active {
@@ -36,7 +35,7 @@
 .footnote-button:before {
   content: attr(data-footnote-number);
   position: absolute;
-  bottom: 0.56em;
+  bottom: 0.65em;
   left: 0;
   right: 0;
   display: block;

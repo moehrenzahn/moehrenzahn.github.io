@@ -1,4 +1,4 @@
-{% assign paintings = site.data.paintings | reverse %}
+{% assign paintings = site.paintings | reverse %}
 <style>
     #painting-container {
         display: grid;
@@ -6,16 +6,17 @@
         column-gap: 40px;
         row-gap: 40px;
     }
-    .painting a {
+    .painting a h2 {
+        display: inline;
+    }
+    .painting .painting-wrapper {
         display: flex;
         justify-content: flex-start;
         align-items: flex-end;
         flex-wrap: wrap;
         column-gap: 20px;
-        border: none;
     }
     .painting a:hover .painting-img {
-        transform: scale(1.01);
         box-shadow: 0 1px 10px rgba(0,0,0,0.12), 
               0 4px 12px rgba(0,0,0,0.12), 
               0 8px 16px rgba(0,0,0,0.12),
@@ -24,7 +25,7 @@
     .painting-featured {
         display: contents;
     }
-    .painting-featured > a {
+    .painting-featured > .painting-wrapper {
         grid-column: 1 / -1;
     }
     .painting-img {
@@ -45,6 +46,7 @@
     }
     .painting-description h2 {
         margin: 0;
+        margin-bottom: 5px;
     }
 </style>
 
@@ -55,17 +57,26 @@
         {% else %}
             <div class="painting">
         {% endif %}
-            <a href="{{ painting.file }}">
-                <img
-                    class="painting-img"
-                    src="{{ painting.file }}"
-                    alt="{{ painting.title }}" />
+            <div class="painting-wrapper">
+                <a style="border: none" href="{{ painting.url }}">
+                    <img
+                        class="painting-img"
+                        src="{{ painting.file }}"
+                        alt="{{ painting.title }}" />
+                </a>
                 <div class="painting-description">
                     {% if painting.title %}
-                    <h2 class="poster-title">{{ painting.title }}</h2>
+                    <a href="{{ painting.url }}"
+                    class="poster-title">
+                        <h2>{{ painting.title }}</h2>
+                    </a>
                     {% endif %}
                     <div>
-                        <em>{{painting.date | date_to_long_string}}</em><br/>
+                        {% if painting.size %}
+                            {{painting.size}}
+                            <span class="dot">•</span>
+                        {% endif %}
+                        {% include date.html date=painting.date %}
                     </div>
                     {% if painting.description %}
                     <div>
@@ -73,7 +84,7 @@
                     </div>
                     {% endif %}
                 </div>
-            </a>
+            </div>
         </div>
     {% endfor %}
 </div>

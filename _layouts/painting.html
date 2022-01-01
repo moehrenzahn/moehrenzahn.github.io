@@ -1,0 +1,39 @@
+---
+layout: default
+single: true
+---
+
+{% assign painting = page %}
+<article class="hentry" role="article">
+	  {% include painting.html %}
+  	<footer>
+      <div class="meta">
+        <div class="profile-small"><div class="profile-image"></div></div>
+        {% include meta.html %}
+      </div>
+
+      <div class="meta">
+        {% if painting.previous.url %}
+          <div id="previouspost">{% if page.lang == 'en' %}Previous Painting{% else %}Vorheriges Gemälde{% endif %}
+            <br>
+            <a class="basic-alignment left"
+               href="{{page.previous.url}}"
+               title="Previous Painting: {{page.previous.title}}">
+               <img src="{{page.previous.file}}" height="100px" />
+               {{page.previous.title | markdownify | remove: "<p>" | remove: "</p>"}}
+            </a>
+          </div>
+        {% endif %}
+        {% if painting.next.url %}
+          <div id="nextpost">{% if page.lang == 'en' %}Next Painting{% else %}Nächstes Gemälde{% endif %}
+            <br>
+            <a href="{{page.next.url}}"
+               title="Next Painting: {{page.next.title}}">
+               <img src="{{page.next.file}}" height="100px" />
+               {{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}
+            </a>
+          </div>
+        {% endif %}
+      </div>
+    </footer>
+</article>

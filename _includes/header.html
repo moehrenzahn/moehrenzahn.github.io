@@ -5,20 +5,22 @@
             <a class="
                 {% if page.url == item.url or page.url == item.url-de %}active{% endif %}
                 {% if item.title == 'Blog' and page.collection == 'posts' %}active{% endif %}
+                {% if item.title == 'Paintings' and page.collection == 'paintings' %}active{% endif %}
             "
                href="
-                {% if page.lang == 'de' %}
-                    {{ item.url-de | default: item.url }}
-                {% else %}
+                {% if page.lang == 'en' %}
                     {{ item.url }}
-                {% endif %}">
-                {% if page.lang == 'de' %}
-                    {{ item.title-de | default: item.title }}
                 {% else %}
+                    {{ item.url-de | default: item.url }}
+                {% endif %}">
+                {% if page.lang == 'en' %}
                     {{ item.title }}
+                {% else %}
+                    {{ item.title-de | default: item.title }}
                 {% endif %}
             </a>
         </li>
         {% endfor %}
+        <li style="flex-grow: 1;display: flex;justify-content: flex-end; margin: 0">{% include lang-switcher.html %}</li>
     </ul>
 </nav>

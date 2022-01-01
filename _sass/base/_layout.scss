@@ -43,10 +43,13 @@ article {
 	}
 	h1, h2, h3, h4 {
 		font-weight: bold;
+		line-height: calc(1em + 3px);
 	}
 
-	p, blockquote, ul, ol
-		{margin-bottom: 32px;}
+	p, blockquote, ul, ol {
+		margin-top: 0;
+		margin-bottom: 1em;
+	}
 
 	figure, img, iframe, video,  object {
 		display: block;

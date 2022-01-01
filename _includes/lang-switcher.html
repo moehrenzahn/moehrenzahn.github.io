@@ -1,0 +1,32 @@
+{% for item in site.data.navigation %}
+  {% if page.url contains item.url %}
+    {% assign switch_url = item.url-de %} 
+  {% elsif page.url contains item.url-de %}
+    {% assign switch_url = item.url  %} 
+  {% elsif item.title == 'Blog' and page.collection == 'posts' %}
+    {% if page.lang == 'en' %}
+      {% assign switch_url = '/blog' %} 
+    {% else %}
+      {% assign switch_url = '/en/blog' %} 
+    {% endif %}
+  {% elsif item.title == 'Paintings' and page.collection == 'paintings' %} 
+  {% endif %}
+{% endfor %}
+
+{% unless switch_url %}
+  {% if page.lang == 'en' %}
+    {% if page.url contains '/en/' %}
+      {% capture switch_url %}{{ page.url | replace '/en/' '/' }}{% endcapture %} 
+    {% else %}
+      {% assign switch_url = root_url %} 
+    {% endif %}
+  {% else %}
+    {% assign switch_url = '/en' %}
+  {% endif %}
+{% endunless %}
+
+{% if page.lang == 'en' %}
+  <a href="{{ switch_url | absolute_url }}">Wechseln zu Deutsch</a>
+{% else %}
+  <a href="{{ switch_url | absolute_url }}">Switch to English</a>
+{% endif %}

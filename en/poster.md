@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sci-Fi Vector Artwork
-lang: en
 layout-width: 800px
 ---
 

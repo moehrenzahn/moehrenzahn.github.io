@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Impressum
-comments: false
-sharing: false
-footer: true
 ---
 
 Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:

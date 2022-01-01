@@ -11,7 +11,16 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    {% for painting in site.paintings limit:36 %}
+      <item>
+        <title>Gemälde: {{ painting.title | xml_escape }}</title>
+        <description>&lt;img src=&quot;{{ painting.file | absolute_url | xml_escape }}&quot;&gt; {{ painting.content | xml_escape }}</description>
+        <pubDate>{{ painting.date | date_to_rfc822 }}</pubDate>
+        <link>{{ painting.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ painting.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+    {% for post in site.posts limit:36 %}
     {% if post.lang == 'en' %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

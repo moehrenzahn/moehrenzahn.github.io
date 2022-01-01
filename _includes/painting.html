@@ -1,0 +1,42 @@
+<style>
+    .painting-container {
+        max-height: 95vh;
+        width: 100vw;
+        position: relative;
+        left: calc(-50vw + 50%);
+        margin-bottom: 2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .painting-img {
+        width: auto;
+        max-height: 95vh;
+        margin: auto;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.12), 
+              0 4px 4px rgba(0,0,0,0.12), 
+              0 8px 8px rgba(0,0,0,0.12),
+              0 15px 16px rgba(0,0,0,0.12);
+    }
+</style>
+
+<h1 class="entry-title">
+    {% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+</h1>
+
+{% if painting.description %}
+        <em>
+            {{ painting.description | markdownify }}
+        </em>
+    {% endif %}
+
+<div class="painting-container">
+    <img
+        class="painting-img"
+        src="{{ painting.file }}"
+        alt="{{ painting.title }}" />
+</div>
+
+<div class="entry-content">
+    {{ content }}
+</div>

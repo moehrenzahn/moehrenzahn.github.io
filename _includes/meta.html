@@ -1,35 +1,26 @@
-<a href="{% case page.lang %}
-    {% when 'en' %}/en/about
-    {% when else %}/ueber
-  {% endcase %}" class="profile-outer side">
+{% if page.lang == 'en' %}
+  {% assign about_url = '/en/about' %}
+{% else %}
+  {% assign about_url = 'ueber' %}
+{% endif %}
+
+<a href="{{ about_url | absolute_url}}"
+   class="profile-outer side">
   <div class="profile-image side"></div>
 </a>
 <span class="byline author vcard">
-  {% case page.lang %}
-    {% when "en" %}By <a href="/en/about">
-    {% when else %}Von <a href="/ueber">
-  {% endcase %}
+  {% if page.lang == 'en' %}
+    By <a href="{{ about_url | absolute_url }}">
+  {% else %}
+    Von <a href="{{ about_url | absolute_url }}">
+  {% endif %}
   Max Melzer</a><span class="dot">•</span>
 </span>
-{% if page.lang == 'en' %}
-  <time>{{ page.date | date_to_long_string }}</time>
-{% else %}
-  {% assign m = page.date | date: "%-m" %}
-  <time>{{ page.date | date: "%-d." }}
-  {% case m %}
-    {% when '1' %}Januar
-    {% when '2' %}Februar
-    {% when '3' %}M&auml;rz
-    {% when '4' %}April
-    {% when '5' %}Mai
-    {% when '6' %}Juni
-    {% when '7' %}Juli
-    {% when '8' %}August
-    {% when '9' %}September
-    {% when '10' %}Oktober
-    {% when '11' %}November
-    {% when '12' %}Dezember
-  {% endcase %}
-  {{ page.date | date: "%Y" }}</time>
-{% endif %}
+{% include date.html date=page.date %}
 
+{% if page.size %}
+  <span class="dot">•</span>{{page.size}}
+{% endif %}
+{% if page.materials %}
+  <span class="dot">•</span>{{ page.materials }}
+{% endif %}

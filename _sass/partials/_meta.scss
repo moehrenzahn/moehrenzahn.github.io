@@ -37,4 +37,17 @@ footer // contains pagination links, metadata and sharing
 		margin-bottom: 10px;
 		}
 	}
+
+	#nextpost, #previouspost {
+		a {
+			img {
+				object-fit: cover;
+				transition: opacity .3s;
+				opacity: .5;
+			}
+			&:hover img {
+				opacity: 1;
+			}
+		}
+	}
 }

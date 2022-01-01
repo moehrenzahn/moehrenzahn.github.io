@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Landscape Paintings
-lang: en
 layout-width: 1200px
 ---
 

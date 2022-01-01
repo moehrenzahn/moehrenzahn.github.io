@@ -48,11 +48,11 @@ function prepareFilename(string $date, string $title): string
 {
     $title = strtolower($title);
     $title = str_replace([' ', '–', '—', '|', '/', '\\', '&', '#'], '-', $title);
-    
+
     while (strpos($title, '--') !== false) {
         $title = str_replace('--', '-', $title);
     }
-    
+
     return "$date-$title.md";
 }
 

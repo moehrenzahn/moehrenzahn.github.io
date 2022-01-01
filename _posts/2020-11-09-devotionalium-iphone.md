@@ -2,7 +2,6 @@
 layout: post
 title: Devotionalium für iPhone
 categories: [Theologie, Technologie, devotionalium, software]
-lang: de
 link: https://devotionalium.com/ios
 ---
 
