@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landscape Paintings
+title: Paintings
 layout-width: 1200px
 ---
 
