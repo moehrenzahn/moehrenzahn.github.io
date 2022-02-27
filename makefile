@@ -8,3 +8,5 @@ update:
 	git push origin master
 new:
 	./_scripts/new-post.php $$(pbpaste)
+post-painting:
+	./_scripts/share-painting.py
