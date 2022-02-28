@@ -18,13 +18,13 @@ def remove_prefix(input_string, prefix):
 
 paintingMdPath = os.path.dirname(os.path.realpath(__file__)) + '/../_paintings'
 paintingMds = sorted(os.listdir(paintingMdPath))
-lastFileName = paintingMdPath + '/' + paintingMds[-1];
+lastFileName = paintingMds[-1];
 
 print('Using %s' % lastFileName)
 
-url = 'https://moehrenzahn.de/paintings/%s' % remove_suffix(lastFileName, ".md")
+url = 'https://moehrenzahn.de/paintings/%s/' % remove_suffix(lastFileName, ".md")
 
-with open(lastFileName, 'r') as file:
+with open(paintingMdPath + '/' + lastFileName, 'r') as file:
     text = file.read()
 
 lines = text.splitlines()
@@ -45,9 +45,10 @@ text = "Neues Gemälde: %s. %s, %s\n\n%s" % (paintingTitle, paintingMaterials, p
 shareUrls = [
     'https://instagram.com',
     'https://facebook.com/sharer.php?u=%s' % urllib.parse.quote(url),
-    'https://twitter.com/intent/tweet?url=%s&text=%s&via=moehrenzahn' % (urllib.parse.quote(url), urllib.parse.quote(text)),
+    'https://twitter.com/intent/tweet?url=%s&text=%s' % (urllib.parse.quote(url), urllib.parse.quote(text)),
 ]
 
+print(url)
 print(text)
 
 subprocess.run("pbcopy", universal_newlines=True, input=text)
