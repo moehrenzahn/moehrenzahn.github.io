@@ -2,7 +2,7 @@
 title: Stillleben-Studie von Pieter Claesz
 file: /paintings/2021-12-31-stillleben-claesz.jpg
 date: 2021-12-31
-size: 30×40cm
+size: 40×30cm
 materials: Acrylics on canvas board
 ---
 

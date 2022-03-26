@@ -4,7 +4,7 @@ file: /paintings/2022-02-27-lago-di-garda.jpg
 date: 2022-02-27
 size: 70×50cm
 materials: Acrylics on stretched canvas
-featured: yes
+featured: no
 ---
 
 This is a study of [a painting of Lake Garda by italian Painter Mario Moretti Foggia](https://www.proantic.com/en/display.php?mode=obj&id=844407).
