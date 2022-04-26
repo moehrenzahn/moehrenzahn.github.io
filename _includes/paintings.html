@@ -1,10 +1,16 @@
 {% assign paintings = site.paintings | reverse %}
 <style>
+    #content {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
     #painting-container {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 275px), 1fr));
         column-gap: 40px;
         row-gap: 40px;
+        padding: 20px 0;
     }
     .painting a h2 {
         display: inline;

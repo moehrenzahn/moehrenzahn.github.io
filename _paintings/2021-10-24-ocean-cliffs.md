@@ -2,7 +2,7 @@
 file: /paintings/2021-10-24-ocean-cliffs.jpeg
 date: 2021-10-24
 title: China Cove
-description: A Study of a painting by Romona Youngquist.
+description: Study after Romona Youngquist.
 size: 30×40cm
 materials: Acrylics on canvas board
 featured: yes
