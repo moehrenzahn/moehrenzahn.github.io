@@ -2,6 +2,7 @@
 layout: page
 title: Paintings
 layout-width: 1200px
+regenerate: true
 ---
 
 I occasionally like to paint landscapes and other subjects in acrylics. This is an archive of most of my presentable paintings.
