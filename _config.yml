@@ -11,6 +11,10 @@ collections:
       layout: painting
       sort_by: date
       output: true
+   projects:
+      layout: project
+      sort_by: date
+      output: true
 
 defaults:
   -
@@ -20,6 +24,13 @@ defaults:
     values:
       layout: painting
       lang: en # All painting pages are in english
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: projects
+    values:
+      layout: project
+      layout-width: 900px
   -
     scope:
       path: "/en/*"

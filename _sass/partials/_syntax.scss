@@ -63,7 +63,7 @@ html .gist .gist-file {
       position: absolute; top: 0; left:0; right:-10px;
       color: #474747 !important;
       @extend .code-title;
-      &:hover { color: $color !important; border: none;}
+      &:hover { color: var(--color) !important; border: none;}
     }
     a[href*=raw]{
       @extend .download-source;
@@ -239,7 +239,7 @@ figure.code {
   text-align: left;
   font-size: $metatext;
   //padding-left: 1em;
-  color: $text-color-light;
+  color: var(--text-color-light);
   font-weight: normal;
   font-family: $sans;
   //background: #EDEDED;
@@ -250,5 +250,5 @@ figure.code {
 
 .download-source {
   position: absolute; right: .8em;
-  color: $text-color-light;
+  color: var(--text-color-light);
   font-size: $metatext;}

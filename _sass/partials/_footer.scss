@@ -8,7 +8,7 @@ footer.bottom {
 	p, span {
 		font-family: $sans;
 		line-height: 1.7;
-		color: $text-color-light;}
+		color: var(--text-color-light);}
 	a {white-space:nowrap;}
 	span.subscription {white-space:nowrap;}
 }

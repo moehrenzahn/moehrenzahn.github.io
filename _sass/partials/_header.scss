@@ -1,5 +1,5 @@
 body {
-	border-top: solid 6px $color;
+	border-top: solid 6px var(--color);
 }
 
 #banner {
@@ -11,7 +11,7 @@ h2.bannertext {
 	font-family: $header-subtitle-font-family;
 	font-size: $metatext * 1.05;
 	font-weight: normal;
-	color: $text-color-light;
+	color: var(--text-color-light);
 	padding: 10px 10px;
 	padding-right: 50px;
 	padding-bottom: 1em;
@@ -29,5 +29,5 @@ a.titlelink {
 	transition: color .3s;
 }
 a.titlelink:hover {
-	color: $color !important;
+	color: var(--color) !important;
 }

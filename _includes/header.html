@@ -1,11 +1,13 @@
 <nav class="header-menu">
     <ul>
         {% for item in site.data.navigation %}
+        {% unless item.hidden %}
         <li>
             <a class="
                 {% if page.url == item.url or page.url == item.url-de %}active{% endif %}
                 {% if item.title == 'Blog' and page.collection == 'posts' %}active{% endif %}
                 {% if item.title == 'Paintings' and page.collection == 'paintings' %}active{% endif %}
+                {% if item.title == 'Projects' and page.collection == 'projects' %}active{% endif %}
             "
                href="
                 {% if page.lang == 'en' %}
@@ -20,6 +22,7 @@
                 {% endif %}
             </a>
         </li>
+        {% endunless %}
         {% endfor %}
         <li style="flex-grow: 1;display: flex;justify-content: flex-end; margin: 0">{% include lang-switcher.html %}</li>
     </ul>

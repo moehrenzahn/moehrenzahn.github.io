@@ -19,7 +19,7 @@
   transition: background 0.3s;
 }
 .footnote-button:hover {
-  background-color: $color;
+  background-color: var(--color);
   border: none;
 }
 .footnote-button:active {

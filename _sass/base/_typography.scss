@@ -4,7 +4,7 @@ body {
 	font-smoothing: subpixel-antialiased;
 	font-size: $bodytext;
 	font-family: $sans;
-	color: $text-color;
+	color: var(--text-color);
 	line-height: 1.6;
 	word-wrap: break-word;
 	word-wrap: break-word;
@@ -27,7 +27,7 @@ h1.entry-title {
 		font-weight: 600;
 	}
 .entry-slug {
-	color: $text-color-light;
+	color: var(--text-color-light);
 }
 
 /* Article content */
@@ -40,7 +40,7 @@ sup, sub { font-size: 0.75em; position: relative;  display: inline-block; paddin
 sup {
 	top: -.5em;
 	a {border: none; transition: color $transition-time;}
-	a:hover {color: $color; border: none;}
+	a:hover {color: var(--color); border: none;}
 }
 sub { bottom: -.5em; }
 a[rev='footnote']{
@@ -49,7 +49,7 @@ a[rev='footnote']{
 	border: none;
 	transition: color $transition-time;
 }
-a[rev='footnote']:hover {border: none; color: $color;}
+a[rev='footnote']:hover {border: none; color: var(--color);}
 
 h1, h2, h3, h4 {font-family: $heading-font-family;
 	font-weight: 600; line-height: 1.5;margin-bottom: 31px;}
@@ -72,12 +72,12 @@ article blockquote
 	{
 		padding: 0 .7em;
 		margin-left: .5em; margin-right: .5em;
-		border-left: 3px solid $color;
+		border-left: 3px solid var(--color);
 		font-style: italic;
 			cite {
 			font-style: italic;
-				a { color: $text-color-light !important; word-wrap: break-word; }
-			&:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
+				a { color: var(--text-color-light) !important; word-wrap: break-word; }
+			&:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: var(--text-color-light); }
 				}
 	}
 
@@ -96,17 +96,17 @@ footer {
 }
 
 .blog-index time, .entry-time, .comment_header {
-	color: $text-color-light;
+	color: var(--text-color-light);
 }
 
-time {color: $text-color-light; padding-top: 3px;}
-footer time {color: $text-color-light;}
+time {color: var(--text-color-light); padding-top: 3px;}
+footer time {color: var(--text-color-light);}
 
 footer.read-on a {
 	color: white;
 }
 
-.meta {color: $text-color-light;}
+.meta {color: var(--text-color-light);}
 
 
 
@@ -122,8 +122,8 @@ div.pagination
 	font-size: $metatext;
 }
 
-.comment_name {font-weight: normal; color: $text-color;}
-.comment_date {font-weight: normal; color: $text-color-light;}
+.comment_name {font-weight: normal; color: var(--text-color);}
+.comment_date {font-weight: normal; color: var(--text-color-light);}
 .comment_p {font-size: $footnotetext;}
 
 figcaption {
@@ -131,7 +131,7 @@ figcaption {
 	font-size: 95%;
 	line-height: 1.5;
 	font-style: italic;
-	color: $text-color-light;
+	color: var(--text-color-light);
 	text-align: right;
 	margin-bottom: 1em;
 	padding: 3px;
@@ -143,3 +143,7 @@ figcaption {
 .sharing .dot {margin-left: 7px !important; margin-right: 4px !important;}
 
 .sharing {margin-bottom: 27px; margin-top: 27px;}
+
+.color {
+	color: var(--color);
+}

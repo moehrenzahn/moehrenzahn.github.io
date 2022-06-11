@@ -1,15 +1,14 @@
 {% assign paintings = site.paintings | reverse %}
 <style>
     #content {
-        padding-left: 40px;
-        padding-right: 40px;
+        padding-left: var(--gutter-width);
+        padding-right: var(--gutter-width);
     }
 
     #painting-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(min(100%, 275px), 1fr));
-        column-gap: 40px;
-        row-gap: 40px;
+        gap: var(--gutter-width);
         padding: 20px 0;
     }
     .painting a h2 {

@@ -6,7 +6,7 @@
 h1, nav
 {
 	a, a:visited, a:hover {border-bottom: 3px solid transparent;}
-	a:hover {border-color: $color}
+	a:hover {border-color: var(--color)}
 	a {
 	    transition: border-color .3s}
 }
@@ -14,12 +14,12 @@ h1, nav
 a, a:visited
 	{
 		text-decoration: none;
-		color: $text-color;
+		color: var(--text-color);
 		border-bottom: 2px solid #D9D9D9;
 		transition: border-color .3s;
 		&:hover {
 			text-decoration: none;
-			border-color: $color;
+			border-color: var(--color);
 		}
 		&:focus {
 			text-decoration: none;

@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Sci-Fi Vector Artwork
-layout-width: 800px
+layout: showcase
+title: Star Wars Posters
+layout-width: 900px
 ---
 
-Some years ago, while I was still a university student, I had a bit of a creative phase and made a bunch of stylised posters based on classic movie scenes. These look great on a wall or as desktop wallpaper.
+Some years ago, while I was still a university student, I had a bit of a creative phase and made a bunch of stylised Star Wars posters.
 
 Feel free to download them for personal use. If you want to use my artwork for anything else, please [get in touch](mailto:max@moehrenzahn.de)!
 

@@ -1,5 +1,4 @@
 .about {
-
 	img {
 		max-width: 100%;
 	}
@@ -11,11 +10,10 @@
 	transition: all .3s ease-in-out;
 	> [class^='about-'] {
 		display: flex;
+		flex-direction: column;
 		align-items: center;
 		justify-content: center;
 		> div {
-			> * {
-			}
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
@@ -58,7 +56,7 @@
 			.button {
 				margin-top: 1em;
 				font-size: 1em;
-				background: #FF670F;
+				background: var(--color);
 				color: white;
 			}
 		}
@@ -92,186 +90,51 @@
 				border-radius: 50%;
 				transition: transform .3s, color .3s;
 				&:hover {
-					color: #FF670F;
+					color: var(--color);
 					transform: scale(1.2);
 				}
 			}
 		}
 	}
-	.about-customers {
-		background: rgb(240, 240, 240);
-		padding: 6em 0;
-		> div {
-			h2 {
-				line-height: .8em;
-				font-size: 3em;
-				text-align: center;
-				margin-bottom: 1em;
-			}
-			.customers-grid {
-				max-width: 80%;
-				margin: 0 auto;
-				display: flex;
-				align-items: center;
-				justify-content: center;
-				flex-wrap: wrap;
-
-				> img {
-					margin: 40px;
-					max-height: 75px;
-				}
-			}
-		}
-	}
-	.about-projects {
-		padding: 10rem 0 3em;
-		background: #f7f7f7;
-
-		.title {
-			text-align: center;
-
-			h2 {
-				line-height: .8em;
-				font-size: 3em;
-				margin-bottom: .8em;
-			}
-
-			p {
-				opacity: .8;
-				font-size: 1.5em;
-				margin: 50px 0;
-			}
-		}
-
-		div[class^='project-'] {
-			background: white;
-			flex-direction: column;
-			box-shadow: 0 5px 20px rgba(0,0,0,.01);
-			max-width: 1100px;
-			padding: 6rem;
-			margin-bottom: 3rem;
-
-			h3 {
-				line-height: .8em;
-				margin-bottom: .3em;
-				font-size: 6em;
-				color: #FF670F
-			}
-			h4 {
-				font-size: 2.5em;
-				font-weight: bolder;
-				line-height: 1.1em;
-			}
-
-			p {
-				opacity: .7;
-				max-width: 700px;
-				font-size: 1.5em;
-				line-height: 1.45em;
-				strong {
-					color: black;
-				}
-			}
-			img {
-				display: block;
-				width: 100%;
-				height: auto;
-				margin-top: 4rem;
-				margin-bottom: 5rem;
-				border-radius: 2px;
-				box-shadow: 0 7.5px 25px rgba(0,0,0,.25);
-				transform: scale(1.02);
-				transition: all .2s ease-out;
-			}
-			img:not(:last-of-type) {
-				margin-bottom: 10rem;
-			}
-
-			h3, h4, p {
-				margin-bottom: 20px;
-			}
-
-			.button-container {
-				text-align: right;
-
-				a.visit-page {
-					color: #555;
-					font-size: 1.2em;
-					background: #f4f4f4;
-				}
-			}
-
-		}
-	}
 
 	.about-contact {
-		font-size: 1.5em;
-		position: relative;
-		flex-direction: column;
-		justify-content: space-between;
+		padding: 5rem 1rem;
 		text-align: center;
-		padding: 10rem 1rem;
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+		
+		h2 {
+			font-size: 3em;
+		}
 
 		p {
+			color: var(--text-color-light);
+			font-size: 1.5em;
 			max-width: 700px;
-			margin-bottom: .5em;
-		}
-
-		.button {
-			background: #FF670F;
-			color: white;
-		}
-		.footer {
-			align-self: flex-end;
-			justify-self: flex-end;
-			margin-top: 3rem;
-			font-size: 17px;
-			text-align: right;
-			ul, li {
-				list-style: none;
-			}
-			a {
-				display: inline-block;
-				color: white;
-				margin-right: 1em;
-			}
-			li {
-				display: inline-block;
-			}
 		}
 	}
 
-	.about-contact-big {
-		background-image: url(../images/about/contact-bg.png);
-		color: white;
-		min-height: 80vh;
-		font-size: 1.6em;
-		padding: 20px 0;
+	.about-projects {
+		padding: 5rem 1rem;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
 
-		.button {
-			margin-top: 5vw;
+		h2 {
+			font-size: 3em;
 		}
 
-		a {
-			color: white;
+		p {
+			color: var(--text-color-light);
+			font-size: 1.5em;
 		}
 	}
 
-	.color {
-		color: #FF670F;
-	}
-
-	.button {
-		display: inline-block;
-		font-weight: bolder;
-		background: #f4f4f4;
-		padding: .5em 1.5em;
-		border-radius: calc(.9em + 20px);
-		&:active {
-			border: none;
-			transform: translateY(2px);
-			margin-bottom: 2px; // Make up for the hidden border;
-		}
+	#projects-container {
+		padding-left: var(--gutter-width);
+		padding-right: var(--gutter-width);
 	}
 }
 
@@ -297,19 +160,6 @@
 	}
 }
 
-// dark mode
-@media (prefers-color-scheme: dark) {
-	.about {
-		.about-customers h2, .about-projects p {
-			color: $text-color;
-		}
-
-		.title > * {
-			color: $text-color;
-		}
-
-	}
-}
 
 @media (max-width: 769px) {
 	.about {
@@ -323,12 +173,6 @@
 				max-width: 100%;
 				margin: 1rem;
 			}
-		}
-		.about-contact {
-			padding: 3rem 1rem;
-		}
-		.about-projects div[class^='project-'] {
-			padding: 1rem;
 		}
 	}
 }

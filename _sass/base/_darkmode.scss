@@ -2,21 +2,18 @@
 @media (prefers-color-scheme: dark) {
 
 	body {
-		background: #222;
-        color: #6B6B6B !important;
-
 		a.bannertext:hover {
-			color: $color;
+			color: var(--color);
 		}
 
 		a, a:visited {
 			border-bottom-color: #777;
 		}
 		a:hover {
-			border-bottom-color: $color;
+			border-bottom-color: var(--color);
 		}
 		h1,  h2,  p,  a, a:visited {
-			color: #bbb;
+			color: var(--text-color);
 		}
 		article.hentry {
 			code, figcaption {
@@ -35,15 +32,15 @@
                 color: #aaa;
             }
             .footnote-button:before {
-                color: $text-color;
+                color: var(--text-color);
             }
             .footnote-content,  .tooltip,  .footnote-main-wrapper {
-                background-color: $text-color;
-                border-color: $text-color;
+                background-color: var(--text-color);
+                border-color: var(--text-color);
             }
             .footnote-content-wrapper {
-                background: $text-color;
-                border-color: $text-color;
+                background: var(--text-color);
+                border-color: var(--text-color);
             }
             .footnote-content.scrollable {
                 .footnote-main-wrapper:before,  .footnote-main-wrapper:after {

@@ -1,7 +1,6 @@
 /* Variables */
 
-$max-width: 600px;
-$color: #FF670F;
+$max-width: 700px;
 $background-color: white;
 $footer-color: #404040;
 $button-color: #F0F0F0;
@@ -20,10 +19,28 @@ $bodytext: 18px;
 $metatext: 90%;
 $footnotetext: 97%;
 
-//Font colors
+:root {
+    --text-color: #383838;
+    --text-color-light: #6B6B6B;
+    --color: #FF670F;
+    --background: white;
+    --gutter-width: 1rem;
+}
 
-$text-color-light: #6B6B6B;
-$text-color: #383838;
+@media screen and (min-width: 600px) {
+    :root {
+        --gutter-width: 40px;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #bbb;
+        --text-color-light: rgb(155, 155, 155);
+        --color: #fd6d1a;
+        --background: #222;
+    }
+}
 
 @import "base/layout";
 @import "base/solarized";

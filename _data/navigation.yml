@@ -4,6 +4,11 @@
 - title: Blog
   url: /en/blog/
   url-de: /blog/
+- title: Projects
+  title-de: Projekte
+  url: /en/projects/
+  url-de: /projects/
+  hidden: true
 - title: Paintings
   title-de: Malerei
   url: /en/paintings/
@@ -12,7 +17,8 @@
   title-de: Sci-Fi Poster
   url: /en/poster/
   url-de: /poster/
+  hidden: true
+- title: GitHub
+  url: https://github.com/moehrenzahn/
 - title: Twitter
   url: https://www.twitter.com/_maxmelzer/
-- title: Devotionalium
-  url: https://devotionalium.com/about

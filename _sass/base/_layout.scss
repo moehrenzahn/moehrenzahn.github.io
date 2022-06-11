@@ -1,6 +1,7 @@
 body {
 	box-sizing: border-box;
-	background-color: $background-color;
+	background: var(--background);
+	color: var(--text-color);
 	padding: 0;
 	margin: 0;
 }
@@ -9,7 +10,7 @@ body {
 
 #content, footer.bottom {
 	margin: 0 auto;
-	padding: 1.5em 10px;
+	padding: 1.5em var(--gutter-width);
 	max-width: $max-width;
 	@media only screen and (min-width: 800px) {
 		max-width: $max-width * 1.1;}
@@ -18,7 +19,6 @@ body {
 /* Padding and line between "article"-elements */
 
 article {
-	display: inline-block;
 	padding-bottom: .5em;
 }
 
@@ -135,12 +135,12 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 	overflow: hidden;
 	margin-bottom: 40px;
 	border-radius: 50%;
-	background-color: $text-color-light;
-	border: 2px solid $text-color-light !important;
+	background-color: var(--text-color-light);
+	border: 2px solid var(--text-color-light) !important;
 	transition: border $transition-time;
 }
 .profile-outer:hover {
-	border-color: $color !important;
+	border-color: var(--color) !important;
 }
 .profile-image {
 	background: url("/images/me.jpeg") no-repeat center center;
@@ -186,7 +186,7 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 	transition: border $transition-time;
 }
 .project-image:hover {
-	border: 2px solid $color;
+	border: 2px solid var(--color);
 }
 
 
@@ -210,7 +210,7 @@ h1.entry-title.index {
 // :before headings
 
 @media only screen and (max-width: $max-width) {
-	.entry-title {
+	.entry-title.linklog {
 		padding-left: 25px;
 	}
 }
@@ -258,7 +258,7 @@ a.index-link {
 }
 a.index-link:hover {
 	border: none;
-	.entry-title {border-color: $color;}
+	.entry-title {border-color: var(--color);}
 	.entry-title.index:before {
 		background: url("/images/moehre.png") no-repeat center center;
 		background-size: 100%;
@@ -278,7 +278,7 @@ span.entry-content-excerpt {
 	overflow: hidden;
 	max-height: 4.8em;
 	position: relative;
-	color: $text-color-light;
+	color: var(--text-color-light);
 	//font-size: $footnotetext;
 }
 span.entry-content-excerpt:after {
@@ -295,4 +295,8 @@ span.entry-content-excerpt:after {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 );
 	bottom: 0;
 	right: 0;
+}
+
+footer {
+	font-size: 1rem !important;
 }

@@ -1,4 +1,5 @@
 ---
+regenerate: true
 ---
 
 {% include head.html %}
@@ -9,20 +10,18 @@
         <div class="spacer"></div>
         <div class="copy">
             <h2><span class="color">Hello,</span> my name is Max Melzer.</h2>
-            <p>I am a german theologian and software developer.</p>
+            <p>I am a theologian and software developer from Germany.</p>
         </div>
         <div class="scroll-down-button-container nav"><a href="#about-contact" class="scroll-down">↓</a></div>
     </div>
-    <div class="about-contact" id="about-contact">
-        <div class="spacer"></div>
-        <div>
-            {{ 'If you want to follow my writing you can [subscribe to the RSS feed](/en/feed.xml) or [follow this site’s feed on Twitter (&#64;moehrenzahn)](https://twitter.com/moehrenzahn).' | markdownify }}
-
-            {{ 'I also occasionally publish small snippets of code [on GitHub](https://github.com/moehrenzahn).' | markdownify }}
-
-            {{ 'You can contact me on Twitter at [@_maxmelzer](http://www.twitter.com/_maxmelzer) or send me an email to [max@moehrenzahn.de](mailto:max@moehrenzahn.de).' | markdownify }}
-        </div>
+    <div id="about-projects" class="about-projects">
+        <h2 class="scroll-effect">Portfolio</h2>
+        <p>Here are some of the projects I built for customers or for myself</p>
     </div>
+    {% include projects.html %}
+    
+
 </div>
+
 
 {% include footer.html %}

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<style>
+  .showcase h1.entry-title {
+    text-align: center;
+  }
+  .showcase p {
+    color: var(--text-color-light);
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .showcase p strong {
+    color: var(--text-color);
+  }
+
+  @media (min-width: 769px) {
+    .showcase h1.entry-title {
+      font-size: 3rem;
+    }
+    .showcase p {
+      font-size: 1.5em;
+    }
+    .showcase p:last-of-type {
+    margin-bottom: 3rem;
+  }
+  }
+
+</style>
+
+<div>
+<article class="showcase" role="article">
+  {% if page.title %}
+  <header id="top-header">
+    <h1 class="entry-title page">{{ page.title }}</h1>
+  </header>
+  {% endif %}
+  {{ content }}
+</article>
+</div>

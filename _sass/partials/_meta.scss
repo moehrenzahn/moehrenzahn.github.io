@@ -6,10 +6,10 @@ article.hentry
 footer // contains pagination links, metadata and sharing
 	{
 	font-size: $metatext;
-	color: $text-color-light;
+	color: var(--text-color-light);
 	margin-top: 30px;
 	padding-top: 30px;
-	time {color: $text-color;}
+	time {color: var(--text-color);}
 	#comments {
 		font-size: $bodytext;
 		@media only screen and (max-width: 480px) {font-size: $bodytext * .8;}

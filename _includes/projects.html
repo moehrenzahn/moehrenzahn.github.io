@@ -1,0 +1,112 @@
+{% assign projects = site.projects | reverse %}
+<style>
+    #content {
+        padding-left: var(--gutter-width);
+        padding-right: var(--gutter-width);
+    }
+
+    .project-link {
+        display: contents;
+    }
+    .project-link:hover .project-title {
+        color: var(--color);
+    }
+    .project-link:hover .project-img {
+        opacity: 1;
+    }
+
+    #projects-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 275px), 1fr));
+        gap: var(--gutter-width);
+        padding: 20px 0;
+    }
+    .project-preview {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    .project-img {
+        width: 100%;
+        aspect-ratio: 4/3;
+        object-fit: cover;
+        border-radius: 5px;
+        opacity: .9;
+        transition: opacity .3s;
+        margin-bottom: 5px;
+    }
+    .project-title {
+        margin: 0;
+        line-height: 1;
+        font-size: 1.4rem;
+        transition: color .3s;
+    }
+    .project-description {
+        color: var(--text-color-light);
+        line-height: 1.3;
+    }
+
+    #contact {
+		font-size: 1.5em;
+        max-width: 700px;
+        margin: 0 auto;
+		flex-direction: column;
+		justify-content: space-between;
+        gap: 10px;
+		text-align: center;
+		padding: 5rem 1rem;
+    }
+	#contact .button {
+        display: inline-block;
+		font-weight: bolder;
+		padding: .5em 1.5em;
+		border-radius: calc(.9em + 20px);
+        background: var(--color);
+        color: white;
+        transition: all .3s;
+    }
+    #contact .button:active {
+        border: none;
+        transform: translateY(2px);
+        margin-bottom: 2px;
+    }
+
+</style>
+
+<div id="projects-container">
+    {% for project in projects %}
+        {% capture defaultImage %}
+            /images/projects/{{ project.slug }}.jpg
+        {% endcapture %}
+
+        {% if project.content != "" %}
+            <a class="project-link" title="{{ project.title }}" href="{{ project.url }}">
+        {% else %}
+            <a class="project-link" title="{{ project.title }}" href="{{ project.link }}" target="_blank">
+        {% endif %}
+        <div class="project-preview">
+            <img
+                class="project-img"
+                src="{{ project.image | default: defaultImage }}"
+                alt="{{ project.title }}" />
+
+            {% if project.title %}
+                <h2 class="project-title">{{ project.title }}</h2>
+            {% endif %}
+            <div class="category-container">
+                {{ project.date | date: "%Y" }}
+                {% for category in project.categories %}
+                    <div class="category-pill">{{ category }}</div>
+                {% endfor %}
+            </div>
+            {% if project.description %}
+                <div class="project-description">
+                    {{project.description | markdownify | remove: "<p>" | remove: "</p>"}}
+                </div>
+            {% endif %}
+        </div>
+    </a>
+    {% endfor %}
+</div>
+
+{% include contact.html %}

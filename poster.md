@@ -1,13 +1,13 @@
 ---
-layout: page
-title: Sci-Fi Poster
+layout: showcase
+title: Star Wars Poster
 lang: de
-layout-width: 800px
+layout-width: 900px
 ---
 
-Vor einigen Jahren, als ich noch Student war, hatte ich eine kleine kreative Phase und bastelte eine Reihe von stylisierten Postern im Stil klassischer Filmszenen. Sie sehen toll aus, sowohl an einer Wand als auch als Bildschirmhintergrund.
+Vor einigen Jahren, als ich noch Student war, hatte ich eine kreative Phase und bastelte eine Reihe von Star Wars Postern.
 
-Du kannst diese Bilder hier gern zur persönlichen Nutzung herunterladen. Wenn du meine Kunst für etwas anderes benutzen möchtest, bitte [melde dich bei mir](mailto:max@moehrenzahn.de)!
+Du kannst diese Bilder hier gern zum persönlichen Gebrauch herunterladen. Wenn du sie für etwas anderes benutzen möchtest, bitte [melde dich bei mir](mailto:max@moehrenzahn.de)!
 
 {% include scifi-poster.html %}
 

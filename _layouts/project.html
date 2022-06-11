@@ -1,0 +1,71 @@
+---
+layout: default
+layout-width: 900px
+single: true
+---
+
+{% assign project = page %}
+
+{% capture defaultImage %}
+    /images/projects/{{ project.slug }}.jpg
+{% endcapture %}
+
+<article class="hentry project" role="article">
+
+  <h1 class="entry-title">
+    {% if project.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ project.title | markdownify | remove: "<p>" | remove: "</p>" }}
+  </h1>
+
+  <div class="category-container">
+  {% for category in project.categories %}
+    <div class="category-pill">{{ category }}</div>
+  {% endfor %}
+  </div>
+  {% if project.description %}
+    <h2 class="description">
+        {{ project.description | markdownify | remove: "<p>" | remove: "</p>" }}
+    </h2>
+  {% endif %}
+
+  <img
+    class="project-img"
+    src="{{ project.image | default: defaultImage }}"
+    alt="{{ project.title }}" />
+
+
+  <div class="entry-content">
+    {{ content }}
+  </div>
+
+  <div class="button-container">
+    <a class="visit-page button" href="{{ project.link }}" target="_blank">Zum Projekt</a>
+  </div>
+  <footer>
+    <div class="meta">
+      <div class="profile-small"><div class="profile-image"></div></div>
+      {% include meta.html %}
+    </div>
+
+    <div class="meta">
+      {% if project.previous.url %}
+        <div id="previouspost">{% if page.lang == 'en' %}Previous project{% else %}Vorheriges Projekt{% endif %}
+          <br>
+          <a class="basic-alignment left"
+              href="{{page.previous.url}}"
+              title="Previous project: {{page.previous.title}}">
+              {{page.previous.title | markdownify | remove: "<p>" | remove: "</p>"}}
+          </a>
+        </div>
+      {% endif %}
+      {% if project.next.url %}
+        <div id="nextpost">{% if page.lang == 'en' %}Next project{% else %}Nächstes Projekt{% endif %}
+          <br>
+          <a href="{{page.next.url}}"
+              title="Next project: {{page.next.title}}">
+              {{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </footer>
+</article>

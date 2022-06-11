@@ -5,7 +5,7 @@ lang: de
 
 <div class="blog-index">
   {% assign index = true %}
-  {% for post in site.posts limit:15 %}
+  {% for post in site.posts limit:25 %}
     {% assign content = post.content %}
       <article>
         {% include article.html %}
