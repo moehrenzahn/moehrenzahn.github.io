@@ -300,3 +300,41 @@ span.entry-content-excerpt:after {
 footer {
 	font-size: 1rem !important;
 }
+
+.centered {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.button, a.button, a.button:visited {
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-weight: bolder;
+	max-width: 75%;
+	padding: .75em 1.3em;
+	line-height: 1;
+	border-radius: calc(1em + (.75em * 2));
+	border: none;
+	box-shadow: 3px 5px 0 var(--text-color-light);
+	background-color: var(--text-color);
+	color: var(--background);
+	opacity: .8;
+	transition: all .3s;
+}
+.button:hover {
+	opacity: 1;
+}
+.button:active {
+	box-shadow: none !important;
+	transform: translateY(5px);
+}
+.button.big {
+	font-size: 2rem !important;
+}
+.button.cta, a.button.cta, a.button.cta:visited {
+	background: var(--color);
+	box-shadow: 3px 5px 0 #ddd;
+}

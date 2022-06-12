@@ -44,31 +44,10 @@
 	h3, h4, p {
 		margin-bottom: 20px;
 	}
-
-	.button {
-		display: inline-block;
-		font-weight: bolder;
-		background: #f4f4f4;
-		padding: .5em 1.5em;
-		border-radius: calc(.9em + 20px);
-		&:active {
-			border: none;
-			transform: translateY(2px);
-			margin-bottom: 2px; // Make up for the hidden border;
-		}
-	}
-
-	.button-container {
-		a.visit-page {
-			color: #555;
-			font-size: 1.2rem;
-			background: #f4f4f4;
-		}
-	}
 }
 
 .category-container {
-	display: flex;
+	display: inline-flex;
 	flex-wrap: wrap;
 	gap: 10px;
 	align-items: center;

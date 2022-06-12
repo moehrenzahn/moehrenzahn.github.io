@@ -1,6 +1,6 @@
 {% if page.lang == 'en' %}
   <time>
-    {{ include.date | date_to_long_string }}
+    {{ include.date | date_to_long_string: "ordinal", "US" }}
   </time>
 {% else %}
   {% assign m = include.date | date: "%-m" %}
