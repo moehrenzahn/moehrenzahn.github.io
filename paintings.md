@@ -8,6 +8,6 @@ regenerate: true
 
 Seit 2020 male ich hobbymäßig **Landschaften und andere Sachen** in Acrylfarben. Dies ist ein Archiv meiner vorzeigbaren Bilder.
 
-Darüber hinaus habe ich auch eine **[Sammlung von Star Wars Postern](/poster)**.
+Dazu gibt es auch eine Sammlung von **[Star Wars Postern](/poster)**, die ich vor ein paar Jahren erstellt habe.
 
 {% include paintings.html %}
