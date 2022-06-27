@@ -37,13 +37,27 @@
         justify-content: center;
     }
     .project-img {
+        position: relative;
+        opacity: .9;
+        border-radius: 5px;
+        overflow: hidden;
+        margin-bottom: 5px;
+        transition: opacity .3s;
+    }
+    .project-img img {
         width: 100%;
         aspect-ratio: 4/3;
         object-fit: cover;
-        border-radius: 5px;
-        opacity: .9;
-        transition: opacity .3s;
-        margin-bottom: 5px;
+    }
+    .project-img::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        top: 80%;
+        z-index: 10;
+        background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 100%);
     }
     .project-title {
         margin: 0;
@@ -70,10 +84,12 @@
             <a class="project-link" title="{{ project.title }}" href="{{ project.link }}" target="_blank">
         {% endif %}
         <div class="project-preview">
-            <img
-                class="project-img"
-                src="{{ project.image | default: defaultImage }}"
-                alt="{{ project.title }}" />
+            <div class="project-img">
+                <img
+                    src="{{ project.image | default: defaultImage }}"
+                    alt="{{ project.title }}"
+                    loading="lazy" />
+            </div>
 
             {% if project.title %}
                 <h2 class="project-title">{{ project.title }}</h2>
