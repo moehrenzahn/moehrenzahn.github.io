@@ -6,89 +6,118 @@
     }
 
     #painting-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(min(100%, 275px), 1fr));
-        gap: 40px;
-        padding: 20px 0;
-    }
-    .painting a h2 {
-        display: inline;
-    }
-    .painting .painting-wrapper {
         display: flex;
+        flex-wrap: wrap;
         justify-content: flex-start;
         align-items: flex-end;
+        gap: 30px;
+        padding: 15px 0;
+    }
+    #painting-container * {
+        max-width: 100%;
+    }
+    .painting {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .painting.painting-featured {
+        width: 100% !important;
+    }
+    .painting-featured .painting-wrapper {
+        flex-direction: row;
+        align-items: flex-end;
+    }
+    .painting .painting-wrapper {
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: flex-start;
         flex-wrap: wrap;
         column-gap: 20px;
     }
     .painting a:hover .painting-img {
-        box-shadow: 0 1px 10px rgba(0,0,0,0.12), 
-              0 4px 12px rgba(0,0,0,0.12), 
-              0 8px 16px rgba(0,0,0,0.12),
-              0 15px 24px rgba(0,0,0,0.12);
+        transform: scale(1.02);
+        box-shadow: 0 5px 10px rgba(0,0,0,0.1), 
+              5px 10px 10px rgba(0,0,0,0.1), 
+              10px 20px 20px rgba(0,0,0,0.1),
+              20px 40px 40px rgba(0,0,0,0.1);
     }
-    .painting-featured {
-        display: contents;
-    }
-    .painting-featured > .painting-wrapper {
-        grid-column: 1 / -1;
+    #painting-container a:hover h2 {
+        color: var(--color);
     }
     .painting-img {
-        flex: 0 1 0px;
-        width: auto;
-        object-fit: contain;
-        object-position: center;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.12), 
-              0 4px 4px rgba(0,0,0,0.12), 
-              0 8px 8px rgba(0,0,0,0.12),
-              0 15px 16px rgba(0,0,0,0.12);
+        max-height: none;
+        object-fit: fill;
+        border-right: rgb(130, 130, 130) 3px solid;
+        border-bottom: rgb(100, 100, 100) 3px solid;
+        border-radius: 3px;
+        background-size: cover;
+        background-color: gray;
         transition: all .3s;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.1), 
+              0 4px 4px rgba(0,0,0,0.1), 
+              0 8px 8px rgba(0,0,0,0.1),
+              0 15px 16px rgba(0,0,0,0.1);
+
+    }
+    @media (prefers-color-scheme: dark) {
+        .painting-img {
+            border-right: rgb(95, 95, 95) 3px solid;
+            border-bottom: rgb(65, 65, 65) 3px solid;
+        }
     }
     .painting-description {
-        margin-top: 10px;
-        flex: 1 1 250px;
-        max-width: 750px;
+        margin-top: 12px;
+    }
+    .painting-description a {
     }
     .painting-description h2 {
         margin: 0;
         margin-bottom: 5px;
+        transition: all .3s;
+
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .painting-meta {
+        color: var(--text-color-light);
     }
 </style>
 
 <div id="painting-container">
     {% for painting in paintings %}
+        {% assign sizeList = painting.size | remove: "cm" | split: "×" %}
+        {% assign width = sizeList[0] %}
+        {% assign height = sizeList[1] %}
         {% if painting.featured %}
             <div class="painting painting-featured">
         {% else %}
             <div class="painting">
         {% endif %}
-            <div class="painting-wrapper">
+            <div class="painting-wrapper {% if height > width %}portrait{% endif %}">
                 <a style="border: none" href="{{ painting.url }}">
                     <img
                         class="painting-img"
                         src="{{ painting.file }}"
                         alt="{{ painting.title }}"
+                        style="aspect-ratio: {{ width }} / {{ height }}; width: calc({{ width }}*13.72px)"
                         loading="lazy" />
                 </a>
-                <div class="painting-description">
+                <div class="painting-description" 
+                     style="width: calc({{ width }}*13.72px)">
                     {% if painting.title %}
                     <a href="{{ painting.url }}"
                     class="poster-title">
                         <h2>{{ painting.title }}</h2>
                     </a>
                     {% endif %}
-                    <div>
+                    <div class="painting-meta">
                         {% if painting.size %}
                             {{painting.size}}
                             <span class="dot">•</span>
                         {% endif %}
                         {% include date.html date=painting.date %}
                     </div>
-                    {% if painting.description %}
-                    <div>
-                        {{painting.description | markdownify | remove: "<p>" | remove: "</p>"}}
-                    </div>
-                    {% endif %}
                 </div>
             </div>
         </div>

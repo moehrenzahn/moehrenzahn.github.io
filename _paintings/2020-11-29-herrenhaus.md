@@ -2,6 +2,7 @@
 title: Altes Herrenhaus in der Nähe von Innsbruck, Österreich
 file: /paintings/806F14DC-A4F7-480B-A9C8-DF21593DF121_1_201_a.jpeg
 date: 2020-11-29
+size: 40×50cm
 materials: Acrylics on canvas
 ---
 

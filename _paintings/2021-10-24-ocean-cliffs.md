@@ -5,7 +5,6 @@ title: China Cove
 description: Study after Romona Youngquist.
 size: 30×40cm
 materials: Acrylics on canvas board
-featured: yes
 ---
 
 This is a painting of [China Cove, a famous beach in California](https://de.wikipedia.org/wiki/Point_Lobos_State_Natural_Reserve). I admittedly only discovered that fact after I finished painting it.

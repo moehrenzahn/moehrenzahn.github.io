@@ -2,6 +2,7 @@
 file: /paintings/2021-02-04-mountain-stream.jpeg
 date: 2021-02-04
 title: Mountain Stream
+size: 50×40cm
 description: A study of a painting by Kevin Hill.
 materials: Acrylics on canvas
 ---
