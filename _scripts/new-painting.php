@@ -1,4 +1,4 @@
-#!/usr/bin/php
+#!/usr/bin/env php
 
 <?php
 $date = (new DateTime())->format('Y-m-d');
