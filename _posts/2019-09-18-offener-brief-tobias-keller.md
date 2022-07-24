@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Offener Brief an den Kirchenvorstand Leipzig-Gohlis zu Äußerungen von AfD-Funktionär Tobias Keller'
+title: 'Offener Brief an den Kirchenvorstand Leipzig-Gohlis zu äußerungen von AfD-Funktionär Tobias Keller'
 categories: [Theologie, Politik, Gesellschaft]
 ---
 
 **Sehr geehrter Kirchenvorstand der Kirchgemeinde Leipzig-Gohlis, sehr geehrter Herr Vorsitzender,**
 
-ich bin auf öffentliche Äußerungen von Kirchenvorstandsmitglied Herrn Tobias Keller aufmerksam geworden, die mich als aktives Mitglied des Kirchgemeindeverbandes Gohlis-Eutritzsch-Podelwitz-Wiederitzsch erschüttert und beschämt zurücklassen.
+ich bin auf öffentliche äußerungen von Kirchenvorstandsmitglied Herrn Tobias Keller aufmerksam geworden, die mich als aktives Mitglied des Kirchgemeindeverbandes Gohlis-Eutritzsch-Podelwitz-Wiederitzsch erschüttert und beschämt zurücklassen.
 
 Herr Keller hat in sich seiner Rolle als Parteifunktionär der AfD Sachsen während einer Rede folgendermaßen geäußert:
 
@@ -14,7 +14,7 @@ Herr Keller hat in sich seiner Rolle als Parteifunktionär der AfD Sachsen währ
 
 (Quelle: [Youtube](https://www.youtube.com/watch?v=HhJSzf4eUsQ), ca. ab Zeitstempel 7:45)
 
-In meinen Augen stellt diese Äußerung eine offene Drohung an unsere muslimischen Mitbürger dar, für die die Beachtung von Speisegeboten wichtiger Ausdruck ihres Glaubens ist. Darüber hinaus trifft die Forderung nach einer pauschalen Ablehnung von Schächtungen ebenfalls jüdische Glaubensgeschwister, die sich Koscher ernähren.
+In meinen Augen stellt diese äußerung eine offene Drohung an unsere muslimischen Mitbürger dar, für die die Beachtung von Speisegeboten wichtiger Ausdruck ihres Glaubens ist. Darüber hinaus trifft die Forderung nach einer pauschalen Ablehnung von Schächtungen ebenfalls jüdische Glaubensgeschwister, die sich Koscher ernähren.
 
 Es gab bereits eine Zeit, in der in unserem Land galt wovon Herr Keller träumt: "Schächter" wurden geächtet. Und dann deportiert und schließlich millionenfach ermordet.
 

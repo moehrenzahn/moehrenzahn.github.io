@@ -4,7 +4,7 @@ title: 'Verstümmelte Verse'
 categories: [Theologie]
 ---
 
-Vor knapp zwei Wochen bekamen die Herrnhuter Losungen großen Ärger: Einige Losungsleser mit Argusaugen hatten entdeckt, dass da doch einer den Losungsvers von 16. März gekürzt hatte: Statt *"Darum, solange wir noch Zeit haben, lasst uns Gutes tun an jedermann, allermeist aber an des Glaubens Genossen."* hieß es dort einfach nur *"Darum, solange wir noch Zeit haben, lasst uns Gutes tun an jedermann."*
+Vor knapp zwei Wochen bekamen die Herrnhuter Losungen großen ärger: Einige Losungsleser mit Argusaugen hatten entdeckt, dass da doch einer den Losungsvers von 16. März gekürzt hatte: Statt *"Darum, solange wir noch Zeit haben, lasst uns Gutes tun an jedermann, allermeist aber an des Glaubens Genossen."* hieß es dort einfach nur *"Darum, solange wir noch Zeit haben, lasst uns Gutes tun an jedermann."*
 
 Das wiederum schmeckte einigen von unseres Glaubens Genossen überhaupt nicht. ["Verstümmelt"](http://www.idea.de/thema-des-tages/artikel/irritationen-um-das-andachtsbuch-die-losungen-83741.html) nannten sie den Losungsvers. Denn das schien einigen Christen, die sich für besonders fromm halten wichtig: Unsere Brüder, das sind doch nicht einfach alle Menschen! Es darf doch nicht sein, dass wir auf einmal diese ganzen Muslime mehr lieb haben als uns selbst!
 

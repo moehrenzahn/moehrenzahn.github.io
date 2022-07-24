@@ -33,7 +33,7 @@ Dazu kommt noch, dass Text in der für wissenschaftliche Arbeiten üblichen Schr
 
 Zugegeben, viele Programme bieten inzwischen Funktionen, um manche dieser Sorgen zu mildern oder zu vereinfachen. So kann man mit Formatvorlagen Überschriften automatisch mit einer bestimmten Schriftgröße etc. versehen und dann wird sogar das Inhaltsverzeichnis automatisch erstellt. Und heute würde zum Glück niemand mehr auf die Idee kommen, jede Fußnote manuell unter die Seite zu setzen. (Oder?)
 
-Trotzdem scheint es mir schwierig, sich während des Schreibens nicht immer wieder von Äußerlichkeiten ablenken zu lassen.
+Trotzdem scheint es mir schwierig, sich während des Schreibens nicht immer wieder von äußerlichkeiten ablenken zu lassen.
 
 ## Also gut, was ist die Alternative?
 

@@ -4,7 +4,7 @@ title: 'Merkel auf dem Kirchentag – Ein Widerspruch'
 categories: [Politik, Theologie]
 ---
 
-Eines der Highlights des Kirchentags in Stuttgart war den Teilnehmerzahlen nach zu urteilen die Veranstaltung "Digital und klug?" mit Bundeskanzlerin Angela Merkel. Dort hat sie sich auch zur Vorratsdatenspeicherung[^1] geäußert und dafür ["geworben" (wie es auf evangelisch.de heißt)](http://www.evangelisch.de/inhalte/121953/05-06-2015/angela-merkel-vorratsdatenspeicherung-kirchentag). Nachdem Frau Merkel aus dem Publikum reichlich Applaus geerntet hatte und ihre Position von [epd](http://www.epd.de/zentralredaktion/epd-zentralredaktion/merkel-verteidigt-vorratsdatenspeicherung) und evangelisch.de relativ unkritisch wiedergegeben wurde, möchte ich nun die Äußerungen von Frau Merkel nicht unwidersprochen stehen lassen.
+Eines der Highlights des Kirchentags in Stuttgart war den Teilnehmerzahlen nach zu urteilen die Veranstaltung "Digital und klug?" mit Bundeskanzlerin Angela Merkel. Dort hat sie sich auch zur Vorratsdatenspeicherung[^1] geäußert und dafür ["geworben" (wie es auf evangelisch.de heißt)](http://www.evangelisch.de/inhalte/121953/05-06-2015/angela-merkel-vorratsdatenspeicherung-kirchentag). Nachdem Frau Merkel aus dem Publikum reichlich Applaus geerntet hatte und ihre Position von [epd](http://www.epd.de/zentralredaktion/epd-zentralredaktion/merkel-verteidigt-vorratsdatenspeicherung) und evangelisch.de relativ unkritisch wiedergegeben wurde, möchte ich nun die äußerungen von Frau Merkel nicht unwidersprochen stehen lassen.
 
 [^1]: Die Vorratsdatenspeicherung (VDS) (oder neuerdings "Mindestdatenspeicherfrist") ist ein aktueller Gesetzesentwurf der Regierung welcher vorsieht, dass sämtliche Telefon- und Internetverbindungsdaten (wer wann wo wie lange mit wem kommuniziert hat) aller Bundesbürger zehn Wochen lang pauschal gespeichert werden. Dazu gehören die Rufnummern der beteiligten Anschlüsse, Zeitpunkt und Dauer der Anrufe sowie die IP-Adressen von Computern. 
 
@@ -22,6 +22,6 @@ Die Art und Weise, wie die Kanzlerin auf dem Kirchentag mit solch kruden Verglei
 
 Zum Glück gab es vom Kirchentag auch kritischere Stimmen. So wurde zum Beispiel eine [Kirchentagsresolution gegen die VDS](https://www.kirchentag.de/programm/resolutionen/stopp_des_gesetzes_zur_vorratsdatenspeicherung.html) verabschiedet.[^2]
 
-[^2]: Der Resulutionstext findet klare Worte für die VDS: "Vorratsdatenspeicherung stellt einen massiven Eingriff in unsere Grundrechte dar und zerstört die Vertraulichkeit unserer Kommunikation. Alle Menschen sind betroffen, auch Berufsgeheimnisträger wie Geistliche, Ärzte, Anwälte und Journalisten."
+[^2]: Der Resulutionstext findet klare Worte für die VDS: "Vorratsdatenspeicherung stellt einen massiven Eingriff in unsere Grundrechte dar und zerstört die Vertraulichkeit unserer Kommunikation. Alle Menschen sind betroffen, auch Berufsgeheimnisträger wie Geistliche, ärzte, Anwälte und Journalisten."
 
 Ich kann nur hoffen, dass sich die evangelische Kirche weiter für netzpolitische Themen sensibilisieren wird. Wir brauchen eine Kirche, die sich konstruktiv und kritisch in Debatten wie die um die VDS einmischen kann und nicht emotional vorgetragenen Halbwahrheiten auf den Leim geht.

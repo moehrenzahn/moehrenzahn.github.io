@@ -8,7 +8,7 @@ Am Sonntag war Taufgottesdienst. Während des Vaterunsers begann ein Baby zu wei
 
 Ich mein, habt ihr da schon mal mit Verstand mitgehört? Dutzende Menschen, die in dieser merkwürdigen monoton-religiösen Tonlage unisono Sprüche rezitieren – das kann durchaus – sagen wir mal – einschüchternd wirken.
 
-Ich persönlich muss deshalb dabei immer an die [fiesen Borg](http://de.wikipedia.org/wiki/Völker_und_Gruppierungen_im_Star-Trek-Universum#Borg) aus [Gene Roddenberrys "Star Trek"](http://de.wikipedia.org/wiki/Star_Trek) denken. Die Ähnlichkeit mit einer Sonntagsgemeinde ist nicht zu leugnen. Seht selbst:
+Ich persönlich muss deshalb dabei immer an die [fiesen Borg](http://de.wikipedia.org/wiki/Völker_und_Gruppierungen_im_Star-Trek-Universum#Borg) aus [Gene Roddenberrys "Star Trek"](http://de.wikipedia.org/wiki/Star_Trek) denken. Die ähnlichkeit mit einer Sonntagsgemeinde ist nicht zu leugnen. Seht selbst:
 
 <iframe width="100%" height="315" src="//www.youtube-nocookie.com/embed/8ieR9AwnHyo?rel=0" frameborder="0" allowfullscreen></iframe>
 

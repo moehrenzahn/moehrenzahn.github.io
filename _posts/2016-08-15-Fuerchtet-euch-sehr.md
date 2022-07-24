@@ -14,6 +14,6 @@ Der Text ist eine Abrechnung mit den kirchlichen Verlautbarungen nach der jüngs
 
 Es gab mal eine Zeit, in den 70ern, da gründeten sich zahlreiche evangelikale Initiativen. Übrigens auch idea. Das erklärte Ziel dieser evangelikalen Bewegung war es, gegen die zunehmende politisierung der evangelischen Kirchen die frohe Botschaft zu betonen. Heute, 40 Jahre später, schreibt der Leiter von eben diesem idea einen Artikel, in dem er eben jene frohe Botschaft völlig verdreht, um seine Leserschaft gegen den Islam zu politisieren!
 
-Ängste zu haben ist eine Sache, diese aber noch anzuheizen und in ein scheinfrommes Mäntelchen zu Hüllen widerstreitet allen Werten, die einst das Fundament der evangelikalen Gemeinschaft bildeten.
+ängste zu haben ist eine Sache, diese aber noch anzuheizen und in ein scheinfrommes Mäntelchen zu Hüllen widerstreitet allen Werten, die einst das Fundament der evangelikalen Gemeinschaft bildeten.
 
 Ich wünsche meinen verängstigten Schwestern und Brüdern, dass sie dieses Evangelium neu entdecken, das freimachen will zur Liebe. Und den Evangelikalen, dass sie wieder *um des Evangeliums Willen* konservativ werden, und nicht um der Angst Willen.

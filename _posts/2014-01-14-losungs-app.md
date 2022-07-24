@@ -9,7 +9,7 @@ In meiner Twitter-Timeline wurde neulich heftig geschimpft über die App zur Her
 
 Die Situation hat [Fabian Maysenhölder auf theopop gut zusammengefasst](http://theopop.de/2014/01/app-test-warum-die-losungen/):
 
-> Offenbar wollte man das Rad neu erfinden. Das ist nicht nur sinnlos, sondern auch teuer. Denn ich vermute, dass die App auch wegen hoher Entwicklungskosten teurer ist als das Buch. Man hätte viel sparen können, vor allem Ärger. Nicht nur mir, wenn man sich die Bewertungen im Google-Store anschaut. 198 von 257 geben die schlechtmöglichste Wertung. Auch wenn einige Radikal-Kritiker darunter sind: Viele kritisieren nicht grundsätzlich, dass sie bezahlen müssen. Es ist die Höhe, die unangemessen erscheint. Und das Unverständnis darüber, dass kein Widget mitgeliefert wurde. Der App wird also letztendlich zum Verhängnis, dass die Nutzer für eine Verschlechterung zahlen müssen.
+> Offenbar wollte man das Rad neu erfinden. Das ist nicht nur sinnlos, sondern auch teuer. Denn ich vermute, dass die App auch wegen hoher Entwicklungskosten teurer ist als das Buch. Man hätte viel sparen können, vor allem ärger. Nicht nur mir, wenn man sich die Bewertungen im Google-Store anschaut. 198 von 257 geben die schlechtmöglichste Wertung. Auch wenn einige Radikal-Kritiker darunter sind: Viele kritisieren nicht grundsätzlich, dass sie bezahlen müssen. Es ist die Höhe, die unangemessen erscheint. Und das Unverständnis darüber, dass kein Widget mitgeliefert wurde. Der App wird also letztendlich zum Verhängnis, dass die Nutzer für eine Verschlechterung zahlen müssen.
 
 So ist die Situation. Anstatt zu meckern, möchte ich ein paar pragmatische Vorschläge machen, was es für (kostenlose) Alternativen zur offiziellen Losungs-App gibt.
 

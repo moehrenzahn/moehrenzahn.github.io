@@ -26,7 +26,7 @@ Zu den Knöpfen: Die Pebble hat keinen Touchscreen und wird komplett über vier 
 
 <iframe height="400" src="https://www.youtube-nocookie.com/embed/8d2PpY_qrVQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Die Software der Pebble Time ist schlicht, aber mit Liebe zum Detail entwickelt. Besonders gefallen mir die überall eingebauten verspielten Animationen und freundlichen Grafiken. Die blockige, farbenfrohe Ästhetik gleicht geschickt die Nachteile des pixeligen Displays aus. 
+Die Software der Pebble Time ist schlicht, aber mit Liebe zum Detail entwickelt. Besonders gefallen mir die überall eingebauten verspielten Animationen und freundlichen Grafiken. Die blockige, farbenfrohe ästhetik gleicht geschickt die Nachteile des pixeligen Displays aus. 
 
 Meine meistgenutzte Funktion ist der Schrittzähler. Die Pebble zählt erstaunlich genau und kann die aktuelle Schrittzahl auf dem Ziffernblatt angeben. Außerdem benachrichtigt die Uhr mit flapsig geschriebenen Mitteilungen über Fitness-Erfolge, verbrannte Kalorien und Schlaf-Analysen. (Nach meiner Erfahrung zeichnet die Pebble Schlafdaten nur mäßig genau auf.)
 

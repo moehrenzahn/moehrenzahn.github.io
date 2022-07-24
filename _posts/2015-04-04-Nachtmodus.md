@@ -4,7 +4,7 @@ title: 'Nachtmodus'
 categories: [Technologie]
 ---
 
-Ich hab wieder einmal ein paar kleine Änderungen an moehrenzahn.de vorgenommen.
+Ich hab wieder einmal ein paar kleine änderungen an moehrenzahn.de vorgenommen.
 
 Zum einen habe ich die ganze Seite von [Octopress](http://octopress.org/) zu [Jekyll](http://jekyllrb.com/) migriert.[^1] Jekyll hat in den letzten Jahren einige substantielle Updates mitbekommen, die vor allem die Build-Geschwindigkeit massiv verbessert haben. Ich hatte sowieso kaum noch Features von Octopress genutzt, deshalb entschloss ich mich, zu "reinem" Jekyll zu wechseln. 
 

@@ -76,7 +76,7 @@ Liebe Gemeinde,
 
 Jesus ist mehrere Jahre lang mit seinen Jüngern durch das Land gezogen und hat mit ihnen gelebt. Er hat sie gelehrt, er hat sie herausgefordert, er hat ihnen geholfen, immer wieder eine *Ahnung* davon zu bekommen, wie das Himmelreich aussieht.
 
-Aber vor allem hat er sie ertragen in ihrer Ahnungslosigkeit. Er hat sie auch manchmal zurechtgewiesen, wenn sie mal besonders über die Stränge schlugen. Aber Jesus wurde nie spöttisch. An keiner Stelle in den Evangelien machte sich Jesus lustig über die Ahnungslosigkeit seiner Jünger. Vor allem war Jesus mit seinen Jünger unendlich liebevoll, unendlich geduldig. Gerade in den Momenten, wo seine Jünger ganz am Boden lagen, vor Verzweiflung, vor Ärger über sich selbst, über ihre eigene Ahnungslosigkeit – gerade in diesen Momenten ging Jesus auf sie zu, legte ihnen seine Hand auf die Schulter und sprach ihnen zu: Steh auf! Und wenn sie dann aufblicken, dann sehen sie Jesus und nichts anderes.
+Aber vor allem hat er sie ertragen in ihrer Ahnungslosigkeit. Er hat sie auch manchmal zurechtgewiesen, wenn sie mal besonders über die Stränge schlugen. Aber Jesus wurde nie spöttisch. An keiner Stelle in den Evangelien machte sich Jesus lustig über die Ahnungslosigkeit seiner Jünger. Vor allem war Jesus mit seinen Jünger unendlich liebevoll, unendlich geduldig. Gerade in den Momenten, wo seine Jünger ganz am Boden lagen, vor Verzweiflung, vor ärger über sich selbst, über ihre eigene Ahnungslosigkeit – gerade in diesen Momenten ging Jesus auf sie zu, legte ihnen seine Hand auf die Schulter und sprach ihnen zu: Steh auf! Und wenn sie dann aufblicken, dann sehen sie Jesus und nichts anderes.
 
 ---
 

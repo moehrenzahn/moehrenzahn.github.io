@@ -12,7 +12,7 @@ Fast drei Jahre lang hat nun eine Arbeitsgemeinschaft von Synodalen im Auftrag d
 
 Der Bericht mit dem knackigen Titel "Notwendige Veränderungen in den Aufgabenfeldern und Berufsbildern der Mitarbeitenden im Verkündigungsdienst" bezieht sich gleichermaßen auf Pfarrer_innen, Gemeindepädagog_innen und Kirchenmusiker_innen. Als Theologiestudent kann ich nur für die angehenden Pfarrer sprechen und werde mich deshalb auf die Überlegungen zum Pfarramt konzentrieren.
 
-## "Grundsätzliche Änderungen" sind nötig
+## "Grundsätzliche änderungen" sind nötig
 
 Oberstes Anliegen des Berichtes ist es, "[d]ie Attraktivität der einzelnen Berufsbilder" zu stärken. Die Logik ist hier, dass mit wachsender Zufriedenheit der Mitarbeiter deren Berufe eine bessere Außenwirkung und damit hoffentlich mehr Nachwuchs bekommen sollen.[^9]
 

@@ -31,7 +31,7 @@ def asquote(astr):
 
 Der Code hat so unter Sublime Text 3 aber nicht funktioniert. Sublime Text 3 verwendet Python Version 3.3. Seit Python 3 hat sich einiges geändert, besonders im [Umgang mit Unicode-Text](http://docs.python.org/3.0/whatsnew/3.0.html#text-vs-data-instead-of-unicode-vs-8-bit). 
 
-Nach etwas suchen kam ich auf die kleine Änderung, die ich vornehmen musste, damit der Code funktioniert:
+Nach etwas suchen kam ich auf die kleine änderung, die ich vornehmen musste, damit der Code funktioniert:
 
 Die Zeile
 

@@ -15,13 +15,13 @@ Die Premium-Features von Wordpress.com sind ziemlich kostspielig. Ich wollte vor
 
 Also überlegte ich, mir meine eigene [Wordpress.org](http://wordpress.org)-Installation zu hosten. Da ich für diese Spielerei wie gesagt kein Geld ausgeben wollte, schaute ich mich nach kostenlosen Webhosting-Angeboten um. Nur eins dazu: Vergiss es. Alles was ich ausprobiert habe war der größte Obermurks.
 
-Aus meiner Wordpress-Zeit ist mir noch etwas anderes wichtig geworden: Eleganz. Das CMS von Wordpress gefällt mir überhaupt nicht. Vor allem, weil ich gern alle meine Artikel wie ich sie geschrieben habe[^2] auf meiner Festplatte archivieren will. Wenn ich nun aber in Wordpress eine Änderung an einem Artikel vornehmen wollte, musste ich die jedesmal in meinen lokalen Dateien manuell ergänzen.
+Aus meiner Wordpress-Zeit ist mir noch etwas anderes wichtig geworden: Eleganz. Das CMS von Wordpress gefällt mir überhaupt nicht. Vor allem, weil ich gern alle meine Artikel wie ich sie geschrieben habe[^2] auf meiner Festplatte archivieren will. Wenn ich nun aber in Wordpress eine änderung an einem Artikel vornehmen wollte, musste ich die jedesmal in meinen lokalen Dateien manuell ergänzen.
 
 Außerdem will ich mich nirgendwo einloggen müssen – meine Texte sollen einfach online erscheinen.
 
 ## Die Suche nach einer stabilen Plattform
 
-Tatsächlich gibt es für diese scheinbar utopischen Anforderungen Lösungen: Zum Beispiel [Blogging-Plattformen mit Dropbox-Sync](http://www.fearofconfusion.com/2012/01/three-markdown-dropbox-bloggging.html). Ich hatte meinen Blog eine ganze Weile auf [Scriptogr.am](http://scriptogr.am).[^3] Scriptogr.am hat zwar auch ein Webinterface, aber dort braucht man nur einen Knopf: Synchronisieren. Dann nahm der Dienst alle Markdown-Dateien aus einem bestimmten Ordner meiner Dropbox und machte Blog-Einträge daraus. Änderte ich etwas in meinen Dateien, änderte es sich nach einem Klick auf "Sync" auch online.
+Tatsächlich gibt es für diese scheinbar utopischen Anforderungen Lösungen: Zum Beispiel [Blogging-Plattformen mit Dropbox-Sync](http://www.fearofconfusion.com/2012/01/three-markdown-dropbox-bloggging.html). Ich hatte meinen Blog eine ganze Weile auf [Scriptogr.am](http://scriptogr.am).[^3] Scriptogr.am hat zwar auch ein Webinterface, aber dort braucht man nur einen Knopf: Synchronisieren. Dann nahm der Dienst alle Markdown-Dateien aus einem bestimmten Ordner meiner Dropbox und machte Blog-Einträge daraus. änderte ich etwas in meinen Dateien, änderte es sich nach einem Klick auf "Sync" auch online.
 
 Das Ganze war kostenlos, ich konnte meine eigene Domain benutzen und sogar nach Herzenslust in HTML und CSS das Design anpassen. Scriptogr.am war und ist wirklich super und ich würde es ohne zu zögern jedem weiterempfehlen, der einfach elegant Texte online stellen will.[^4]
 

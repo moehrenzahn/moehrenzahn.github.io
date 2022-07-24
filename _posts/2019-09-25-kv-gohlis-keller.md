@@ -13,7 +13,7 @@ Ich bin positiv überrascht von der Entschiedenheit, mit der sich der Vorstand v
 
 > Der Vorgang belegt erneut, dass das Menschenbild der Mehrzahl der AfD-Vertreter im Christentum keine Grundlagen hat. Ein Repräsentant der AfD kann daher nicht für eine Kirchgemeinde sprechen.
 
-Der Kirchenvorstand bringt es auf den Punkt: Es ist ein Skandal, dass AfD-Funktionäre *überhaupt* Ämter in einer evangelischen Landeskirche bekleiden dürfen. Denn das, was Tobias Keller in seiner Rede von sich gegeben hat, konnte man ganz ähnlich schon das ganze Jahr [im Regierungsprogramm der AfD Sachsen](https://www.afdsachsen.de/wahlen-2019/regierungsprogramml2019.html) lesen:
+Der Kirchenvorstand bringt es auf den Punkt: Es ist ein Skandal, dass AfD-Funktionäre *überhaupt* ämter in einer evangelischen Landeskirche bekleiden dürfen. Denn das, was Tobias Keller in seiner Rede von sich gegeben hat, konnte man ganz ähnlich schon das ganze Jahr [im Regierungsprogramm der AfD Sachsen](https://www.afdsachsen.de/wahlen-2019/regierungsprogramml2019.html) lesen:
 
 > Halales Essen in Kantinen ist Ausdruck einer fortschreitenden Islamisierung, die wir entschieden bekämpfen. […]  
 > Am generellen Verbot von Schächtungen wird festgehalten. In Sachsen sollen keine Ausnahmegenehmigungen erteilt werden, auch nicht aus religiösen Gründen.
