@@ -12,6 +12,7 @@
         align-items: flex-end;
         gap: 30px;
         padding: 15px 0;
+        margin: 40px 0;
     }
     #painting-container * {
         max-width: 100%;
@@ -35,7 +36,7 @@
         column-gap: 20px;
     }
     .painting a:hover .painting-img {
-        transform: scale(1.02);
+        transform: scale(1.01);
         box-shadow: 0 5px 10px rgba(0,0,0,0.1), 
               5px 10px 10px rgba(0,0,0,0.1), 
               10px 20px 20px rgba(0,0,0,0.1),
@@ -83,6 +84,8 @@
         color: var(--text-color-light);
     }
 </style>
+
+
 
 <div id="painting-container">
     {% for painting in paintings %}

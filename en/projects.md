@@ -6,6 +6,6 @@ layout-width: 1200px
 regenerate: true
 ---
 
-Here are some of the projects I built for customers or for myself
+Here are some of the software projects I built for customers or for myself
 
 {% include projects.html %}

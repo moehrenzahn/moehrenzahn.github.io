@@ -7,12 +7,12 @@
 	}
 	ul {
 		display: flex;
+		justify-content: space-between;
 		flex-wrap: wrap;
+		column-gap: 1em;
+		row-gap: .5em;
 		margin: 1em;
 		padding-left: 0;
-	}
-	li {
-		margin-right: 1em;
 	}
 	a {
 		&.active {

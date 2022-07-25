@@ -32,7 +32,7 @@ article {
 	max-width: 100%;
 	h1.entry-title {
 		margin-top: 0;
-		font-size: 135%;
+		font-size: 1.35rem;
 		font-weight: bold;
 	}
 	.entry-slug {
@@ -73,6 +73,12 @@ article {
 		figure, img, iframe, video, object {
 			width: auto;
 		}
+	}
+}
+
+article.hentry {
+	h1 {
+		font-size: 3rem;
 	}
 }
 
@@ -197,7 +203,6 @@ h1.entry-title, .entry-ellipse {transition: border $transition-time;}
 h1.entry-title.index {
 	display: inline;
 	font-weight: bold;
-	border-bottom: 3px solid transparent;
 }
 
 .index-post {
@@ -211,7 +216,6 @@ h1.entry-title.index {
 
 @media only screen and (max-width: $max-width) {
 	.entry-title.linklog {
-		padding-left: 25px;
 	}
 }
 
@@ -234,12 +238,9 @@ h1.entry-title.index {
 	width: .75em;
 	height: .75em;
 	background: url("/images/icons/arrow-white.png") no-repeat center center;
-	background-size: 100%;
-	position: absolute;
-	margin-left: -1.1em;
-	margin-top: .29em;
+	background-size: contain;
+	transform: translateY(.1em);
 	transition: background $transition-time;
-	@media only screen and (max-width: $max-width) {margin-left: -27px;}
 }
 
 .entry-title.page, .entry-title.index {
@@ -254,23 +255,25 @@ h1.entry-title.index {
 
 a.index-link {
 	display: block;
-	border: none;
+	transition: all .3s;
 }
 a.index-link:hover {
-	border: none;
-	.entry-title {border-color: var(--color);}
+	.entry-title {
+		text-decoration: underline;
+		text-decoration-color: var(--color);
+	}
 	.entry-title.index:before {
 		background: url("/images/moehre.png") no-repeat center center;
 		background-size: 100%;
 	}
 	.entry-title.linklog:before {
 		background: url("/images/icons/arrow-color.png") no-repeat center center;
-		background-size: 100%;
+		background-size: contain;
 	}
 }
 .linklog:hover:before {
 	background: url("/images/icons/arrow-color.png") no-repeat center center;
-	background-size: 100%;
+	background-size: contain;
 }
 
 span.entry-content-excerpt {
@@ -307,22 +310,31 @@ footer {
 	align-items: center;
 }
 
+.gap {
+	column-gap: 30px;
+	row-gap: 20px;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
 .button, a.button, a.button:visited {
 	display: inline-block;
 	overflow: hidden;
 	white-space: nowrap;
 	text-overflow: ellipsis;
 	font-weight: bolder;
-	max-width: 75%;
+	font-size: 1em;
 	padding: .75em 1.3em;
 	line-height: 1;
 	border-radius: calc(1em + (.75em * 2));
-	border: none;
 	box-shadow: 3px 5px 0 var(--text-color-light);
 	background-color: var(--text-color);
 	color: var(--background);
 	opacity: .8;
 	transition: all .3s;
+	text-decoration: none;
 }
 .button:hover {
 	opacity: 1;
@@ -332,7 +344,7 @@ footer {
 	transform: translateY(5px);
 }
 .button.big {
-	font-size: 2rem !important;
+	font-size: 1.5rem !important;
 }
 .button.cta, a.button.cta, a.button.cta:visited {
 	background: var(--color);

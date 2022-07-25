@@ -1,28 +1,26 @@
 
 /* Link styling and animation */
 
-/* Hover effect without underline */
-
-h1, nav
-{
-	a, a:visited, a:hover {border-bottom: 3px solid transparent;}
-	a:hover {border-color: var(--color)}
-	a {
-	    transition: border-color .3s}
+a, a:visited {
+	color: var(--text-color);
+	text-decoration: underline;
+	text-decoration-thickness: .1em;
+	text-decoration-color: #D9D9D9;
+	text-underline-offset: .2em;
+	transition: text .3s;
+}
+a:hover {
+	text-decoration-color: var(--color)
 }
 
-a, a:visited
-	{
+
+/* Hover effect without underline */
+
+h1, nav {
+	a, a:visited {
 		text-decoration: none;
-		color: var(--text-color);
-		border-bottom: 2px solid #D9D9D9;
-		transition: border-color .3s;
-		&:hover {
-			text-decoration: none;
-			border-color: var(--color);
-		}
-		&:focus {
-			text-decoration: none;
-			outline: none;
-		}
 	}
+	a:hover {
+		text-decoration: underline;
+	}
+}

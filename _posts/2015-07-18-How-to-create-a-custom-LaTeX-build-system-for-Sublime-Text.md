@@ -41,11 +41,11 @@ The `latexmk` command is quite verbose. `"file_regex"` lets you set a [regular e
 
 The `"selector"`: This was the most tricky but also the most useful part to figure out. The selector is used if you set "Build System" to "Automatic". We want our build system to be automatically used for LaTeX documents. The selector name of a document can be found by opening a document of that type and pressing `shift-ctrl-P`. This displays the current selector in the Sublime Text status bar at the bottom. You should only use the first part before the space as the selector.
 
-Another useful command is `"working_dir": "$file_path"`. This lets you set a custom working directory for your `"cmd"`, if there is a problem with the default one (which is the path the file being built is at). Be aware that in JSON files, every element-value pair has to end with a "`,`"" *except for the last line*. If you do this wrong your build system will not work properly.
+Another useful command is `"working_dir": "$file_path"`. This lets you set a custom working directory for your `"cmd"`, if there is a problem with the default one (which is the path the file being built is at). Be aware that in JSON files, every element-value pair has to end with a "`,`" *except for the last line*. If you do this wrong your build system will not work properly.
 
 ----
 
-There you go, a custom build system for LaTeX documents. Now, if you have a `.tex` file open in Sublime you can press `cmd-B` and watch your build system do it's work in the panel that pops up at the bottom of your window (if you don't want to see this panel every time you can add `"show_panel_on_build": true` to your `.sublime-settings` file).
+There you go, a custom build system for LaTeX documents. Now, if you have a `.tex` file open in Sublime you can press `cmd-B` and watch your build system do it's work in the panel that pops up at the bottom of your window (if you don't want to see this panel every time you can add `"show_panel_on_build": false` to your `.sublime-settings` file).
 
 As a bonus, here is a simple build system for displaying Markdown files in Marked 2.app:
 

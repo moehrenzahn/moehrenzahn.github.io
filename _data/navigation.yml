@@ -4,8 +4,8 @@
 - title: Blog
   url: /en/blog/
   url-de: /blog/
-- title: Projects
-  title-de: Projekte
+- title: Software
+  title-de: Software
   url: /en/projects/
   url-de: /projects/
 - title: Paintings
@@ -20,5 +20,7 @@
 - title: GitHub
   url: https://github.com/moehrenzahn/
   hidden: true
-- title: Twitter
-  url: https://www.twitter.com/_maxmelzer/
+# - title: Twitter
+#   url: https://www.twitter.com/_maxmelzer/
+# - title: Instagram
+#   url: https://www.instagram.com/max.melzer/

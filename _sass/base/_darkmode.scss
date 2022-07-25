@@ -7,10 +7,10 @@
 		}
 
 		a, a:visited {
-			border-bottom-color: #777;
+			text-decoration-color: #777;
 		}
 		a:hover {
-			border-bottom-color: var(--color);
+			text-decoration-color: var(--color);
 		}
 		h1,  h2,  p,  a, a:visited {
 			color: var(--text-color);
@@ -47,6 +47,7 @@
                     background: none;
                 }
             }
+
         }
 		span.entry-content-excerpt:after {
 			background: -moz-linear-gradient(left, rgba(34,34,34,0) 0%, rgba(34,34,34,1) 100%);
@@ -58,8 +59,8 @@
 			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
 		}
 
-
+        .button.cta {
+            box-shadow: 3px 5px 0 #555;
+        }
 	}
-
-
 }

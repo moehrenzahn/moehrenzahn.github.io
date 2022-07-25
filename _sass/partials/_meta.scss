@@ -1,15 +1,17 @@
 
 /* Meta under posts (in single article view) */
 
-article.hentry
-{
-footer // contains pagination links, metadata and sharing
-	{
-	font-size: $metatext;
-	color: var(--text-color-light);
-	margin-top: 30px;
-	padding-top: 30px;
-	time {color: var(--text-color);}
+article.hentry {
+	// contains pagination links, metadata and sharing
+	footer {
+		font-size: $metatext;
+		color: var(--text-color-light);
+		margin-top: 30px;
+		padding-top: 30px;
+	}
+	time {
+		color: var(--text-color);
+	}
 	#comments {
 		font-size: $bodytext;
 		@media only screen and (max-width: 480px) {font-size: $bodytext * .8;}
@@ -28,16 +30,14 @@ footer // contains pagination links, metadata and sharing
 		float: right;
 		text-align: right;
 		max-width: 260px;
-		}
+	}
 
 	#previouspost {
 		display: inline-block;
 		text-align: left;
 		max-width: 260px;
 		margin-bottom: 10px;
-		}
 	}
-
 	#nextpost, #previouspost {
 		a {
 			img {

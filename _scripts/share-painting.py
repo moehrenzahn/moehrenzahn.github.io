@@ -41,7 +41,10 @@ for line in lines:
 
 markdown = text.split("---")[-1].strip();
 
-text = "Neues Gemälde: %s. %s, %s\n\n%s" % (paintingTitle, paintingMaterials, paintingSize, markdown)
+
+hashTags = '#acrylicpainting #painting #art #artwork #artstudio #paintings #painter #artist #acrylicartwork #artdaily #creativeart #artlovers #artgallery #artistsofinstagram #contemporaryart #contemporarypainting #paintingoftheday'
+
+text = "Neues Gemälde: %s. %s, %s\n\n%s\n\n\n%s" % (paintingTitle, paintingMaterials, paintingSize, markdown, hashTags)
 shareUrls = [
     'https://instagram.com',
     'https://facebook.com/sharer.php?u=%s' % urllib.parse.quote(url),
