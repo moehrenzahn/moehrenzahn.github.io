@@ -8,3 +8,7 @@ featured: no
 ---
 
 Wismar ist ein gemütliches kleines Städtchen an der Ostsee mit einer hübschen Altstadt. Und am Pier kann man jede Menge Fischbrötchen essen und Schiffe gucken.
+
+Work-in-progress-Animation:
+
+![Work in progress animation](/paintings/2022-07-06-hafen-wismar.gif)
