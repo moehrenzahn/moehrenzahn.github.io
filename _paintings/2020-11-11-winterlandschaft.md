@@ -1,5 +1,5 @@
 ---
-file: /paintings/5FA42079-8255-4E0A-B21C-E6BA09B4293C_1_105_c.jpeg
+file: /paintings/2020-11-11-winterlandschaft.jpeg
 date: 2020-11-11
 size: A4
 materials: Acrylics on paper

@@ -1,5 +1,5 @@
 ---
-file: /paintings/BFD10814-3D58-48C7-AE0C-D0A6DD42F836_1_105_c.jpeg
+file: /paintings/2020-11-22-northwest-waterfall.jpeg
 date: 2020-11-22
 title: Northwest Waterfall
 size: 30×40cm

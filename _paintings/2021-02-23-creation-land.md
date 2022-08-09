@@ -1,6 +1,6 @@
 ---
 title: Day 3 – Land
-file: /paintings/A09689A1-D1CB-4340-9F55-89871B688283_1_105_c.jpeg
+file: /paintings/2021-02-23-creation-land.jpeg
 date: 2021-02-23
 description: Part of a series on creation.
 size: 24×18cm
