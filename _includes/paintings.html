@@ -60,6 +60,9 @@
               0 15px 16px rgba(0,0,0,0.1);
 
     }
+    .painting-img, .painting-description {
+        min-width: 240px; /* make miniatures still discernible */
+    }
     @media (prefers-color-scheme: dark) {
         .painting-img {
             border-right: rgb(95, 95, 95) 3px solid;
@@ -90,8 +93,8 @@
 <div id="painting-container">
     {% for painting in paintings %}
         {% assign sizeList = painting.size | remove: "cm" | split: "×" %}
-        {% assign width = sizeList[0] %}
-        {% assign height = sizeList[1] %}
+        {% assign width = sizeList[0] | replace: ",", "." %}
+        {% assign height = sizeList[1] | replace: ",", "." %}
         {% if painting.featured %}
             <div class="painting painting-featured">
         {% else %}
