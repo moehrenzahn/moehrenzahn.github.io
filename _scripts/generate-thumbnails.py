@@ -14,4 +14,4 @@ for image in paintingImages:
         continue;
     script = "cd " + paintingImgPath + " && convert '" + image + "' -resize 40% 'thumbnail/" + image + "'" 
     os.system(script)
-os.system("/Applications/ImageOptim.app/Contents/MacOS/ImageOptim " + paintingImgPath + " " + paintingImgPath + "/thumbnail")
+os.system("/Applications/ImageOptim.app/Contents/MacOS/ImageOptim " + paintingImgPath + " " + paintingImgPath + "/thumbnail > /dev/null")

@@ -1,10 +1,16 @@
 #!/usr/bin/env php
-
 <?php
 $cmsRootPath = __DIR__ . "/..";
 $date = (new DateTime())->format('Y-m-d');
 $title = $argv[1] ?? 'painting';
 $inputFilePath = $argv[2] ?? null;
+
+if (count($argv) <= 1) {
+    echo "new-painting.php" . PHP_EOL;
+    echo PHP_EOL;    
+    echo "Usage: new-painting.php 'Title of my Painting' path/to/painting.jpg" . PHP_EOL;    
+    exit(0);
+}
 
 $mdFilename = prepareFilename($date, $title) . ".md";
 $imageFilename = prepareFilename($date, $title) . ".jpg";
