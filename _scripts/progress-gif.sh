@@ -4,7 +4,7 @@
 if [ -z "$1" ]
   then
     echo "progress-gif"
-    echo "  Pass a directory with .jpg files which will be combined into a"
+    echo "  Pass a directory with .jpg files which will be resized and combined into a"
     echo "  progress animation in .gif and .mp4 format."
     echo ""
     echo "Usage: progress-gif.sh path/to/directory"
@@ -14,7 +14,7 @@ fi
 
 imagePath=$1
 
-images=($(ls $imagePath/*.jpg))
+images=($(ls "$imagePath/*.jpg"))
 width=$(identify -format '%w' "${images[0]}")
 height=$(identify -format '%h' "${images[0]}")
 if [ -z "width" ]
