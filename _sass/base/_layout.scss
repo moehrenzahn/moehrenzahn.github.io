@@ -329,15 +329,14 @@ footer {
 	padding: .75em 1.3em;
 	line-height: 1;
 	border-radius: calc(1em + (.75em * 2));
-	box-shadow: 3px 5px 0 var(--text-color-light);
-	background-color: var(--text-color);
+	box-shadow: 3px 5px 0 #ddd;
+	background-color: var(--text-color-light);
 	color: var(--background);
-	opacity: .8;
 	transition: all .3s;
 	text-decoration: none;
 }
-.button:hover {
-	opacity: 1;
+.button:hover, a.button:hover {
+	box-shadow: 3px 8px 10px #ddd;
 }
 .button:active {
 	box-shadow: none !important;
@@ -348,5 +347,9 @@ footer {
 }
 .button.cta, a.button.cta, a.button.cta:visited {
 	background: var(--color);
-	box-shadow: 3px 5px 0 #ddd;
+}
+.button.secondary, a.button.secondary, a.button.secondary:visited {
+	background: #eee;
+	color: var(--text-color);
+	font-weight: 500;
 }

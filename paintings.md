@@ -13,7 +13,7 @@ Bleib über neue Bilder informiert
 <div class="centered flex-wrap gap">
     <a href="https://www.instagram.com/max.melzer/"         
         target="_blank"
-        class="button cta">max.melzer auf Instagram</a>
+        class="button">Instagram</a>
     <a href="/feed.xml"
         rel="subscribe-rss"
         target="_blank"

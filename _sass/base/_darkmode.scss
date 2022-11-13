@@ -58,9 +58,21 @@
 			background: linear-gradient(to right, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
 			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
 		}
-
-        .button.cta {
+        
+        .button, .button.secondary, .button.cta {
             box-shadow: 3px 5px 0 #555;
         }
+        .button:hover, a.button:hover {
+            box-shadow: 3px 7px 5px #555;
+        }
+
+        .button.secondary {
+            background-color: #444 !important;
+        }
+        
+        .category-pill {
+            background-color: #555;
+        }
 	}
+
 }
