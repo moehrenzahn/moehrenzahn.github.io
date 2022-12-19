@@ -1,5 +1,5 @@
 ---
-title: Mädchen mit Tränendem Herz
+title: Mädchen und Tränendes Herz
 file: /paintings/2022-07-30-maedchen-herz.jpg
 date: 2022-07-30
 size: 30×40cm

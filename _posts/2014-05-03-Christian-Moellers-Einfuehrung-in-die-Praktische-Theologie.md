@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Christian Möllers Einführung in die Praktische Theologie'
 categories: [Theologie]
 slug: Eine Buchbesprechung

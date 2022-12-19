@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Warum reden Theologen so kompliziert?'
 categories: [Theologie]
 slug: Für eine einfachere Sprache im theologischen Diskurs

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Kritik an der Kritik'
 categories: [Theologie]
 ---

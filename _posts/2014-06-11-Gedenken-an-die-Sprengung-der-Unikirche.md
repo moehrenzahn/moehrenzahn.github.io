@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der saloppe Umgang des Leipziger StuRa mit seiner Geschichte'
 categories: [Theologie]
 ---

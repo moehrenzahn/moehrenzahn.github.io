@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Merkel auf dem Kirchentag – Ein Widerspruch'
 categories: [Politik, Theologie]
 ---

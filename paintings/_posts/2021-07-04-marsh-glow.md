@@ -1,8 +1,7 @@
 ---
-title: 'Study: Marsh Glow'
+title: 'Marsh Glow (Lashley study)'
 file: /paintings/2021-07-04-marsh-glow.jpg
 date: 2021-07-04
-description: A Study of a painting by Christine Lashley.
 size: 40×30cm
 materials: Acrylics on paper
 published: false

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Von der Suche nach einem Zuhause'
 categories: [Technologie, Theologie]
 ---

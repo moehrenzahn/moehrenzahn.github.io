@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'abgeordnetenwatch.de gewinnt Klage gegen Bundestag'
 link: https://www.abgeordnetenwatch.de/blog/2015-07-06/bundestag-handelte-rechtswidrig-die-begrundung-zum-hausausweis-urteil-ist-da
 categories: [Politik]

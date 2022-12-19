@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Konservativ sei nicht mit rückständig gleichzusetzen"'
 link: http://www.idea.de/thema-des-tages/artikel/evangelische-kirche-unterschiede-zwischen-basis-und-leitung-83408.html
 categories: [Theologie]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Ein Mail.app-Plugin für Sublime Text 3'
 categories: [Technologie]
 ---

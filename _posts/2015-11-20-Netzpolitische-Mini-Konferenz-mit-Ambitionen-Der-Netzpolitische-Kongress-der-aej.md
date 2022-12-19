@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Netzpolitische Mini-Konferenz mit Ambitionen – Der Netzpolitische Kongress der aej'
 categories: [Politik, Theologie]
 ---

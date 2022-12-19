@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Wo surfst du so?'
 slug: Eine Online-Horizonterweiterung
 categories: [Technologie, Theologie]

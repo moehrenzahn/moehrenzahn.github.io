@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Carsten Rentzing – Ein Versuch ihn zu verstehen'
 categories: [Theologie]
 ---

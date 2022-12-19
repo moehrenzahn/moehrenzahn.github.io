@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mein aktualisiertes Portfolio'
 categories: []
 ---

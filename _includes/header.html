@@ -5,8 +5,8 @@
         <li>
             <a class="
                 {% if page.url == item.url or page.url == item.url-de %}active{% endif %}
-                {% if item.title == 'Blog' and page.collection == 'posts' %}active{% endif %}
-                {% if item.title == 'Paintings' and page.collection == 'paintings' %}active{% endif %}
+                {% if item.title == 'Feed' and page.collection == 'posts' %}active{% endif %}
+                {% if item.title == 'Paintings' and page.categories contains 'paintings' %}active{% endif %}
                 {% if item.title == 'Projects' and page.collection == 'projects' %}active{% endif %}
             "
                href="

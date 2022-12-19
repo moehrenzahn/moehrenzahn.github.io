@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Star Wars Poster im Art-déco-Stil'
 categories: [Technologie, Film]
 link: http://www.moehrenzahn.de/poster/

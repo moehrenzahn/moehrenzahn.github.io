@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Die Sterngucker von Nebra
 categories: [Theologie, bestof]
 slug: Zur Bedeutung der Himmelsscheibe von Nebra

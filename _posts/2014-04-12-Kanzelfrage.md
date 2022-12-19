@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Kanzelfrage der Leipziger Uni-Kirche'
 categories: [Theologie]
 ---

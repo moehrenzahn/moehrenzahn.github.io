@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Switching from WEBrick to Thin
 categories: [English]
 lang: en

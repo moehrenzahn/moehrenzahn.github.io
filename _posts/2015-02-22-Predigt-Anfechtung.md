@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Predigt: Anfechtung'
 categories: [Predigt, Theologie]
 ---

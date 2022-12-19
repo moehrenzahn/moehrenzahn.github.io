@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Abtreibungs-Debatte ist kaputt'
 categories: [Theologie, Politik]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Nicht auf "Gefällt mir" klicken!'
 categories: [Theologie]
 slug: Lesen und Teilen mit Verantwortung

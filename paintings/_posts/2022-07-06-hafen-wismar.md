@@ -7,8 +7,8 @@ materials: Acrylics on canvas board
 featured: no
 ---
 
-Wismar ist ein gemütliches kleines Städtchen an der Ostsee mit einer hübschen Altstadt. Und am Pier kann man jede Menge Fischbrötchen essen und Schiffe gucken.
+Wismar is a cozy little town on the Baltic Sea with a pretty old town. And at the pier you can eat lots of fish sandwiches and watch ships.
 
-Work-in-progress-Animation:
+Work-in-progress animation:
 
 ![Work in progress animation](/paintings/2022-07-06-hafen-wismar.gif)

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Dynamische Fußnoten mit bigfoot.js'
 link: http://www.bigfootjs.com
 categories: [Technologie]

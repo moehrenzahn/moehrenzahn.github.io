@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'EKD-Geldhahn zu für idea?'
 categories: [Theologie]
 ---

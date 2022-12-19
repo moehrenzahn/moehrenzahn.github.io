@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Uralte und "neue" alte Bücher – Die Torah-Rolle der Bologna-Bibliothek
 categories: [Theologie]
 ---

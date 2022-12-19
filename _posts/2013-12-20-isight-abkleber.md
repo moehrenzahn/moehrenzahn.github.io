@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hatten Webcam-Abkleber die ganze Zeit recht?
 categories: [Technologie]
 slug: Ich bin dann mal weg, mir einen Aluhut basteln

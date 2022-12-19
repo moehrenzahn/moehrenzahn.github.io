@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Gemäßigten in der AfD'
 categories: [Politik, Theologie]
 ---

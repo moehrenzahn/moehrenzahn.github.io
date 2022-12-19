@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'WWDC 2015 Keynote recap'
 categories: [Technologie, English]
 lang: en

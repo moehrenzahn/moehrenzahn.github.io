@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Apple Watch'
 categories: [English]
 slug: The Apple Watch does not solve Smart Watches

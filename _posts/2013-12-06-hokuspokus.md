@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tradition und Hokuspokus
 categories: [Theologie]
 slug: Was Richard Dawkins mit Liturgie zu tun hat

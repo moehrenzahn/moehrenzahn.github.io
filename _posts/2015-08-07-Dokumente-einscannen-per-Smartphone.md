@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Dokumente einscannen per Smartphone'
 categories: [Technologie, Theologie]
 ---

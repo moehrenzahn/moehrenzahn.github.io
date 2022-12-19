@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Anatomy of a Jailbreak Trojan'
 lang: en
 categories: [English]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Devotionalium: Jetzt mit euren Kommentaren'
 categories: [Technologie, Theologie]
 ---

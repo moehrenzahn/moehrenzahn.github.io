@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Losungs-App kaputt? Hier ein paar Alternativen
 categories: [Technologie, Theologie]
 slug: Anstatt zu meckern, möchte ich ein paar pragmatische Vorschläge machen

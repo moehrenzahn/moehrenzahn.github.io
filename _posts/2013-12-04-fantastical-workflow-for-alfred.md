@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Fantastical plugin for Alfred
 categories: [English]
 lang: en

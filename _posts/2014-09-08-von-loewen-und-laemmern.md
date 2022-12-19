@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Von Löwen und Lämmern'
 categories: [Theologie]
 slug: 'Gewaltfreiheit zwischen eschatologischer Hoffnung und präsentem Gottesreich'

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Heaven Scam" – Eine Lüge von Himmel und Hölle?'
 categories: [Theologie]
 ---

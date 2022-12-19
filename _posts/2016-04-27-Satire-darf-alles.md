@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Satire darf alles?'
 categories: [Theologie, Politik]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Pokemon Go und das übersprudelnde Internet'
 categories: [Technologie, Theologie]
 ---

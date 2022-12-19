@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wissenschaft vs. Kreationismus
 categories: [Theologie]
 slug: Zur Fernseh-Debatte zwischen Bill Nye und Ken Ham

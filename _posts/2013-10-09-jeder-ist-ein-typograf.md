@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Jeder ist ein Typograf – Matthew Buttericks "Practical typography"'
 categories: [Typografie, Technologie]
 ---

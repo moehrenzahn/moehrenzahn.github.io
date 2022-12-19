@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  'A Mail.app plugin for Sublime Text 3'
 lang: en
 categories: [English]

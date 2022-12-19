@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Von Gottes Allmacht oder Warum Alleskönnen nicht alles ist
 categories: [Theologie]
 ---

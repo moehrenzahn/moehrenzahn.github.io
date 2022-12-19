@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Autos taufen für einen guten Zweck?"
 categories: [Theologie]
 ---

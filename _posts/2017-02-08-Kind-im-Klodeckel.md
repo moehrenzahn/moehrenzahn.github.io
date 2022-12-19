@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Kind im Klodeckel'
 categories: []
 ---

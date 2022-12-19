@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Devotionalium – Die erste interreligiöse Tagesvers-App'
 link: https://devotionalium.com
 categories: [Politik, Theologie, Devotionalium]

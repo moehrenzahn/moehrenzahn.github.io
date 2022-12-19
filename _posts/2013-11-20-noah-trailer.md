@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Noah’s Wunder
 categories: [Film, Theologie]
 slug: Beobachtungen zum Trailer von "Noah"

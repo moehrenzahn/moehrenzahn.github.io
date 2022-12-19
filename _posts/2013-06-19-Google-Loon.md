@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Googles "Project Loon" und die Zukunft des freien Internets
 categories: [Technologie]
 ---

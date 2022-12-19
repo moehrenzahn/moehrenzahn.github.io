@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Der kostenlose Butler in der Hosentasche
 categories: [Technologie]
 slug: 'Loyalität gibt’s nicht umsonst'

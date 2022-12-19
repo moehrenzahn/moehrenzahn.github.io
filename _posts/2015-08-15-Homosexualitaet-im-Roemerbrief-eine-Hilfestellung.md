@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Homosexualität" im Römerbrief – eine Hilfestellung'
 categories: [Theologie]
 ---

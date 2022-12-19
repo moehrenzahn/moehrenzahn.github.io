@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Parse Bible and Quran versions with ScriptureKit for PHP
 categories: [Theologie, Technologie, devotionalium, software, scripturekit]
 lang: en

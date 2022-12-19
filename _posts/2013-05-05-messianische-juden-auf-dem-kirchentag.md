@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Die Messianischen Juden und der Kirchentag
 categories: [Theologie]
 ---

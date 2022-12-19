@@ -35,7 +35,7 @@ if ($inputFilePath) {
     }
 }
 
-$mdFilePath = "$cmsRootPath/_paintings/$mdFilename";
+$mdFilePath = "$cmsRootPath/paintings/_posts/$mdFilename";
 
 $templateParts = [
     '---',

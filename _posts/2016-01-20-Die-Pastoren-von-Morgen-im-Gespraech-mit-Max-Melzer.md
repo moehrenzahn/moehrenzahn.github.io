@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Pastoren von Morgen – im Gespräch mit Max Melzer'
 link: http://blog.churchdesk.com/de/die-pastoren-von-morgen-im-gespräch-mit-max-melzer
 categories: [Technologie, Theologie]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Polemik von gestern zum iPhone von vorgestern
 categories: [Technologie]
 ---

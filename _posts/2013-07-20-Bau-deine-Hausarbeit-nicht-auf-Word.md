@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bau deine Hausarbeit nicht auf Word … 
 categories: [Technologie, Theologie]
 ---

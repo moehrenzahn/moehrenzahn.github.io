@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CarrierEditor – iPhone-Betreiberlogo ändern ohne Jailbreak
 categories: Technologie
 ---

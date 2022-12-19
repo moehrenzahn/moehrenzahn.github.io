@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Demokratie bedeutet nicht Herrschaft der Mehrheit'
 categories: [Politik]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Run Jesus Run! Das 10-Sekunden-Evangelium
 categories: [Technologie, Theologie]
 slug: Was wir von Computerspielen über Religion lernen können

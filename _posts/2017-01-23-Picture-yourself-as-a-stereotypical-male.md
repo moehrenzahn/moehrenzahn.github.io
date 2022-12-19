@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Picture yourself as a stereotypical male"'
 link: http://mitadmissions.org/blogs/entry/picture-yourself-as-a-stereotypical-male
 categories: [Politik, Feminismus] 

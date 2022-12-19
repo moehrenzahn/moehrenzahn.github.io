@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greetings from Siberia 
 categories: [Technologie]
 lang: en

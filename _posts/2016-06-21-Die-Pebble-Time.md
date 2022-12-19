@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Pebble Time'
 categories: [Technologie]
 ---

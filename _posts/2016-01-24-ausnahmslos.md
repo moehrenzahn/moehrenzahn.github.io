@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '&#x23;ausnahmslos'
 link: http://ausnahmslos.org/
 categories: [Politik]

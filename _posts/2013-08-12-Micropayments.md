@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Einheitliche Micropayments sind kein Allheilmittel'
 categories: [Technologie, Journalismus]
 ---

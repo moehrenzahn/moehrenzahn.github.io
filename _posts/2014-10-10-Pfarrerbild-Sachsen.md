@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Liebe Kirche, wie geht’s weiter?'
 categories: [Theologie, bestof]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'What’s the deal with translating Seinfeld'
 link: http://www.theverge.com/2015/6/24/8809723/jerry-seinfeld-tv-show-international-translation
 categories: [Film]

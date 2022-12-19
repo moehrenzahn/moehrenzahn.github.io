@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Star-Wars-Weihnachtsnostalgie'
 categories: [Film, Theologie]
 ---

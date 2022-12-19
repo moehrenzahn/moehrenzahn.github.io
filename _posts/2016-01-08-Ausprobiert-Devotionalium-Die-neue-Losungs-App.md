@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Ausprobiert: Devotionalium – Die neue Losungs-App'
 link: http://www.theologiestudierende.de/2016/01/08/ausprobiert-devotionalium/
 categories: [Technologie, Theologie]

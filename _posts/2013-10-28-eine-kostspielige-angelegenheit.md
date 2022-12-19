@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Eine kostspielige Angelegenheit
 categories: [Theologie]
 slug: Sollten wir Tebartz-van Elst dankbar sein?

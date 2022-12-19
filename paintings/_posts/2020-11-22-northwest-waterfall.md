@@ -1,12 +1,12 @@
 ---
 file: /paintings/2020-11-22-northwest-waterfall.jpeg
 date: 2020-11-22
-title: Northwest Waterfall
+title: Northwest Waterfall (Hankins study)
 size: 30×40cm
 materials: Acrylics on paper
 ---
 
-This painting is literally an imitation of an imitation of a Bob Ross painting. To paint it I followed [this painting tutorial](https://www.youtube.com/watch?v=oOtLhesVh6o) by an acolyte of Bob Ross.
+This painting is literally an imitation of an imitation of a Bob Ross painting. To paint it I followed [this painting tutorial](https://www.youtube.com/watch?v=oOtLhesVh6o) by Nic Hankins, an acolyte of Bob Ross.
 
 It was very interesting to paint on a pure black canvas in the lower half of the painting. It made for a quick painting with great contrast. 
 

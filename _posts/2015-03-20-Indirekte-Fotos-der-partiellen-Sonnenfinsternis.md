@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Indirekte Fotos der partiellen Sonnenfinsternis'
 categories: [Technologie]
 ---

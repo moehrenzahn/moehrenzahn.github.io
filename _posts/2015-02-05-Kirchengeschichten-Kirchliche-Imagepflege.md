@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Kirchengeschichten: Kirchliche Imagepflege?'
 link: http://kirchengeschichten.blogspot.de/2015/01/kirchliche-imagepflege.html
 categories: [Theologie]

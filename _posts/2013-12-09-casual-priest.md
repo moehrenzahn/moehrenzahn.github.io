@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Casual Priest – Das Priester-Outfit für das 21. Jahrhundert?
 categories: [Theologie]
 ---

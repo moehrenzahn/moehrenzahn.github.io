@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Schwulenheiler Oder: Die Aufgabe der Kirche'
 categories: [Theologie]
 slug: 

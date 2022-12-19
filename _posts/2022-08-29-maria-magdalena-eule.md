@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wer war Maria Magdalena wirklich?
 link: https://eulemagazin.de/hure-oder-kirchenfuehrerin-wer-war-maria-magdalena/
 categories: [Theologie]

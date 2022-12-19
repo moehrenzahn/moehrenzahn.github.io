@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Reeder for Mac 3.0 Review'
 categories: [Technologie, English]
 lang: en

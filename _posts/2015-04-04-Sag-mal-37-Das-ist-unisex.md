@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sag mal #37 – Das ist unisex!'
 link: http://www.theologiestudierende.de/2015/04/01/sag-mal-37-das-ist-unisex/
 categories: [Theologie]

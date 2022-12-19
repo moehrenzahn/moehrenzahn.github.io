@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der Zeitgeist'
 categories: [Theologie]
 ---

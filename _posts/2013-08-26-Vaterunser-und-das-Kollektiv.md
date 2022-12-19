@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Das Vaterunser und das Kollektiv
 categories: [Theologie]
 ---

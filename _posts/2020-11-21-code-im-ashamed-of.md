@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The code I’m still ashamed of 
 categories: [Technologie, software]
 lang: en

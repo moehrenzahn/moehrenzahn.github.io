@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Von Losungen und Lizenzen'
 categories: [Technologie, Theologie]
 slug: Warum das neue Lizenzmodell der Herrnhuter den Losungen schaden wird

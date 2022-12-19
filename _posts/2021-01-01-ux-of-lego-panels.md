@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The UX of LEGO Interface Panels 
 categories: [Technologie, software]
 lang: en

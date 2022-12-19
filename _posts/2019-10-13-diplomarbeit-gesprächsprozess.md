@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der Gesprächsprozess der sächsischen Landeskirche zum Schrift- und Kirchenverständnis'
 categories: [Politik, Theologie]
 ---

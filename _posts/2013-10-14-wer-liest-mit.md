@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wer liest mit?
 categories: [Theologie]
 slug: Was hat der NSA-Skandal mit Pfarrern zu tun?

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Ein Menüleisten-Kalender mit TextBar'
 categories: [Technologie]
 ---

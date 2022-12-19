@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sag mal #22: Nur weil’s alle paar Jahre mal knallt'
 link: http://www.theologiestudierende.de/2014/08/20/sag-mal-22-nur-weils-alle-paar-jahre-mal-knallt/
 categories: [Theologie]

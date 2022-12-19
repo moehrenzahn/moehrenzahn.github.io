@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der Berliner Dom als Leuchtturm der Kirche?'
 categories: [Theologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Berger hat ein bisschen übertrieben"'
 categories: [Theologie]
 slug:  'Ein Diskussionsabend zum Buch *Die Bibelfälscher*'

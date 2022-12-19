@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Die Zukunft des elektronischen Papiers
 categories: [Technologie]
 slug: Vor- und Nachteile von E-Ink

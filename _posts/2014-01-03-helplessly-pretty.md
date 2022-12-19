@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Computer können auch schön sein
 link: http://www.minimallyminimal.com/blog/helplessly-pretty-the-emac-imac-and-ibook
 categories: [Technologie]

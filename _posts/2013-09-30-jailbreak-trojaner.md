@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Anatomie eines Jailbreak-Trojaners
 link: http://ryanhileman.info/posts/webgl
 categories: [Technologie]

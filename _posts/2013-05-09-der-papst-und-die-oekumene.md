@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Der Papst und die Ökumene
 categories: [Theologie]
 ---

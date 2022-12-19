@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Das iPhone ist kein Datentresor'
 categories: [Technologie]
 ---

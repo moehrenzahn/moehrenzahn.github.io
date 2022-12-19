@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Devotionalium jetzt auch für iPad
 categories: [Devotionalium, Theologie, Technologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sichere Social-Media-Links'
 categories: [Technologie]
 slug: Facebook- und Twitter-Buttons via statischer Links

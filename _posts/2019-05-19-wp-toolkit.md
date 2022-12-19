@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'wp-toolkit – An object-oriented WordPress API wrapper'
 categories: [Technologie]
 lang: en

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Schmutzige Berliner Wäsche" – Ein Diskussionsnachmittag zur Kanonizität des AT in Leipzig'
 categories: [Theologie]
 ---

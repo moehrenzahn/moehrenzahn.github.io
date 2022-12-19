@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Examensvorbereitung Online – Die Examens-Homepage der EKHN'
 link: http://www.ekhn-examen.de/
 categories: [Theologie]

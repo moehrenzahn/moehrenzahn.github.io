@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Lieblos und Altbacken'
 categories: [Technologie, Theologie, bestof]
 slug:  Zur Qualität kirchlicher Online-Angebote

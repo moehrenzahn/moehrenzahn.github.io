@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alte Sprachen auf dem Mac mit Unicode
 categories: [Theologie, Technologie]
 ---

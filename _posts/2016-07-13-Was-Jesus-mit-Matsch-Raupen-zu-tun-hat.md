@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Was Jesus mit Matsch-Raupen zu tun hat'
 categories: [Theologie]
 ---

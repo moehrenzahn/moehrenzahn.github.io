@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die frustrierende Registrierungsschranke von Christ & Welt'
 categories: [Technologie, Journalismus, bestof]
 ---

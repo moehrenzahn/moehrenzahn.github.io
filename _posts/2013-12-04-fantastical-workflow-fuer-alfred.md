@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ein Fantastical-Plugin für Alfred
 categories: [Technologie]
 ---

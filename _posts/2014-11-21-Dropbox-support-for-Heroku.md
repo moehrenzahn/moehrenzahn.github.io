@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Dropbox Sync for Heroku'
 categories: [English]
 lang: en

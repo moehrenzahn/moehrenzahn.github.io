@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Verpasste Chancen – Ein Kommentar zur Wahl des sächsischen Bischofs'
 categories: Theologie
 ---

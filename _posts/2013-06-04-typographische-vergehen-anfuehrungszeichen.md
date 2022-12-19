@@ -1,5 +1,4 @@
----
-layout: post 
+--- 
 title: 'Typografische Vergehen: Rettet die Anführungszeichen'
 categories: [Technologie, Typografie]
 ---

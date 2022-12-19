@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Über Kommentare
 categories: [Technologie]
 slug: Ein Experiment

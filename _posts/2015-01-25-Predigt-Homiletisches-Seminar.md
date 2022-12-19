@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Predigt: Von ahnungsvollen und ahnungslosen Tagen'
 categories: [Theologie, Predigt]
 ---

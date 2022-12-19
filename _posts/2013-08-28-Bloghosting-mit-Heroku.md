@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kostenloses Blog-Webhosting für Nerds mit Octopress
 categories: [Technologie]
 comments: true

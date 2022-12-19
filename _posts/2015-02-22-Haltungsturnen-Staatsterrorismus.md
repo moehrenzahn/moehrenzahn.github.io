@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Staatsterrorismus'
 link: http://www.haltungsturnen.de/2015/01/staatsterrorismus.html
 categories: [Technologie, Politik]

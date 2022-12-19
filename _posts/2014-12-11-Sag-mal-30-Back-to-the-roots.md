@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sag mal #30 – Back to the roots'
 categories: [Theologie]
 link: http://www.theologiestudierende.de/2014/12/10/sag-mal-30-back-to-the-roots/

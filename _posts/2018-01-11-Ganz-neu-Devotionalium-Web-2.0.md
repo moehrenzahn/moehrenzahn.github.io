@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Ganz neu: Devotionalium Web 2.0'
 link: https://devotionalium.com
 categories: [Technologie, Theologie]

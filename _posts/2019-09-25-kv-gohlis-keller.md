@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Statement des Vorstandes der Versöhnungskirchgemeinde zu einer Rede seines Mitgliedes Tobias Keller'
 link: https://versoehnungs-gemeinde.de/aktuelles/statement-des-vorstandes-der-versoehnungskirchgemeinde-zu-einer-rede-seines-mitgliedes-tobias-keller
 categories: [Politik, Theologie]

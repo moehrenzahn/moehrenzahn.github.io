@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Was die Kirche von der Wirtschaft lernen kann'
 categories: [Theologie]
 ---

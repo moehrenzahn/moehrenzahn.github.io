@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Lass meine Mutter aus dem Spiel!'
 categories: [Theologie, Politik]
 ---

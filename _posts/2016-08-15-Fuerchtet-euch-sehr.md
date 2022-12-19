@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Fürchtet euch sehr"'
 categories: [Theologie]
 ---

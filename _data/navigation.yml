@@ -1,7 +1,7 @@
 - title: Max Melzer
   url: /en/about/
   url-de: /
-- title: Blog
+- title: Feed
   url: /en/blog/
   url-de: /blog/
 - title: Software
@@ -20,6 +20,8 @@
 - title: GitHub
   url: https://github.com/moehrenzahn/
   hidden: true
+# - title: Mastodon
+#   url: https://www.mastodon.lol/maxmelzer/
 # - title: Twitter
 #   url: https://www.twitter.com/_maxmelzer/
 # - title: Instagram

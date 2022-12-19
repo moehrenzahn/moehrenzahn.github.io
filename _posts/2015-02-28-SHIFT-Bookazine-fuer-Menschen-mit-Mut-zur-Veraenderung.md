@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'SHIFT – Bookazine für Menschen mit Mut zur Veränderung'
 link: https://www.startnext.com/shift-next
 categories: [Technologie, Journalismus]

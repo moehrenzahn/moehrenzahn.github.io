@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Von der Gegenwart Gottes'
 categories: [Theologie]
 ---

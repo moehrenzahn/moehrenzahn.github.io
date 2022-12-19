@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Klimaverschwörung der AfD'
 categories: [Theologie, Politik]
 ---

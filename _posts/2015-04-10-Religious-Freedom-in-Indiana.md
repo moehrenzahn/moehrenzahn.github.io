@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Religion im Kreuzfeuer – "Religious Freedom Restoration" in Indiana'
 categories: [Theologie]
 slug: Warum beim RFRA nicht so heiß gegessen wie gekocht wird.

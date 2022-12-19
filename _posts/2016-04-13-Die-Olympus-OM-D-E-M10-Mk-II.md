@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Olympus OM-D E-M10 Mk II'
 categories: [Technologie]
 ---

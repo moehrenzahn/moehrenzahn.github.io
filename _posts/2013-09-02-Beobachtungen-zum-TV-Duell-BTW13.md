@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Beobachtungen zum TV-Duell zur BTW2013'
 categories: [Technologie, Politik]
 ---

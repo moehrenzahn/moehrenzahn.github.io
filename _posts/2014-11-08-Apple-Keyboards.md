@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der Apple-Tastaturenvergleich'
 categories: [Technologie]
 ---

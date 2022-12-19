@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Lessings garstiger Graben'
 categories: [Theologie]
 slug: Glaube ist nicht beweisbar – und er darf es auch nicht sein.

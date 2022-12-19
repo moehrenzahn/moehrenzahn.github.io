@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vokabeln lernen für (Studien-)Anfänger
 categories: [Theologie, Technologie]
 ---

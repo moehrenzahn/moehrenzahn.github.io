@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Devotionalium – Die moderne Andachts-App für Mac OS X'
 link: http://devotionalium.moehrenzahn.de/mac
 categories: [Technologie, Theologie]

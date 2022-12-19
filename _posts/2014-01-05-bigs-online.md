@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wie eine Online-Bibel *nicht* funktionieren sollte
 categories: [Technologie, Theologie]
 slug: Die Bibel in gerechter Sprache Online

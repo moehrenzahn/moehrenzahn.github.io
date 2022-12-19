@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Landesverrat"'
 link: 
 categories: [Politik, Technologie]

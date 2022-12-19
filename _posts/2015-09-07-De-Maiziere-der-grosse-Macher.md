@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'De Maizière, der große Macher'
 categories: [Theologie, Politik]
 ---

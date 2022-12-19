@@ -237,10 +237,26 @@ h1.entry-title.index {
 	display: inline-block;
 	width: .75em;
 	height: .75em;
+	margin-left: -1.2em;
 	background: url("/images/icons/arrow-white.png") no-repeat center center;
 	background-size: contain;
 	transform: translateY(.1em);
 	transition: background $transition-time;
+}
+
+.entry-title.paintings:before,
+a.index-link:hover .entry-title.paintings :before {
+	content: "🎨";
+	width: 2em;
+	height: 2em;
+	font-size: .65em;
+	transform: translateY(0);
+	transition: background $transition-time;
+	margin-left: -1.9em;
+	background: rgb(224,224,224);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-fill-color: transparent;
 }
 
 .entry-title.page, .entry-title.index {
@@ -269,6 +285,18 @@ a.index-link:hover {
 	.entry-title.linklog:before {
 		background: url("/images/icons/arrow-color.png") no-repeat center center;
 		background-size: contain;
+	}
+	.entry-title.paintings:before {
+		content: "🎨";
+		width: 2em;
+		height: 2em;
+		font-size: .65em;
+		transform: translateY(0);
+		margin-left: -1.9em;
+		background: var(--color);
+		background-clip: text;
+		-webkit-text-fill-color: transparent;
+		text-fill-color: transparent;
 	}
 }
 .linklog:hover:before {

@@ -14,23 +14,21 @@ single: true
 
       <div class="meta">
         {% if painting.previous.url %}
-          <div id="previouspost">{% if page.lang == 'en' %}Previous Painting{% else %}Vorheriges Gemälde{% endif %}
+          <div id="previouspost">{% if page.lang == 'en' %}Previous{% else %}Vorheriger{% endif %}
             <br>
             <a class="basic-alignment left"
                href="{{page.previous.url}}"
                title="Previous Painting: {{page.previous.title}}">
-               <img src="{{page.previous.file}}" height="100px" />
                {{page.previous.title | markdownify | remove: "<p>" | remove: "</p>"}}
             </a>
           </div>
         {% endif %}
         {% if painting.next.url %}
-          <div id="nextpost">{% if page.lang == 'en' %}Next Painting{% else %}Nächstes Gemälde{% endif %}
+          <div id="nextpost">{% if page.lang == 'en' %}Next{% else %}Nächster{% endif %}
             <br>
             <a href="{{page.next.url}}"
                title="Next Painting: {{page.next.title}}">
-               <img src="{{page.next.file}}" height="100px" />
-               {{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}
+                {{page.next.title | markdownify | remove: "<p>" | remove: "</p>"}}
             </a>
           </div>
         {% endif %}

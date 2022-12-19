@@ -14,23 +14,7 @@ layout: null
     "favicon": "{{ "/favicon.ico" | absolute_url }}",
     "expired": false,
     "items": [
-        {% for painting in site.paintings %}
-        {
-            "id": "{{ painting.url | absolute_url | sha1 }}",
-            "title": {{ painting.title | jsonify }},
-            {% if painting.description %}"summary": {{ painting.description | jsonify }},{% endif %}
-            "content_text": {{ painting.content | strip_html | strip_newlines | jsonify }},
-            "content_html": {{ painting.content | strip_newlines | jsonify }},
-            "url": "{{ painting.url | absolute_url }}",
-            "image": "{{ painting.file  | absolute_url }}",
-            "date_published": "{{ painting.date | date_to_xmlschema }}",
-            "date_modified": "{{ painting.date | date_to_xmlschema }}",
-            "author": {
-                "name": "Max Melzer"
-            }
-        },
-        {% endfor %}
-    {% for post in site.posts limit:36 %}
+    {% for post in site.posts limit:50 %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "title": {{ post.title | jsonify }},

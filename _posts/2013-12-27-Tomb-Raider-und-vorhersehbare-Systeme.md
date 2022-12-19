@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tomb Raider und Vorhersehbare Systeme
 categories: [Technologie]
 slug: … und warum wir mehr davon gebrauchen könnten

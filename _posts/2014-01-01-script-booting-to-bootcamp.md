@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Boot to Bootcamp with AppleScript
 lang: en
 categories: [English]

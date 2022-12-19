@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Statische Kommentare mit Jekyll
 categories: [Technologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Braune Soße bleibt braune Soße"'
 link: http://philipp-greifenstein.de/rechtsextreme-kirche/
 categories: [Theologie]

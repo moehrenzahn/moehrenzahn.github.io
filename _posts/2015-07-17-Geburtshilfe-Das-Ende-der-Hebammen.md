@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Geburtshilfe: Das Ende der Hebammen'
 link: http://www.zeit.de/gesellschaft/2015-07/hebammen-elternprotest-versicherung
 categories: [Politik]

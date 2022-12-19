@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Sicherheit unserer Fingerabdrücke'
 categories: [Technologie]
 ---

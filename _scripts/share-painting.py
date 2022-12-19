@@ -16,7 +16,7 @@ def remove_prefix(input_string, prefix):
     return input_string
 
 
-paintingMdPath = os.path.dirname(os.path.realpath(__file__)) + '/../_paintings'
+paintingMdPath = os.path.dirname(os.path.realpath(__file__)) + '/../paintings/_posts'
 paintingMds = sorted(os.listdir(paintingMdPath))
 lastFileName = paintingMds[-1];
 

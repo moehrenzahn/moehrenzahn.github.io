@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Das Devotionalium im Wortkollektiv Podcast
 categories: [Devotionalium, Theologie, Predigt]
 link: http://wortkollektiv.de/731/

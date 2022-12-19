@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Der Gender-Weltkrieg des Franziskus'
 categories: [Theologie]
 ---

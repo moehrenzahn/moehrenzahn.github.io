@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Echte" Kommunikation'
 categories: [Technologie, Theologie]
 slug: Ein Pladoyer für die digitale Kommunikation des Evangeliums. 

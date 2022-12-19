@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gute und Schlechte Nachrichten zur Losungs-App
 categories: [Technologie, Theologie]
 slug: Die Herrnhuter Brüdergemeine hat sich zum Debakel um ihre Losungs-App offiziell geäußert

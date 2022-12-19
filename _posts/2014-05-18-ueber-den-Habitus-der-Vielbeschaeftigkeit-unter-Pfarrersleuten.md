@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Über den Habitus der Vielbeschäftigkeit unter Pfarrersleuten'
 link: http://blogmatthiasjung.wordpress.com/2014/05/17/uber-den-habitus-der-vielbeschaftigkeit-bei-pfarrersleuten/
 categories: [Theologie]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Die Feindbilder im "Bremer Predigtstreit"'
 categories: [Theologie]
 ---

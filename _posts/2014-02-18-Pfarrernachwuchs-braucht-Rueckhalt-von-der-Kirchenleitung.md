@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Pfarrernachwuchs braucht Rückhalt von der Kirchenleitung'
 link: http://aktuell.evangelisch.de/artikel/92410/pfarrernachwuchs-braucht-rueckhalt-von-der-kirchenleitung
 categories: [Theologie]

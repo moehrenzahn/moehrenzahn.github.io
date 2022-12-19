@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Eindrücke vom 3. Evangelischen Medienkongress – Keine großen Revolutionen, bitte?'
 categories: [Theologie, bestof]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'How to create a custom LaTeX build system for Sublime Text'
 categories: [Technologie, English, bestof]
 lang: en

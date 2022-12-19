@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Volltheologen
 categories: [Theologie]
 comments: true

@@ -7,10 +7,6 @@ url: "https://www.moehrenzahn.de" # the base hostname & protocol for your site
 permalink: :title/
 
 collections:
-   paintings:
-      layout: painting
-      sort_by: date
-      output: true
    projects:
       layout: project
       sort_by: date
@@ -20,17 +16,22 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: paintings
+      type: posts
     values:
-      layout: painting
-      lang: en # All painting pages are in english
+      layout: post
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
       type: projects
     values:
       layout: project
       layout-width: 900px
+  -
+    scope:
+      path: "paintings"
+    values:
+      layout: painting
+      lang: en # All painting pages are in english<
   -
     scope:
       path: "/en/*"

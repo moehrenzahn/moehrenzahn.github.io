@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jäger und Gejagte – "Menschen auf der Flucht"
 categories: [Theologie, Technologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Das freie Soziale Netzwerk'
 categories: [Technologie]
 ---

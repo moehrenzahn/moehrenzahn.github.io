@@ -20,7 +20,7 @@
 			{% endcase %}
 			{{ post.date | date: "%Y" }}
 		</time>
-		<h1 class="entry-title index {% if post.link %}linklog{% endif %}">
+		<h1 class="entry-title index {{ post.categories }} {% if post.link %}linklog{% endif %}">
 			{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
 			{% if post.draft == true %}
 				<span class="dot">(Entwurf)</span>

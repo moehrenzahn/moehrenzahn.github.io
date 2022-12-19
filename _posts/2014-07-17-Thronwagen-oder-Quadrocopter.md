@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Thronwagen oder Quadrocopter?'
 categories: [Technologie, Theologie]
 slug: Zur Thronwagenvision Ezechiels

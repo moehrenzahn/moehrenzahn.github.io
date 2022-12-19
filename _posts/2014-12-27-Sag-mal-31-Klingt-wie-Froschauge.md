@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sag mal #31 – Klingt wie Froschauge'
 link: http://www.theologiestudierende.de/2014/12/24/sag-mal-31-klingt-wie-froschauge/
 categories: [Theologie]

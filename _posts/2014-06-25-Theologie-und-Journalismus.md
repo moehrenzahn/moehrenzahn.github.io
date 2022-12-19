@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sag mal #19: Auch wenn das Land Pfarrer braucht …'
 link: http://www.theologiestudierende.de/2014/06/25/sag-mal-19/
 categories: [Theologie, bestof]

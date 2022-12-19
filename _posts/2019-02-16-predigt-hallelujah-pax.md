@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Predigt: Ein kaltes, gebrochenes Halleluja'
 categories: [Predigt, Theologie]
 ---

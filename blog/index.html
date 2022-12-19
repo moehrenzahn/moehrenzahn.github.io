@@ -6,7 +6,7 @@ regenerate: true
 
 <div class="blog-index">
   {% assign index = true %}
-  {% for post in site.posts limit:25 %}
+  {% for post in site.posts limit:40 %}
     {% assign content = post.content %}
       <article>
         {% include article.html %}

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ablass in hundertvierzig Zeichen? 
 categories: [Theologie, Technologie]
 ---

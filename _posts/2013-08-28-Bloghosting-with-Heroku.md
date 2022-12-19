@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Free blog hosting for nerds with Octopress'
 lang: en
 categories: [English]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Was bleibt von der #EKDSynode?'
 categories: [Technologie, Theologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greetings from France
 categories: []
 lang: en

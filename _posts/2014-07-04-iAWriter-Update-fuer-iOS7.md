@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'iA Writer 2.0 Update für iOS 7'
 categories: [Technologie]
 ---

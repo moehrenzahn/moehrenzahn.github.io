@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'idea ist keine Nachrichtenagentur'
 categories: [Theologie]
 slug: Warum idea der evangelikalen Bewegung schadet

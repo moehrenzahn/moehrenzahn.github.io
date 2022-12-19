@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Je suis Charlie'
 categories: [Politik]
 slug: Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen

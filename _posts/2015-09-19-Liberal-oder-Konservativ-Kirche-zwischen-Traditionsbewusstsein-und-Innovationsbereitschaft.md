@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Liberal oder Konservativ – Kirche zwischen Traditionsbewusstsein und Innovationsbereitschaft'
 categories: [Theologie]
 ---

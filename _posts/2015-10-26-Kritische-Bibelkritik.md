@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Kritische Bibelkritik'
 categories: [Theologie]
 ---

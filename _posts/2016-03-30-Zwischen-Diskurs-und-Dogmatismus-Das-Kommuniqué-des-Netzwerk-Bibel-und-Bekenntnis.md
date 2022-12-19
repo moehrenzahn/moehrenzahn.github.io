@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Zwischen Diskurs und Dogmatismus – Das Kommuniqué des "Netzwerk Bibel und Bekenntnis"'
 categories: [Theologie]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Devotionalium bei Hitradio RTL'
 link: https://devotionalium.com
 categories: [Devotionalium]

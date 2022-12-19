@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Keine Kompromisse" – Hat der Desktop ausgedient?'
 categories: [Technologie]
 ---

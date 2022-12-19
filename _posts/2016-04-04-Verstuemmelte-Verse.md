@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Verstümmelte Verse'
 categories: [Theologie]
 ---
