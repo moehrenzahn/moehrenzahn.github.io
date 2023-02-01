@@ -14,7 +14,7 @@ layout: null
     {% for post in site.posts limit:50 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
+        <description>{% if post.file %}&lt;img src=&quot;{{ post.file | absolute_url | xml_escape }}&quot;&gt; {% endif %}{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
