@@ -12,3 +12,5 @@ This painting is a "Master Study" of John Singer Sargent's ["Lady Agnew of Lochn
 It was very challenging for me to achieve a likeness. I truly learned to appreciate Sargents total control over the subtle shifts of value and color in the face. I struggled for quite some time to achieve similar effects.
 
 In the end, I did not manage anything close to an exact copy. But still, I'm content with the end result.
+
+![Work-in-progress animation](/paintings/2022-11-12-lady-agnew-of-lochnaw.mp4)

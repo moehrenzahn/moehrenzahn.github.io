@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-#set -e
+set -e
 
 if [ -z "$1" ]
   then
@@ -12,9 +12,9 @@ if [ -z "$1" ]
     exit 0
 fi
 
-imagePath=$1
+imagePath="$1"
 
-images=($(ls "$imagePath/*.jpg"))
+images=($(ls $imagePath/*.jpg))
 width=$(identify -format '%w' "${images[0]}")
 height=$(identify -format '%h' "${images[0]}")
 if [ -z "width" ]

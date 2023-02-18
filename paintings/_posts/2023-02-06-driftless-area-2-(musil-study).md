@@ -12,3 +12,5 @@ I first painted a study of [this painting by Jim Musil](https://jimmusil.com/ori
 I thought it would be interesting to revisit one of my earliest paintings — one I am not as proud of in hindsight – and see if I had improved over the last two years. There are several glaring issues with [my first attempt at this study](/paintings/2021-01-02-driftless-area/), most of all the entire sky which I completely mangled back then.
 
 This time, I tried to focus much less on shapes and individual objects, and more on the colors and values of the scene.
+
+![Work-in-progress animation](/paintings/2023-02-06-driftless-area-2-(musil-study).mp4)
