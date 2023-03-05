@@ -9,17 +9,24 @@
   </a>
 {% else %}
 
-  {% if page.link %}
-    <h1 class="entry-title linklog">
-      {% if page.published == false %}
-        Entwurf<span class="dot">•</span>
-      {% endif %}
-      <a class="linklog" href="{{ page.link }}">
-        {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-      </a>
-    </h1>
+  {% assign postlength = content.size %}
+  {% if postlength > 4500 %}
+    <div class="entry-content paginated-article loading {{postlength}}">
   {% else %}
-    <h1 class="entry-title">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+    <div class="entry-content">
   {% endif %}
-  <div class="entry-content">{{ content }}</div>
+    {% if page.link %}
+      <h1 class="entry-title linklog">
+        {% if page.published == false %}
+          Entwurf<span class="dot">•</span>
+        {% endif %}
+        <a class="linklog" href="{{ page.link }}">
+          {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+        </a>
+      </h1>
+    {% else %}
+      <h1 class="entry-title">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+    {% endif %}
+    {{ content }}
+  </div>
 {% endif %}
