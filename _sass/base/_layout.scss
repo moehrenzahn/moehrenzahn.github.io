@@ -255,8 +255,9 @@ a.index-link:hover .entry-title.paintings :before {
 	margin-left: -1.9em;
 	background: rgb(224,224,224);
 	background-clip: text;
-	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
 	text-fill-color: transparent;
+	-webkit-text-fill-color: transparent;
 }
 
 .entry-title.page, .entry-title.index {
@@ -297,6 +298,8 @@ a.index-link:hover {
 		background-clip: text;
 		-webkit-text-fill-color: transparent;
 		text-fill-color: transparent;
+		-webkit-background-clip: text;
+		background-clip: text;
 	}
 }
 .linklog:hover:before {
