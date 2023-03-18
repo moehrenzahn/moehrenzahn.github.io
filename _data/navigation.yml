@@ -1,21 +1,26 @@
 - title: Max Melzer
   url: /en/about/
   url-de: /
-- title: Feed
+  icon: person
+- title: Posts
   url: /en/blog/
   url-de: /blog/
+  icon: carrot
 - title: Software
   title-de: Software
   url: /en/projects/
   url-de: /projects/
+  icon: computer
 - title: Paintings
   title-de: Malerei
   url: /en/paintings/
   url-de: /paintings/
+  icon: painting
 - title: Sci-Fi Posters
   title-de: Sci-Fi Poster
   url: /en/poster/
   url-de: /poster/
+  icon: picture
   hidden: true
 - title: GitHub
   url: https://github.com/moehrenzahn/

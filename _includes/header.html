@@ -5,7 +5,7 @@
         <li>
             <a class="
                 {% if page.url == item.url or page.url == item.url-de %}active{% endif %}
-                {% if item.title == 'Feed' and page.collection == 'posts' %}active{% endif %}
+                {% if item.title == 'Posts' and page.collection == 'posts' %}active{% endif %}
                 {% if item.title == 'Paintings' and page.categories contains 'paintings' %}active{% endif %}
                 {% if item.title == 'Projects' and page.collection == 'projects' %}active{% endif %}
             "
@@ -15,15 +15,20 @@
                 {% else %}
                     {{ item.url-de | default: item.url }}
                 {% endif %}">
+                {% if item.icon %}
+                <img class="icon" src="/images/flaticons/{{ item.icon }}.svg" /> 
+                {% endif %}
+                <div class="label">
                 {% if page.lang == 'en' %}
                     {{ item.title }}
                 {% else %}
                     {{ item.title-de | default: item.title }}
                 {% endif %}
+                </div>
             </a>
         </li>
         {% endunless %}
         {% endfor %}
-        <li style="flex-grow: 1;display: flex;justify-content: flex-end; margin: 0">{% include lang-switcher.html %}</li>
+        <li>{% include lang-switcher.html %}</li>
     </ul>
 </nav>

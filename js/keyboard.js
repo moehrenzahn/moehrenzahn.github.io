@@ -9,4 +9,10 @@ document.addEventListener('keydown', function(event) {
         document.querySelector("#nextpost a").click()
         event.preventDefault()
     }
+    if (["h"].includes(key)) {
+        const aboutLink = document.querySelector("nav a")
+        if (!aboutLink.classList.contains("active")) {
+            aboutLink.click()
+        }
+    }
 }, false);

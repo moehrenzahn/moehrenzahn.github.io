@@ -1,0 +1,159 @@
+$pagination-page-width: 550px;
+
+.fullwidth-container {
+    display: flex;
+    justify-content: center;
+
+    // Full-width positioning
+    width: 100vw;
+    position: relative;
+    left: calc(50%);
+    right: calc(50%);
+    margin-left: calc(-50vw);
+    margin-right: calc(-50vw);
+}
+
+.paginated-article {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    margin-top: -1.5em;
+
+    // neat scrolling
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+
+    position: relative;
+    height: 85vh;
+    overflow-y: hidden !important;
+
+    // Page width
+    width: $pagination-page-width;
+    max-width: 100%;
+}
+
+.paginated-article:not(.ready):not(.has-error) {
+    &::after {
+        content: "Loading...";
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--background);
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+}
+.paginated-article.has-error {
+    // Reset all styles
+    display: block;
+    height: auto;
+    width: 760px; // Fallback width
+    margin-top: 1em;
+    & + nav.page-navigation {
+        display: none !important;
+    }
+}
+
+
+.paginated-article > .spacer {
+    // This is hacky, but it works (trailing margin is not rendered otherwise)
+    padding-right: 1px;
+}
+.paginated-article .first-item-style-none li:first-child {
+    list-style-type: none;
+}
+.paginated-article > .page {
+    display: flex;
+    justify-content: stretch;
+    gap: 1em;
+
+    --padding: 1em;
+    box-sizing: border-box;
+    background-color: rgba(127,127,127,.03);
+    flex: none;
+    width: $pagination-page-width;
+    max-width: calc(100% - (var(--padding) * 2));
+    flex-flow: column nowrap;
+
+    padding: var(--padding);
+
+    scroll-snap-align: start;
+    scroll-margin: 0 var(--padding);
+    scroll-snap-stop: always;
+    overscroll-behavior-y: none;
+}
+.paginated-article .page-footer {
+    display: flex;
+    justify-content: space-evenly;  
+    align-items: center;  
+}
+.paginated-article .page-number {
+}
+.page-navigation button {
+    color: inherit;
+    -webkit-appearance: none;
+    appearance: none;
+    background: var(--background);
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1.5px solid transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1em;
+    transition: border-color .3s;
+    cursor: pointer;
+    &:hover, &:focus, &:active {
+        border-color: var(--color);
+    }
+    &.page-back {
+        border-top-left-radius: 50%;
+        border-bottom-left-radius: 50%;
+        border-right: none;
+        background-image: url(/images/flaticons/left.svg);
+    }
+    &.page-forward {
+        background-image: url(/images/flaticons/right.svg);
+        border-left: none;
+        border-top-right-radius: 50%;
+        border-bottom-right-radius: 50%;
+    }
+}
+.paginated-article .page-content {
+    flex-grow: 1;
+    overflow-y: hidden;
+}
+.paginated-article .page-content p {
+    text-align: justify;
+}
+.paginated-article .page-content p.last-on-page.was-split {
+    text-align-last: justify;
+}
+.first-on-page {
+    margin-top: 0 !important;
+}
+.last-on-page {
+    margin-bottom: 0 !important;
+}
+nav.page-navigation {
+    position: absolute;
+    bottom: 1rem;
+    right: 3rem;
+    background-color: var(--background);
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    display: flex;
+    border-radius: 2rem;
+}
+
+@media (min-width: calc(#{$pagination-page-width * 2} + 3em)) {
+    .paginated-article {
+        width: calc(#{$pagination-page-width * 2} + 3em);
+    }
+    nav.page-navigation {
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+    }
+}

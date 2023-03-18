@@ -34,6 +34,7 @@ article {
 		margin-top: 0;
 		font-size: 1.35rem;
 		font-weight: bold;
+		border-bottom: 2px solid transparent;
 	}
 	.entry-slug {
 		text-align: center;
@@ -272,12 +273,12 @@ a.index-link:hover .entry-title.paintings :before {
 
 a.index-link {
 	display: block;
+	border-bottom: none;
 	transition: all .3s;
 }
 a.index-link:hover {
 	.entry-title {
-		text-decoration: underline;
-		text-decoration-color: var(--color);
+		border-bottom-color: var(--color);
 	}
 	.entry-title.index:before {
 		background: url("/images/moehre.png") no-repeat center center;

@@ -3,14 +3,12 @@
 
 a, a:visited {
 	color: var(--text-color);
-	text-decoration: underline;
-	text-decoration-thickness: .1em;
-	text-decoration-color: #D9D9D9;
-	text-underline-offset: .2em;
-	transition: text .3s;
+	text-decoration: none;
+	border-bottom: .1em solid #D9D9D9;
+	transition: border-color .3s;
 }
 a:hover {
-	text-decoration-color: var(--color)
+	border-bottom-color: var(--color)
 }
 
 
@@ -18,9 +16,15 @@ a:hover {
 
 h1, nav {
 	a, a:visited {
-		text-decoration: none;
+		border-bottom: none;
+		.label {
+			border-bottom: .1em solid transparent;
+			transition: border-color .3s;
+		}
 	}
 	a:hover {
-		text-decoration: underline;
+		.label {
+			border-bottom-color: var(--color)
+		}
 	}
 }

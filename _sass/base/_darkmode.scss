@@ -7,10 +7,10 @@
 		}
 
 		a, a:visited {
-			text-decoration-color: #777;
+			border-bottom-color: #777;
 		}
 		a:hover {
-			text-decoration-color: var(--color);
+			border-bottom-color: var(--color);
 		}
 		h1,  h2,  p,  a, a:visited {
 			color: var(--text-color);
@@ -73,6 +73,23 @@
         .category-pill {
             background-color: #555;
         }
-	}
 
+        .header-menu {
+            .icon {
+                filter: invert(100%);
+            }
+        }
+        .page-navigation {
+            background-color: var(--text-color) !important;
+        }
+        .page-navigation button {
+            background-color: var(--text-color);
+        }
+
+        @media (max-width: 600px) {
+            .header-menu {
+                box-shadow: 0 0 20px rgba(0,0,0,.2);
+            }
+        }
+    }
 }

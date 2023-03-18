@@ -26,7 +26,13 @@
 {% endunless %}
 
 {% if page.lang == 'en' %}
-  <a href="{{ switch_url | absolute_url }}">Wechseln zu Deutsch</a>
+  <a href="{{ switch_url | absolute_url }}">
+    <img class="icon" src="/images/flaticons/globe.svg"/>
+    <div class="label">Deutsch</div>
+  </a>
 {% else %}
-  <a href="{{ switch_url | absolute_url }}">Switch to English</a>
+  <a href="{{ switch_url | absolute_url }}">
+    <img class="icon" src="/images/flaticons/globe.svg"/>
+    <div class="label">English</div>
+  </a>
 {% endif %}

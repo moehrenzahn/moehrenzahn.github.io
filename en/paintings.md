@@ -12,7 +12,7 @@ Stay informed about new paintings
 <div class="centered flex-wrap gap">
     <a href="https://www.instagram.com/max.melzer/"         
         target="_blank"
-        class="button cta">max.melzer on Instagram</a>
+        class="button">Instagram</a>
     <a href="/en/feed.xml"
         rel="subscribe-rss"
         target="_blank"
