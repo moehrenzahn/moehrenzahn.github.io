@@ -30,8 +30,10 @@
 		background-size: cover;
 		justify-content: space-between;
 		min-height: 90vh;
-		padding-top: 1rem;
 		font-size: 3rem;
+		.icon {
+			filter: invert(1);
+		}
 		.copy {
 			display: block;
 			max-width: 45vw;
@@ -63,11 +65,7 @@
 		}
 
 		.header-menu {
-			position: absolute;
-			top: 0;
-			left: 0;
-			right: 0;
-
+			width: 100%;
 			a {
 				color: white;
 			}
@@ -81,6 +79,7 @@
 			a.scroll-down {
 				display: block;
 				margin: 0 auto;
+				border: none;
 				color: white;
 				text-align: center;
 				background: rgba(0,0,0,.2);
@@ -166,8 +165,10 @@
 	.about {
 		font-size: .8em;
 		.about-title {
+			.header-menu {
+				flex-grow: 1;
+			}
 			background-position: 30%;
-			justify-content: flex-end;
 			align-items: end;
 			font-size: 1.5rem;
 			.copy {

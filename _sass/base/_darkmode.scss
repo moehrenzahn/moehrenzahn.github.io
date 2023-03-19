@@ -76,7 +76,7 @@
 
         .header-menu {
             .icon {
-                filter: invert(100%);
+                filter: invert(1);
             }
         }
         .page-navigation {
@@ -85,11 +85,8 @@
         .page-navigation button {
             background-color: var(--text-color);
         }
-
-        @media (max-width: 600px) {
-            .header-menu {
-                box-shadow: 0 0 20px rgba(0,0,0,.2);
-            }
+        .entry-title.index:before {
+            filter: invert(1);
         }
     }
 }

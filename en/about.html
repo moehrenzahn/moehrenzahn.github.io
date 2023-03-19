@@ -3,16 +3,16 @@ regenerate: true
 ---
 
 {% include head.html %}
-{% include header.html %}
 
 <div class="about">
     <div class="about-title">
+        {% include header.html %}
         <div class="spacer"></div>
         <div class="copy">
             <h2><span class="color">Hello,</span> my name is Max Melzer.</h2>
             <p>I am a theologian and software developer from Germany.</p>
         </div>
-        <div class="scroll-down-button-container nav"><a href="#about-contact" class="scroll-down">↓</a></div>
+        <div class="scroll-down-button-container nav"><a href="#about-projects" class="scroll-down">↓</a></div>
     </div>
     <div id="about-projects" class="about-projects">
         <h2 class="scroll-effect">Portfolio</h2>

@@ -221,44 +221,26 @@ h1.entry-title.index {
 }
 
 .entry-title.index:before {
-	display: inline-block;
-	width: 1.2em;
-	height: 1.2em;
-	background: url("/images/moehre_black.png") no-repeat center center;
+	display: block;
+	width: 1em;
+	height: 1em;
+	background: url("/images/flaticons/carrot.svg") no-repeat center center;
 	background-size: 100%;
+	background-size: contain;
+	opacity: .2;
 	position: absolute;
 	margin-left: -1.4em;
-	margin-top: .1em;
+	margin-top: .15em;
 	content: "";
-	transition: background $transition-time;
+	transition: opacity .3s;
 }
 
 .entry-title.linklog:before {
-	content: "";
-	display: inline-block;
-	width: .75em;
-	height: .75em;
-	margin-left: -1.2em;
-	background: url("/images/icons/arrow-white.png") no-repeat center center;
-	background-size: contain;
-	transform: translateY(.1em);
-	transition: background $transition-time;
+	background-image: url("/images/flaticons/link.svg");
 }
 
-.entry-title.paintings:before,
-a.index-link:hover .entry-title.paintings :before {
-	content: "🎨";
-	width: 2em;
-	height: 2em;
-	font-size: .65em;
-	transform: translateY(0);
-	transition: background $transition-time;
-	margin-left: -1.9em;
-	background: rgb(224,224,224);
-	background-clip: text;
-	-webkit-background-clip: text;
-	text-fill-color: transparent;
-	-webkit-text-fill-color: transparent;
+.entry-title.paintings:before {
+	background-image: url("/images/flaticons/painting.svg");
 }
 
 .entry-title.page, .entry-title.index {
@@ -268,7 +250,6 @@ a.index-link:hover .entry-title.paintings :before {
 .entry-title.page:before {
 	content: "";
 	display: none;
-	background: none;
 }
 
 a.index-link {
@@ -281,31 +262,8 @@ a.index-link:hover {
 		border-bottom-color: var(--color);
 	}
 	.entry-title.index:before {
-		background: url("/images/moehre.png") no-repeat center center;
-		background-size: 100%;
+		opacity: .6;
 	}
-	.entry-title.linklog:before {
-		background: url("/images/icons/arrow-color.png") no-repeat center center;
-		background-size: contain;
-	}
-	.entry-title.paintings:before {
-		content: "🎨";
-		width: 2em;
-		height: 2em;
-		font-size: .65em;
-		transform: translateY(0);
-		margin-left: -1.9em;
-		background: var(--color);
-		background-clip: text;
-		-webkit-text-fill-color: transparent;
-		text-fill-color: transparent;
-		-webkit-background-clip: text;
-		background-clip: text;
-	}
-}
-.linklog:hover:before {
-	background: url("/images/icons/arrow-color.png") no-repeat center center;
-	background-size: contain;
 }
 
 span.entry-content-excerpt {
@@ -314,7 +272,6 @@ span.entry-content-excerpt {
 	max-height: 4.8em;
 	position: relative;
 	color: var(--text-color-light);
-	//font-size: $footnotetext;
 }
 span.entry-content-excerpt:after {
 	content: "";

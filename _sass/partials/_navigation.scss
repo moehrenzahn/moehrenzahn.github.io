@@ -1,10 +1,6 @@
 /* Not currently included */
 
 .header-menu {
-	left: 0;
-	top: 0;
-	right: auto;
-	z-index: 100;
 	font-size: 16px;
 	ul, li {
 		list-style: none;
@@ -12,13 +8,21 @@
 	.icon {
 		width: 20px;
 		opacity: .6;
+		transition: opacity .3s;
 	}
 	ul {
 		display: flex;
 		flex-direction: row;
-		justify-content: flex-start;
+		flex-wrap: wrap;
+		justify-content: space-between;
 		padding: 1rem;
 		margin: 0;
+		gap: 2rem;
+	}
+	li:last-child {
+		display: flex;
+		flex-grow: 1;
+		justify-content: flex-end;
 	}
 	
 	a {
@@ -44,35 +48,21 @@
 		}
 	}
 }
-@media (min-width: 601px) {
-	.header-menu {
-		ul {
-			gap: 2rem;
-			li:last-child {
-				display: flex;
-				flex-grow: 1;
-				justify-content: flex-end;
-			}
-		}
-	}
-}
 @media (max-width: 600px) {
 	.header-menu {
-		position: fixed;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		top: auto !important;
-		background-color: var(--background);
-		box-shadow: 0 0 20px rgba(0,0,0,.1);
+		.icon {
+			width: 15px;
+		}
 		ul {
-			flex-direction: row;
-			justify-content: space-evenly;
-			padding: .5rem;
+			gap: .75rem;
+			row-gap: .5rem;
+
+			font-size: 14px;
 			a {
-				flex-direction: column;
-				font-size: 12px;
+				// flex-direction: column;
+				gap: 5px;
 			};
+			
 		}
 	}
 }

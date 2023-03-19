@@ -1,11 +1,11 @@
 - title: Max Melzer
   url: /en/about/
   url-de: /
-  icon: person
+  icon: carrot
 - title: Posts
   url: /en/blog/
   url-de: /blog/
-  icon: carrot
+  icon: bookmark
 - title: Software
   title-de: Software
   url: /en/projects/
