@@ -282,8 +282,8 @@ function buildNavigation() {
     const nav = document.createElement("nav")
     nav.classList.add("page-navigation")
     nav.innerHTML = `
-    <button onclick="pageBackAction()" title="←" class="page-back"></button>
-    <button onclick="pageForwardAction()" title="→" class="page-forward"></button>
+    <button onclick="pageBackAction();event.preventDefault()" title="←" class="page-back"></button>
+    <button onclick="pageForwardAction();event.preventDefault()" title="→" class="page-forward"></button>
     `
     return nav
 }
@@ -300,9 +300,9 @@ function pageForwardAction(container) {
     }
     if (Math.abs(container.scrollWidth - container.scrollLeft - container.clientWidth) <= 1) {
         // Already at last page, scroll down instead
-        window.scrollTo({ top: container.clientTop + container.clientHeight, behavior: 'smooth' });
+        window.scrollTo({ top: container.offsetTop + container.clientHeight, behavior: 'smooth' });
     } else {
-        window.scrollTo({ top: container.clientTop, behavior: 'smooth' });
+        container.scrollIntoView({behavior: 'smooth'})
         container.scrollTo({left: container.scrollLeft + container.clientWidth, behavior: 'smooth'});
     }
 }
@@ -310,6 +310,6 @@ function pageBackAction(container) {
     if (!container) {
         container = document.querySelector(CONTAINER_SELECTOR)
     }
-    window.scrollTo({ top: container.clientTop, behavior: 'smooth' });
+    container.scrollIntoView({behavior: 'smooth'})
     container.scrollTo({left: container.scrollLeft - container.clientWidth, behavior: 'smooth'});
 }

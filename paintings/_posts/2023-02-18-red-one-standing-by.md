@@ -16,4 +16,4 @@ You can see me going back and forth a few times with the clouds in this animatio
 
 ![Work-in-progress animation](/paintings/2023-02-18-red-one-standing-by.mp4)
 
-If you like this, you may also enjoy my portrait of the [Mandalorian and the Child](/paintings/2022-07-22-mandalorian/) as well as my [collection of Star Wars posters](http://localhost:4000/en/poster/).
+If you like this, you may also enjoy my portrait of the [Mandalorian and the Child](/paintings/2022-07-22-mandalorian/) as well as my [collection of Star Wars posters](/en/poster/).

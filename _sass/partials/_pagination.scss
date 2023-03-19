@@ -1,4 +1,8 @@
-$pagination-page-width: 550px;
+:root {
+    --page-padding: .4em;
+    --page-padding-top: 1em;
+    --page-width: 600px;
+}
 
 .fullwidth-container {
     display: flex;
@@ -16,7 +20,7 @@ $pagination-page-width: 550px;
 .paginated-article {
     display: flex;
     flex-direction: row;
-    gap: 1em;
+    gap: var(--page-padding);
     margin-top: -1.5em;
 
     // neat scrolling
@@ -24,11 +28,11 @@ $pagination-page-width: 550px;
     scroll-snap-type: x mandatory;
 
     position: relative;
-    height: 85vh;
+    height: 95vh;
     overflow-y: hidden !important;
 
     // Page width
-    width: $pagination-page-width;
+    width: var(--page-width);
     max-width: 100%;
 }
 
@@ -69,19 +73,17 @@ $pagination-page-width: 550px;
     display: flex;
     justify-content: stretch;
     gap: 1em;
-
-    --padding: 1em;
     box-sizing: border-box;
-    background-color: rgba(127,127,127,.03);
     flex: none;
-    width: $pagination-page-width;
-    max-width: calc(100% - (var(--padding) * 2));
+    width: var(--page-width);
+    max-width: calc(100% - (var(--page-padding) * 2));
     flex-flow: column nowrap;
 
-    padding: var(--padding);
+    padding: var(--page-padding);
+    padding-top: var(--page-padding-top);
 
     scroll-snap-align: start;
-    scroll-margin: 0 var(--padding);
+    scroll-margin: 0 var(--page-padding);
     scroll-snap-stop: always;
     overscroll-behavior-y: none;
 }
@@ -139,7 +141,7 @@ $pagination-page-width: 550px;
 }
 nav.page-navigation {
     position: absolute;
-    bottom: 1rem;
+    bottom: var(--page-padding);
     right: 3rem;
     background-color: var(--background);
     box-shadow: 0 0 10px rgba(0,0,0,.1);
@@ -147,13 +149,36 @@ nav.page-navigation {
     border-radius: 2rem;
 }
 
-@media (min-width: calc(#{$pagination-page-width * 2} + 3em)) {
+// Two pages at once
+@media (min-width: calc(2*500px + 3*1em)) {
+    :root {
+        --page-padding: 1em;
+        --page-padding-top: var(--page-padding);
+        --page-width: 500px;
+    }
     .paginated-article {
-        width: calc(#{$pagination-page-width * 2} + 3em);
+        width: calc(var(--page-width) * 2 + 3 * var(--page-padding));
     }
     nav.page-navigation {
         left: 50%;
         right: auto;
         transform: translateX(-50%);
+    }
+    .paginated-article > .page {    
+        background-color: rgba(127,127,127,.05);
+    }
+}
+
+// Bigger pages
+@media (min-width: calc(2*500px + 3*1.5em)) {
+    :root {
+        --page-padding: 1.5em;
+        --page-width: 500px;
+    }
+}
+@media (min-width: calc(2*600px + 3*2em)) {
+    :root {
+        --page-padding: 2em;
+        --page-width: 600px;
     }
 }
