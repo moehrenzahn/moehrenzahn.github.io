@@ -28,7 +28,8 @@
     scroll-snap-type: x mandatory;
 
     position: relative;
-    height: 95vh;
+    height: calc(90vh - (1 * var(--page-padding)));
+    height: calc(100svh - (1 * var(--page-padding)));
     overflow-y: hidden !important;
 
     // Page width
@@ -145,9 +146,10 @@
     margin-bottom: 0 !important;
 }
 nav.page-navigation {
-    position: absolute;
-    bottom: var(--page-padding);
-    right: 3rem;
+    position: fixed;
+    z-index: 99;
+    bottom: calc(2 * var(--page-padding));
+    right: calc(2 * var(--page-padding));
     background-color: var(--background);
     box-shadow: 0 0 10px rgba(0,0,0,.1);
     display: flex;
@@ -165,8 +167,10 @@ nav.page-navigation {
         width: calc(var(--page-width) * 2 + 3 * var(--page-padding));
     }
     nav.page-navigation {
+        position: absolute;
         left: 50%;
         right: auto;
+        bottom: calc(.5 * var(--page-padding));
         transform: translateX(-50%);
     }
     .paginated-article > .page {    
