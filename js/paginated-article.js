@@ -84,7 +84,9 @@ function updatePagination() {
         }
         if (pageNumber % 2 === 0) {
             // Make sure there is an even number of pages
-            container.appendChild(buildPage("", pageNumber))
+            lastPage = buildPage("", pageNumber)
+            lastPage.classList.add("empty")
+            container.appendChild(lastPage)
         }
         spacer = document.createElement("div")
         spacer.classList.add("spacer")
@@ -288,12 +290,6 @@ function buildNavigation() {
     return nav
 }
 
-function forceRepaint(node) {
-    node.style.display='none';
-    node.offsetHeight; // no need to store this anywhere, the reference is enough
-    node.style.display='block';
-}
-
 function pageForwardAction(container) {
     if (!container) {
         container = document.querySelector(CONTAINER_SELECTOR)
@@ -302,7 +298,7 @@ function pageForwardAction(container) {
         // Already at last page, scroll down instead
         window.scrollTo({ top: container.offsetTop + container.clientHeight, behavior: 'smooth' });
     } else {
-        container.scrollIntoView({behavior: 'smooth'})
+        container.scrollIntoView({block: 'center', behavior: 'smooth'})
         container.scrollTo({left: container.scrollLeft + container.clientWidth, behavior: 'smooth'});
     }
 }
@@ -310,6 +306,6 @@ function pageBackAction(container) {
     if (!container) {
         container = document.querySelector(CONTAINER_SELECTOR)
     }
-    container.scrollIntoView({behavior: 'smooth'})
+    container.scrollIntoView({block: 'center', behavior: 'smooth'})
     container.scrollTo({left: container.scrollLeft - container.clientWidth, behavior: 'smooth'});
 }

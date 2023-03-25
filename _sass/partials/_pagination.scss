@@ -78,21 +78,26 @@
     width: var(--page-width);
     max-width: calc(100% - (var(--page-padding) * 2));
     flex-flow: column nowrap;
-
+    
     padding: var(--page-padding);
     padding-top: var(--page-padding-top);
-
+    
     scroll-snap-align: start;
     scroll-margin: 0 var(--page-padding);
     scroll-snap-stop: always;
     overscroll-behavior-y: none;
+    &.empty {
+        display: none;
+    }
 }
+
 .paginated-article .page-footer {
     display: flex;
     justify-content: space-evenly;  
     align-items: center;  
 }
 .paginated-article .page-number {
+    font-size: .8em;
 }
 .page-navigation button {
     color: inherit;
@@ -166,6 +171,10 @@ nav.page-navigation {
     }
     .paginated-article > .page {    
         background-color: rgba(127,127,127,.05);
+    }
+    .paginated-article > .page.empty {
+        display: flex;
+        opacity: 0;
     }
 }
 
