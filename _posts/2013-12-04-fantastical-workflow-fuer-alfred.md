@@ -48,6 +48,4 @@ Dieser Code prüft ob der Input-String leer ist. Wenn das der Fall ist, verwande
 
 Es gibt zwar eine halbe Sekunde Verzögerung, aber es genügt für mich. Wenn ich in Alfred `cal` eingebe, öffnet sich das normale Fantastical-Interface (wie, wenn ich vorher `⌥ Space` eingab). Wenn ich `cal` mit irgendetwas danach eingebe, verwendet Fantastical diesen Text, um einen neuen Eintrag zu parsen.
 
-Das fertige Plugin gibt’s [hier zum Download]({% link /images/Fantastical.alfredworkflow %}).
-
 [^automate]: Das wäre viel einfacher, wenn Flexibits ihre AppleScript-Implementierung mit einer "invoke"-Funktionalität erweitern würde. Die normale Applescript-Funktion `activate` funktioniert nicht, weil Fantastical auf dem Mac kein normales Fenster ist.

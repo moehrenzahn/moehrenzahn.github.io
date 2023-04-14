@@ -16,7 +16,7 @@ Das Problem dabei ist, dass der Übergang zwischen den zwei Umgebungen sehr grob
 
 Für Metro-Apps gibt es schlaue "Charms", die es beispielsweise ermöglichen, nahtlos und schnell Dateien und Text zwischen Applikationen zu teilen. Nur können bisherige Programme nicht auf diese API zugreifen. Dort heißt es weiterhin "Strg-C, Strg-V".
 
-![Der neue Metro Appwechsler (Bild: BGR)]({% link /images/Windows%208%20Appwechsler.jpg %})
+![Der neue Metro Appwechsler (Bild: BGR)]({% link /images/Windows 8 Appwechsler.jpg %})
 *Der neue Metro Appwechsler (Bild: BGR)*
 
 Diese Probleme müssen den Entwicklern auch klar gewesen sein. Dass der Desktop so stiefmütterlich behandelt wird, hat sicher einen Grund: Microsoft will den traditionellen Desktop am liebsten los werden. Man kann aber natürlich den vielen Millionen vorhandenen Benutzern nicht einfach die vertraute Oberfläche nehmen – keiner würde sowas kaufen! 
@@ -29,7 +29,7 @@ Auch Apple arbeitet seit dem iPad daran, die Paradigmen von iOS und Macs zusamme
 
 Der Übergang vom Mac-Paradigma hin zu dem des iPads ist allerdings so elegant, dass er den meisten Anwendern überhaupt nicht auffallen wird. Die mitgelieferten Programme passen sich langsam optisch an ihre iPad-Pendants an und im Vollbildmodus verschwindet der Desktop dank Wischgesten von Programm zu Programm für viele völlig aus dem Workflow.  Für Programme, die mit Apples Standard-Framework Cocoa programmiert sind, lässt sich ein solcher Vollbild-Modus meist mit wenigen Zeilen Code einrichten. OS X mit ausschließlich Vollbild-Programmen und Launchpad ist im Grunde iOS.[^1]
 
-![Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her- "wischen" (Bild: Apple)]({% link /images/Wischgeste%20Systemeinstellungen.tiff %})
+![Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her- "wischen" (Bild: Apple)]({% link /images/Wischgeste Systemeinstellungen.tiff %})
 *Standardmäßig kann man unter OS X mit drei Fingern zwischen Vollbild-Apps hin- und her- "wischen" (Bild: Apple)*
 
 ![Für das iPad gibt es die gleiche Wischgeste mit vier Fingern (Bild: Apple)]({% link /images/ipad-wischgeste.jpg %})

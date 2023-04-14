@@ -8,7 +8,7 @@ In diesem Artikel möchte ich am Beispiel von *Tomb Raider* erklären, was Vorhe
 
 Als 1996 der erste "Tomb Raider"-Teil erschien, war ich noch ein Kind und hatte wahrscheinlich noch nie in meinem Leben ein Computerspiel gespielt, geschweige denn einen Computer bedient.
 
-<figure><img src='/images/Tomb%20Raider/Tomb-Raider-Menu.png' /><figcaption>Der Menü-Bildschirm von Tomb Raider</figcaption></figure>
+<figure><img src='{% link /images/Tomb Raider/Tomb-Raider-Menu.png %}' /><figcaption>Der Menü-Bildschirm von Tomb Raider</figcaption></figure>
 
 Trotzdem hat Lara Croft in meinem Herzen einen besonderen Platz, schließlich ist es das erste Spiel, an das ich mich erinnere, welches es schaffte mich ganz in eine andere Welt zu versetzen: Eine Welt, in der jeder Hebel irgendwo eine Tür öffnet und wo es in verlorenen Tälern noch furchteinflößende Dinosaurier gibt.[^dino]
 
@@ -28,7 +28,7 @@ Weniger die Handlung, – die rückt doch sehr in den Hintergrund – besonders
 
 [^dosbox]: [DOSBox](http://www.dosbox.com/information.php) sei dank!
 
-<figure><img src='/images/Tomb%20Raider/Tomb-Raider-Level.png' alt='Screenshot eines Tomb Raider-Levels' /><figcaption>Die Level in Tomb Raider sind aus einem System von Quadern zusammengesetzt</figcaption></figure>
+<figure><img src='{% link /images/Tomb Raider/Tomb-Raider-Level.png %}' alt='Screenshot eines Tomb Raider-Levels' /><figcaption>Die Level in Tomb Raider sind aus einem System von Quadern zusammengesetzt</figcaption></figure>
 
 ## Am Anfang war der Block
 

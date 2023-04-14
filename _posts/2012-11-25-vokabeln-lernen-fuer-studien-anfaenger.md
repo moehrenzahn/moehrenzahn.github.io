@@ -5,7 +5,7 @@ categories: [Theologie, Technologie]
 
 Das erste, was es im Theologiestudium zu lernen gibt, sind alte, tote Sprachen. Da kommt keiner dran vorbei, aber es macht Sinn, sich das Leben mit Technologie zu vereinfachen. Besonders beim Lernen von Vokabeln hat mir mein iPhone enorm geholfen, da ich es immer dabei hatte und in freien fünf Minuten drauf schauen konnte. Außerdem macht es so wenigstens etwas Spaß.
 
-![Eductic Icon (Bild: iTunes)]({% link /images/eductic%20icon.png %})
+![Eductic Icon (Bild: iTunes)]({% link /images/eductic icon.png %})
 *Eductic Icon (Bild: iTunes)*
 
 Ich habe viele Apps zum Lernen von Karteikarten ausprobiert und bin am Ende bei [Eductic](https://itunes.apple.com/us/app/eductic-flashcards/id340783381?mt=8) hängen geblieben. Die App ist sehr minimalistisch mit wenig Schnickschnack, aber die vorhandenen Features sind genial umgesetzt.
