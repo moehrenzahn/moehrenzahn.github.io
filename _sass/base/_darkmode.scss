@@ -56,10 +56,14 @@
 		}
         
         .button, .button.secondary, .button.cta, .button.active {
-            box-shadow: 3px 5px 0 #555;
+            box-shadow: .15em .25em 0 #666;
         }
         .button:hover, a.button:hover {
-            box-shadow: 3px 7px 5px #555;
+            box-shadow: .1em .15em 0 #555;
+        }
+        
+        .button:active, .button.active {
+            box-shadow: 0 0 0 #000;
         }
 
         .button.secondary {

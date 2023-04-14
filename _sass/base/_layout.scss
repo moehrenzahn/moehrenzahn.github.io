@@ -335,7 +335,7 @@ footer {
 	line-height: 1;
 	border: none;
 	border-radius: calc(1em + (.75em * 2));
-	box-shadow: 3px 5px 0 #ddd;
+	box-shadow: .15em .25em 0 #ddd;
 	background-color: var(--text-color-light);
 	color: var(--background);
 	transition: all .3s;
@@ -345,13 +345,14 @@ footer {
 	}
 }
 .button:hover, a.button:hover {
-	box-shadow: 3px 8px 10px #ddd;
+	transform: translate(.1em, .05em);
+	box-shadow: .1em .15em 0 #bbb;
 	cursor: pointer;
 }
 
-.button:active {
-	box-shadow: none !important;
-	transform: translateY(.1em);
+.button:active, .button.active {
+	transform: translate(.15em, .1em);
+	box-shadow: 0 0 0 #666;
 }
 .button.big {
 	font-size: 1.5rem !important;
@@ -369,5 +370,5 @@ footer {
 .button.small, a.button.small, a.button.small:visited {
 	font-weight: 500;
 	padding: .6em .8em;
-	font-size: .8em;
+	font-size: .9em;
 }
