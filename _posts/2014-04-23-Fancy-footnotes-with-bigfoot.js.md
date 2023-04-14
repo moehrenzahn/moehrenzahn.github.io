@@ -1,7 +1,6 @@
 ---
 title: 'Fancy footnotes with bigfoot.js'
 link: http://www.bigfootjs.com
-categories: [English]
 lang: en
 slug: A jQuery plugin for pop-up footnotes
 ---

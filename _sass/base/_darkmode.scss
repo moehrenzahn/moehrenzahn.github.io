@@ -2,10 +2,6 @@
 @media (prefers-color-scheme: dark) {
 
 	body {
-		a.bannertext:hover {
-			color: var(--color);
-		}
-
 		a, a:visited {
 			border-bottom-color: #777;
 		}
@@ -16,7 +12,7 @@
 			color: var(--text-color);
 		}
 		article.hentry {
-			code, figcaption {
+			figcaption {
 				color: #777;
 			}
 
@@ -59,7 +55,7 @@
 			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
 		}
         
-        .button, .button.secondary, .button.cta {
+        .button, .button.secondary, .button.cta, .button.active {
             box-shadow: 3px 5px 0 #555;
         }
         .button:hover, a.button:hover {

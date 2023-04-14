@@ -1,7 +1,6 @@
 ---
 title: 'Free blog hosting for nerds with Octopress'
 lang: en
-categories: [English]
 slug: My current setup with Octopress
 ---
 

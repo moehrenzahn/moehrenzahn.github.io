@@ -1,7 +1,6 @@
 ---
 title: 'Anatomy of a Jailbreak Trojan'
 lang: en
-categories: [English]
 link: http://ryanhileman.info/posts/webgl
 ---
 

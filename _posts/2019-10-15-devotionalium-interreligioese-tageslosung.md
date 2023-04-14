@@ -6,7 +6,7 @@ categories: [Politik, Theologie, Devotionalium]
 
 Ich habe während der letzten Monate intensiv an meiner Tagesvers-App Devotionalium gearbeitet. Heute kann ich euch endlich das Ergebnis vorstellen.
 
-![Devotionalium Titelgrafik](/images/devotionalium-title.jpg)
+![Devotionalium Titelgrafik]({% link /images/devotionalium-title.jpg %})
 
 **Seit ich 2015 mit der Entwicklung von Devotionalium angefangen habe, hat sich das gesellschaftliche Klima heftig gewandelt.** Unsere "christliche Abendlandkultur", von der natürlich auch Devotionalium ein Teil ist, wurde von Pegida und AfD in eine Waffe umfunktioniert und gegen Muslime und Menschen mit Migrationshintergrund gerichtet.
 
@@ -16,7 +16,7 @@ Unsere Zeit verlangt nach einer neuen Art von Tagesvers-App: Eine App, die nicht
 
 **Deshalb ist Devotionalium jetzt die erste interreligiöse Tagesvers-App. Mit Devotionalium bietet zum ersten Mal eine App Texte aus den heiligen Schriften von Juden, Christen und Muslimen zugleich an.**
 
-![Devotionalium Screenshot](/images/devotionalium-screenshot-desktop.jpg)
+![Devotionalium Screenshot]({% link /images/devotionalium-screenshot-desktop.jpg %})
 
 Nach wie vor könnt ihr auf [devotionalium.com](https://devotionalium.com) kostenlos lesen und kommentieren. Neu ist, dass Devotionalium jetzt noch interaktiver ist durch spielerische Elemente dazu motiviert, jeden Tag dranzubleiben.
 

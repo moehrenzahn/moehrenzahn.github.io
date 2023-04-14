@@ -4,7 +4,7 @@ categories: [Technologie]
 lang: en
 --- 
 
-Some years ago, while I was still a university student, I had a bit of a creative phase and made [a bunch of stylised Star-Wars-themed posters](/poster/ "Star Wars posters") in Photoshop and put them on my website for anyone to download.
+Some years ago, while I was still a university student, I had a bit of a creative phase and made [a bunch of stylised Star-Wars-themed posters]({% link en/poster.md %}) in Photoshop and put them on my website for anyone to download.
 
 Not too many people noticed, but every once in a while I get an email from somebody thanking me for putting them online, or offering me some strange business deal.
 
@@ -38,7 +38,7 @@ I did not expect anything to come from this brief exchange. But you guessed it: 
 > 
 > Thanks a lot for your art.
 
-![A room in Novosibirsk, Siberia, with my image as a literal wallpaper!](/images/star-wars-wallpaper.jpg)
+![A room in Novosibirsk, Siberia, with my image as a literal wallpaper!]({% link images/star-wars-wallpaper.jpg %})
 
 I was absolutely floored. He really did it. This guy from literally the other side of the world put my little image on his literal wallpaper! I’m the one who should thank Alex. He really made my week with this, and I wish him and his family all the best!
 

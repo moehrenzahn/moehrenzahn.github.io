@@ -53,7 +53,8 @@ a[rev='footnote']{
 a[rev='footnote']:hover {border: none; color: var(--color);}
 
 h1, h2, h3, h4 {font-family: $heading-font-family;
-	font-weight: 600; line-height: 1.5;margin-bottom: 31px;}
+	font-weight: 600; line-height: 1.5;
+	margin: 1em 0;}
 
 article h1, article h2, article h3, article h4
 	{

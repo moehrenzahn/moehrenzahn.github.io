@@ -3,9 +3,9 @@ title: Statische Kommentare mit Jekyll
 categories: [Technologie]
 ---
 
-Dies ist der zweite Teil zwei meiner [Artikelreihe zur Kommentarfunktion auf moehrenzahn.de](/Bloghosting-mit-Heroku).<!-- more --> Hier soll es darum gehen, welche Überlegungen bei der technischen Implementierung eine Rolle gespielt haben und welche Lösung ich gefunden habe.
+Dies ist der zweite Teil zwei meiner [Artikelreihe zur Kommentarfunktion auf moehrenzahn.de]({% post_url 2013-08-28-Bloghosting-mit-Heroku %}).<!-- more --> Hier soll es darum gehen, welche Überlegungen bei der technischen Implementierung eine Rolle gespielt haben und welche Lösung ich gefunden habe.
 
-Diesen Blog schreibe ich [wie bereits gesagt](/Bloghosting-mit-Heroku) mit [Jekyll](http://jekyllrb.com) und [Octopress](http://octopress.org). Das ist eine statische Blogging-Platform. Das bedeutet sie kommt komplett ohne Datenbanken oder serverseitige Scripts aus. Das großartige daran: Es ist fantastisch elegant. Der Nachteil: Dynamische Inhalte (wie Kommentare) sind schwer zu machen.
+Diesen Blog schreibe ich [wie bereits gesagt]({% post_url 2013-08-28-Bloghosting-mit-Heroku %}) mit [Jekyll](http://jekyllrb.com) und [Octopress](http://octopress.org). Das ist eine statische Blogging-Platform. Das bedeutet sie kommt komplett ohne Datenbanken oder serverseitige Scripts aus. Das großartige daran: Es ist fantastisch elegant. Der Nachteil: Dynamische Inhalte (wie Kommentare) sind schwer zu machen.
 
 ## Von fremdem Code und Tracking
 

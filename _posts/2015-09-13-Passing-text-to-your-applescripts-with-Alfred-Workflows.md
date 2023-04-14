@@ -1,6 +1,6 @@
 ---
 title: 'Passing text to your applescripts with Alfred Workflows'
-categories: [Technologie, English]
+categories: [Technologie]
 lang: en
 ---
 

@@ -11,4 +11,4 @@ Wismar is a cozy little town on the Baltic Sea with a pretty old town. And at th
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-07-06-hafen-wismar.gif)
+![Work in progress animation]({% link /paintings/2022-07-06-hafen-wismar.gif %})

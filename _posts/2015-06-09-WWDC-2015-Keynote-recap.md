@@ -1,6 +1,6 @@
 ---
 title: 'WWDC 2015 Keynote recap'
-categories: [Technologie, English]
+categories: [Technologie]
 lang: en
 ---
 

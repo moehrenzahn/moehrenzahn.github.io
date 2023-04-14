@@ -1,7 +1,7 @@
 ---
 title: '"Picture yourself as a stereotypical male"'
 link: http://mitadmissions.org/blogs/entry/picture-yourself-as-a-stereotypical-male
-categories: [Politik, Feminismus] 
+categories: [Politik] 
 ---
 
 Schon mal davon gehört, dass Männer besser einparken können als Frauen, weil sie einfach besser im räumlichen Denken sind? Ich zumindest hatte das oft genug gehört, um es für eine Tatsache zu halten.

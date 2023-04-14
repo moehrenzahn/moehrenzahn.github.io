@@ -1,6 +1,6 @@
 ---
 title: The UX of LEGO Interface Panels 
-categories: [Technologie, software]
+categories: [Technologie]
 lang: en
 link: https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
 --- 

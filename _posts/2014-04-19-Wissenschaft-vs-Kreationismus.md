@@ -6,7 +6,7 @@ slug: Zur Fernseh-Debatte zwischen Bill Nye und Ken Ham
 
 Vor einigen Monaten gab es im amerikanischen Fernsehen ein [Rededuell zum Thema "Schöpfung vs. Evolution"](https://www.youtube.com/watch?v=z6kgvhG3AkI).[^1] Für die Seite der Evolutionsvertreter sprach der ["Science Guy" Bill Nye](http://de.wikipedia.org/wiki/Bill_Nye_the_Science_Guy); auf Seiten der Kreationisten stand [Ken Ham](http://en.wikipedia.org/wiki/Ken_Ham), der Präsident des [Creation Museum](http://de.wikipedia.org/wiki/Creation_Museum), in dem die Debatte stattfand. Interessant finde ich, dass diese Debatte überhaupt im öffentlichen Fernsehen stattgefunden hat. In Deutschland würde dieses Thema vermutlich kaum nennenswerte Quoten bringen.
 
-![Quelle: http://debatelive.org/resources/](/images/ken-vs-ham.jpg)
+![]({% link /images/ken-vs-ham.jpg %})
 
 [^1]: Das volle Thema lautete eigentlich: "Is creation a viable model of origins in today’s modern scientfic era?". Da aber die Debattenpartner "gegeneinander" mit ihrer Sichtweise antraten, lief es auf "Kreationismus vs. Evolution" hinaus. Leider.
 

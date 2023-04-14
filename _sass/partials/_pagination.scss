@@ -57,6 +57,7 @@
     height: auto;
     width: 760px; // Fallback width
     margin-top: 1em;
+    padding: 0 var(--page-padding);
     & + nav.page-navigation {
         display: none !important;
     }
@@ -121,6 +122,12 @@
         border-bottom-left-radius: 50%;
         border-right: none;
         background-image: url(/images/flaticons/left.svg);
+    }
+    &.page-center {
+        background-image: url(/images/flaticons/fullscreen.svg);
+        border-right: none;
+        border-left: none;
+        background-size: 1.3em;
     }
     &.page-forward {
         background-image: url(/images/flaticons/right.svg);
@@ -187,6 +194,12 @@ nav.page-navigation {
     :root {
         --page-padding: 1.5em;
         --page-width: 500px;
+    }
+}
+@media (min-width: calc(2*550px + 3*1.5em)) {
+    :root {
+        --page-padding: 1.5em;
+        --page-width: 550px;
     }
 }
 @media (min-width: calc(2*600px + 3*2em)) {

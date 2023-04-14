@@ -1,6 +1,6 @@
 ---
 title: Parse Bible and Quran versions with ScriptureKit for PHP
-categories: [Theologie, Technologie, devotionalium, software, scripturekit]
+categories: [Theologie, Technologie, Devotionalium]
 lang: en
 link: https://github.com/moehrenzahn/scripturekit-php
 ---

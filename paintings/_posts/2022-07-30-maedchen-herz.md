@@ -9,4 +9,4 @@ featured: no
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-07-30-maedchen-herz.gif)
+![Work in progress animation]({% link /paintings/2022-07-30-maedchen-herz.gif %})

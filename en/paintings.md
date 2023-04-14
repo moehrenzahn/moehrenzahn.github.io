@@ -21,4 +21,4 @@ Stay informed about new paintings
 
 {% include paintings.html %}
 
-Looking for more? There is also a collection of **[Star Wars themed posters](/en/poster)** I created some years ago.
+Looking for more? There is also a collection of **[Star Wars themed posters]({% link en/poster.md %})** I created some years ago.

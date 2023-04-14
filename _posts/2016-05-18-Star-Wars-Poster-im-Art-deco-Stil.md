@@ -12,10 +12,10 @@ Alles begann mit den großartigen [Star Wars Travel Posters von Steve Thomas](ht
 
 Mit der Zeit wuchs meine digitale Plakatesammlung und meine Designs verselbstständigten sich immer mehr. Ich orientierte mich weniger an Retro-Reisemotiven als an klassischen Szenen aus den Star-Wars-Filmen, besonders aus der originalen Trilogie und *The Force Awakens*. Den Stil könnte man vielleicht als Art-déco-inspiriert bezeichnen, auch wenn ich von solchen Sachen eigentlich keine Ahnung habe.
 
-Inzwischen habe ich mehr Motive als Platz an der Wand. Deshalb habe biete ich die hochauflösenden Dateien jetzt [hier](/poster/) zum Download an. 
+Inzwischen habe ich mehr Motive als Platz an der Wand. Deshalb habe biete ich die hochauflösenden Dateien jetzt [hier]({% link poster.md %}) zum Download an. 
 
-<figure><a href="/poster/"><img src='/images/SW-Jakku-Star-Destroyer.jpg' /></a></figure>
+<figure><a href="/poster/"><img src='{% link /images/SW-Jakku-Star-Destroyer.jpg %}' /></a></figure>
 
-<figure><a href="/poster/"><img src='/images/SW-Takodana.jpg' /></a></figure>
+<figure><a href="/poster/"><img src='{% link /images/SW-Takodana.jpg %}' /></a></figure>
 
-Wenn ich die Zeit finde werde ich hin und wieder neue Motive hinzufügen. Ganz unten [auf der Seite](/poster/) gibt es einen kleinen PayPal-Link. Ich verlange gewöhnlich kein Geld für meine Projekte, aber ich freue mich natürlich, wenn mir jemand auf diese Weise "Danke" sagt.
+Wenn ich die Zeit finde werde ich hin und wieder neue Motive hinzufügen. Ganz unten [auf der Seite]({% link poster.md %}) gibt es einen kleinen PayPal-Link. Ich verlange gewöhnlich kein Geld für meine Projekte, aber ich freue mich natürlich, wenn mir jemand auf diese Weise "Danke" sagt.

@@ -8,7 +8,7 @@ Seit ein paar Wochen ist die neue [Homepage der Bibel in gerechter Sprache](http
 
 Ich bin ja grundsätzlich ein Fan davon, wenn Unternehmen das Internet sinnvoll einsetzen und Inhalte online verfügbar machen. Aber das, was das Team der *Bibel in gerechter Sprache* (BigS) da verzapft hat, taugt einfach überhaupt nichts!
 
-![BigS Online](/images/BIGS-online.png "BigS Online")
+![Screenshot der Homepage der Bibel in gerechter Sprache]({% link /images/BIGS-online.png %})
 
 Und dabei geht es mir nicht um die Optik. Die Seite ist sehr schick designt – schlicht und modern, in gedeckten Farben. Es geht mir auch nicht um die Theologie der BigS. Dazu haben andere schon genug geschrieben.
 

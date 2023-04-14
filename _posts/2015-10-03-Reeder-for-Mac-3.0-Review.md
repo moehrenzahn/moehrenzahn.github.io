@@ -1,6 +1,6 @@
 ---
 title: 'Reeder for Mac 3.0 Review'
-categories: [Technologie, English]
+categories: [Technologie]
 lang: en
 ---
 

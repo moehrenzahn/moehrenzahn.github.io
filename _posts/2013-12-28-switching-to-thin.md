@@ -1,6 +1,5 @@
 ---
 title: Switching from WEBrick to Thin
-categories: [English]
 lang: en
 comments: true
 slug: Changing the Octopress preview engine

@@ -1,9 +1,9 @@
 {% capture compress %}
-	{% assign temp1 = content | split: '<pre>' %}
+	{% assign temp1 = content | split: '<pre' %}
 	{% for temp2 in temp1 %}
 		{% assign temp3 = temp2 | split: '</pre>' %}
 		{% if temp3.size == 2 %}
-			<pre>{{ temp3.first | newline_to_br }}</pre>
+			<pre{{ temp3.first | newline_to_br }}</pre>
 		{% endif %}
 		{% assign t = temp3.last %}
 		{% if page.lang != 'en' %}

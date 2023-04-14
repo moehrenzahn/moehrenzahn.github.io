@@ -1,6 +1,6 @@
 ---
 title: 'How to create a custom LaTeX build system for Sublime Text'
-categories: [Technologie, English, bestof]
+categories: [Technologie, bestof]
 lang: en
 ---
 

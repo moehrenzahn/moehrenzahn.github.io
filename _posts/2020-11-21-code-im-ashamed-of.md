@@ -1,6 +1,6 @@
 ---
 title: The code I’m still ashamed of 
-categories: [Technologie, software]
+categories: [Technologie]
 lang: en
 link: https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/
 --- 

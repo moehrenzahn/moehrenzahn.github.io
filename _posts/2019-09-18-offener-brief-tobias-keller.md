@@ -1,6 +1,6 @@
 ---
 title: 'Offener Brief an den Kirchenvorstand Leipzig-Gohlis zu äußerungen von AfD-Funktionär Tobias Keller'
-categories: [Theologie, Politik, Gesellschaft]
+categories: [Theologie, Politik]
 ---
 
 **Sehr geehrter Kirchenvorstand der Kirchgemeinde Leipzig-Gohlis, sehr geehrter Herr Vorsitzender,**

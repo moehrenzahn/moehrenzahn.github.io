@@ -1,6 +1,6 @@
 ---
 title: "Every episode of every 'Star Trek' series ever, ranked"
-categories: [English, Film]
+categories: [Film]
 link: http://www.playboy.com/articles/star-trek-episode-guide-part-seven
 ---
 

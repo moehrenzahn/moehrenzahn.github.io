@@ -5,15 +5,23 @@ regenerate: true
 ---
 
 <div class="blog-index">
+  <div class="index-filter">
+    <button class="button small active" onclick="filter_none(this)">Alles</button>
+    <button class="button small" onclick="filter_posts(this)">Artikel</button>
+    <button class="button small" onclick="filter_category(this, 'Technologie')">Technologie</button>
+    <button class="button small" onclick="filter_category(this, 'Theologie')">Theologie</button>
+  </div>
   {% assign index = true %}
-  {% for post in site.posts limit:40 %}
+  {% assign last_year = site.time | date: "%Y" %}
+  {% for post in site.posts %}
     {% assign content = post.content %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year != last_year %}
+      <aside class="index-year" id="{{ year }}">{{ year }}</aside>
+      {% assign last_year = year %}
+    {% endif %}
       <article>
         {% include article.html %}
       </article>
   {% endfor %}
-  <div class="pagination">
-
-      <a class="button" href="/archives/">Archiv</a>
-  </div>
 </div>

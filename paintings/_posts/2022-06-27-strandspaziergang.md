@@ -9,4 +9,4 @@ featured: no
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-06-27-strandspaziergang.gif)
+![Work in progress animation]({% link /paintings/2022-06-27-strandspaziergang.gif %})

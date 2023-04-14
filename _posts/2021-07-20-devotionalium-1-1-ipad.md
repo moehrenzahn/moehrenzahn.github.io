@@ -5,14 +5,14 @@ categories: [Devotionalium, Theologie, Technologie]
 
 Seit heute gibt es im App Store [Devotionalium Version 1.1](https://apps.apple.com/de/app/devotionalium/id1536263189) zum herunterladen, das neueste Update für [die erste interreligiöse Tagesvers-App der Welt](https://moehrenzahn.de/devotionalium-interreligioese-tageslosung/). Neue Features sind vor allem ein **völlig neues iPad Layout mit Seitenleiste** und mehr Einstellungsmöglichkeiten rund um die Foto-Hintergründe.
 
-![Screenshot vom Devotionalium für iPad, der die neue Seitenleiste zeigt](/images/devotionalium-ipad/devotionalium-ipad.png)
+![Screenshot vom Devotionalium für iPad, der die neue Seitenleiste zeigt]({% link /images/devotionalium-ipad/devotionalium-ipad.png %})
 
 Für mich war es eine große Herausforderung, neben Familie und Beruf den Schwung zu finden, dieses Update fertig zu stellen. Seit November 2020 gibt es Devotionalium im App Store und seit dem gab es kein einziges Update, obwohl ein paar offensichtliche Bugs und Problemchen auch mich ärgerten.
 Jetzt habe ich es endlich geschafft und bin zuversichtlich, dass die App nun auf stabilen Füßen steht.
 
 Besonders interessant war für mich die Umsetzung des iPad-Layouts mit Seitenleiste. Den SwiftUI-Support für Seitenleisten gibt es seit iOS 14, aber ich bin auf so einige Bugs und Merkwürdigkeiten in der Implementation gestoßen, um die ich herumarbeiten musste. Mit dem Endergebnis bin ich aber ganz zufrieden.
 
-![Screenshot vom Devotionalium für iPad, der die neue Seitenleiste zeigt](/images/devotionalium-ipad/2.jpg)
+![Screenshot vom Devotionalium für iPad, der die neue Seitenleiste zeigt]({% link /images/devotionalium-ipad/2.jpg %})
 
 ## Was kommt als nächstes?
 

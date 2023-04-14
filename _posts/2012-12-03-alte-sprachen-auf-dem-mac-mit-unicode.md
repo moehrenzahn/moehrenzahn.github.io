@@ -11,12 +11,12 @@ Unicode ist ein Zeichensatz, der auf jedem modernen Computer vorinstalliert ist 
 
 Wie funktioniert‘s? Auf dem Mac geht man auf das Apple-Symbol oben links und dann auf Systemeinstellungen. Dort gibt es einen Eintrag "Sprache und Text". Wenn man darauf klickt und anschließend den Reiter "Eingabequellen" auswählt, wird eine lange Liste mit Sprachen angezeigt.
 
-![Das Systemeinstellungs-Menü "Eingabequellen"](/images/Eingabequellen.jpg)
+![Das Systemeinstellungs-Menü "Eingabequellen"]({% link /images/Eingabequellen.jpg %})
 *Das Systemeinstellungs-Menü "Eingabequellen"*
 
 Dort kann man jetzt Häkchen setzen bei jeder Sprache die man braucht. Achtet darauf, für die alten Sprachen Griechisch "polytonisch" und Hebräisch "QWERTY" auszuwählen – damit habe ich die besten Erfahrungen gemacht.
 
-![Die Länderflagge in der Menüleiste](/images/Sprachauswahl.jpg)
+![Die Länderflagge in der Menüleiste]({% link /images/Sprachauswahl.jpg %})
 *Das Menü "Eingabequellen" in der Menüleiste*
 
 Falls nicht schon vorhanden, setzt einen Haken bei "Eingabequellen in der Menüleiste anzeigen". Dann sollte eine nette Länderflagge oben am rechten Bildschirmrand erscheinen. Mit einem Klick darauf lässt sich schnell zwischen den gewählten Sprachen wechseln.

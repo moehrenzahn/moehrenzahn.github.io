@@ -81,11 +81,10 @@ html .gist .gist-file {
 
 pre {
   // background: $pre-bg;
-  line-height: 1em;
   margin-bottom: 2.1em;
   padding: .8em 1em;
   color: $pre-color;
-  overflow: auto;
+  overflow-x: auto;
 }
 
 /* ??? */
@@ -101,10 +100,9 @@ p, li {
     font-family: $mono;
     display: inline-block;
     white-space: no-wrap;
-    font-size: .8em;
-    color: #555;
+    font-size: .9em;
   }
-  pre code { background: none; border: none; }
+  pre code {}
 }
 
 /* ACTUAL CODE */
@@ -119,7 +117,7 @@ p, li {
   //padding: .8em;
   margin: 0;
   overflow-x: auto;
-  line-height: 1em;
+  line-height: 1.4em;
   // background: $base03 !important;
   color: $base1 !important;
   span { color: $base1 !important; }

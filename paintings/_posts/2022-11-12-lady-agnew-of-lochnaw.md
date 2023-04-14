@@ -13,4 +13,4 @@ It was very challenging for me to achieve a likeness. I truly learned to appreci
 
 In the end, I did not manage anything close to an exact copy. But still, I'm content with the end result.
 
-![Work-in-progress animation](/paintings/2022-11-12-lady-agnew-of-lochnaw.mp4)
+![Work-in-progress animation]({% link /paintings/2022-11-12-lady-agnew-of-lochnaw.mp4 %})

@@ -11,4 +11,4 @@ Small study of a mother caressing her child. The painting style is intentionally
 
 Hands are indeed difficult to paint.
 
-![Work-in-progress animation](/paintings/2023-01-22-mutter-mit-kind.mp4)
+![Work-in-progress animation]({% link /paintings/2023-01-22-mutter-mit-kind.mp4 %})

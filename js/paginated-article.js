@@ -285,9 +285,17 @@ function buildNavigation() {
     nav.classList.add("page-navigation")
     nav.innerHTML = `
     <button onclick="pageBackAction();event.preventDefault()" title="←" class="page-back"></button>
+    <button onclick="centerAction();event.preventDefault()" title="Center" class="page-center"></button>
     <button onclick="pageForwardAction();event.preventDefault()" title="→" class="page-forward"></button>
     `
     return nav
+}
+
+function centerAction(container) {
+    if (!container) {
+        container = document.querySelector(CONTAINER_SELECTOR)
+    }
+    container.scrollIntoView({block: 'center', behavior: 'smooth'})
 }
 
 function pageForwardAction(container) {
@@ -298,7 +306,9 @@ function pageForwardAction(container) {
         // Already at last page, scroll down instead
         window.scrollTo({ top: container.offsetTop + container.clientHeight, behavior: 'smooth' });
     } else {
-        container.scrollIntoView({block: 'center', behavior: 'smooth'})
+        // Simultaneous smooth scrolling not working in chromium,
+        // see https://bugs.chromium.org/p/chromium/issues/detail?id=1121151
+        container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
         container.scrollTo({left: container.scrollLeft + container.clientWidth, behavior: 'smooth'});
     }
 }
@@ -306,6 +316,6 @@ function pageBackAction(container) {
     if (!container) {
         container = document.querySelector(CONTAINER_SELECTOR)
     }
-    container.scrollIntoView({block: 'center', behavior: 'smooth'})
+    container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
     container.scrollTo({left: container.scrollLeft - container.clientWidth, behavior: 'smooth'});
 }

@@ -9,5 +9,5 @@ featured: no
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-05-02-selbstportrait.gif)
+![Work in progress animation]({% link /paintings/2022-05-02-selbstportrait.gif %})
 

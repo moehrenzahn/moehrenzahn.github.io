@@ -11,5 +11,5 @@ This is a study of [a painting of Lake Garda by italian Painter Mario Moretti Fo
 
 This was my largest painting yet. To document this relatively sizeable project I captured a couple of work-in-progress images which I managed to combine into the following animation:
 
-![Lago Di Garda work in progress animation](/paintings/2022-02-27-lago-di-garda.gif)
+![Lago Di Garda work in progress animation]({% link /paintings/2022-02-27-lago-di-garda.gif %})
 

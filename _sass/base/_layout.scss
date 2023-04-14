@@ -13,7 +13,8 @@ body {
 	padding: 1.5em var(--gutter-width);
 	max-width: $max-width;
 	@media only screen and (min-width: 800px) {
-		max-width: $max-width * 1.1;}
+		max-width: $max-width * 1.1;
+	}
 }
 
 /* Padding and line between "article"-elements */
@@ -83,8 +84,23 @@ article.hentry {
 	}
 }
 
-.blog-index {
-	display: inline-block;
+.blog-index .hidden {
+	display: none;
+}
+
+.index-year {
+	display: block;
+	padding-bottom: 1.2em;
+	opacity: .5;
+	text-align: center;
+}
+
+.index-filter {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 2em;
+	gap: .75em;
 }
 
 /* Heading of pages */
@@ -120,8 +136,8 @@ article {
 ul, ol {margin-bottom: 31px; li {margin-bottom: 0;margin-right: 2em;}
 }
 
-ul { list-style-type: disc;
-  ul { list-style-type: circle; margin-bottom: 0;
+ul { list-style-type: circle;
+  ul { list-style-type: disc; margin-bottom: 0;
     ul { list-style-type: square; margin-bottom: 0; }}}
 
 ol { list-style-type: decimal;
@@ -269,7 +285,7 @@ a.index-link:hover {
 span.entry-content-excerpt {
 	display: block;
 	overflow: hidden;
-	max-height: 4.8em;
+	max-height: 3em;
 	position: relative;
 	color: var(--text-color-light);
 }
@@ -317,23 +333,30 @@ footer {
 	font-size: 1em;
 	padding: .75em 1.3em;
 	line-height: 1;
+	border: none;
 	border-radius: calc(1em + (.75em * 2));
 	box-shadow: 3px 5px 0 #ddd;
 	background-color: var(--text-color-light);
 	color: var(--background);
 	transition: all .3s;
 	text-decoration: none;
+	@media only screen and (max-width: 769px) {
+		font-size: .8em;
+	}
 }
 .button:hover, a.button:hover {
 	box-shadow: 3px 8px 10px #ddd;
+	cursor: pointer;
 }
+
 .button:active {
 	box-shadow: none !important;
-	transform: translateY(5px);
+	transform: translateY(.1em);
 }
 .button.big {
 	font-size: 1.5rem !important;
 }
+.button.active, a.button.active, a.button.active:visited,
 .button.cta, a.button.cta, a.button.cta:visited {
 	background: var(--color);
 }
@@ -341,4 +364,10 @@ footer {
 	background: #eee;
 	color: var(--text-color);
 	font-weight: 500;
+}
+
+.button.small, a.button.small, a.button.small:visited {
+	font-weight: 500;
+	padding: .6em .8em;
+	font-size: .8em;
 }

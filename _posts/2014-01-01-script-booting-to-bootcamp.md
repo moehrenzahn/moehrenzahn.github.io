@@ -1,7 +1,6 @@
 ---
 title: Boot to Bootcamp with AppleScript
 lang: en
-categories: [English]
 slug: So I wrote an AppleScript
 ---
 

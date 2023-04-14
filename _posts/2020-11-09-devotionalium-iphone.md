@@ -1,6 +1,6 @@
 ---
 title: Devotionalium für iPhone
-categories: [Theologie, Technologie, devotionalium, software]
+categories: [Theologie, Technologie, Devotionalium]
 link: https://devotionalium.com/ios
 ---
 
@@ -12,7 +12,7 @@ Seit 2015 gibt es jetzt schon devotionalium.com, meinen selbst gebastelten Herrn
 
 ## Devotionalium für iPhone
 
-![Drei Screenshots aus Devotionalium für iPhone](/images/devotionalium-ios.jpg)
+![Drei Screenshots aus Devotionalium für iPhone]({% link /images/devotionalium-ios.jpg %})
 
 Es gibt das altbekannte Devotionalium jetzt als [native iPhone-App](https://devotionalium.com/ios). Die App bringt die gewohnten Features mit: Tägliche Verse aus Tanach, Bibel und Koran. Ursprachen-Funktion. Foto-Hintergründe. Wählbare Übersetzungen.
 

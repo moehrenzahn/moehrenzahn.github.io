@@ -8,4 +8,4 @@ materials: Acrylics on canvas board
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-07-24-sonnenblumen-klebstoffflaeschchen.gif)
+![Work in progress animation]({% link /paintings/2022-07-24-sonnenblumen-klebstoffflaeschchen.gif %})

@@ -1,6 +1,5 @@
 ---
 title: Typography is for everyone
-categories: [English]
 link: http://practicaltypography.com/
 lang: en
 slug: 'Matthew Butterick’s Practical typography'

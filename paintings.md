@@ -22,5 +22,5 @@ Bleib über neue Bilder informiert
 
 {% include paintings.html %}
 
-Suchst du noch mehr? Es gibt auch eine Sammlung von **[Star Wars Postern](/poster)**, die ich vor ein paar Jahren erstellt habe.
+Suchst du noch mehr? Es gibt auch eine Sammlung von **[Star Wars Postern]({% link poster.md %})**, die ich vor ein paar Jahren erstellt habe.
 

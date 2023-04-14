@@ -10,4 +10,4 @@ Inspired by the Star Wars The Mandalorian TV series.
 
 Work-in-progress animation:
 
-![Work in progress animation](/paintings/2022-07-22-mandalorian.gif)
+![Work in progress animation]({% link /paintings/2022-07-22-mandalorian.gif %})

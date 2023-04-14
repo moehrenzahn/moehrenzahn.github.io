@@ -1,6 +1,6 @@
 ---
 title: Greetings from France
-categories: []
+categories: [Technologie]
 lang: en
 ---
 
@@ -12,8 +12,8 @@ This time, it was someone from St Claude, France. The [Prolé Escrime St Claude]
 
 It did not appear to be a for-profit affair, so I gladly let them do their thing, under the condition that I get some pictures. And they came through:
 
-![The outside of a gymnasium, with every window decorated by a small Star-Wars–themed poster.](/images/poster-france-1.jpg)
+![The outside of a gymnasium, with every window decorated by a small Star-Wars–themed poster.]({% link /images/poster-france-1.jpg %})
 
-![The inside wall of a gymnasium, again decorated by lots of Star-Wars–themed posters in a wavy pattern.](/images/poster-france-2.jpg)
+![The inside wall of a gymnasium, again decorated by lots of Star-Wars–themed posters in a wavy pattern.]({% link /images/poster-france-2.jpg %})
 
 They must have printed and pasted at least 30 posters all around the hall. You can see photos of the actual event (and lots of lightsabering) on [the clubs Facebook page](https://m.facebook.com/people/Prolé-Escrime-St-Claude/100075111755728/). It looks like a lot of fun.

@@ -6,21 +6,6 @@ body {
 	margin-bottom: 0px;
 }
 
-h2.bannertext {
-	display: inline-block;
-	font-family: $header-subtitle-font-family;
-	font-size: $metatext * 1.05;
-	font-weight: normal;
-	color: var(--text-color-light);
-	padding: 10px 10px;
-	padding-right: 50px;
-	padding-bottom: 1em;
-	text-align: center;
-	@media (min-width: 000px) {
-		text-align: left;
-		float: left;
-	}
-}
 a.titlelink {
 	display: inline-block;
 	font-family: Georgia, serif;

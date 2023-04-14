@@ -11,4 +11,4 @@ A small portrait of Sir Richard Starkey, a.k.a. Ringo Starr from The Beatles. I 
 
 Here is an animation visualising my painting process:
 
-![Painting process animation](/paintings/richard-starkey-process.gif)
+![Painting process animation]({% link /paintings/richard-starkey-process.gif %})
