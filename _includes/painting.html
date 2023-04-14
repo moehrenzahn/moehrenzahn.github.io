@@ -13,10 +13,29 @@
         width: auto;
         max-height: 95vh;
         margin: auto;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.12), 
-              0 4px 4px rgba(0,0,0,0.12), 
-              0 8px 8px rgba(0,0,0,0.12),
-              0 15px 16px rgba(0,0,0,0.12);
+        border-radius: 4px;
+    }
+    .painting-shadow {
+        filter: blur(15px) brightness(60%) saturate(250%);
+        z-index: -1;
+        position: absolute;
+        width: auto;
+        max-height: 95vh;
+        margin: auto;
+        top: 5px;
+        left: 5px;
+        bottom: -5px;
+        right: -5px;
+
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+    }
+    @media (prefers-color-scheme: dark) {
+        .painting-shadow {
+            filter: blur(15px) brightness(40%) saturate(250%);
+        }
     }
 </style>
 
@@ -35,6 +54,10 @@
         class="painting-img"
         src="{{ painting.file }}"
         alt="{{ painting.title }}" />
+    <img
+        class="painting-shadow"
+        src="{{ painting.file }}"
+        alt="" />
 </div>
 
 <div class="entry-content">

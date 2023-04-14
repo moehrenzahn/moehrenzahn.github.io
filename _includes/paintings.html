@@ -35,12 +35,11 @@
         flex-wrap: wrap;
         column-gap: 20px;
     }
-    .painting a:hover .painting-img {
-        transform: scale(1.01);
-        box-shadow: 0 5px 10px rgba(0,0,0,0.1), 
-              5px 10px 10px rgba(0,0,0,0.1), 
-              10px 20px 20px rgba(0,0,0,0.1),
-              20px 40px 40px rgba(0,0,0,0.1);
+    .painting a {
+        position: relative;
+    }
+    .painting a:hover .painting-shadow {
+        opacity: 1;
     }
     #painting-container a:hover h2 {
         color: var(--color);
@@ -53,11 +52,30 @@
         border-radius: 3px;
         background-size: cover;
         background-color: gray;
-        transition: all .3s;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.1), 
-              0 4px 4px rgba(0,0,0,0.1), 
-              0 8px 8px rgba(0,0,0,0.1),
-              0 15px 16px rgba(0,0,0,0.1);
+
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+    }
+    .painting-shadow {
+        filter: blur(15px) brightness(60%) saturate(250%);
+        opacity: .5;
+        z-index: -1;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        bottom: -5px;
+        right: -5px;
+        height: 100%;
+        max-height: none;
+        width: 100%;
+        transition: all .5s;
+
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
 
     }
     .painting-img, .painting-description {
@@ -67,6 +85,9 @@
         .painting-img {
             border-right: rgb(95, 95, 95) 3px solid;
             border-bottom: rgb(65, 65, 65) 3px solid;
+        }
+        .painting-shadow {
+            filter: blur(15px) brightness(50%) saturate(200%);
         }
     }
     .painting-description {
@@ -102,6 +123,11 @@
         {% endif %}
             <div class="painting-wrapper {% if height > width %}portrait{% endif %}">
                 <a style="border: none" href="{{ painting.url }}">
+                    <img
+                        class="painting-shadow"
+                        src="{{ painting.file | replace: 'paintings/', 'paintings/thumbnail/' }}"
+                        alt=""
+                    />
                     <img
                         class="painting-img"
                         src="{{ painting.file | replace: 'paintings/', 'paintings/thumbnail/' }}"
