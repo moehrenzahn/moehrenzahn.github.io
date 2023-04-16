@@ -23,6 +23,7 @@ layout: null
         {% endfor %}
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
+        <category>{{ post.lang | default: "de" }}</category>
         {% endfor %}
       </item>
     {% endfor %}
