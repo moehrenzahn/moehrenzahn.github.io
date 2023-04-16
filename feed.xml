@@ -23,8 +23,11 @@ layout: null
         {% endfor %}
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
-        <category>{{ post.lang | default: "de" }}</category>
         {% endfor %}
+        <category>{{ post.lang | default: "de" }}</category>
+        {% if post.categories contains "paintings" %}
+        <category>{{ post.materials | default: "Unknown material" }}, {{post.size | default: "unknown size"}}</category>
+        {% endif %}
       </item>
     {% endfor %}
     
