@@ -2,6 +2,9 @@
   <a class="index-link" rel="full-article" href="{{ post.url | prepend: site.baseurl }}">
     <div class="index-post">
       <h1 class="entry-title index {{post.categories | join: " "}} {% if post.link %}linklog{% endif %}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}</h1>
+      {% if post.file %}
+        <img class="index-thumb" src="{{ post.file | replace: 'paintings/', 'paintings/thumbnail/' }}"/>
+      {% endif %}
       <span class="entry-content-excerpt">{{ content | markdownify | strip_html | truncatewords: 50, '…' }}</span>
     </div>
   </a>
