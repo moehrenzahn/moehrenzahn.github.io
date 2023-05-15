@@ -4,13 +4,17 @@
     --page-width: 600px;
 }
 
-.fullwidth-container {
+.fullwidth-container:not(.has-error) {
     display: flex;
     justify-content: center;
 
+    // Full height
+    position: absolute;
+    top: 6rem;
+    height: calc(100svh - 6rem - 2px);
+
     // Full-width positioning
     width: 100vw;
-    position: relative;
     left: calc(50%);
     right: calc(50%);
     margin-left: calc(-50vw);
@@ -28,8 +32,7 @@
     scroll-snap-type: x mandatory;
 
     position: relative;
-    height: calc(90vh - (1 * var(--page-padding)));
-    height: calc(100svh - (1 * var(--page-padding)));
+    height: 100%;
     overflow-y: hidden !important;
 
     // Page width
@@ -118,10 +121,10 @@
         border-color: var(--color);
     }
     &.page-back {
-        border-top-left-radius: 50%;
-        border-bottom-left-radius: 50%;
         border-right: none;
         background-image: url(/images/flaticons/left.svg);
+        border-right: none;
+        border-left: none;
     }
     &.page-center {
         background-image: url(/images/flaticons/fullscreen.svg);
@@ -131,6 +134,20 @@
     }
     &.page-forward {
         background-image: url(/images/flaticons/right.svg);
+        border-left: none;
+        border-right: none;
+        border-left: none;
+    }
+    &.page-start {
+        background-image: url(/images/flaticons/start.svg);
+        background-size: 1.7em;
+        border-right: none;
+        border-top-left-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+    &.page-end {
+        background-image: url(/images/flaticons/end.svg);
+        background-size: 1.7em;
         border-left: none;
         border-top-right-radius: 50%;
         border-bottom-right-radius: 50%;
@@ -206,5 +223,25 @@ nav.page-navigation {
     :root {
         --page-padding: 2em;
         --page-width: 600px;
+    }
+}
+
+.paginated-article:not(.has-error) footer:not(.bottom)::before {
+    display: block;
+    text-align: center;
+    content: "♦";
+    opacity: .8;
+    margin: 2rem auto;
+}
+
+.paginated-article:not(.has-error) footer.bottom {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 400px) {
+    .paginated-article:not(.has-error) {
+        font-size: .8em;
     }
 }

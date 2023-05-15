@@ -20,6 +20,9 @@ document.addEventListener("DOMContentLoaded", function() {
     tmpContainer.remove()
     const container = document.querySelector(CONTAINER_SELECTOR)
     
+    // Add page footer to last page
+    container.appendChild(document.querySelector("footer.bottom"))
+    
     unpaginatedDocument = container.innerHTML
     const observer = new ResizeObserver(throttle(updatePagination, 1000))
     observer.observe(container)
@@ -52,6 +55,8 @@ function updatePagination() {
     container.classList.add("loading")
     container.classList.remove("ready")
     container.classList.remove("has-error")
+    let fullWidthContainer = document.querySelector(".fullwidth-container")
+    fullWidthContainer.classList.remove("has-error")
 
     try {
         if (container.clientHeight < 300) {
@@ -98,6 +103,7 @@ function updatePagination() {
         console.warn(e)
         container.innerHTML = unpaginatedDocument
         container.classList.add("has-error")
+        fullWidthContainer.classList.add("has-error")
     } finally {
         container.classList.remove("loading")
     }
@@ -284,11 +290,13 @@ function buildNavigation() {
     const nav = document.createElement("nav")
     nav.classList.add("page-navigation")
     nav.innerHTML = `
+    <button onclick="pageStartAction();event.preventDefault()" title="⇤" class="page-start"></button>
     <button onclick="pageBackAction();event.preventDefault()" title="←" class="page-back"></button>
-    <button onclick="centerAction();event.preventDefault()" title="Center" class="page-center"></button>
     <button onclick="pageForwardAction();event.preventDefault()" title="→" class="page-forward"></button>
+    <button onclick="pageEndAction();event.preventDefault()" title="⇥" class="page-end"></button>
     `
     return nav
+    // <button onclick="centerAction();event.preventDefault()" title="Center" class="page-center"></button>
 }
 
 function centerAction(container) {
@@ -304,11 +312,11 @@ function pageForwardAction(container) {
     }
     if (Math.abs(container.scrollWidth - container.scrollLeft - container.clientWidth) <= 1) {
         // Already at last page, scroll down instead
-        window.scrollTo({ top: container.offsetTop + container.clientHeight, behavior: 'smooth' });
+        // window.scrollTo({ top: container.offsetTop + container.clientHeight, behavior: 'smooth' });
     } else {
         // Simultaneous smooth scrolling not working in chromium,
         // see https://bugs.chromium.org/p/chromium/issues/detail?id=1121151
-        container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
+        // container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
         container.scrollTo({left: container.scrollLeft + container.clientWidth, behavior: 'smooth'});
     }
 }
@@ -316,6 +324,18 @@ function pageBackAction(container) {
     if (!container) {
         container = document.querySelector(CONTAINER_SELECTOR)
     }
-    container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
+    // container.scrollIntoView({block: 'center', behavior: window.chrome ? 'auto' : 'smooth'})
     container.scrollTo({left: container.scrollLeft - container.clientWidth, behavior: 'smooth'});
+}
+function pageStartAction(container) {
+    if (!container) {
+        container = document.querySelector(CONTAINER_SELECTOR)
+    }
+    container.scrollTo({left: 0, behavior: 'smooth'});
+}
+function pageEndAction(container) {
+    if (!container) {
+        container = document.querySelector(CONTAINER_SELECTOR)
+    }
+    container.scrollTo({left: container.scrollWidth, behavior: 'smooth'});
 }

@@ -4,18 +4,13 @@
       <h1 class="entry-title index {{post.categories | join: " "}} {% if post.link %}linklog{% endif %}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}</h1>
       {% if post.file %}
         <img class="index-thumb" src="{{ post.file | replace: 'paintings/', 'paintings/thumbnail/' }}"/>
+      {% else %}
+        <span class="entry-content-excerpt">{{ content | markdownify | strip_html | truncatewords: 50, '…' }}</span>
       {% endif %}
-      <span class="entry-content-excerpt">{{ content | markdownify | strip_html | truncatewords: 50, '…' }}</span>
     </div>
   </a>
 {% else %}
-
-  {% assign postlength = content.size %}
-  {% if postlength > 4500 %}
-    <div class="entry-content paginated-article loading {{postlength}}">
-  {% else %}
-    <div class="entry-content">
-  {% endif %}
+  <div class="entry-content">
     {% if page.link %}
       <h1 class="entry-title linklog">
         {% if page.published == false %}

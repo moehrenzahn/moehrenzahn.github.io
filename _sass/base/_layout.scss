@@ -78,9 +78,11 @@ article {
 	}
 }
 
-article.hentry {
-	h1 {
-		font-size: 3rem;
+@media (min-width: 600px) {
+	article.hentry {
+		h1 {
+			font-size: 3rem;
+		}
 	}
 }
 

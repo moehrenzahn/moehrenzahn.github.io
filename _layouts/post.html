@@ -2,7 +2,12 @@
 layout: default
 single: true
 ---
-<article class="hentry" role="article">
+{% assign postlength = content.size %}
+  {% if postlength > 2000 %}
+    <article class="hentry paginated-article loading {{postlength}}" role="article">
+  {% else %}
+    <article class="hentry" role="article">
+  {% endif %}
 	{% include article.html %}
   	<footer>
       <div class="meta">
