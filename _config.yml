@@ -32,7 +32,7 @@ defaults:
     values:
       layout: painting
       permalink: /paintings/:year-:month-:day-:title/
-      lang: en # All painting pages are in english<
+      lang: en # All painting pages are in english
   -
     scope:
       path: "/en/*"

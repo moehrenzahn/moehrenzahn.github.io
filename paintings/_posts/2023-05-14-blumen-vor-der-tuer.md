@@ -5,6 +5,7 @@ date: 2023-05-14
 size: 20×20cm
 materials: Acrylics on canvas board
 featured: no
+lang: de
 ---
 
 Diese Töpfe mit Blumenpflanzen vor der Haustür fielen mir beim Vorbeigehen direkt in die nach Frühling durstenden Augen.
