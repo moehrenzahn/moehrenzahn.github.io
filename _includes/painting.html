@@ -23,9 +23,10 @@
         max-height: 95vh;
         margin: auto;
         top: 5px;
-        left: 5px;
         bottom: -5px;
-        right: -5px;
+        /* avoid overflow */
+        left: 0;
+        right: 0; 
 
         -webkit-backface-visibility: hidden;
         -moz-backface-visibility: hidden;
