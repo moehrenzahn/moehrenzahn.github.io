@@ -139,11 +139,12 @@
         border-left: none;
     }
     &.page-start {
-        background-image: url(/images/flaticons/start.svg);
+        background-image: url(/images/flaticons/end.svg);
         background-size: 1.7em;
-        border-right: none;
-        border-top-left-radius: 50%;
-        border-bottom-left-radius: 50%;
+        transform: rotate(180deg);
+        border-left: none;
+        border-top-right-radius: 50%;
+        border-bottom-right-radius: 50%;
     }
     &.page-end {
         background-image: url(/images/flaticons/end.svg);

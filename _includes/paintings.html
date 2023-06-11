@@ -8,7 +8,7 @@
     #painting-container {
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: center;
         align-items: center;
         gap: 30px;
         padding: 15px 0;
@@ -22,7 +22,7 @@
         justify-content: flex-start;
     }
     .painting.painting-featured {
-        width: 100% !important;
+        /* width: 100% !important; */
     }
     .painting-featured .painting-wrapper {
         flex-direction: row;
@@ -133,11 +133,11 @@
                         class="painting-img"
                         src="{{ painting.file | replace: 'paintings/', 'paintings/thumbnail/' }}"
                         alt="{{ painting.title }}"
-                        style="aspect-ratio: {{ width }} / {{ height }}; width: calc({{ width }}*13.72px)"
+                        style="aspect-ratio: {{ width }} / {{ height }}; width: calc({{ width }}*8px)"
                         loading="lazy" />
                 </a>
                 <div class="painting-description" 
-                     style="width: calc({{ width }}*13.72px)">
+                     style="width: calc({{ width }}*8px)">
                     {% if painting.title %}
                     <a href="{{ painting.url }}"
                     class="poster-title">

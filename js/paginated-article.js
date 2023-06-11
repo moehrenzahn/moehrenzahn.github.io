@@ -30,12 +30,20 @@ document.addEventListener("DOMContentLoaded", function() {
     // Keyboard control
     document.addEventListener('keydown', function(event) {
         const key = event.key;
-        if (["ArrowDown", "ArrowRight", " "].includes(key)) {
+        if (["ArrowDown", "ArrowRight", " ", "PageDown"].includes(key)) {
             pageForwardAction(container)
             event.preventDefault()
         }
-        if (["ArrowUp", "ArrowLeft"].includes(key)) {
+        if (["ArrowUp", "ArrowLeft", "PageUp"].includes(key) || (key === " " && event.shiftKey)) {
             pageBackAction(container)
+            event.preventDefault()
+        }
+        if (["Home"].includes(key)) {
+            pageStartAction(container)
+            event.preventDefault()
+        }
+        if (["End"].includes(key)) {
+            pageEndAction(container)
             event.preventDefault()
         }
     }, false);
