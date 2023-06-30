@@ -133,11 +133,11 @@
                         class="painting-img"
                         src="{{ painting.file | replace: 'paintings/', 'paintings/thumbnail/' }}"
                         alt="{{ painting.title }}"
-                        style="aspect-ratio: {{ width }} / {{ height }}; width: calc({{ width }}*8px)"
+                        style="aspect-ratio: {{ width }} / {{ height }}; width: calc({{ width }}*10px)"
                         loading="lazy" />
                 </a>
                 <div class="painting-description" 
-                     style="width: calc({{ width }}*8px)">
+                     style="width: calc({{ width }}*10px)">
                     {% if painting.title %}
                     <a href="{{ painting.url }}"
                     class="poster-title">
