@@ -62,5 +62,11 @@
 </div>
 
 <div class="entry-content">
-    {{ content }}
+    {% capture trimmed_content %}{{ content | strip }}{% endcapture %}
+    {% if trimmed_content == "" and page.lang != 'en' %}
+        {% assign alternative = site.categories.paintings-en | where: "title", page.title | first %}
+        {{ alternative.content | markdownify }}
+    {% else %}
+        {{ content }}
+    {% endif %}
 </div>

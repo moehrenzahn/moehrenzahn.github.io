@@ -7,6 +7,6 @@ materials: Acrylics on canvas board
 featured: no
 ---
 
-Work-in-progress animation:
+Work-in-progress-Animation:
 
 ![Work in progress animation]({% link /paintings/2022-06-27-strandspaziergang.gif %})

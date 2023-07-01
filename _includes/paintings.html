@@ -1,4 +1,8 @@
-{% assign paintings = site.categories.paintings %}
+{% if page.lang == "en" %}
+    {% assign paintings = site.categories.paintings-en %}
+{% else %}
+    {% assign paintings = site.categories.paintings %}
+{% endif %}
 <style>
     #content {
         padding-left: var(--gutter-width);

@@ -2,6 +2,7 @@
 layout: default
 lang: de
 regenerate: true
+redirect_from: /archives/
 ---
 
 <div class="blog-index">
@@ -14,6 +15,9 @@ regenerate: true
   {% assign index = true %}
   {% assign last_year = site.time | date: "%Y" %}
   {% for post in site.posts %}
+    {% if post.categories contains 'paintings-en' %}
+      {% continue %}
+    {% endif %}
     {% assign content = post.content %}
     {% assign year = post.date | date: "%Y" %}
     {% if year != last_year %}

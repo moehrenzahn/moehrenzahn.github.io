@@ -7,4 +7,4 @@ size: 18×24cm
 published: false
 ---
 
-Part of a series on creation.
+Teil einer Serie über die Schöpfung.

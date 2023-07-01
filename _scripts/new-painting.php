@@ -41,12 +41,24 @@ $templateParts = [
     '---',
     "title: \"$title\"",
     'file: /paintings/' . $imageFilename,
-    'date: ' . $date,
     'size: 20×20cm',
     'materials: Acrylics on canvas board',
     'featured: no',
     '---',
 ];
+
+echo "Creating file '$mdFilePath' …" . PHP_EOL;
+
+$success = file_put_contents(
+    $mdFilePath,
+    implode(PHP_EOL, $templateParts) . PHP_EOL . PHP_EOL
+);
+if ($success === false) {
+    echo "Error: Could not create file '$mdFilePath'" . PHP_EOL;    
+    exit(1);
+}
+exec("open $mdFilePath");
+$mdFilePath = "$cmsRootPath/paintings-en/_posts/$mdFilename";
 
 echo "Creating file '$mdFilePath' …" . PHP_EOL;
 

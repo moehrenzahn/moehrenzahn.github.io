@@ -1,7 +1,6 @@
 ---
 layout: showcase
 title: Star Wars Poster
-lang: de
 layout-width: 900px
 ---
 

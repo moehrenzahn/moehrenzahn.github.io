@@ -7,7 +7,9 @@ materials: Acrylics on canvas board
 featured: no
 ---
 
-Work-in-progress animation:
+Mein erstes Selbstportrait.
 
-![Work in progress animation]({% link /paintings/2022-05-02-selbstportrait.gif %})
+Work-in-progress-Animation:
+
+![Work-in-progress-Animation]({% link /paintings/2022-05-02-selbstportrait.gif %})
 

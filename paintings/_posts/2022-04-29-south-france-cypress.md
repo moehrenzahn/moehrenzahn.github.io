@@ -6,4 +6,4 @@ size: 20×20cm
 materials: Acrylics on canvas board
 ---
 
-Quick study of a holiday photo of a small town in the south of france.
+Schnelle Studie eines Urlaubsfotos von einer Kleinstadt im Süden Frankreichs.

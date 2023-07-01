@@ -6,4 +6,3 @@ size: 20×20cm
 materials: Acrylics on canvas board
 featured: no
 ---
-

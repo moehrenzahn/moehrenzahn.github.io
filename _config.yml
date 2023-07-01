@@ -32,15 +32,28 @@ defaults:
     values:
       layout: painting
       permalink: /paintings/:year-:month-:day-:title/
-      lang: en # All painting pages are in english
   -
     scope:
-      path: "/en/*"
+      path: "/*en/*"
     values:
       lang: en
+  -
+    scope:
+      path: "paintings-en"
+    values:
+      layout: painting
+      permalink: /en/paintings/:year-:month-:day-:title/
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 # Build settings
+
 markdown: kramdown
+
 exclude: [_drafts/Abgelehnt/, makefile, .idea/]
 
 kramdown:

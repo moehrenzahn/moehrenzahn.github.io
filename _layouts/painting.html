@@ -4,7 +4,7 @@ single: true
 ---
 
 {% assign painting = page %}
-<article class="hentry" role="article">
+<article class="hentry {{ painting.categories }}" role="article">
 	  {% include painting.html %}
   	<footer>
       <div class="meta">

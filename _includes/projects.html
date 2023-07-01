@@ -79,7 +79,7 @@
             /images/projects/{{ project.slug }}.jpg
         {% endcapture %}
 
-        {% if project.content != "" %}
+        {% if project.content != "" and page.lang != 'en' %}
             <a class="project-link" title="{{ project.title }}" href="{{ project.url }}">
         {% else %}
             <a class="project-link" title="{{ project.title }}" href="{{ project.link }}" target="_blank">

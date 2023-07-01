@@ -6,8 +6,8 @@ size: 20×20cm
 materials: Acrylics on canvas board
 ---
 
-Inspired by the Star Wars The Mandalorian TV series.
+Inspiriert von der "Star Wars The Mandalorian"-Fernsehserie.
 
-Work-in-progress animation:
+Work-in-progress-Animation:
 
 ![Work in progress animation]({% link /paintings/2022-07-22-mandalorian.gif %})

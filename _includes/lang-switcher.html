@@ -1,27 +1,38 @@
 {% for item in site.data.navigation %}
-  {% if page.url contains item.url %}
+  {% if page.url == item.url %}
+    <!-- Root page -->
     {% assign switch_url = item.url-de %} 
-  {% elsif page.url contains item.url-de %}
+    {% break %}
+  {% elsif page.url == item.url-de %}
+    <!-- Root page -->
     {% assign switch_url = item.url  %} 
-  {% elsif item.title == 'Blog' and page.collection == 'posts' %}
-    {% if page.lang == 'en' %}
-      {% assign switch_url = '/blog' %} 
+    {% break %}
+  {% elsif page.url contains item.url %}
+    {% if item.title == 'Paintings' %}
+      <!-- Painting to DE -->
+      {% capture switch_url %}{{ page.url | replace: item.url, item.url-de }}{% endcapture %}
+      {% break %}
     {% else %}
-      {% assign switch_url = '/en/blog' %} 
+      <!-- projects etc. to DE -->
+      {% assign switch_url = item.url-de %}
     {% endif %}
-  {% elsif item.title == 'Paintings' and page.collection == 'paintings' %} 
+  {% elsif page.url contains item.url-de %}       
+    {% if item.title == 'Paintings' %}
+      <!-- Painting to EN -->
+      {% capture switch_url %}{{ page.url | replace: item.url-de, item.url }}{% endcapture %}
+      {% break %}
+    {% else %}
+      <!-- projects etc to EN -->
+      {% assign switch_url = item.url %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
 {% unless switch_url %}
   {% if page.lang == 'en' %}
-    {% if page.url contains '/en/' %}
-      {% capture switch_url %}{{ page.url | replace '/en/' '/' }}{% endcapture %} 
-    {% else %}
-      {% assign switch_url = root_url %} 
-    {% endif %}
+    {% assign switch_url = '/blog' %} 
   {% else %}
-    {% assign switch_url = '/en' %}
+    {% assign switch_url = '/en/blog' %}
   {% endif %}
 {% endunless %}
 
