@@ -12,7 +12,7 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:50 %}
-    {% if post.lang == 'en' %}
+      {% if post.lang == 'en' %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{% if post.file %}&lt;img src=&quot;{{ post.file | absolute_url | xml_escape }}&quot;&gt; {% endif %}{{ post.content | xml_escape }}</description>
