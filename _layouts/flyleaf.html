@@ -1,0 +1,145 @@
+---
+layout: compress
+---
+
+
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+
+<style>
+  .flyleaf {
+    text-align: center;
+  }
+  .flyleaf p,
+  .flyleaf li {
+    font-family: -apple-system-ui-serif, ui-serif, "Charter", Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 1.5rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: .5rem;
+    text-align: justify;
+    hyphens: auto;
+    list-style: "♢ ";
+  }
+
+  .flyleaf h1, .flyleaf h2, .flyleaf h3, .flyleaf h4 {
+    text-align: center;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-top: 3rem;
+    margin-bottom: 2rem
+  }
+
+  .flyleaf h1 {
+    display: inline-block;
+    text-align: center;
+    font-size: clamp(4rem, 15.5vw, 14rem);
+    margin: 0;
+    margin-bottom: -3rem;
+    font-weight: 900;
+    background: rgb(131,58,180);
+    background: linear-gradient(132deg, rgba(131,58,180,1) 15%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 84%);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .flyleaf h2 {
+    font-size: clamp(1.5rem, 2.5vw, 5rem);
+  }
+
+  .flyleaf-download {
+      display: flex;
+      justify-content: center;
+      gap: 1em;
+      border: none;
+      align-items: center;
+      text-align: left;
+      margin-top: 2rem;
+      font-size: 1.5rem;
+      line-height: 1.2;
+  }
+  .flyleaf-download img {
+      width: auto;
+  }
+  .flyleaf-download .list {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+  }
+  .flyleaf-download a,
+  .flyleaf-download a:hover,
+  .flyleaf-download a:active,
+  .flyleaf-download a:visited {
+    display: inline-block;
+    font-size: 1.1rem;
+    border: 1px solid rgb(166,166,166);
+    border-radius: 8px;
+    background: black;
+    color: white !important;
+    padding: 0.3rem 0.7rem;
+  }
+  .flyleaf-download a:hover {
+    border-color: var(--color);
+  }
+  .flyleaf .requirements {
+    opacity: .5;
+    margin-bottom: 2rem;
+  }
+
+  .flyleaf-screenshots {
+    display: flex;
+    max-height: 60vh;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    gap: 0;
+    background-color: rgba(170,170,170,.15);
+    margin: 3rem calc(-1 * var(--gutter-width));
+    padding: 2rem 4vw;
+    padding-bottom: 3rem;
+  }
+  .flyleaf-screenshots img {
+    height: 60vh;
+    width: auto;
+    max-width: 95%;
+    object-fit: contain; 
+  }
+  .flyleaf-screenshots img.iphone {
+    border-radius: 3.7vh;
+    box-shadow: 1vh 1.2vh 2vh rgba(0,0,0,0.5);
+    margin: 0 3vh;
+    border: 1.1vh solid black;
+    outline: 1.5px solid #555;
+  }
+  .flyleaf-screenshots img.iphone::after {
+    content: "";
+    background: #000;
+    height: 3vh;
+    border-radius: 3vh;
+    position: absolute;
+    top: 2vh;
+    left: 6vh;
+    right: 6vh;
+  }
+  .flyleaf-screenshots img.ipad {
+    margin: 0 3vh;
+  }
+
+  @media(max-width: 769px) {
+    .flyleaf-screenshots img:first-child {
+      order: 1;
+    }
+  }
+</style>
+
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}>
+  <div id="main" class="flyleaf">
+    <div id="content" style="max-width: 100%">
+      {{ content | expand_urls: root_url }}
+    </div>
+  </div>
+  {% include footer.html %}
+</body>
+</html>
