@@ -28,14 +28,14 @@
                 color: #aaa;
             }
             .footnote-button:before {
-                color: var(--text-color);
+                color: var(--background);
             }
             .footnote-content,  .tooltip,  .footnote-main-wrapper {
-                background-color: var(--text-color);
+                background-color: var(--background);
                 border-color: var(--text-color);
             }
             .footnote-content-wrapper {
-                background: var(--text-color);
+                background: var(--background);
                 border-color: var(--text-color);
             }
             .footnote-content.scrollable {
