@@ -50,11 +50,11 @@ article {
 	figure, img, iframe, video,  object {
 		display: block;
 		max-width: 100%;
-		width: 100%;
 		max-height: 90vh;
 		object-fit: contain;
-		object-position: left;
-		margin-left: 0;
+		object-position: center;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	iframe {
@@ -81,7 +81,7 @@ article {
 }
 
 article.hentry {
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 .blog-index {
