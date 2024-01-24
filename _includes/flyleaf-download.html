@@ -1,10 +1,58 @@
+<style>
+    .flyleaf-download {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      gap: 1em;
+      border: none;
+      align-items: center;
+      text-align: left;
+      margin-top: 2rem;
+      font-size: 1.5rem;
+      line-height: 1.2;
+  }
+  .flyleaf-download img {
+    flex-grow: 0;
+    width: auto;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .flyleaf-download .list {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+  }
+  .flyleaf-download a,
+  .flyleaf-download a:hover,
+  .flyleaf-download a:active,
+  .flyleaf-download a:visited {
+    display: inline-block;
+    font-size: 1.1rem;
+    border: 1px solid rgb(166,166,166);
+    border-radius: 8px;
+    background: black;
+    color: white !important;
+    padding: 0.3rem 0.7rem;
+  }
+  .flyleaf-download a:hover {
+    border-color: var(--color);
+  }
 
+  .requirements {
+    text-align: center;
+    opacity: .5;
+    margin-bottom: 2rem;
+  }
+</style>
 
 <section class="flyleaf-download">
-    <img src="/images/projects/flyleaf-mac-icon-small.png" height="125" width="125" class="icon">
+    <img src="/images/projects/flyleaf-mac-icon-small.png" height="125"
+        width="125" class="icon">
     <div class="list">
         <div>Currently in beta</div>
-        <a href="https://testflight.apple.com/join/fhW9Vw4K" style="text-align: center;">
+        <a href="https://testflight.apple.com/join/fhW9Vw4K"
+            style="text-align: center;">
             Join the Beta on Testflight
         </a>
     </div>

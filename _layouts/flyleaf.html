@@ -49,46 +49,6 @@ layout: compress
     font-size: clamp(1.5rem, 2.5vw, 5rem);
   }
 
-  .flyleaf-download {
-      display: flex;
-      justify-content: center;
-      gap: 1em;
-      border: none;
-      align-items: center;
-      text-align: left;
-      margin-top: 2rem;
-      font-size: 1.5rem;
-      line-height: 1.2;
-  }
-  .flyleaf-download img {
-      width: auto;
-  }
-  .flyleaf-download .list {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.5rem;
-  }
-  .flyleaf-download a,
-  .flyleaf-download a:hover,
-  .flyleaf-download a:active,
-  .flyleaf-download a:visited {
-    display: inline-block;
-    font-size: 1.1rem;
-    border: 1px solid rgb(166,166,166);
-    border-radius: 8px;
-    background: black;
-    color: white !important;
-    padding: 0.3rem 0.7rem;
-  }
-  .flyleaf-download a:hover {
-    border-color: var(--color);
-  }
-  .flyleaf .requirements {
-    opacity: .5;
-    margin-bottom: 2rem;
-  }
-
   .flyleaf-screenshots {
     display: flex;
     max-height: 60vh;
@@ -102,7 +62,7 @@ layout: compress
   }
   .flyleaf-screenshots img {
     height: 60vh;
-    width: auto;
+    width: auto !important;
     max-width: 95%;
     object-fit: contain; 
   }
