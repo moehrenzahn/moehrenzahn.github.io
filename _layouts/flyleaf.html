@@ -51,7 +51,7 @@ layout: compress
 
   .flyleaf-screenshots {
     display: flex;
-    max-height: 60vh;
+    height: 60vh;
     overflow-x: scroll;
     overflow-y: hidden;
     gap: 0;
@@ -72,6 +72,7 @@ layout: compress
     margin: 0 3vh;
     border: 1.1vh solid black;
     outline: 1.5px solid #555;
+    height: calc(60vh - 1.1vh - 1.5px);
   }
 
   .flyleaf video.ipad {
