@@ -21,7 +21,7 @@ filter_links = function(button) {
 filter_posts = function(button) {
     filter_none();
     activate_button(button)
-    const not_matching_titles = document.querySelectorAll('article .index.paintings');
+    const not_matching_titles = document.querySelectorAll('article .index.paintings, article .index.paintings-en');
     const not_matching_articles = Array.from(not_matching_titles).map(t => t.closest('article'));
     not_matching_articles.forEach(a => a.classList.add('hidden'));
 }

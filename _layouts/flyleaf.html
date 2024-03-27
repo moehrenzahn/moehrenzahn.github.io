@@ -49,32 +49,6 @@ layout: compress
     font-size: clamp(1.5rem, 2.5vw, 5rem);
   }
 
-  .flyleaf-screenshots {
-    display: flex;
-    height: 60vh;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    gap: 0;
-    background-color: rgba(170,170,170,.15);
-    margin: 3rem calc(-1 * var(--gutter-width));
-    padding: 2rem 4vw;
-    padding-bottom: 3rem;
-  }
-  .flyleaf-screenshots img {
-    height: 60vh;
-    width: auto !important;
-    max-width: 95%;
-    object-fit: contain; 
-  }
-  .flyleaf-screenshots img.iphone {
-    border-radius: 3.7vh;
-    box-shadow: 1vh 1.2vh 2vh rgba(0,0,0,0.5);
-    margin: 0 3vh;
-    border: 1.1vh solid black;
-    outline: 1.5px solid #555;
-    height: calc(60vh - 1.1vh - 1.5px);
-  }
-
   .flyleaf video.ipad {
     border-radius: 25px;
     border: 15px solid black;
@@ -82,26 +56,6 @@ layout: compress
     box-shadow: 1vh 1.2vh 2vh rgba(0,0,0,0.5);
     max-width: calc(100% - 2*15px);
     height: auto;
-  }
-
-  .flyleaf-screenshots img.iphone::after {
-    content: "";
-    background: #000;
-    height: 3vh;
-    border-radius: 3vh;
-    position: absolute;
-    top: 2vh;
-    left: 6vh;
-    right: 6vh;
-  }
-  .flyleaf-screenshots img.ipad {
-    margin: 0 3vh;
-  }
-
-  @media(max-width: 769px) {
-    .flyleaf-screenshots img:first-child {
-      order: 1;
-    }
   }
 </style>
 

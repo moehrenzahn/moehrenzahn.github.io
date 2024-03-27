@@ -1,10 +1,52 @@
 
+<style>
+  .flyleaf-screenshots {
+    display: flex;
+    height: 60vh;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    gap: 0;
+    background-color: rgba(170,170,170,.15);
+    background: linear-gradient(132deg, rgba(131,58,180,1) 15%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 84%);
+    margin: 3rem calc(-1 * var(--gutter-width));
+    padding: 2rem 4vw;
+    padding-bottom: 3rem;
+  }
+  .flyleaf-screenshots::-webkit-scrollbar {
+    display: none;
+  }
+
+  .flyleaf-screenshots img {
+    height: 60vh;
+    width: auto !important;
+    max-width: 95%;
+    object-fit: contain; 
+  }
+  .flyleaf-screenshots img.iphone {
+    border-radius: 3.7vh;
+    box-shadow: 1vh 1.2vh 2vh rgba(0,0,0,0.5);
+    margin: 0 3vh;
+    border: 1.1vh solid black;
+    outline: 1.5px solid #555;
+    height: calc(60vh - 1.1vh - 1.5px);
+  }
+
+  .flyleaf-screenshots img.ipad {
+    margin: 0 3vh;
+  }
+
+  @media(max-width: 769px) {
+    .flyleaf-screenshots img:first-child {
+      order: 1;
+    }
+  }
+</style>
 
 <section class="flyleaf-screenshots">
-    <img alt="The macOS app in light mode" src="/images/projects/flyleaf-mac.png">
-    <img alt="The iOS app in dark mode" src="/images/projects/flyleaf-iphone.png" class="iphone">
-    <img alt="The iPad app on an iPad mini" src="/images/projects/flyleaf-ipad.png" class="ipad">
-    <img alt="The iPhone app quick settings sheet" src="/images/projects/flyleaf-iphone-quicksettings.png" class="iphone">
-    <img alt="The macOS app in the dark Ocean theme" src="/images/projects/flyleaf-mac-dark-ocean.png" class="">
-    <img alt="The iPhone app settings sheet" src="/images/projects/flyleaf-iphone-settings.png" class="iphone">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The macOS app in light mode" src="/images/projects/flyleaf-mac.png">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The iOS app in dark mode" src="/images/projects/flyleaf-iphone.png" class="iphone">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The iPad app on an iPad mini" src="/images/projects/flyleaf-ipad.png" class="ipad">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The iPhone app quick settings sheet" src="/images/projects/flyleaf-iphone-quicksettings.png" class="iphone">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The macOS app in the dark Ocean theme" src="/images/projects/flyleaf-mac-dark-ocean.png" class="">
+    <img onclick="this.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })" alt="The iPhone app settings sheet" src="/images/projects/flyleaf-iphone-settings.png" class="iphone">
 </section>
