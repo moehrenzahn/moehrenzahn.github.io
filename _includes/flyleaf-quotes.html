@@ -1,0 +1,62 @@
+<style>
+  .flyleaf-quotes {
+    display: flex;
+    gap: 3rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 3rem auto;
+  }
+  .flyleaf-quotes a::before {
+    content: "“";
+    font-size: 20rem;
+    font-weight: bolder;
+    opacity: .1;
+    background: linear-gradient(132deg, rgba(131,58,180,1) 15%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 84%);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    position: absolute;
+    top: -0.55em;
+    left: -0.15em;
+    z-index: -1;
+  }
+  .flyleaf-quotes a {
+    position: relative;
+    max-width: 400px;
+    border: none;
+  }
+
+  .flyleaf-quotes a:hover footer {
+    color: var(--color);
+  }
+  .flyleaf-quotes blockquote {
+    font-family: "Charter", Georgia, 'Times New Roman', Times, serif !important;;
+    font-style: italic;
+    text-align: left;
+    margin: 0;
+    font-size: 1.3rem;
+  }
+
+  .flyleaf-quotes blockquote footer {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    transition: color .2s;
+    text-align: right;
+  }
+</style>
+
+<section class="flyleaf-quotes">
+  <a href="https://creativerly.com/read-articles-like-a-book-with-flyleaf/">
+    <blockquote>
+      No matter if you are reading on your iPhone, iPad, or Mac, the pagination interaction in combination with a lovely interface makes Flyleaf an incredible beautiful read-it-later app.
+      <footer>Philipp Temmel, <cite>creativerly</cite></footer>
+    </blockquote>
+  </a>
+  <a href="https://www.macg.co/logiciels/2024/03/flyleaf-une-nouvelle-app-de-lecture-differee-affichant-les-articles-en-colonnes-142949">
+    <blockquote>
+      While there's still plenty of room for improvement, Flyleaf is an app to try if you're looking to replace Pocket. It has the advantage of being native and supporting shortcuts.
+      <footer>Félix Cattafesta, <cite>MacGeneration</cite></footer>
+    </blockquote>
+  </a>
+</section>

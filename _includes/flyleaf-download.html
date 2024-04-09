@@ -1,32 +1,37 @@
 <style>
-    .flyleaf-download a {
-      text-align: center;
-      display: flex;
-      justify-content: center;
-      gap: 1em;
-      border: none;
-      align-items: center;
-      text-align: left;
-      margin: 2rem auto;
-      font-size: 1.5rem;
-      line-height: 1.2;
+  .flyleaf-download {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
   }
-  .flyleaf-download a:hover img.a-button {
-    transform: scale(1.1);
+
+  .flyleaf-download a {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    border: none;
+    align-items: center;
+    text-align: left;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    transition: transform .2s;
+  }
+  .flyleaf-download a:hover {
+    transform: scale(1.03);
   } 
   .flyleaf-download img {
     flex-grow: 0;
     width: auto;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    transition: transform .5s;
   }
   .flyleaf-download .list {
-      display: flex;
-      flex-direction: column;
-      font-size: 0.8em;
-      align-items: flex-start;
-      gap: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8em;
+    align-items: flex-start;
+    gap: 0.5rem;
   }
   .flyleaf-download a,
   .flyleaf-download a:hover,
