@@ -3,7 +3,7 @@
 
 	body {
 		a, a:visited {
-			border-bottom-color: #777;
+			border-bottom-color: var(--lightgray);
 		}
 		a:hover {
 			border-bottom-color: var(--color);
@@ -12,21 +12,6 @@
 			color: var(--text-color);
 		}
 		article.hentry {
-			figcaption {
-				color: #777;
-			}
-
-            footer {
-                a, a.social {
-                    color: #aaa;
-                }
-                time,  div,  span,  figcaption,  .meta, p {
-                    color: #777;
-                }
-            }
-            li {
-                color: #aaa;
-            }
             .footnote-button:before {
                 color: var(--background);
             }
@@ -46,32 +31,16 @@
 
         }
 		span.entry-content-excerpt:after {
-			background: -moz-linear-gradient(left, rgba(34,34,34,0) 0%, rgba(34,34,34,1) 100%);
-			background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(34,34,34,0)), color-stop(100%,rgba(34,34,34,1)));
-			background: -webkit-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
-			background: -o-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
-			background: -ms-linear-gradient(left, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
-			background: linear-gradient(to right, rgba(34,34,34,0) 0%,rgba(34,34,34,1) 100%);
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00222222', endColorstr='#222222',GradientType=1 );
+			background: -moz-linear-gradient(left, rgba(34,34,34,0) 0%, var(--background) 100%);
+			background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(34,34,34,0)), color-stop(100%,var(--background)));
+			background: -webkit-linear-gradient(left, rgba(34,34,34,0) 0%,var(--background) 100%);
+			background: -o-linear-gradient(left, rgba(34,34,34,0) 0%,var(--background) 100%);
+			background: -ms-linear-gradient(left, rgba(34,34,34,0) 0%,var(--background) 100%);
+			background: linear-gradient(to right, rgba(34,34,34,0) 0%,var(--background) 100%);
 		}
-        
-        .button, .button.secondary, .button.cta, .button.active {
-            box-shadow: .15em .25em 0 #666;
-        }
-        .button:hover, a.button:hover {
-            box-shadow: .1em .15em 0 #555;
-        }
         
         .button:active, .button.active {
             box-shadow: 0 0 0 #000;
-        }
-
-        .button.secondary {
-            background-color: #444 !important;
-        }
-        
-        .category-pill {
-            background-color: #555;
         }
 
         .header-menu {
@@ -87,6 +56,10 @@
         }
         .entry-title.index:before {
             filter: invert(1);
+        }
+
+        .index-thumb {
+            box-shadow: #220d00 0px 8px 24px;
         }
     }
 }

@@ -9,9 +9,7 @@ article.hentry {
 		margin-top: 30px;
 		padding-top: 30px;
 	}
-	time {
-		color: var(--text-color);
-	}
+
 	#comments {
 		font-size: $bodytext;
 		@media only screen and (max-width: 480px) {font-size: $bodytext * .8;}

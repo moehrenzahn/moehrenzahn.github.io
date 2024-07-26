@@ -20,10 +20,11 @@ $metatext: 90%;
 $footnotetext: 97%;
 
 :root {
-    --text-color: #383838;
-    --text-color-light: #6B6B6B;
+    --text-color: #331300;
+    --text-color-light: #712900;
     --color: #FF670F;
-    --background: white;
+    --lightgray: #ffc5a1;
+    --background: #fff3ee;
     --gutter-width: 1rem;
 }
 
@@ -35,10 +36,11 @@ $footnotetext: 97%;
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --text-color: #bbb;
-        --text-color-light: rgb(155, 155, 155);
+        --text-color: #ffe2d5;
+        --text-color-light: #c68f6f;
+        --lightgray: #7b2f00;
         --color: #fd6d1a;
-        --background: #222;
+        --background: #291000;
     }
 }
 

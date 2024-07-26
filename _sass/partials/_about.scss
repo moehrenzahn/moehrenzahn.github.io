@@ -24,37 +24,25 @@
 	.about-title {
 		flex-direction: column;
 		position: relative;
-		background-color: rgb(122,117,113);
-		background-image: url("../images/about/title-bg-2021.jpg");
-		background-position: center;
-		background-size: cover;
+		text-wrap: balance;
 		justify-content: space-between;
-		min-height: 90vh;
 		font-size: 3rem;
-		.icon {
-			filter: invert(1);
-		}
 		.copy {
 			display: block;
-			max-width: 45vw;
-			margin-right: 5vmin;
-			margin-left: auto;
-			animation: zoomIn 2s;
+			max-width: 18em;
+			margin: 0 1rem;
+			text-align: center;
 
 			p {
 				font-size: .75em;
 				line-height: 1.2em;
 				margin-bottom: .3em;
-				color: white;
 				font-weight: bolder;
-				text-shadow: 0 0 15px rgba(0,0,0,.2);
 			};
 			h2 {
-				line-height: .8em;
+				line-height: 0.9em;
 				font-size: 2em;
-				color: white;
 				margin-bottom: .2em;
-				text-shadow: 0 0 15px rgba(0,0,0,.2);
 			}
 			.button {
 				margin-top: 1em;
@@ -66,12 +54,10 @@
 
 		.header-menu {
 			width: 100%;
-			a {
-				color: white;
-			}
 		}
 
 		.scroll-down-button-container {
+			display: none;
 			font-size: 1.5rem;
 			margin-bottom: 1rem;
 			align-self: center;
@@ -169,7 +155,6 @@
 				flex-grow: 1;
 			}
 			background-position: 30%;
-			align-items: end;
 			font-size: 1.5rem;
 			.copy {
 				max-width: 100%;

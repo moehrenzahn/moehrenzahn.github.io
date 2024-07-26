@@ -44,11 +44,11 @@ markdown = text.split("---")[-1].strip();
 
 hashTags = '#acrylicpainting #painting #art #artwork #artstudio #paintings #painter #artist #acrylicartwork #artdaily #creativeart #artlovers #artgallery #artistsofinstagram #contemporaryart #contemporarypainting #paintingoftheday'
 
-text = "Neues Gemälde: %s. %s, %s\n\n%s\n\n\n%s" % (paintingTitle, paintingMaterials, paintingSize, markdown, hashTags)
+text = "New painting: %s. %s, %s\n\n%s\n\n\n%s" % (paintingTitle, paintingMaterials, paintingSize, markdown, hashTags)
 shareUrls = [
     'https://instagram.com',
     'https://facebook.com/sharer.php?u=%s' % urllib.parse.quote(url),
-    'https://twitter.com/intent/tweet?url=%s&text=%s' % (urllib.parse.quote(url), urllib.parse.quote(text)),
+    'https://mastodon.social/share?text=%s' % text
 ]
 
 print(url)

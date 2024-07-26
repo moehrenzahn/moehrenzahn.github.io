@@ -4,7 +4,7 @@
 a, a:visited {
 	color: var(--text-color);
 	text-decoration: none;
-	border-bottom: .1em solid #D9D9D9;
+	border-bottom: .1em solid var(--lightgray);
 	transition: border-color .3s;
 }
 a:hover {

@@ -307,7 +307,7 @@ a.index-link:hover {
 	height: auto;
 	border-radius: 4px;
 	object-fit: cover;
-	box-shadow: rgba(0,0,0, 0.3) 0px 8px 24px;
+	box-shadow: var(--lightgray) 0px 8px 24px;
 	@media (max-width: 400px) {
 		display: none;
 	}
@@ -325,13 +325,12 @@ span.entry-content-excerpt:after {
 	position: absolute;
 	height: 1.8em;
 	width: 40%;
-	background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
-	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,255,255,0)), color-stop(100%,rgba(255,255,255,1)));
-	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
-	background: -o-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
-	background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
-	background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 );
+	background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, var(--background) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,255,255,0)), color-stop(100%,var(--background)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,var(--background) 100%);
+	background: -o-linear-gradient(left, rgba(255,255,255,0) 0%,var(--background) 100%);
+	background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%,var(--background) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%,var(--background) 100%);
 	bottom: 0;
 	right: 0;
 }
@@ -366,7 +365,7 @@ footer {
 	line-height: 1;
 	border: none;
 	border-radius: calc(1em + (.75em * 2));
-	box-shadow: .15em .25em 0 #ddd;
+	box-shadow: .15em .25em 0 var(--lightgray);
 	background-color: var(--text-color-light);
 	color: var(--background);
 	transition: all .3s;
@@ -377,7 +376,7 @@ footer {
 }
 .button:hover, a.button:hover {
 	transform: translate(.1em, .05em);
-	box-shadow: .1em .15em 0 #bbb;
+	box-shadow: .1em .15em 0 var(--lightgray);
 	cursor: pointer;
 }
 
@@ -393,8 +392,9 @@ footer {
 	background: var(--color);
 }
 .button.secondary, a.button.secondary, a.button.secondary:visited {
-	background: #eee;
-	color: var(--text-color);
+	background: var(--lightgray);
+	color: var(--text-color-light);
+	box-shadow: .1em .15em 0 var(--text-color-light);
 	font-weight: 500;
 }
 

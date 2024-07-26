@@ -2,9 +2,6 @@
 
 footer.bottom {
 	height: 100px;
-	@media only screen and (min-width: $max-width+600) {
-		// margin-top: -100px;
-	}
 	p, span {
 		font-family: $sans;
 		line-height: 1.7;
