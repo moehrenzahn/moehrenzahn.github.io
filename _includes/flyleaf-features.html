@@ -1,0 +1,339 @@
+<style>
+  .flyleaf-features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 3rem calc(-1 * var(--gutter-width));
+  }
+  
+  .flyleaf-features h2 {
+    font-size: 1.6em;
+    line-height: 1.1;
+    text-wrap: balance;
+  }
+  
+  .flyleaf-features .feature {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    align-items: stretch;
+    text-align: right; 
+    font-size: 1.5rem;
+    line-height: 1.4;
+    padding: 2.5rem 4vw;
+    min-height: 200px;
+  }
+  .flyleaf-features .feature > *:not(.frame-container) {
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+  @media (max-width: 700px) {
+    .flyleaf-features .feature {
+      flex-wrap: wrap;
+    }
+    .flyleaf-features .feature * {
+      text-align: left !important; 
+    }
+    .flyleaf-features .feature > img {
+      object-position: center !important;
+    }
+    .flyleaf-features .feature:has(.clip-top) {
+      flex-direction: column-reverse !important;
+    }
+    .flyleaf-features .feature img.clip-top {
+      margin-top: -3.5rem !important;
+    }
+  }
+  .flyleaf-features .feature > img {
+    object-fit: contain;
+    object-position: left;
+    width: 100%;
+    height: 100%;
+  }
+  .flyleaf-features .frame-container,
+  .flyleaf-features .frame-container video,
+  .flyleaf-features .frame-container::before,
+  .flyleaf-features .feature > * { 
+    min-width: 280px;
+  }
+  .flyleaf-features .frame-container,
+  .flyleaf-features .frame-container video,
+  .flyleaf-features .frame-container::before,
+  .flyleaf-features .feature > img:not(.background) {
+    max-height: max(500px, 50vh);
+  }
+  .flyleaf .frame-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    width: fit-content;
+    height: fit-content;
+  }
+  .flyleaf .frame-container:has(.ipad) {
+    aspect-ratio: 1036/720;
+  }
+  .flyleaf .frame-container:has(.iphone) {
+    aspect-ratio: 1178/2556;
+  }
+  .flyleaf .frame-container::before {
+    content: "";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  .flyleaf .frame-container:has(.ipad)::before {
+    background-image: url("/images/projects/iPad Air 2020 Landscape.png"); 
+  }
+  .flyleaf .frame-container:has(.iphone)::before {
+    background-image: url("/images/projects/iPhone 15 Pro Portrait.png");
+  }
+  .flyleaf video.frame {
+    transform: scale(1);
+  }
+  .flyleaf video.frame.ipad {
+    aspect-ratio: 1036/720;
+    transform: scale(0.85);
+  }
+  .flyleaf video.frame.iphone {
+    aspect-ratio: 1178/2556;
+    transform: scale(0.92);
+    border-radius: 60px;
+  }
+  .flyleaf-features .feature .clip-top {
+    margin-top: -2.5rem !important;
+    object-position: top;
+  }
+  .flyleaf-features .feature .clip-bottom {
+    margin-bottom: -2.5rem !important;
+    object-position: bottom;
+  }
+  .flyleaf-features .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5em;
+    max-width: 700px;
+    position: relative;
+  }
+  .flyleaf-features .feature *:is(p, h2) {
+    text-align: right;
+    margin: 0 !important;
+  }
+  .flyleaf-features .feature:nth-child(odd) {
+    flex-direction: row-reverse;
+    background: linear-gradient(132deg, rgba(131,58,180,0.2) 15%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 84%);
+  }
+  .flyleaf-features .feature:nth-child(odd) *:is(p, h2) {
+    text-align: left;
+  }
+  .flyleaf-features .feature:nth-child(odd) > img {
+    object-position: right;
+  }
+
+  .flyleaf-features img.background {
+    position: absolute;
+    top: 0;
+    left: 1em;
+    height: calc(100%);
+    width: calc(100% - 2em);
+    object-fit: contain;
+    filter: saturate(0.5) brightness(0.1) invert(1);
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: -1;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .flyleaf-features .tag {
+    display: inline-block;
+    background-color: orange;
+    color: black;
+    padding: .1em .5em;
+    padding-right: .1em;
+    border-radius: 1em;
+    line-height: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.8em;
+  }
+  .flyleaf-features .tag::after {
+    content: "+";
+    display: inline-block;
+    border-radius: 50%;
+    background: black;
+    margin: .1em;
+    margin-left: .4em;
+    color: orange; 
+    width: 1em;
+    height: 1em;
+    line-height: 1em;
+    text-align: center;
+    aspect-ratio: 1/1;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .flyleaf-features img.background {
+      filter: brightness(0.1) invert(0);
+      mix-blend-mode: screen; 
+    }
+  }
+</style>
+
+<section class="flyleaf-features">
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-share.svg">
+      <h2>
+        Save articles from the web</h2>
+      <p>
+        Use the share sheet from anywhere to save interesting links to Flyleaf.
+        There is also an easy-to-use bookmarklet if you need it.
+      </p>
+    </div>
+    <img loading="lazy" alt class="" src="/images/projects/flyleaf-share-ios.png">
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <h2>
+        Read later without distractions
+      </h2>
+      <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg"> -->
+      <p>Flyleaf takes web pages and removes everything inessential, like popups, ads and trackers, to preserve your privacy and sanity.</p>
+    </div>
+    <img loading="lazy" alt src="/images/projects/flyleaf-reading-ipad-portrait.png">
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-book.svg">
+      <h2>
+        Turn websites into magazine articles
+      </h2>
+      <p>With Flyleaf's best-in-class book-like pagination, you can read articles page by page instead of scrolling vertically.</p>
+    </div>
+    <div class="frame-container">
+      <video class="frame ipad"
+        autoplay muted loop>
+        <source src="/images/projects/flyleaf-ipad-pagination-small.mp4"
+          type="video/mp4">
+        Video not available
+      </video>
+    </div>
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-gear.svg">
+      <h2>
+        Read it your way
+      </h2>
+      <p>
+        Flyleaf offers many ways to customize your reading experience,
+        such as color themes and in-depth typography settings.
+
+      </p>
+    </div>
+    <img loading="lazy" alt src="/images/projects/flyleaf-customization-ipad.png">
+  </div> 
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-icloud.svg">
+      <h2>
+        Syncs with iCloud
+      </h2>
+      <p>Flyleaf uses iCloud to securely sync articles and reading progress between
+        your devices – no additional signups needed.</p>
+    </div>
+    <img loading="lazy" alt class="clip-bottom" src="/images/projects/flyleaf-syncing-ios.png">
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-tag.svg">
+      <h2>
+        Stay organized with <span class="tag">tags</span></h2>
+      <p>You can add your own tags to articles to organize your library.</p>
+    </div>
+    <img loading="lazy" alt src="/images/projects/flyleaf-tags-mac.png">
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
+      <h2>
+        Discover what to read next
+      </h2>
+      <p>Once your list of saved articles grows, it's easy to loose track. Flyleaf
+        helps you to always discover fresh articles from your list.</p>
+    </div>
+    <div class="frame-container">
+      <video class="frame iphone"
+        autoplay muted loop>
+        <source src="/images/projects/flyleaf-discover-ios-small.mp4"
+          type="video/mp4">
+        Video not available
+      </video>
+    </div>
+  </div>
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-apple-logo.svg">
+      <h2>
+        Read anywhere you go
+      </h2>
+      <p>Enjoy fully native apps for iPhone, iPad, and macOS.</p>
+    </div>
+    <img loading="lazy" alt src="/images/projects/flyleaf-reading-combined.png">
+  </div>
+
+  <div class="feature"> 
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-rss.svg">
+      <h2>
+        Follow writers you like
+      </h2>
+      <p>Flyleaf lets you follow websites you like with one tap through the RSS
+        reader of your choice.</p>
+      </div>
+      <img loading="lazy" alt class="clip-top" src="/images/projects/flyleaf-endactions-ios-cut.png">
+  </div>
+
+  <div class="feature"> 
+    <div class="text-container">
+      <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg"> -->
+      <h2>
+        Read in full screen
+      </h2>
+      <p>
+        Remove all distractions and focus on the text by entering fullscreen mode.
+        You can still access all the controls you need through an intuitive gesture interface.
+      </p>
+    </div>
+    <img loading="lazy" alt class="" src="/images/projects/flyleaf-fullscreen-ipad.png">
+  </div>
+
+  <div class="feature"> 
+    <div class="text-container">
+      <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-rss.svg"> -->
+      <h2 class="beta">
+        Load articles from archive.today in one tap
+      </h2>
+      <p>
+        Sometimes, an article may not be available in your region or without logging in.
+        Flyleaf lets you effortlessly access many such articles from web archive service archive.today instead.
+      </p>
+    </div>
+    <img loading="lazy" alt class="" src="/images/projects/flyleaf-belowview-ios.png">
+  </div>
+</section>

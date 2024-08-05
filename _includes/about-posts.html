@@ -1,0 +1,23 @@
+<div class="blog-index" style="text-align: left; max-width: 600px; margin: 2rem auto; padding: 0 1rem">
+    {% assign index = true %}
+    {% for post in site.posts limit:5 %}
+        {% if page.lang == "de" and post.categories contains 'paintings-en' %}
+            {% continue %}
+        {% endif %}
+        {% if page.lang != "de" and post.lang != 'en' %}
+            {% continue %}
+        {% endif %}  
+            {% assign content = post.content %}
+            <article>
+                {% include article.html %}
+            </article>
+    {% endfor %}
+
+    <div class="centered" style="margin-top: 1rem;">
+        {% if page.lang == "de" %}
+            <a href="/blog" class="button secondary">Mehr Posts ansehen</a>
+            {% else %}
+            <a href="/en/blog" class="button secondary">See more posts</a>
+        {% endif %}
+    </div>    
+</div>
