@@ -370,9 +370,6 @@ footer {
 	color: var(--background);
 	transition: all .3s;
 	text-decoration: none;
-	@media only screen and (max-width: 769px) {
-		font-size: .8em;
-	}
 }
 .button:hover, a.button:hover {
 	transform: translate(.1em, .05em);

@@ -9,6 +9,8 @@
   .flyleaf-features h2 {
     font-size: 1.6em;
     line-height: 1.1;
+  }
+  .flyleaf-features * {
     text-wrap: balance;
   }
   .flyleaf-features h2.beta::after {
@@ -23,10 +25,25 @@
     font-size: 0.5em;
     vertical-align: middle;
   }
+
+  .flyleaf-features h2.comingsoon::after {
+    content: "Coming soon";
+    background-color: var(--color);
+    color: var(--background);
+    margin-left: .2em;
+    padding: 3px 10px;
+    border-radius: 0.5em;
+    line-height: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.5em;
+    vertical-align: middle;
+  }
   
   .flyleaf-features .feature {
     display: flex;
     justify-content: center;
+    position: relative;
     gap: 3rem;
     align-items: stretch;
     text-align: right; 
@@ -144,11 +161,24 @@
     flex-direction: row-reverse;
     background: linear-gradient(132deg, rgba(131,58,180,0.2) 15%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 84%);
   }
+  .flyleaf-features .feature:nth-child(4n-1) {
+    background: linear-gradient(312deg, rgba(131,58,180,0.2) 15%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 84%);
+  }
   .flyleaf-features .feature:nth-child(odd) *:is(p, h2) {
     text-align: left;
   }
   .flyleaf-features .feature:nth-child(odd) > img {
     object-position: right;
+  }
+  .flyleaf-features .feature:last-child::after {
+    content: "";
+    background: linear-gradient(180deg, rgba(131,58,180,0.05) 0%, rgba(131,58,180,0.0) 100%);
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 3rem;
   }
 
   .flyleaf-features img.background {
@@ -253,11 +283,29 @@
       <p>
         Flyleaf offers many ways to customize your reading experience,
         such as color themes and in-depth typography settings.
-
       </p>
     </div>
     <img loading="lazy" width="1000" height="728" alt src="/images/projects/flyleaf-customization-ipad.png">
   </div> 
+
+  <div class="feature">
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
+      <h2 class="comingsoon">
+        Discover what to read next
+      </h2>
+      <p>Once your list of saved articles grows, it's easy to loose track. Flyleaf
+        helps you to always discover fresh articles from your list.</p>
+    </div>
+    <div class="frame-container">
+      <video class="frame iphone"
+        autoplay muted playsinline loop>
+        <source src="/images/projects/flyleaf-discover-ios-small.mp4"
+          type="video/mp4">
+        Video not available
+      </video>
+    </div>
+  </div>
 
   <div class="feature">
     <div class="text-container">
@@ -283,50 +331,20 @@
 
   <div class="feature">
     <div class="text-container">
-      <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
-      <h2>
-        Discover what to read next
-      </h2>
-      <p>Once your list of saved articles grows, it's easy to loose track. Flyleaf
-        helps you to always discover fresh articles from your list.</p>
-    </div>
-    <div class="frame-container">
-      <video class="frame iphone"
-        autoplay muted playsinline loop>
-        <source src="/images/projects/flyleaf-discover-ios-small.mp4"
-          type="video/mp4">
-        Video not available
-      </video>
-    </div>
-  </div>
-
-  <div class="feature">
-    <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-apple-logo.svg">
       <h2>
         Read anywhere you go
       </h2>
-      <p>Enjoy fully native apps for iPhone, iPad, and macOS.</p>
+      <p>Enjoy fully native apps for iPhone, iPad, and macOS,
+        lovingly crafted by indie developer Max Melzer.</p>
     </div>
     <img loading="lazy" width="1500" height="943" alt src="/images/projects/flyleaf-reading-combined.png">
   </div>
 
   <div class="feature"> 
     <div class="text-container">
-      <img loading="lazy" class="background" alt src="/images/projects/sf-rss.svg">
-      <h2>
-        Follow writers you like
-      </h2>
-      <p>Flyleaf lets you follow websites you like with one tap through the RSS
-        reader of your choice.</p>
-      </div>
-      <img loading="lazy" width="643" height="750" alt class="clip-top" src="/images/projects/flyleaf-endactions-ios-cut.png">
-  </div>
-
-  <div class="feature"> 
-    <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg">
-      <h2>
+      <h2 class="comingsoon">
         Read in full screen
       </h2>
       <p>
@@ -340,7 +358,7 @@
   <div class="feature"> 
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-shippingbox.svg">
-      <h2 class="beta">
+      <h2 class="beta comingsoon">
         Load articles from archive.today in one tap
       </h2>
       <p>
@@ -364,4 +382,16 @@
     </div>
     <img loading="lazy" width="496" height="1000"  alt class="" src="/images/projects/flyleaf-siri-ios.png">
   </div>
+
+  <!-- <div class="feature"> 
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-rss.svg">
+      <h2>
+        Follow writers you like
+      </h2>
+      <p>Flyleaf lets you follow websites you like with one tap through the RSS
+        reader of your choice.</p>
+      </div>
+      <img loading="lazy" width="643" height="750" alt class="clip-top" src="/images/projects/flyleaf-endactions-ios-cut.png">
+  </div> -->
 </section>
