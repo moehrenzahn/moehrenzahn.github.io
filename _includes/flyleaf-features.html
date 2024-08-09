@@ -11,6 +11,18 @@
     line-height: 1.1;
     text-wrap: balance;
   }
+  .flyleaf-features h2.beta::after {
+    content: "beta";
+    background-color: rgba(66, 169, 203, .6);
+    margin-left: .2em;
+    padding: 3px 10px;
+    border-radius: 0.5em;
+    line-height: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.5em;
+    vertical-align: middle;
+  }
   
   .flyleaf-features .feature {
     display: flex;
@@ -87,6 +99,7 @@
     left: 0;
     right: 0;
     bottom: 0;
+    pointer-events: none;
   }
   .flyleaf .frame-container:has(.ipad)::before {
     background-image: url("/images/projects/iPad Air 2020 Landscape.png"); 
@@ -99,7 +112,7 @@
   }
   .flyleaf video.frame.ipad {
     aspect-ratio: 1036/720;
-    transform: scale(0.85);
+    transform: scale(0.86);
   }
   .flyleaf video.frame.iphone {
     aspect-ratio: 1178/2556;
@@ -119,7 +132,8 @@
     flex-direction: column;
     justify-content: center;
     gap: 0.5em;
-    max-width: 700px;
+    max-width: 600px;
+    text-wrap: balance;
     position: relative;
   }
   .flyleaf-features .feature *:is(p, h2) {
@@ -198,7 +212,7 @@
         There is also an easy-to-use bookmarklet if you need it.
       </p>
     </div>
-    <img loading="lazy" alt class="" src="/images/projects/flyleaf-share-ios.png">
+    <img loading="lazy" width="1036" height="1000" alt class="" src="/images/projects/flyleaf-share-ios.png">
   </div>
 
   <div class="feature">
@@ -209,7 +223,7 @@
       <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg"> -->
       <p>Flyleaf takes web pages and removes everything inessential, like popups, ads and trackers, to preserve your privacy and sanity.</p>
     </div>
-    <img loading="lazy" alt src="/images/projects/flyleaf-reading-ipad-portrait.png">
+    <img loading="lazy" width="873" height="1200" alt src="/images/projects/flyleaf-reading-ipad-portrait.png">
   </div>
 
   <div class="feature">
@@ -222,7 +236,7 @@
     </div>
     <div class="frame-container">
       <video class="frame ipad"
-        autoplay muted loop>
+        autoplay muted playsinline loop>
         <source src="/images/projects/flyleaf-ipad-pagination-small.mp4"
           type="video/mp4">
         Video not available
@@ -242,19 +256,19 @@
 
       </p>
     </div>
-    <img loading="lazy" alt src="/images/projects/flyleaf-customization-ipad.png">
+    <img loading="lazy" width="1000" height="728" alt src="/images/projects/flyleaf-customization-ipad.png">
   </div> 
 
   <div class="feature">
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-icloud.svg">
       <h2>
-        Syncs with iCloud
+        Sync with iCloud
       </h2>
       <p>Flyleaf uses iCloud to securely sync articles and reading progress between
         your devices – no additional signups needed.</p>
     </div>
-    <img loading="lazy" alt class="clip-bottom" src="/images/projects/flyleaf-syncing-ios.png">
+    <img loading="lazy" width="510" height="500" alt class="clip-bottom" src="/images/projects/flyleaf-syncing-ios.png">
   </div>
 
   <div class="feature">
@@ -264,7 +278,7 @@
         Stay organized with <span class="tag">tags</span></h2>
       <p>You can add your own tags to articles to organize your library.</p>
     </div>
-    <img loading="lazy" alt src="/images/projects/flyleaf-tags-mac.png">
+    <img loading="lazy" width="1000" height="796" alt src="/images/projects/flyleaf-tags-mac.png">
   </div>
 
   <div class="feature">
@@ -278,7 +292,7 @@
     </div>
     <div class="frame-container">
       <video class="frame iphone"
-        autoplay muted loop>
+        autoplay muted playsinline loop>
         <source src="/images/projects/flyleaf-discover-ios-small.mp4"
           type="video/mp4">
         Video not available
@@ -294,7 +308,7 @@
       </h2>
       <p>Enjoy fully native apps for iPhone, iPad, and macOS.</p>
     </div>
-    <img loading="lazy" alt src="/images/projects/flyleaf-reading-combined.png">
+    <img loading="lazy" width="1500" height="943" alt src="/images/projects/flyleaf-reading-combined.png">
   </div>
 
   <div class="feature"> 
@@ -306,12 +320,12 @@
       <p>Flyleaf lets you follow websites you like with one tap through the RSS
         reader of your choice.</p>
       </div>
-      <img loading="lazy" alt class="clip-top" src="/images/projects/flyleaf-endactions-ios-cut.png">
+      <img loading="lazy" width="643" height="750" alt class="clip-top" src="/images/projects/flyleaf-endactions-ios-cut.png">
   </div>
 
   <div class="feature"> 
     <div class="text-container">
-      <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg"> -->
+      <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg">
       <h2>
         Read in full screen
       </h2>
@@ -320,20 +334,34 @@
         You can still access all the controls you need through an intuitive gesture interface.
       </p>
     </div>
-    <img loading="lazy" alt class="" src="/images/projects/flyleaf-fullscreen-ipad.png">
+    <img loading="lazy" width="1200" height="873" alt class="" src="/images/projects/flyleaf-fullscreen-ipad.png">
   </div>
 
   <div class="feature"> 
     <div class="text-container">
-      <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-rss.svg"> -->
+      <img loading="lazy" class="background" alt src="/images/projects/sf-shippingbox.svg">
       <h2 class="beta">
         Load articles from archive.today in one tap
       </h2>
       <p>
         Sometimes, an article may not be available in your region or without logging in.
-        Flyleaf lets you effortlessly access many such articles from web archive service archive.today instead.
+        Flyleaf lets you effortlessly access many of them from a web archive instead.
       </p>
     </div>
-    <img loading="lazy" alt class="" src="/images/projects/flyleaf-belowview-ios.png">
+    <img loading="lazy" width="508" height="1000"  alt class="" src="/images/projects/flyleaf-belowview-ios.png">
+  </div>
+
+  <div class="feature"> 
+    <div class="text-container">
+      <img loading="lazy" class="background" alt src="/images/projects/sf-shortcuts.svg">
+      <h2>
+        Automate actions with Shortcuts and Siri
+      </h2>
+      <p>
+        Flyleaf offers a comprehensive list of Shortcuts actions, so you can add URLs via Siri
+        or build Shortcuts to automatically tag articles.
+      </p>
+    </div>
+    <img loading="lazy" width="496" height="1000"  alt class="" src="/images/projects/flyleaf-siri-ios.png">
   </div>
 </section>
