@@ -28,6 +28,7 @@
 
   .flyleaf-features h2.comingsoon::after {
     content: "Coming soon";
+    white-space: pre;
     background-color: var(--color);
     color: var(--background);
     margin-left: .2em;
@@ -159,7 +160,7 @@
   }
   .flyleaf-features .feature:nth-child(odd) {
     flex-direction: row-reverse;
-    background: linear-gradient(132deg, rgba(131,58,180,0.2) 15%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 84%);
+    background: linear-gradient(132deg, #843bb533 15%, #fd1d1d33 50%, #fcb04533 84%);
   }
   .flyleaf-features .feature:nth-child(4n-1) {
     background: linear-gradient(312deg, rgba(131,58,180,0.2) 15%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 84%);
@@ -352,7 +353,14 @@
         You can still access all the controls you need through an intuitive gesture interface.
       </p>
     </div>
-    <img loading="lazy" width="1200" height="873" alt class="" src="/images/projects/flyleaf-fullscreen-ipad.png">
+    <div class="frame-container">
+      <video class="frame ipad"
+        autoplay muted playsinline loop>
+        <source src="/images/projects/flyleaf-gesture-ipad-small.mp4"
+          type="video/mp4">
+        Video not available
+      </video>
+    </div>
   </div>
 
   <div class="feature"> 
