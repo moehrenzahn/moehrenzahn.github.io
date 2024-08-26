@@ -1,5 +1,6 @@
 ---
 layout: compress
+regenerate: true
 ---
 
 
@@ -23,7 +24,7 @@ layout: compress
     list-style: "♢ ";
   }
 
-  .flyleaf h1, .flyleaf h2, .flyleaf h3, .flyleaf h4 {
+  .flyleaf .flyleaf-stuff :is(h1, h2, h3, h4) {
     text-align: center;
     font-weight: 900;
     line-height: 1.2;
@@ -52,7 +53,9 @@ layout: compress
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}>
   <div id="main" class="flyleaf">
     <div id="content" style="max-width: 100%">
-      {{ content | expand_urls: root_url }}
+      <div class="flyleaf-stuff">
+        {{ content | expand_urls: root_url }}
+      </div>
     </div>
   </div>
   {% include footer.html %}

@@ -1,13 +1,13 @@
  {% if index %}
   <a class="index-link" rel="full-article" href="{{ post.url | prepend: site.baseurl }}">
     <div class="index-post">
-      <h1 class="entry-title
+      <h3 class="entry-title
                  index
                 {{post.categories | join: " "}}
                 {% if post.link %}linklog{% endif %}">
         {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}
-      </h1>
+      </h3>
       {% if post.file %}
         <div class="index-thumb-except">
           <img class="index-thumb"

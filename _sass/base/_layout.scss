@@ -25,7 +25,7 @@ body {
 
 article {
 	max-width: 100%;
-	h1.entry-title {
+	.entry-title {
 		margin-top: 0;
 		font-size: 1.35rem;
 		font-weight: bold;
@@ -224,11 +224,13 @@ ul, ol { ul, ol { margin-bottom: 0em; }}
 
 /*Index View*/
 
-h1.entry-title, .entry-ellipse {transition: border $transition-time;}
+h3.entry-title, .entry-ellipse {transition: border $transition-time;}
 
-h1.entry-title.index {
+h3.entry-title.index {
+	font-size: 1.35rem;
 	display: inline;
 	font-weight: bold;
+	margin: 0 !important;
 }
 
 .index-post {
@@ -269,7 +271,7 @@ h1.entry-title.index {
 	background-image: url("/images/flaticons/link.svg");
 }
 
-.entry-title.paintings:before {
+.entry-title.paintings:before, .entry-title.paintings-en:before {
 	background-image: url("/images/flaticons/painting.svg");
 }
 
@@ -299,7 +301,7 @@ a.index-link:hover {
 	display: flex;
 	gap: 1rem;
 	@media (min-width: 600px) {
-		gap: 2rem;
+		gap: 1.2rem;
 	}
 }
 .index-thumb {

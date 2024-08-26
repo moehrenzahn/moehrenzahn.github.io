@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacGeneration: Flyleaf : une nouvelle app de lecture différée affichant les articles en colonnes"
+title: "MacGeneration: Une nouvelle app de lecture différée affichant les articles en colonnes"
 categories: [Technologie, Flyleaf]
 lang: en
 link: https://www.macg.co/logiciels/2024/03/flyleaf-une-nouvelle-app-de-lecture-differee-affichant-les-articles-en-colonnes-142949

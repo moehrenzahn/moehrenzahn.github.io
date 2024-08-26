@@ -40,6 +40,20 @@
     font-size: 0.5em;
     vertical-align: middle;
   }
+  .flyleaf-features h2.new::after {
+    content: "new";
+    white-space: pre;
+    background-color: rgb(98, 189, 98);
+    color: var(--background);
+    margin-left: .2em;
+    padding: 3px 10px;
+    border-radius: 0.5em;
+    line-height: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.5em;
+    vertical-align: middle;
+  }
   
   .flyleaf-features .feature {
     display: flex;
@@ -131,6 +145,7 @@
   .flyleaf video.frame.ipad {
     aspect-ratio: 1036/720;
     transform: scale(0.86);
+    background-color: black;
   }
   .flyleaf video.frame.iphone {
     aspect-ratio: 1178/2556;
@@ -292,7 +307,7 @@
   <div class="feature">
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
-      <h2 class="comingsoon">
+      <h2 class="new">
         Discover what to read next
       </h2>
       <p>Once your list of saved articles grows, it's easy to loose track. Flyleaf
@@ -345,7 +360,7 @@
   <div class="feature"> 
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg">
-      <h2 class="comingsoon">
+      <h2 class="new">
         Read in full screen
       </h2>
       <p>
@@ -366,7 +381,7 @@
   <div class="feature"> 
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-shippingbox.svg">
-      <h2 class="beta comingsoon">
+      <h2 class="beta new">
         Load articles from archive.today in one tap
       </h2>
       <p>
