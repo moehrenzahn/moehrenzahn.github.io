@@ -117,6 +117,13 @@
 	#projects-container {
 		padding-left: var(--gutter-width);
 		padding-right: var(--gutter-width);
+		justify-content: center;
+		grid-template-columns: repeat(auto-fit, min(100%, 300px));
+  		gap: 40px;
+	}
+
+	.year {
+		display: none;
 	}
 }
 

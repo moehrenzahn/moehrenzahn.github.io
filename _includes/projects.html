@@ -89,7 +89,7 @@
                 <h2 class="project-title">{{ project.title }}</h2>
             {% endif %}
             <div class="category-container">
-                {{ project.date | date: "%Y" }}
+                <span class="year">{{ project.date | date: "%Y" }}</span>
                 {% for category in project.categories %}
                     <div class="category-pill">{{ category }}</div>
                 {% endfor %}
