@@ -4,6 +4,7 @@ title: "MacGeneration: Une nouvelle app de lecture différée affichant les arti
 categories: [Technologie, Flyleaf]
 lang: en
 link: https://www.macg.co/logiciels/2024/03/flyleaf-une-nouvelle-app-de-lecture-differee-affichant-les-articles-en-colonnes-142949
+image: /images/projects/flyleaf-mac-icon.png
 ---
 
 I was very happy to learn hat the first media appearance of my new app [Flyleaf](/project/flyleaf/) was in the french publication [MacGeneration](https://www.macg.co/logiciels/2024/03/flyleaf-une-nouvelle-app-de-lecture-differee-affichant-les-articles-en-colonnes-142949), in a short review by Félix Cattafesta.

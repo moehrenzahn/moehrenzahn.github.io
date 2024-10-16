@@ -2,6 +2,7 @@
 title: "Introducing Flyleaf, a \"read later\" app for iOS and macOS"
 categories: [Technologie, Flyleaf]
 lang: en
+image: /images/projects/flyleaf-mac-icon.png
 link: https://moehrenzahn.de/project/flyleaf/
 ---
 

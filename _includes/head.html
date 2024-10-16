@@ -3,24 +3,29 @@
 <head>
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" property="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <meta name="author" content="Max Melzer"/>
-  <meta name="og:site_name" content="moehrenzahn.de"/>
+  <meta name="description" property="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="og:description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" property="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}"/>
+  <meta name="og:title" property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="og:site_name" property="og:site_name" content="moehrenzahn.de"/>
+  <meta name="og:image" property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.image %}{{ page.image }}{% elsif page.file %}{{ page.file }}{% else %}{{ site.image }}{% endif %}" />
+  <meta name="og:url" property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta name="og:locale" property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}de_DE{% endif %}" />
+  <meta name="fediverse:creator" property="fediverse:creator" content="{% if page.fediverse %}{{ page.fediverse }}{% else %}{{ site.fediverse }}{% endif %}" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <meta name="HandheldFriendly" content="True"/>
-  <meta name="MobileOptimized" content="320"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="HandheldFriendly" property="HandheldFriendly" content="True"/>
+  <meta name="MobileOptimized" property="MobileOptimized" content="320"/>
+  <meta name="viewport" property="viewport" content="width=device-width, initial-scale=1"/>
 
-  <link href="{{ root_url }}/favicon.png" rel="icon"/>
-  <link href="/images/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="{{ site.url }}{{ site.baseurl }}/favicon.png" rel="icon"/>
+  <link href="{{ site.url }}{{ site.baseurl }}{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" rel="apple-touch-icon" />
   <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
   <script type="text/javascript" src="/js/bigfoot.min.js"></script>
   <script type="text/javascript" src="/js/utils.js"></script>

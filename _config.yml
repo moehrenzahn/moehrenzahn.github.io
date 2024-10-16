@@ -1,7 +1,10 @@
 # Site settings
 title: moehrenzahn.de
 email: hi@moehrenzahn.de
+image: /images/apple-touch-icon.png
 description: Weblog von Max Melzer
+author: Max Melzer
+fediverse: "@maxmelzer@mastodon.social"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.moehrenzahn.de" # the base hostname & protocol for your site
 permalink: :title/

@@ -1,5 +1,6 @@
 ---
 title: Why I built my own read-later app
+image: /images/projects/flyleaf-mac-icon.png
 lang: en
 ---
 
