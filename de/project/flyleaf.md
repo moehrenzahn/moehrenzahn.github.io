@@ -1,6 +1,6 @@
 ---
 layout: flyleaf
-title: Flyleaf für iPhone, iPad and Mac
+title: Flyleaf für iPhone, iPad und Mac
 lang: de
 description: Später-Lesen-App mit Blättern im Buchstil
 image: /images/projects/flyleaf-mac-icon.png
