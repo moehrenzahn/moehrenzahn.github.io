@@ -28,7 +28,7 @@ defaults:
       type: projects
     values:
       layout: project
-      permalink: /project/:title/
+      permalink: /projects/:title/
       layout-width: 900px
   -
     scope:

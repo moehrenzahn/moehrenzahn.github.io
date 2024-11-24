@@ -24,7 +24,11 @@
 <div class="blog-index">
     {% assign index = true %}
     {% assign flyleaf_posts = site.posts | where_exp: "item", "item.categories contains 'Flyleaf'" %}
-    {% assign posts = flyleaf_posts | where_exp: "item", "page.lang == item.lang" %}
+    {% if page.lang == 'de' %}
+      {% assign posts = flyleaf_posts %}
+		{% else %}
+      {% assign posts = flyleaf_posts | where_exp: "item", "page.lang == item.lang" %}
+		{% endif %}
     {% for post in posts | limit:6 %}
         {% assign content = post.content %}
         <article>

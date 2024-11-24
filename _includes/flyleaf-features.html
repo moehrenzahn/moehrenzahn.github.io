@@ -41,7 +41,6 @@
     vertical-align: middle;
   }
   .flyleaf-features h2.new::after {
-    content: "new";
     white-space: pre;
     background-color: rgb(98, 189, 98);
     color: var(--background);
@@ -53,6 +52,11 @@
     letter-spacing: 0.05em;
     font-size: 0.5em;
     vertical-align: middle;
+    {% if page.lang == 'de' %}
+		content: "neu";
+		{% else %}
+		content: "new";
+		{% endif %}
   }
   
   .flyleaf-features .feature {
@@ -252,10 +256,20 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-share.svg">
       <h2>
-        Save articles from the web</h2>
+        {% if page.lang == 'de' %}
+        Artikel aus dem Internet speichern
+        {% else %}
+        Save articles from the web
+        {% endif %}
+      </h2>
       <p>
+        {% if page.lang == 'de' %}
+        Mit dem Share Sheet kannst du von überall interessante Links in Flyleaf speichern. 
+        Es gibt auch ein einfaches Bookmarklet für maximale Flexibilität.
+        {% else %}
         Use the share sheet from anywhere to save interesting links to Flyleaf.
         There is also an easy-to-use bookmarklet if you need it.
+        {% endif %}
       </p>
     </div>
     <img loading="lazy" width="1036" height="1000" alt class="" src="/images/projects/flyleaf-share-ios.png">
@@ -264,10 +278,20 @@
   <div class="feature">
     <div class="text-container">
       <h2>
+        {% if page.lang == 'de' %}
+        Später lesen ohne Ablenkungen
+        {% else %}
         Read later without distractions
+        {% endif %}
       </h2>
       <!-- <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg"> -->
-      <p>Flyleaf takes web pages and removes everything inessential, like popups, ads and trackers, to preserve your privacy and sanity.</p>
+      <p>
+        {% if page.lang == 'de' %}
+        Flyleaf speichert Webseiten und entfernt alles Unwichtige, wie Popups, Werbung und Tracker. So schonst du deine Privatsphäre und deinen Verstand.
+        {% else %}
+        Flyleaf takes web pages and removes everything inessential, like popups, ads and trackers, to preserve your privacy and sanity.
+        {% endif %}
+      </p>
     </div>
     <img loading="lazy" width="873" height="1200" alt src="/images/projects/flyleaf-reading-ipad-portrait.png">
   </div>
@@ -276,16 +300,31 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-book.svg">
       <h2>
+        {% if page.lang == 'de' %}
+        Webseiten wie eine Zeitschrift lesen
+        {% else %}
         Turn websites into magazine articles
+        {% endif %}
+        
       </h2>
-      <p>With Flyleaf's best-in-class book-like pagination, you can read articles page by page instead of scrolling vertically.</p>
+      <p>
+        {% if page.lang == 'de' %}
+        Mit der Blätterfunktion kannst du Artikel in Flyleaf Seite für Seite lesen, anstatt immer vertikal zu scrollen.
+        {% else %}
+        With Flyleaf's best-in-class book-like pagination, you can read articles page by page instead of scrolling vertically.
+        {% endif %}
+      </p>
     </div>
     <div class="frame-container">
       <video class="frame ipad"
         autoplay muted playsinline loop>
         <source src="/images/projects/flyleaf-ipad-pagination-small.mp4"
           type="video/mp4">
-        Video not available
+          {% if page.lang == 'de' %}
+          Video nicht verfügbar
+          {% else %}
+          Video not available
+          {% endif %}
       </video>
     </div>
   </div>
@@ -294,11 +333,21 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-gear.svg">
       <h2>
+        {% if page.lang == 'de' %}
+        Lies wie du willst
+        {% else %}
         Read it your way
+        {% endif %}
+        
       </h2>
       <p>
+        {% if page.lang == 'de' %}
+        Flyleaf bietet zahlreiche Möglichkeiten, dein Leseerlebnis anzupassen,
+        z.B. alternative Farbdesigns und tiefgreifende Typografieanpassungen.
+        {% else %}
         Flyleaf offers many ways to customize your reading experience,
         such as color themes and in-depth typography settings.
+        {% endif %}
       </p>
     </div>
     <img loading="lazy" width="1000" height="728" alt src="/images/projects/flyleaf-customization-ipad.png">
@@ -308,17 +357,32 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
       <h2 class="new">
+        {% if page.lang == 'de' %}
+        Entdecke was du als Nächstes lesen möchtest 
+        {% else %}
         Discover what to read next
+        {% endif %}
       </h2>
-      <p>Once your list of saved articles grows, it's easy to loose track. Flyleaf
-        helps you to always discover fresh articles from your list.</p>
+      <p>
+        {% if page.lang == 'de' %}
+        Wenn die Artikelliste wächst, kann man leicht den Überblick verlieren.
+        Flyleaf hilft dir, immer was Neues in deiner Liste zu entdecken.
+        {% else %}
+        Once your list of saved articles grows, it's easy to loose track. Flyleaf
+        helps you to always discover fresh articles from your list.
+        {% endif %}
+      </p>
     </div>
     <div class="frame-container">
       <video class="frame iphone"
         autoplay muted playsinline loop>
         <source src="/images/projects/flyleaf-discover-ios-small.mp4"
           type="video/mp4">
-        Video not available
+          {% if page.lang == 'de' %}
+          Video nicht verfügbar
+          {% else %}
+          Video not available
+          {% endif %}
       </video>
     </div>
   </div>
@@ -327,10 +391,21 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-icloud.svg">
       <h2>
+        {% if page.lang == 'de' %}
+        Synchronisiere mit iCloud
+        {% else %}
         Sync with iCloud
+        {% endif %}
       </h2>
-      <p>Flyleaf uses iCloud to securely sync articles and reading progress between
-        your devices – no additional signups needed.</p>
+      <p>
+        {% if page.lang == 'de' %}
+        Flyleaf nutzt iCloud, um Artikel und Lesefortschritt sicher zwischen deinen
+        Geräten zu synchronisieren - ohne zusätzliche Accounts.
+        {% else %}
+        Flyleaf uses iCloud to securely sync articles and reading progress between
+        your devices – no additional signups needed.
+        {% endif %}
+      </p>
     </div>
     <img loading="lazy" width="510" height="500" alt class="clip-bottom" src="/images/projects/flyleaf-syncing-ios.png">
   </div>
@@ -339,8 +414,19 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-tag.svg">
       <h2>
-        Stay organized with <span class="tag">tags</span></h2>
-      <p>You can add your own tags to articles to organize your library.</p>
+        {% if page.lang == 'de' %}
+        Bleib organisiert mit <span class="tag">Tags</span>
+        {% else %}
+        Stay organized with <span class="tag">tags</span>
+        {% endif %}
+      </h2>
+      <p>
+        {% if page.lang == 'de' %}
+        Du kannst deine eigenen Schlagwörter zu Artikeln hinzufügen, um deine Bibliothek zu organisieren.
+        {% else %}
+        You can add your own tags to articles to organize your library.
+        {% endif %}
+      </p>
     </div>
     <img loading="lazy" width="1000" height="796" alt src="/images/projects/flyleaf-tags-mac.png">
   </div>
@@ -349,10 +435,21 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-apple-logo.svg">
       <h2>
+        {% if page.lang == 'de' %}
+        Lies wo immer du bist
+        {% else %}
         Read anywhere you go
+        {% endif %}
       </h2>
-      <p>Enjoy fully native apps for iPhone, iPad, and macOS,
-        lovingly crafted by indie developer Max Melzer.</p>
+      <p>
+        {% if page.lang == 'de' %}
+        Genieße die Vorteile von komplett nativen Apps für iPhone, iPad und macOS,
+        liebevoll gestaltet von Indie-Entwickler Max Melzer.
+        {% else %}
+        Enjoy fully native apps for iPhone, iPad, and macOS,
+        lovingly crafted by indie developer Max Melzer.
+        {% endif %}
+      </p>
     </div>
     <img loading="lazy" width="1500" height="943" alt src="/images/projects/flyleaf-reading-combined.png">
   </div>
@@ -361,11 +458,20 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg">
       <h2 class="new">
+        {% if page.lang == 'de' %}
+        Lies im Vollbild
+        {% else %}
         Read in full screen
+        {% endif %}
       </h2>
       <p>
+        {% if page.lang == 'de' %}
+        Verbanne alle Ablenkungen und konzentriere dich ganz auf den Text, indem du den Vollbildmodus aktivierst.
+        Über die intuitive Gestensteuerung beiben alle Funktionen in Reichweite.
+        {% else %}
         Remove all distractions and focus on the text by entering fullscreen mode.
         You can still access all the controls you need through an intuitive gesture interface.
+        {% endif %}
       </p>
     </div>
     <div class="frame-container">
@@ -373,7 +479,11 @@
         autoplay muted playsinline loop>
         <source src="/images/projects/flyleaf-gesture-ipad-small.mp4"
           type="video/mp4">
-        Video not available
+          {% if page.lang == 'de' %}
+          Video nicht verfügbar
+          {% else %}
+          Video not available
+          {% endif %}
       </video>
     </div>
   </div>
@@ -382,11 +492,20 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-shippingbox.svg">
       <h2 class="beta new">
+        {% if page.lang == 'de' %}
+        Lade Artikel einfach von archive.today
+        {% else %}
         Load articles from archive.today in one tap
+        {% endif %}
       </h2>
       <p>
+        {% if page.lang == 'de' %}
+        Manchmal kommt es vor, dass ein Artikel in deiner Region nicht verfügbar ist oder ein Login erfordert.
+        Mit Flyleaf kannst du viele dieser Artikel stattdessen mühelos aus einem Webarchiv abrufen.
+        {% else %}
         Sometimes, an article may not be available in your region or without logging in.
         Flyleaf lets you effortlessly access many of them from a web archive instead.
+        {% endif %}
       </p>
     </div>
     <img loading="lazy" width="508" height="1000"  alt class="" src="/images/projects/flyleaf-belowview-ios.png">
@@ -396,11 +515,21 @@
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-shortcuts.svg">
       <h2>
+        {% if page.lang == 'de' %}
+        Automatisiere Aktionen mit Shortcuts und Siri
+        {% else %}
         Automate actions with Shortcuts and Siri
+        {% endif %}
       </h2>
       <p>
+        {% if page.lang == 'de' %}
+        Flyleaf bietet Systemintegrationen, mit denen du z.B. über Siri Links hinzufügen kannst.
+        Du kannst außerdem deine eigenen Kurzbefehle erstellen,
+        um z.B. Artikel automatisch zu Verschlagworten.
+        {% else %}
         Flyleaf offers a comprehensive list of Shortcuts actions, so you can add URLs via Siri
         or build Shortcuts to automatically tag articles.
+        {% endif %}
       </p>
     </div>
     <img loading="lazy" width="496" height="1000"  alt class="" src="/images/projects/flyleaf-siri-ios.png">

@@ -68,15 +68,14 @@
 
 <div id="projects-container">
     {% for project in projects %}
+        {% if page.lang != project.lang %}
+            {% continue %}
+        {% endif %}
         {% capture defaultImage %}
             /images/projects/{{ project.slug }}.jpg
         {% endcapture %}
 
-        {% if project.content != "" and page.lang != 'en' %}
-            <a class="project-link" title="{{ project.title }}" href="{{ project.url }}">
-        {% else %}
-            <a class="project-link" title="{{ project.title }}" href="{{ project.link }}" target="_blank">
-        {% endif %}
+        <a class="project-link" title="{{ project.title }}" href="{{ project.link }}" target="_blank">
         <div class="project-preview">
             <div class="project-img">
                 <img

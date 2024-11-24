@@ -55,7 +55,7 @@ echo "<html><span style='font-family:-apple-system;font-size:11pt;color:white'>N
 
 {% endhighlight %}
 
-Als nächstes hier noch der Code für das dazu korrespondierende action script, welches Anweisungen enthält für den Fall, dass Einträge in unserem Menüleistenkalender angeklickt werden ([GitHub Gist](https://gist.github.com/moehrenzahn/d503dd0c714e8eae3676)):
+Als Nächstes hier noch der Code für das dazu korrespondierende action script, welches Anweisungen enthält für den Fall, dass Einträge in unserem Menüleistenkalender angeklickt werden ([GitHub Gist](https://gist.github.com/moehrenzahn/d503dd0c714e8eae3676)):
 
 {% highlight bash %}
 

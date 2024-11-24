@@ -35,7 +35,7 @@ Ich werde heute zunächst einen Begriff klären, damit wir über die gleiche Sac
 
 Dann werde ich kurz von mir und meiner Programmier-Geschichte als Quereinsteiger erzählen.
 
-Als nächstes stelle ich euch ganz kurz meine Philosophie zum "Warum" der Patterns vor.
+Als Nächstes stelle ich euch ganz kurz meine Philosophie zum "Warum" der Patterns vor.
 
 Und dann möchte ich zwei ganz unterschiedliche klassische Techniken am Beispiel vorstellen. Ich zeige euch nicht nur, wie diese Techniken ganz praktisch funktionieren, sondern erkläre sie auch aus Sicht eines Quereinsteigers. Und ich erkläre auch die entscheidenden Hintergründe und Haken, die Internet-Tutorials gerne mal auslassen.
 

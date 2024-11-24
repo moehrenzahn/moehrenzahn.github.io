@@ -49,7 +49,11 @@
 <section class="flyleaf-quotes">
   <a href="https://creativerly.com/read-articles-like-a-book-with-flyleaf/">
     <blockquote>
-      The pagination interaction in combination with a lovely interface makes Flyleaf an incredibly beautiful read-it-later app.
+      {% if page.lang == 'de' %}
+        Das seitenweise Blättern in Kombination mit einer ansprechenden UI macht Flyleaf zu einer unglaublich schönen "Später lesen"-App.
+      {% else %}
+        The pagination interaction in combination with a lovely interface makes Flyleaf an incredibly beautiful read-it-later app.
+      {% endif %}
       <footer>Philipp Temmel, <cite>creativerly</cite></footer>
     </blockquote>
   </a>
@@ -61,7 +65,12 @@
   </a> -->
   <a href="https://lifehacker.com/tech/flyleaf-is-the-best-read-it-later-app-for-apple-users">
     <blockquote>
-      Flyleaf Is the Best New ‘Read-It-Later’ App for Apple Users
+      {% if page.lang == 'de' %}
+        Flyleaf ist die beste neue „Read-It-Later“-App für Apple-User
+      {% else %}
+        Flyleaf Is the Best New ‘Read-It-Later’ App for Apple Users
+      {% endif %}
+      
       <footer>Justin Pot, <cite>LifeHacker</cite></footer>
     </blockquote>
   </a>

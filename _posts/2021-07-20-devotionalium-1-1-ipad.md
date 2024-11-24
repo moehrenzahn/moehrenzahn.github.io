@@ -14,7 +14,7 @@ Besonders interessant war für mich die Umsetzung des iPad-Layouts mit Seitenlei
 
 ![Screenshot vom Devotionalium für iPad, der die neue Seitenleiste zeigt]({% link /images/devotionalium-ipad/2.jpg %})
 
-## Was kommt als nächstes?
+## Was kommt als Nächstes?
 
 Die Entwicklung von Devotionalium für iOS war für mich ein Experiment, um SwiftUI auszuprobieren und um *endlich mal* eine eigene App im App Store zu haben. 
 Dieses Ziel habe ich erreicht.

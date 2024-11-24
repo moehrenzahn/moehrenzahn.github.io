@@ -24,7 +24,7 @@ Das Schlimmste sei für ihn wenn wir sagen würden: 'Berger hat ein bisschen üb
 
 ## Nicht nur Wahr oder Falsch
 
-Als nächstes ist Prof. Marco Frenschkowski an der Reihe. Dieser beginnt zunächst unverkrampft und geradezu humorvoll seine Hochachtung für Klaus Berger auszudrücken, den er "einen der spannendsten Theologen der Gegenwart" nennt. Er habe viel von ihm gelesen und dabei "viel gelernt, sich irritieren lassen, noch mehr gelernt und sich noch mehr irritieren lassen."
+Als Nächstes ist Prof. Marco Frenschkowski an der Reihe. Dieser beginnt zunächst unverkrampft und geradezu humorvoll seine Hochachtung für Klaus Berger auszudrücken, den er "einen der spannendsten Theologen der Gegenwart" nennt. Er habe viel von ihm gelesen und dabei "viel gelernt, sich irritieren lassen, noch mehr gelernt und sich noch mehr irritieren lassen."
 
 Man spürt Frenschkowski ab, dass er großen Respekt vor diesem alten Theologen hat, der so lange eine so große Rolle für die neutestamentliche Wissenschaft gespielt hat. Aber er geht auch hart ins Gericht mit Bergers Buch und dessen Thesen. Sein Hauptkritikpunkt ist, dass die Positionen, die Berger so polemisch verurteilt, häufig entweder "pauschales Paradigma" seien oder "antiquierte Positionen, die ich noch nie von jemandem vertreten gesehen habe." Berger führe "Scheinargumentationen" gegen Pappkameraden, die er selbst aufstelle um sie dann wieder niederzumachen.
 
