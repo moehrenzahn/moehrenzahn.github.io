@@ -6,7 +6,7 @@ title: Impressum
 Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Maximilian Melzer  
-Geibelstraße 64  
+Gräfestraße 18  
 04129 Leipzig  
 <max@moehrenzahn.de>
 
