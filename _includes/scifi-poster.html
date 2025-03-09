@@ -3,7 +3,8 @@
 {% for poster in site.data.scifi-poster %}
     <div class="poster-container" style="">
         <a href="{{ poster.file }}" class="poster">
-            <img src="{{ poster.file-preview }}" alt="{{ poster.title }}"/>
+            <img src="{{ poster.file-preview }}"
+                 alt="{{ poster.title }}"/>
         </a>
         <h2 class="poster-title" style="margin-bottom: 0">{{ poster.title }}</h2>
 

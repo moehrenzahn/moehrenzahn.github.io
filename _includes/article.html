@@ -4,13 +4,14 @@
       <h3 class="entry-title
                  index
                 {{post.categories | join: " "}}
-                {% if post.link %}linklog{% endif %}">
+                {% if post.link %}linklog{% endif %}"
+                style="view-transition-name: title-{{ post.slug}};">
         {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% if post.draft == true %}<span class="dot">(Entwurf)</span>{% endif %}
       </h3>
       {% if post.file %}
         <div class="index-thumb-except">
-          <img class="index-thumb"
+          <img class="index-thumb" style="view-transition-name: img-{{ post.slug}};"
               src="{{ post.file | replace: 'paintings/', 'paintings/thumbnail/' }}"
               alt=""
               loading="lazy"
@@ -33,7 +34,8 @@
 {% else %}
   <div class="entry-content">
     {% if page.link %}
-      <h1 class="entry-title linklog">
+      <h1 class="entry-title linklog"
+          style="view-transition-name: title-{{ page.slug}};">
         {% if page.published == false %}
           Entwurf<span class="dot">•</span>
         {% endif %}
@@ -42,7 +44,8 @@
         </a>
       </h1>
     {% else %}
-      <h1 class="entry-title">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      <h1 class="entry-title"
+          style="view-transition-name: title-{{ page.slug}};">{% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
     {% endif %}
     {{ content }}
   </div>

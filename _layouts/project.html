@@ -12,7 +12,8 @@ single: true
 
 <article class="hentry project" role="article">
 
-  <h1 class="entry-title">
+  <h1 class="entry-title"
+      style="view-transition-name: title-{{ project.slug}};">
     {% if project.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ project.title | markdownify | remove: "<p>" | remove: "</p>" }}
   </h1>
 

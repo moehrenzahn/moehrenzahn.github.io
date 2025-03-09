@@ -40,7 +40,8 @@
     }
 </style>
 
-<h1 class="entry-title">
+<h1 class="entry-title" 
+    style="view-transition-name: title-{{ page.slug}};">
     {% if page.published == false %}Entwurf<span class="dot">•</span>{% endif %}{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
 </h1>
 
@@ -53,6 +54,7 @@
 <div class="painting-container">
     <img
         class="painting-img"
+        style="view-transition-name: img-{{ page.slug}};"
         src="{{ painting.file }}"
         alt="{{ painting.title }}" />
     <img
