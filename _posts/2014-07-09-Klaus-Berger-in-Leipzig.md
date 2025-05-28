@@ -1,7 +1,7 @@
 ---
 title: '"Berger hat ein bisschen übertrieben"'
 categories: [Theologie]
-slug:  'Ein Diskussionsabend zum Buch *Die Bibelfälscher*'
+summary:  'Ein Diskussionsabend zum Buch *Die Bibelfälscher*'
 ---
 
 [Klaus Berger](http://de.wikipedia.org/wiki/Klaus_Berger_(Theologe)) ist vermutlich einer der umstrittensten Theologen unserer Zeit. In den 70er- und 80er-Jahren wurde er besonders für seine Arbeit zur Formgeschichte des Neuen Testaments bekannt. Zunächst lehrte er in München katholische Theologie, konvertierte dann aber und wurde 1974 Professor für Neues Testament in Heidelberg.

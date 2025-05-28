@@ -1,7 +1,7 @@
 ---
 title: Tomb Raider und Vorhersehbare Systeme
 categories: [Technologie]
-slug: … und warum wir mehr davon gebrauchen könnten
+summary: … und warum wir mehr davon gebrauchen könnten
 ---
 
 In diesem Artikel möchte ich am Beispiel von *Tomb Raider* erklären, was Vorhersehbare Systeme sind und warum wir wieder mehr davon gebrauchen könnten.

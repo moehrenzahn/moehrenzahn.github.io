@@ -1,6 +1,6 @@
 ---
 title: 'Apple Watch'
-slug: The Apple Watch does not solve Smart Watches
+summary: The Apple Watch does not solve Smart Watches
 lang: en
 ---
 

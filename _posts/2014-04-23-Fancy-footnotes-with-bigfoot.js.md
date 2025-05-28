@@ -2,7 +2,7 @@
 title: 'Fancy footnotes with bigfoot.js'
 link: http://www.bigfootjs.com
 lang: en
-slug: A jQuery plugin for pop-up footnotes
+summary: A jQuery plugin for pop-up footnotes
 ---
 
 > Footnotes on the web are a pain in the ass. You click on a tiny number, get transported somewhere near the bottom of the page, find the footnote you were looking for, and click on a link to go back to where you were on the page.

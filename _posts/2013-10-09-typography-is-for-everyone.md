@@ -2,7 +2,7 @@
 title: Typography is for everyone
 link: http://practicaltypography.com/
 lang: en
-slug: 'Matthew Butterick’s Practical typography'
+summary: 'Matthew Butterick’s Practical typography'
 ---
 
 I just finished reading something that had been sitting in my Instapaper queue for a long time: [Matthew Butterick’s *Practical typography*](http://practicaltypography.com/). The foreword is written by famous german typographer [Erik Spiekermann](http://spiekermann.com/en/), so you know there is some authority behind this book.

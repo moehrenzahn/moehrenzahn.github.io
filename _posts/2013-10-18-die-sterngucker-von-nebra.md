@@ -1,7 +1,7 @@
 ---
 title: Die Sterngucker von Nebra
 categories: [Theologie, bestof]
-slug: Zur Bedeutung der Himmelsscheibe von Nebra
+summary: Zur Bedeutung der Himmelsscheibe von Nebra
 ---
 
 Die Gestirne haben schon immer die Menschen fasziniert. Der Blick in den Sternenhimmel vermittelt uns den Eindruck, unendlich kleine Wesen in einem unermesslich großen Weltenraum zu sein. Ein Symbol dieser uralten Faszination ist jetzt [zum UNESCO-Weltkulturerbe ernannt worden](http://www.unesco.org/new/en/communication-and-information/flagship-project-activities/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-6/nebra-sky-disc/): Die [Himmelsscheibe von Nebra](http://de.wikipedia.org/wiki/Himmelsscheibe_von_Nebra).

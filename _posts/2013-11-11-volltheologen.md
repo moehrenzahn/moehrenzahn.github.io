@@ -2,7 +2,7 @@
 title: Volltheologen
 categories: [Theologie]
 comments: true
-slug: Können wir uns einfach darauf einigen, dieses Wort nicht mehr zu verwenden?
+summary: Können wir uns einfach darauf einigen, dieses Wort nicht mehr zu verwenden?
 ---
 
 Das Verhältnis in der Theologie zwischen denen, die auf Lehramt studieren und denen, die ein Diplom oder Kirchliches Examen anstreben ist nicht immer einfach. Man erwischt sich dabei, "die Anderen" nicht ganz ernst zu nehmen. Ein typisches Symptom: Die fragwürdige Fremdbezeichnung "Volltheologen." 

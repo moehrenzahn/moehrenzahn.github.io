@@ -1,7 +1,7 @@
 ---
 title: 'Christian Möllers Einführung in die Praktische Theologie'
 categories: [Theologie]
-slug: Eine Buchbesprechung
+summary: Eine Buchbesprechung
 ---
 
 Christian Möllers *Einführung in die Praktische Theologie*, erschienen 2004,[^1] ist eines der neueren Überblickswerke über die Praktische Theologie.

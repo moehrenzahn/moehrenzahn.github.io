@@ -1,7 +1,7 @@
 ---
 title: 'Warum reden Theologen so kompliziert?'
 categories: [Theologie]
-slug: Für eine einfachere Sprache im theologischen Diskurs
+summary: Für eine einfachere Sprache im theologischen Diskurs
 ---
 
 Ich hatte vor einiger Zeit auf theologiestudierende.de [einen Artikel zu Leichter Sprache](http://www.theologiestudierende.de/2014/02/09/leichte-sprache/) geschrieben. Dabei stieß ich auf die Frage: Warum reden wir Theologen so kompliziert?

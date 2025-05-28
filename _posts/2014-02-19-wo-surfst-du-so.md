@@ -1,6 +1,6 @@
 ---
 title: 'Wo surfst du so?'
-slug: Eine Online-Horizonterweiterung
+summary: Eine Online-Horizonterweiterung
 categories: [Technologie, Theologie]
 ---
 

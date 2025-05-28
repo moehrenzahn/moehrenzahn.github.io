@@ -1,7 +1,7 @@
 ---
 title: Der kostenlose Butler in der Hosentasche
 categories: [Technologie]
-slug: 'Loyalität gibt’s nicht umsonst'
+summary: 'Loyalität gibt’s nicht umsonst'
 ---
 
 Wenn man an die [NSA-Affäre](http://de.wikipedia.org/wiki/Überwachungs-_und_Spionageaffäre_2013) denkt, kann man sich schon fragen, wem man denn noch Vertrauen kann. Das trifft besonders in unserer Zeit zu, in der fast jeder und jede von uns ein voll funktionsfähiges Spionagegerät in unserer Tasche trägt, dem wir so ziemlich alles, was wir wissen und tun, anvertrauen.

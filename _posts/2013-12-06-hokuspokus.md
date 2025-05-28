@@ -1,7 +1,7 @@
 ---
 title: Tradition und Hokuspokus
 categories: [Theologie]
-slug: Was Richard Dawkins mit Liturgie zu tun hat
+summary: Was Richard Dawkins mit Liturgie zu tun hat
 ---
 
 Der Atheist [Richard Dawkins](http://de.wikipedia.org/wiki/Richard_Dawkins), der zwar kein besonders begabter Philosoph, dafür ein ausgezeichneter Biologe ist, ist unter anderem bekannt für seine populärwissenschaftlichen Bücher und die Prägung des Begriffs [Mem](http://de.wikipedia.org/wiki/Mem).

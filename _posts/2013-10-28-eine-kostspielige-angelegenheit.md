@@ -1,7 +1,7 @@
 ---
 title: Eine kostspielige Angelegenheit
 categories: [Theologie]
-slug: Sollten wir Tebartz-van Elst dankbar sein?
+summary: Sollten wir Tebartz-van Elst dankbar sein?
 ---
 
 Die letzten Tage geisterte der katholische Bischof Tebartz-van Elst ununterbrochen durch die Nachrichten. Sein schickes, neu gebautes Diözesanzentrum in Limburg hat nun schon immerhin 31 Millionen Euro an Kirchengeldern verschlungen.

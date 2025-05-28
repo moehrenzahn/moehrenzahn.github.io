@@ -1,7 +1,7 @@
 ---
 title: 'Sichere Social-Media-Links'
 categories: [Technologie]
-slug: Facebook- und Twitter-Buttons via statischer Links
+summary: Facebook- und Twitter-Buttons via statischer Links
 ---
 
 Wer auf meinem Blog unter einen Artikel schaut, wird dort unter "Teilen" Links zu Faceboook, Twitter und Google+ finden. Das kennt man ja von überall aus dem Internet. Sie dienen als eine freundliche Erinnerung, gute Artikel weiterzuempfehlen. Außerdem machen sie Teilen und Liken sehr bequem – mit ein bis zwei Klicks landet ein Artikel in der eigenen Timeline.

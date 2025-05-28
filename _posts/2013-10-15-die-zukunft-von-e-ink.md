@@ -1,7 +1,7 @@
 ---
 title: Die Zukunft des elektronischen Papiers
 categories: [Technologie]
-slug: Vor- und Nachteile von E-Ink
+summary: Vor- und Nachteile von E-Ink
 ---
 
 Schon so manches mal habe ich auf Amazon einen kleinen Kindle auf meinen Wunschzettel gesetzt, weil mir das Display so gut gefällt: Das Zauberwort heißt E-Ink.

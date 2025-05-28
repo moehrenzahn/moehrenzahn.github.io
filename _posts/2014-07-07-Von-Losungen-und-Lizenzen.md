@@ -1,7 +1,7 @@
 ---
 title: 'Von Losungen und Lizenzen'
 categories: [Technologie, Theologie]
-slug: Warum das neue Lizenzmodell der Herrnhuter den Losungen schaden wird
+summary: Warum das neue Lizenzmodell der Herrnhuter den Losungen schaden wird
 ---
 
 Seit sechs Monaten gibt es jetzt schon die offizielle Losungen-App der Herrnhuter Brüder-Unität für iOS und Android-Geräte.

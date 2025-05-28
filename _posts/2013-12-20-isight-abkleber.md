@@ -1,7 +1,7 @@
 ---
 title: Hatten Webcam-Abkleber die ganze Zeit recht?
 categories: [Technologie]
-slug: Ich bin dann mal weg, mir einen Aluhut basteln
+summary: Ich bin dann mal weg, mir einen Aluhut basteln
 ---
 
 Ich habe mich in der Vergangenheit immer ein bisschen lustig gemacht über Leute, die ihre Webcam am Laptop großzügig abkleben – Paranoia durch Unwissenheit. "Die LED ist mit der Kamera in Hardware verbunden, die eine kann nicht ohne die andere angehen", würde ich jedes mal erklären.

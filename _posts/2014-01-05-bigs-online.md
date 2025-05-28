@@ -1,7 +1,7 @@
 ---
 title: Wie eine Online-Bibel *nicht* funktionieren sollte
 categories: [Technologie, Theologie]
-slug: Die Bibel in gerechter Sprache Online
+summary: Die Bibel in gerechter Sprache Online
 ---
 
 Seit ein paar Wochen ist die neue [Homepage der Bibel in gerechter Sprache](http://www.bibel-in-gerechter-sprache.de) online. Dort kann man sich diese Bibelversion kostenlos anschauen. Ich habe die Seite mal unter die Lupe genommen.

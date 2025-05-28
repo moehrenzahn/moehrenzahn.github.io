@@ -1,7 +1,7 @@
 ---
 title: 'Von Löwen und Lämmern'
 categories: [Theologie]
-slug: 'Gewaltfreiheit zwischen eschatologischer Hoffnung und präsentem Gottesreich'
+summary: 'Gewaltfreiheit zwischen eschatologischer Hoffnung und präsentem Gottesreich'
 ---
 
 Viele Christen verstehen Gewaltverzicht als unbedingte Folge ihres Glaubens. So wanderten in der DRR viele christliche junge Männer als Kriegsdienstverweigerer ins Gefängnis oder ließen sich bei den [Bausoldaten](http://de.wikipedia.org/wiki/Bausoldat) drangsalieren, statt den Dienst an der Waffe aufzunehmen. Die christliche Friedensbewegung wurzelt in der Bibel. Der "Kampfspruch" der DDR-Friedensbewegung lautete "[Schwerter zu Pflugscharen](http://de.wikipedia.org/wiki/Schwerter_zu_Pflugscharen)," angelehnt an einen [Vers aus dem Prophetenbuch Micha](http://www.bibleserver.com/text/EU/Micha4). Das moderne Pendant zu dieser Überzeugung ist das  "[Gott will keinen Krieg](http://www.sueddeutsche.de/politik/gesinnungswandel-in-der-kirche-gott-will-keinen-krieg-1.2025505)" von Margot Käßmann.

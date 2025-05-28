@@ -1,7 +1,7 @@
 ---
 title: Losungs-App kaputt? Hier ein paar Alternativen
 categories: [Technologie, Theologie]
-slug: Anstatt zu meckern, möchte ich ein paar pragmatische Vorschläge machen
+summary: Anstatt zu meckern, möchte ich ein paar pragmatische Vorschläge machen
 ---
 
 In meiner Twitter-Timeline wurde neulich heftig geschimpft über die App zur Herrnhuter Losung für Smartphones. Die Situation ist ziemlich unglücklich. Es gibt nämlich neue offizielle Apps für Android und iOS, bereitgestellt von der Herrnhuter Brüdergemeinde. Die haben nur ein paar Haken. Zum Beispiel gibt es auf Android keine Widgets mehr und der Losungs-Datensatz für 2014 kostet heftige (für App-Verhältnisse) 4,49€ (also mehr als das Papier-Losungsbüchlein!). Das ganze wäre nicht so schlimm – es gäbe ja genug alternative Apps – hätte die Brüdergemeinde nicht [der prominentesten "Konkurrenz" die Lizenz entzogen](http://www.theolobias.de/2014/01/03/herrnhuter-losungen-neue-android-app/).

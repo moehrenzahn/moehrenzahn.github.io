@@ -1,7 +1,7 @@
 ---
 title: 'idea ist keine Nachrichtenagentur'
 categories: [Theologie]
-slug: Warum idea der evangelikalen Bewegung schadet
+summary: Warum idea der evangelikalen Bewegung schadet
 ---
 
 Einem Forscherteam in Harvard ist es gelungen, kosmische Gravitationswellen nachzuweisen, die Theorien zur Entstehung des Universums belegen sollen. Diese Meldung ging in den vergangenen Tagen [durch die Medien](http://www.faz.net/aktuell/wissen/einsteins-gravitationswellen-bestaetigen-inflationaeren-kosmos-das-beben-des-urknalls-12850948.html).

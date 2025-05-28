@@ -1,7 +1,7 @@
 ---
 title: 'Lessings garstiger Graben'
 categories: [Theologie]
-slug: Glaube ist nicht beweisbar – und er darf es auch nicht sein.
+summary: Glaube ist nicht beweisbar – und er darf es auch nicht sein.
 ---
 
 Eine der folgenschwersten religiösen Fragen unserer Zeit ist die nach der "Wahrheit". Der Streit um die Wahrheit treibt uns dabei vor allem auseinander. Als Weltreligionen, aber auch als christliche Konfessionen. Besonders zu spüren bekommen habe ich diesen Konflikt bei der Frage nach der Wahrheit der biblischen Texte. Ich selbst wurde vor meinem Studium von meinem christlichen Umfeld davor gewarnt, an der Universität Theologie zu studieren: "Da wird einem der Glauben genommen." "Die kritische Exegese maßt sich an, an Gottes Wort herumzubasteln." Auch im Studium begegneten mir hier und da von Seiten der Studierenden Widerstände gegen die Infragestellung biblischer "Wahrheiten," etwa der leiblichen Auferstehung Jesu: ["Wenn Christus nicht auferstanden ist, dann ist unser Vertrauen auf Gott vergeblich!"](http://www.bibleserver.com/text/NLB/1.Korinther15,14), wurde da gesagt. Die biblische Überlieferung müsse historisch wahr sein, denn sie sei Gottes Wort, das Fundament unseres Glaubens.

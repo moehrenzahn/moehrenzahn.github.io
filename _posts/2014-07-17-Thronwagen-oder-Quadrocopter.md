@@ -1,7 +1,7 @@
 ---
 title: 'Thronwagen oder Quadrocopter?'
 categories: [Technologie, Theologie]
-slug: Zur Thronwagenvision Ezechiels
+summary: Zur Thronwagenvision Ezechiels
 comments: true
 ---
 

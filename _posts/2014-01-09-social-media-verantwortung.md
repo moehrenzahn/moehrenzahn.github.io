@@ -1,7 +1,7 @@
 ---
 title: 'Nicht auf "Gefällt mir" klicken!'
 categories: [Theologie]
-slug: Lesen und Teilen mit Verantwortung
+summary: Lesen und Teilen mit Verantwortung
 ---
 
 Wer in sozialen Netzwerken unterwegs ist, hat überraschend viel Einfluss auf die öffentliche Meinungsbildung – wir sollten uns dieser Verantwortung bewusst sein, bevor wir den neuesten Skandal über unsere Kanäle weiterverbreiten.

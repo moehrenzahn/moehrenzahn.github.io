@@ -1,7 +1,7 @@
 ---
 title: 'Die Schwulenheiler Oder: Die Aufgabe der Kirche'
 categories: [Theologie]
-slug: 
+summary: 
 ---
 
 Letzten Dienstag wurde im NDR der Panorama-Beitrag "Die Schwulenheiler 2"[^1] von Christian Deker ausgestrahlt. Schon der [erste Teil](http://www.ndr.de/fernsehen/sendungen/panorama_die_reporter/Einsatz-vor-laufender-Kamera,sendung86932.html) hatte in kirchlichen Kreisen Wellen geschlagen, wurde viel zitiert und noch viel mehr kritisiert.

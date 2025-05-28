@@ -2,7 +2,7 @@
 title: Computer können auch schön sein
 link: http://www.minimallyminimal.com/blog/helplessly-pretty-the-emac-imac-and-ibook
 categories: [Technologie]
-slug: Apple lässt sogar einen Röhrenmonitor irgendwie elegant aussehen
+summary: Apple lässt sogar einen Röhrenmonitor irgendwie elegant aussehen
 ---
 
 [Andrew Kim](http://www.minimallyminimal.com/about/) hat auf [minimallyminimal.com](http://www.minimallyminimal.com/) ein paar wunderschöne alte Apple-Computer fotografiert. Diese Bilder demonstrieren ganz hervorragend, warum Apple etwas besonderes ist:

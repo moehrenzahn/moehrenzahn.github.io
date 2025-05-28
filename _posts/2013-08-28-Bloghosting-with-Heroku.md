@@ -1,7 +1,7 @@
 ---
 title: 'Free blog hosting for nerds with Octopress'
 lang: en
-slug: My current setup with Octopress
+summary: My current setup with Octopress
 ---
 
 The point of this post is to briefly explain the technical solution I found for this blog and how I found it.

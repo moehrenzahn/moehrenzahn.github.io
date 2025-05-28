@@ -1,7 +1,7 @@
 ---
 title: Wissenschaft vs. Kreationismus
 categories: [Theologie]
-slug: Zur Fernseh-Debatte zwischen Bill Nye und Ken Ham
+summary: Zur Fernseh-Debatte zwischen Bill Nye und Ken Ham
 ---
 
 Vor einigen Monaten gab es im amerikanischen Fernsehen ein [Rededuell zum Thema "Schöpfung vs. Evolution"](https://www.youtube.com/watch?v=z6kgvhG3AkI).[^1] Für die Seite der Evolutionsvertreter sprach der ["Science Guy" Bill Nye](http://de.wikipedia.org/wiki/Bill_Nye_the_Science_Guy); auf Seiten der Kreationisten stand [Ken Ham](http://en.wikipedia.org/wiki/Ken_Ham), der Präsident des [Creation Museum](http://de.wikipedia.org/wiki/Creation_Museum), in dem die Debatte stattfand. Interessant finde ich, dass diese Debatte überhaupt im öffentlichen Fernsehen stattgefunden hat. In Deutschland würde dieses Thema vermutlich kaum nennenswerte Quoten bringen.

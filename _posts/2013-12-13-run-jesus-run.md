@@ -1,7 +1,7 @@
 ---
 title: Run Jesus Run! Das 10-Sekunden-Evangelium
 categories: [Technologie, Theologie]
-slug: Was wir von Computerspielen über Religion lernen können
+summary: Was wir von Computerspielen über Religion lernen können
 ---
 
 Es ist immer wieder spannend zu sehen, wie die Kunst über die Jahrhunderte christliche Inhalte aufgegriffen und interpretiert hat. Jedes erdenkliche künstlerische Medium hat die christliche Tradition auf seine Weise aufgenommen. 

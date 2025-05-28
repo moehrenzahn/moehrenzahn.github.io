@@ -1,7 +1,7 @@
 ---
 title: 'Je suis Charlie'
 categories: [Politik]
-slug: Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen
+summary: Wir dürfen keinen Zweifel daran lassen, dass wir uns nicht durch Terrorismus einschüchtern lassen
 ---
 
 Heute Nachmittag gab es in der Pariser Redaktion der Satirezeitschrift "Charlie Hebdo" eine tragische Schießerei, bei der 12 Personen erschossen wurden und viele weitere verletzt wurden. 

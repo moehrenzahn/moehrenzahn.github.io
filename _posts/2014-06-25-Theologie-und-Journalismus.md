@@ -2,7 +2,7 @@
 title: 'Sag mal #19: Auch wenn das Land Pfarrer braucht …'
 link: http://www.theologiestudierende.de/2014/06/25/sag-mal-19/
 categories: [Theologie, bestof]
-slug: Die letzten beiden Folgen von <em>Sag mal</em> zeigen Berührungspunkte zwischen Theologie und Journalismus auf.
+summary: Die letzten beiden Folgen von <em>Sag mal</em> zeigen Berührungspunkte zwischen Theologie und Journalismus auf.
 ---
 
 Wer mich kennt, weiß, dass ich mich neben meinem Studium sehr für Journalismus interessiere. In den letzten beiden Folgen [unseres Podcasts Sag mal](http://www.theologiestudierende.de/category/sag-mal-der-podcast/) hatten Heye und ich Tabea Senkel aus Leipzig zu Gast, die mit mir Theologie studiert, danach aber Journalistin werden möchte. Wie sich herausstellt, ist ein Theologiestudium für eine journalistische Karriere nicht ungeeignet.

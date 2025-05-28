@@ -1,7 +1,7 @@
 ---
 title: Über Kommentare
 categories: [Technologie]
-slug: Ein Experiment
+summary: Ein Experiment
 ---
 
 Wie ihr sehen könnt, gibt es jetzt auf moehrenzahn.de unter jedem Artikel einen "Kommentar schreiben"-Button. Ich hatte schon länger mit dem Gedanken gespielt, so etwas einzubauen.

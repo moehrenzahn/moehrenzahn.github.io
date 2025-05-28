@@ -1,6 +1,6 @@
 ---
 title: 'Liebe Kirche, wir brauchen euch nicht!'
-slug: 'Ihr braucht uns!'
+summary: 'Ihr braucht uns!'
 categories: [Theologie, bestof]
 ---
 

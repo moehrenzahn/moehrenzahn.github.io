@@ -1,7 +1,7 @@
 ---
 title: Wer liest mit?
 categories: [Theologie]
-slug: Was hat der NSA-Skandal mit Pfarrern zu tun?
+summary: Was hat der NSA-Skandal mit Pfarrern zu tun?
 ---
 
 Es ist jetzt schon vier Monate her, dass die [weitreichende Überwachung des Internets durch amerikanische Geheimdienste](http://de.wikipedia.org/wiki/Überwachungs-_und_Spionageaffäre_2013) aufgedeckt wurde. Aber die ganze Geschichte ist noch lange nicht genug aufgearbeitet.

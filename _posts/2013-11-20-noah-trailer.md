@@ -1,7 +1,7 @@
 ---
 title: Noah’s Wunder
 categories: [Film, Theologie]
-slug: Beobachtungen zum Trailer von "Noah"
+summary: Beobachtungen zum Trailer von "Noah"
 ---
 
 Gerade habe ich den brandneuen ersten [Trailer zur monumentalen Bibelverfilmung "Noah"](http://youtu.be/z0yf5NY9_Eg) mit Russel Crowe und Emma Watson gesehen. Sieh’ ihn dir an und lies dann weiter. Nur zu, ich warte hier:

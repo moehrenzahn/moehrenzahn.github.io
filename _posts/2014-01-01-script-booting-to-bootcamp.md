@@ -1,7 +1,7 @@
 ---
 title: Boot to Bootcamp with AppleScript
 lang: en
-slug: So I wrote an AppleScript
+summary: So I wrote an AppleScript
 ---
 
 Ever since I got my first Mac I also had a Bootcamp partition with Windows 7 installed, because there are some programs that just don't run on Macs and besides, I like to play the occasional video game.
