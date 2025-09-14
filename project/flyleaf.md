@@ -36,7 +36,7 @@ Flyleaf is designed and built by independent developer Max Melzer. You can follo
 
 {% include flyleaf-download.html %}
 
-<div style="display:flex;gap:2rem;margin:3rem auto;justify-content:center">
+<div style="display:flex;flex-wrap: wrap;gap:2rem;margin:3rem auto;justify-content:center">
     <div>
         <a href="/project/flyleaf/faq">FAQ</a>
     </div>

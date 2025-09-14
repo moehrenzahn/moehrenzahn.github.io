@@ -169,9 +169,11 @@
     flex-direction: column;
     justify-content: center;
     gap: 0.5em;
-    max-width: 600px;
     text-wrap: balance;
     position: relative;
+  }
+  .feature:has(video) .text-container {
+    max-width: 600px;
   }
   .flyleaf-features .feature *:is(p, h2) {
     text-align: right;
@@ -208,7 +210,7 @@
     height: calc(100%);
     width: calc(100% - 2em);
     object-fit: contain;
-    filter: saturate(0.5) brightness(0.1) invert(1);
+    filter: saturate(0.5) brightness(0.03) invert(1);
     mix-blend-mode: multiply;
     pointer-events: none;
     z-index: -1;
@@ -245,7 +247,7 @@
 
   @media (prefers-color-scheme: dark) {
     .flyleaf-features img.background {
-      filter: brightness(0.1) invert(0);
+      filter: brightness(0.03) invert(0);
       mix-blend-mode: screen; 
     }
   }
@@ -356,7 +358,7 @@
   <div class="feature">
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-binoculars.svg">
-      <h2 class="new">
+      <h2 class="">
         {% if page.lang == 'de' %}
         Entdecke was du als Nächstes lesen möchtest 
         {% else %}
@@ -457,7 +459,7 @@
   <div class="feature"> 
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-fullscreen.svg">
-      <h2 class="new">
+      <h2 class="">
         {% if page.lang == 'de' %}
         Lies im Vollbild
         {% else %}
@@ -491,7 +493,7 @@
   <div class="feature"> 
     <div class="text-container">
       <img loading="lazy" class="background" alt src="/images/projects/sf-shippingbox.svg">
-      <h2 class="beta new">
+      <h2 class="beta">
         {% if page.lang == 'de' %}
         Lade Artikel einfach von archive.today
         {% else %}
@@ -532,7 +534,7 @@
         {% endif %}
       </p>
     </div>
-    <img loading="lazy" width="496" height="1000"  alt class="" src="/images/projects/flyleaf-siri-ios.png">
+    <img loading="lazy" width="496" height="1000"  alt class="clip-bottom" src="/images/projects/flyleaf-siri-ios.png">
   </div>
 
   <!-- <div class="feature"> 

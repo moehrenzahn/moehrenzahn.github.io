@@ -35,7 +35,7 @@ Flyleaf wurde von Max Melzer erfunden und entwickelt, einem unabhängigen Softwa
 
 {% include flyleaf-download.html %}
 
-<div style="display:flex;gap:2rem;margin:3rem auto;justify-content:center">
+<div style="display:flex;flex-wrap: wrap;gap:2rem;margin:3rem auto;justify-content:center">
     <div>
         <a href="/de/project/flyleaf/faq">FAQ</a>
     </div>
