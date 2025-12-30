@@ -13,4 +13,7 @@ I thought it would be interesting to revisit one of my earliest paintings — on
 
 This time, I tried to focus much less on shapes and individual objects, and more on the colors and values of the scene.
 
-![Work-in-progress animation]({% link /paintings/2023-02-06-driftless-area-2-(musil-study).mp4 %})
+<video controls loop>
+    <source src="{% link /paintings/2023-02-06-driftless-area-2-(musil-study).mp4 %}" type="video/mp4">
+    Video not available
+</video>

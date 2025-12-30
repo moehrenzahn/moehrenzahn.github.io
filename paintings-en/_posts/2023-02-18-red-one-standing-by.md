@@ -14,6 +14,9 @@ Perhaps unexpectedly, the most difficult part of this painting was not the two X
 
 You can see me going back and forth a few times with the clouds in this animation of my painting process:
 
-![Work-in-progress animation]({% link /paintings/2023-02-18-red-one-standing-by.mp4 %})
+<video controls loop>
+    <source src="{% link /paintings/2023-02-18-red-one-standing-by.mp4 %}" type="video/mp4">
+    Video not available
+</video>
 
 If you like this, you may also enjoy my portrait of the [Mandalorian and the Child]({% post_url paintings/2022-07-22-mandalorian %}) as well as my [collection of Star Wars posters]({% link en/poster.md %}).
