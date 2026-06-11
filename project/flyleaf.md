@@ -41,6 +41,9 @@ Flyleaf is designed and built by independent developer Max Melzer. You can follo
         <a href="/project/flyleaf/faq">FAQ</a>
     </div>
     <div>
+        <a href="/project/flyleaf/help">Help</a>
+    </div>
+    <div>
         <a href="/project/flyleaf/privacy">Privacy Policy</a>
     </div>
     <div>

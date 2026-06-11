@@ -39,6 +39,8 @@ Wenn dein Browser kein Share Sheet anbietet, kannst du stattdessen das Bookmarkl
 
 Du findest den Bookmarklet-Link auch in den Flyleaf-Einstellungen unter "Teilen".
 
+Du kannst Links auch per Drag & Drop zu Flyleaf hinzufügen, indem du sie auf die App oder das App-Symbol ziehst.
+
 ----
 
 ## Wie kann ich einen Artikel hinter einer Paywall zu Flyleaf hinzufügen?
@@ -51,7 +53,7 @@ Wenn du Flyleaf-Abonnent:in bist, kannst du auch die integrierte archive.is-Inte
 
 ## Was kann ich tun, wenn Flyleaf den Inhalt einer von mir hinzugefügten Webseite nicht korrekt anzeigt?
 
-Du kannst die Aktion "Erneuter Download" ausprobieren. Du findest sie indem du beim Lesen eines Artikels nach oben wischst. Flyleaf wird versuchen, die Webseite auf eine andere Art und Weise herunterzuladen, die bei manchen Websites besser funktioniert.
+Du solltest die Aktion „Inhaltsprobleme beheben“ ausprobieren, die du durch Hochwischen während des Lesens eines Artikels aufrufen kannst. Sie bietet verschiedene Optionen, um Probleme mit Inhalten und Downloads zu umgehen.
 
 Wenn die Webseite immer noch nicht richtig in Flyleaf angezeigt wird, sende bitte den Link an [flyleaf@moehrenzahn.de](mailto:flyleaf@moehrenzahn.de), damit ich den Parser in einem zukünftigen Update verbessern kann!
 
@@ -59,7 +61,9 @@ Wenn die Webseite immer noch nicht richtig in Flyleaf angezeigt wird, sende bitt
 
 ## Kann ich ein PDF, eine E-Mail oder andere Dokumente zu Flyleaf hinzufügen?
 
-Flyleaf unterstützt derzeit nur das Hinzufügen von URLs, also Links zu Dokumenten. Leider kannst du keine PDF-Datei direkt zu Flyleaf hinzufügen, sondern nur den *Link* zu einer PDF-Datei.
+lyleaf unterstützt derzeit nur das Hinzufügen von URLs, also Links zu Dokumenten.
+
+Eine PDF-Datei kannst du per Drag & Drop zu Flyleaf hinzufügen, indem du sie auf die App oder das App-Symbol ziehst.
 
 Bei E-Mail-Newslettern gibt es oft irgendwo einen Link "Im Browser öffnen". Sobald du die E-Mail in einem Browser geöffnet hast, kannst du das Share Sheet verwenden, um die E-Mail zu Flyleaf hinzuzufügen.
 
@@ -79,15 +83,13 @@ Wische in der Artikelansicht nach oben und suche ein Symbol mit zwei Pfeilen, di
 
 <img loading="lazy" alt="" height="20" src="/images/projects/sf-fullscreen.svg" style="filter:invert(1)">
 
-Der Vollbildmodus ist derzeit nur verfügbar, wenn du die "Wie Buchseiten blättern"-Funktion verwendest.
+DUnter macOS kannst Du „Ansicht“ → „Artikel-Werkzeugleiste ein-/ausblenden“ auswählen oder die Tastenkombination Cmd-Umschalt-F drücken.
 
 ----
 
 ## Kommen irgendwann Hervorhebungen und Notizen in die App?
 
-Hervorhebungen und Notizen sind auf der Roadmap, aber haben keine hohe Priorität. Ich konzentriere mich im Moment darauf, das Leseerlebnis so schick und ausgefeilt wie möglich zu machen.
-
-Wenn du dich besonders dafür interessierst, Artikel zu organisieren und zu referenzieren, bist du möglicherweise mit anderen Read-Later-Apps besser bedient.
+Hervorhebungen und Notizen sind in Entwicklung und ich hoffe, sie noch 2026 zu in einem Flyleaf-Update zu veröffentlichen.
 
 ----
 
@@ -110,6 +112,12 @@ Führe einfach die folgenden Schritte aus:
 1. Lösche Flyleaf von allen deinen Geräten.
 2. Gehe zur Einstellungen-App ⇾ iCloud ⇾ Speicher verwalten, wähle "Flyleaf" und wähle "Aus iCloud löschen".
 3. Installiere Flyleaf auf all deinen Geräten neu.
+
+----
+
+## Hilfe, meine Frage wird hier nicht beantwortet!
+
+Weitere Hilfe findest Du auf der [Hilfeseite](/de/project/flyleaf/help/).
 
 ----
 

@@ -39,6 +39,8 @@ If your browser does not offer the Share Sheet, you can use the bookmarklet inst
 
 You can also find the bookmarklet link in the Flyleaf settings under "Sharing".
 
+You can also add links to Flyleaf via drag and drop on the app or app icon.
+
 ----
 
 ## How can I add a link behind a paywall to Flyleaf?
@@ -51,7 +53,7 @@ If you are a Flyleaf subscriber, you can also use the built-in archive.is integr
 
 ## What can I do if Flyleaf does not correctly display the contents of a webpage I added?
 
-You can try the "Re-download" action accessible by swiping up while reading an article. This will attempt to download the webpage in a different way which may work better for certain websites.
+You should try the "Fix content issues" action accessible by swiping up while reading an article. This will give you different options for getting around content and download issues.
 
 If the website is still not displayed right in Flyleaf, please send me the link to [flyleaf@moehrenzahn.de](mailto:flyleaf@moehrenzahn.de) so I can improve the parser in a future update!
 
@@ -59,7 +61,9 @@ If the website is still not displayed right in Flyleaf, please send me the link 
 
 ## Can I add a PDF, an email or other documents to Flyleaf?
 
-Flyleaf currently only supports adding URLs, i.e. links to documents. Unfortunately, you cannot add a PDF directly to Flyleaf, only the *link* to a PDF.
+Flyleaf currently only supports adding URLs, i.e. links to documents.
+
+You can add a PDF file to Flyleaf via drag and drop on the app or app icon. 
 
 When reading an email newsletter, there is often an "Open in Browser" link somewhere. Once you opened the email in a browser, you can use the Share Sheet to add the email to Flyleaf.
 
@@ -79,15 +83,13 @@ From the article view, swipe up and find a little icon of two arrows pointing aw
 
 <img loading="lazy" alt="" height="20" src="/images/projects/sf-fullscreen.svg" style="filter:invert(1)">
 
-The full screen mode is currently only available if you use the pagination feature.
+On macOS, you can select "View", "Toggle article toolbar" or press Cmd-Shift-F.
 
 ----
 
 ## Can you add highlighting and notes?
 
-Highlighting and notes are on the roadmap, but don't hold your breath. My focus right now is on making the reading experience as flawless and polished as possible.
-
-If you are very interested in organizing and referencing articles, you may be served better by other read-later apps.
+Highlighting and notes are in development and I hope to add them to Flyleaf later in 2026.
 
 ----
 
@@ -110,6 +112,12 @@ Just follow the following steps:
 1. Delete Flyleaf from all your devices.
 2. Go to Settings App ⇾ iCloud ⇾ Manage Storage, select "Flyleaf" and choose "Delete from iCloud".
 3. Reinstall Flyleaf on all your devices.
+
+----
+
+## Help, my question is not answered here!
+
+You can get more help [on the Help page](/project/flyleaf/help/). 
 
 ----
 
